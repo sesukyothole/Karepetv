@@ -27,7 +27,7 @@ GLOBAL_BLACKLIST_URLS = [
 CONFIGURATIONS = [
     {
         # PERUBAHAN UTAMA 1: URL kini berupa LIST
-        "urls": ["https://bit.ly/KPL203", "https://bit.ly/TVKITKAT", "https://iptv-org.github.io/iptv/categories/sports.m3u"], 
+        "urls": ["https://bit.ly/KPL203", "https://bit.ly/TVKITKAT", "https://freeiptv2026.tsender57.workers.dev"], 
         "output_file": "event_combined.m3u", 
         "keywords": ALL_POSITIVE_KEYWORDS["EVENT_ONLY"], 
         "description": "EVENT: Gabungan dari beberapa sumber"
