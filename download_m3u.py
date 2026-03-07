@@ -26,13 +26,13 @@ CONFIGURATIONS = [
     {
         "urls": ["https://bit.ly/KPL203", "https://liveevent.iptvbonekoe.workers.dev", "https://freeiptv2026.tsender57.workers.dev"],
         "output_file": "event_combined.m3u",
-        "keywords": ALL_POSITIVE_KEYWORDS["EVENT_ONLY"],
+        "keywords": ALL_POSITIVE_KEYWORDS["EVENT"],
         "description": "EVENT: Gabungan dari beberapa sumber"
     },
     {
         "urls": ["https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25", "https://deccotech.online/tv/tvstream.html"],
         "output_file": "sports_combined.m3u",
-        "keywords": ALL_POSITIVE_KEYWORDS["SPORTS_LIVE"],
+        "keywords": ALL_POSITIVE_KEYWORDS["SPORTS"],
         "description": "SPORTS: Gabungan dari dua sumber Live"
     },
 ]
