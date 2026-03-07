@@ -54,6 +54,7 @@ CONFIGURATIONS = [
                  "https://bit.ly/TVKITKAT",
                  "https://s.id/semartv",
                  "https://semar25.short.gy",
+                 "https://s.id/bwifi",
                  "https://freeiptv2026.tsender57.workers.dev"],
         "output_file": "event_combined.m3u",
         "keywords": ALL_POSITIVE_KEYWORDS["EVENT_ONLY"],
