@@ -20,7 +20,7 @@ GLOBAL_BLACKLIST_URLS = {
 
 CONFIGURATIONS = [
     {
-        "urls": ["https://bit.ly/KPL203", "https://bit.ly/TVKITKAT", "https://freeiptv2026.tsender57.workers.dev"],
+        "urls": ["", "https://bit.ly/TVKITKAT", "https://freeiptv2026.tsender57.workers.dev"],
         "output_file": "event_combined.m3u",
         "keywords": ALL_POSITIVE_KEYWORDS["EVENT_ONLY"],
         "description": "EVENT: Gabungan dari beberapa sumber"
