@@ -31,7 +31,7 @@ jobs:
         run: pip install requests
 
       - name: Jalankan Skrip Multi-Filter
-        # Skrip ini menghasilkan event_combined.m3u dan sports_combined.m3u
+        # Skrip ini menghasilkan 5 file M3U (Event, Sports, Nasional, Kids, Knowledge)
         run: python download_m3u.py
         
       # --- LANGKAH PENTING UNTUK COMMIT/PUSH ---
@@ -42,11 +42,12 @@ jobs:
 
       - name: Commit dan Push file M3U yang Diperbarui
         run: |
-          # Perbaikan: Menambahkan file output yang benar ke staging area (sesuai skrip Python terbaru)
-          git add event_combined.m3u sports_combined.m3u
+          # Perbaikan: Menggunakan *.m3u agar SEMUA file playlist otomatis terdeteksi
+          # tanpa perlu menulis namanya satu per satu.
+          git add *.m3u
           
           # Melakukan commit hanya jika ada perubahan. Pesan 'echo' akan muncul jika tidak ada perubahan.
-          git commit -m "Otomatis: Update playlist M3U dari filter (scheduled/push)" || echo "Tidak ada perubahan untuk di-commit"
+          git commit -m "Otomatis: Update semua playlist M3U kategori (scheduled/push)" || echo "Tidak ada perubahan untuk di-commit"
           
           # Melakukan push. Perlu token akses default yang disediakan GitHub Actions.
           git push
