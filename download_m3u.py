@@ -15,7 +15,7 @@ GLOBAL_BLACKLIST_URLS = {
     "https://bit.ly/428RaFW",
     "https://bit.ly/DonzTelevisionNewAttention",
     "https://drive.google.com/uc?export=download&id=12slpj4XW5B5SlR9lruuZ77_NPtTHKKw8&usp",
-    "https://iili.io/KxLFPLJ.md.png",
+    "https://shorter.me/SNozg",
 }
 
 CONFIGURATIONS = [
