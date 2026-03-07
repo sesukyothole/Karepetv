@@ -14,7 +14,6 @@ ALL_POSITIVE_KEYWORDS = {
         "INEWS", "TVONE", "TV ONE", "METRO", "KOMPAS", "NET", "RTV", 
         "TVRI", "BTV", "CNN INDONESIA", "CNBC", "JAK TV", "JTV"
     ],
-    # --- TAMBAHAN BARU: Kids & Knowledge ---
     "KIDS": [
         "KIDS", "ANAK", "CARTOON", "KARTUN", "NICKELODEON", "NICK JR", 
         "DISNEY", "CARTOON NETWORK", "CN", "BOOMERANG", "BABY", 
@@ -58,14 +57,12 @@ CONFIGURATIONS = [
         "description": "NASIONAL: Gabungan Saluran TV Indonesia & Lokal"
     },
     {
-        # --- TAMBAHAN BARU: Kids ---
         "urls": ["https://s.id/semartv", "https://liveevent.iptvbonekoe.workers.dev", "https://freeiptv2026.tsender57.workers.dev", "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25"],
         "output_file": "kids_combined.m3u",
         "keywords": ALL_POSITIVE_KEYWORDS["KIDS"],
         "description": "KIDS: Gabungan Saluran Anak & Kartun"
     },
     {
-        # --- TAMBAHAN BARU: Knowledge ---
         "urls": ["https://s.id/semartv", "https://liveevent.iptvbonekoe.workers.dev", "https://freeiptv2026.tsender57.workers.dev", "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25"],
         "output_file": "knowledge_combined.m3u",
         "keywords": ALL_POSITIVE_KEYWORDS["KNOWLEDGE"],
@@ -104,65 +101,67 @@ def filter_m3u_by_config(config):
     total_entries = 0
     
     for url in urls:
-        if not url: # Melewati jika ada URL yang kosong ""
+        if not url:
             continue
             
         print(f"  > Mengunduh dari: {url}")
         
         try:
-            # allow_redirects=True Wajib ada untuk link s.id atau bit.ly
             response = requests.get(url, headers=get_ott_headers(), timeout=(10, 30), stream=True, allow_redirects=True)
             response.raise_for_status()
             
-            current_extinf = None
+            current_block = []   # Array untuk menampung 1 blok utuh (#EXTINF, #EXTGRP, URL, dll)
+            current_extinf = ""  # String untuk menyimpan teks #EXTINF demi pencocokan regex
             
-            # Membaca baris per baris secara live (Anti RAM Penuh)
             for raw_line in response.iter_lines():
                 if not raw_line:
                     continue
                     
                 line = raw_line.decode('utf-8', errors='ignore').strip()
                 
-                # 1. Jika baris adalah info channel, simpan ke memori sementara
+                # 1. Jika baris adalah info channel, MULAI BLOK BARU
                 if line.startswith("#EXTINF"):
+                    current_block = [line] # Membuka penampung blok baru
                     current_extinf = line
                     
-                # 2. Jika baris berupa tag tambahan (seperti #EXTGRP), abaikan saja
+                # 2. Jika baris berupa tag tambahan (seperti #EXTGRP, #KODIPROP), MASUKKAN KE BLOK
                 elif line.startswith("#"):
-                    continue
+                    if current_block: # Jika blok sedang terbuka
+                        current_block.append(line)
                     
-                # 3. Jika bukan komentar dan panjangnya > 5, ini pasti URL streamingnya
+                # 3. Jika bukan komentar dan panjang > 5, ini pasti URL. TUTUP BLOK & PROSES.
                 elif len(line) > 5:
                     stream_url = line
                     
-                    # Pastikan kita sedang memegang data #EXTINF dari baris sebelumnya
-                    if current_extinf:
+                    # Pastikan kita punya blok channel yang valid
+                    if current_block and current_extinf:
                         if stream_url not in GLOBAL_BLACKLIST_URLS:
                             
-                            # Ekstrak metadata
+                            # Ekstrak metadata hanya dari baris #EXTINF
                             group_match = GROUP_TITLE_REGEX.search(current_extinf)
                             raw_group_title = group_match.group(1) if group_match else ""
                             
-                            # Ekstrak nama channel dengan aman (menghindari error jika tidak ada koma)
                             if "," in current_extinf:
                                 raw_channel_name = current_extinf.split(',', 1)[1]
                             else:
                                 raw_channel_name = current_extinf
                             
-                            # Bersihkan teks
+                            # Bersihkan teks untuk pencocokan
                             clean_group_title = CLEANING_REGEX.sub(' ', raw_group_title).upper()
                             clean_channel_name = CLEANING_REGEX.sub(' ', raw_channel_name).upper()
                             
                             # Cocokkan dengan kata kunci
                             is_match = any(k in clean_group_title or k in clean_channel_name for k in keywords)
                             
+                            # Jika cocok, masukkan SEMUA isi blok tersebut ditambah URL-nya
                             if is_match:
-                                filtered_lines.append(current_extinf)
-                                filtered_lines.append(stream_url)
+                                current_block.append(stream_url) # Tambahkan URL di akhir blok
+                                filtered_lines.extend(current_block) # Gabungkan seluruh blok ke output final
                                 total_entries += 1
                                 
-                        # Reset memory agar siap menerima channel berikutnya
-                        current_extinf = None
+                        # Kosongkan penampung blok agar siap untuk channel berikutnya
+                        current_block = []
+                        current_extinf = ""
                         
         except requests.exceptions.RequestException as e:
             print(f"  > WARNING: Gagal memproses {url}. Error: {e}")
@@ -170,7 +169,6 @@ def filter_m3u_by_config(config):
             
     print(f"Total {total_entries} saluran difilter dari kategori ini.")
     
-    # Simpan ke file output
     with open(output_file, "w", encoding="utf-8") as f:
         f.write('\n'.join(filtered_lines) + '\n')
     print(f"Playlist [{output_file}] berhasil disimpan.")
