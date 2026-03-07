@@ -1,33 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 00:00 WIB Atalanta vs Udinese
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/FtSMHX9.jpg", 00:30 WIB Atlético Madrid vs Real Sociedad
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 00:30 WIB Köln vs Borussia Dortmund
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/w9SUr", 00:45 WIB Wrexham vs Chelsea
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 http://195.178.110.25/hls/TTTTT.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/FDOiPI4.jpg", 01:00 WIB Auxerre vs Strasbourg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=f56bef7bf4aa7288d3fe39aac3ca7d85&wsABSTime=1761932703
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 02:45 WIB Juventus vs Pisa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -43,120 +19,21 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/w9SUr", 03:00 WIB Newcastle United vs Manchester City
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=032bfb6da9975ab4d3cc777e56263649&wsABSTime=1766943321
+http://195.178.110.37/hls/SQSQSQQ.m3u8
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/w9SUr", 03:00 WIB Newcastle United vs Manchester City
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cfb66866-f39b-4ebe-8b0b-9257809642f1/720p/media.m3u8
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/FDOiPI4.jpg", 03:05 WIB Toulouse vs Olympique Marseille
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel2.m3u8?wsSecret=064b0ad54315f8f7534fa2c83cb7c990&wsABSTime=1772570276
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdyf2J_XJ9R8QejfsljLXDEqAHKZrqFdTq5A&s", 16:30 WIB Yonex All England Open 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel40.m3u8?wsSecret=f2e6fcd4ba28a1786b6a03f00429fbd5&wsABSTime=1772677423
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdyf2J_XJ9R8QejfsljLXDEqAHKZrqFdTq5A&s", 16:30 WIB Yonex All England Open 2026
-https://mobilelive-play.ysp.cctv.cn/ikotv/863DA64B48DF3A744E4490FF1634895658D53865B61B9029D6FCA66FBCFB8099F17ACD33E631D3031CEF59A8C89FB91A5A1F27817EFE263FB1A9DE1F843C206C0316E64C5421F82968D13B97B9EDBF4182A7C2E67650F3785A01879E7BAD3DBF84EDC054320D7BB5AD5ADA956B8CF416/2030262801_shd.m3u8?svrtime=1772875865&pid=600218991&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=12fa2eae8d1fd4d7a204183daa599907&ytime=1772875865&ytype=1
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Malut United vs PSM
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://195.178.110.25/hls/fmmmQQQQ.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Malut United vs PSM
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://xxyznt1-cf.didjhfyu8yg.sbs/auth%3D7e63658760e3e696caa3ae8b7bc8cbb9c84827de2d7f4c23eed3e51378ba8483b4ca9ae89ff811cd3703a59d80f30625f52ba38f45e620eb61ebc714c4facf88ab32f96234a0c8114ee886d0e36059fc227663dc2f495cfb08cfb9b4bd5e3d42d21e5b664d6eed03f871c2b07347617bcb99c4e8c37d68ce1aa63433771466e480daef1908b5821b3744600877758a367fb93684b9faec048d6b6c1c9fd4239ccfe01b26a23d1081e7b8df4fa4de11005ac4fa660a88eea864d89f5d309590921947258f874b8c41a427d4873151eee6eaab0519bdc8089ece5ddec789156b11afd5d44f0eec137866466c85c06595d97b15dfc6b1ca4ab931513df13a1dc8c7281c9dcf02590e8499c69ab60a80812d628732fc75c828195592a1994c02cbf4967ad440a83394ff589f612f880aec1402f09a8a821393966974599d75edc595%26cid%3DQdG3zVBdGCScFxCZEPODz260222%26_v%3D2%26_r%3D7n0UQ7%26_vis%3Db70d0a22d48860f394ad14c4b0b596f7ff7e839b05f2b8b85a53c40cc0921827%26_vvs%3D138bc5fdd1118fd55372efc7d629e512eae95f7cdd0e3b4e98f322b34cd7e926%26_vas%3D2e9fc426a8da5c652fb569df8473e27af19d87af69ce3fb44e6b4e99cca2b855/app/c408556.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/w9SUr", 19:15 WIB Mansfield Town vs Arsenal
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://195.178.110.2/hls/ZUUU.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/w9SUr", 19:15 WIB Mansfield Town vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel5.m3u8?wsSecret=7523bc03fc0453754be94ec10e1bbc39&wsABSTime=1768677726
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 19:30 WIB Blackburn Rovers vs Portsmouth
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/FtSMHX9.jpg", 20:00 WIB Osasuna vs Mallorca
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Borneo vs Persebaya Surabaya
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://195.178.110.27/hls/ZZZZQQQQ.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Borneo vs Persebaya Surabaya
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://xxyznt1-cf.didjhfyu8yg.sbs/auth%3D8aab35c98725de69886d123be6abcfd9177daf3ba83ae0f792dce71b38094817d9c726587a59810e3f7881e8360c9f6236feca239d81a4b7bd24542ccf93b2519574c1e52fc7965cb69b3ddc910c15de13abae1dcbe586b80b1ec02c548f5c767893f447960e1160d380c29b547561ed534cbdcfa37e18a028ddab965aff98d5001111e0f2b432e441ea5a41723b10ba968538a8e5aa5141b4717ce32dd23d69%26cid%3D4-Ed3P3QUx3Vk28n6OQRd260307%26_v%3D2%26_r%3D9Yilbz%26_vis%3D6310def7a3eb2426ee536c595a346ade7299c875e1465a160c10091adf67682b%26_vvs%3D66a2b957f7ce0b9e0c6631c5fc500086904f3c44924578a661897c55c1bbec1e%26_vas%3D0a1b743f1c2830cf48922e96006a958dc0e461430c6c2e0326bb6a8d4681298b/app/c408583.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Persita vs Madura United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel9.m3u8?wsSecret=bb596160135054e1aa252114f1c3c003&wsABSTime=1760376977
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Persita vs Madura United
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://195.178.110.27/hls/ZZZZQQQQQ.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Persita vs Madura United
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://xxyznt1-cf.didjhfyu8yg.sbs/auth%3D12cc09026af89b73b20f8692105bcd0e90e901983c7b22103b57bce735ff43bd1633c172a9072e1b10e5a98389fbcb68791e9487d0b023f349b4eff0143dd19865466e79f431fc6d1c1992dc5f449a4646b7385c5655d61300e9ebe0402b6beee137a57e689bd73a0afab84b7515998557496bebd61b0184cb36039ee003ba199b7e8ff9ee6047220ff58e62991e6dc1ef82725b3d039b5059dd8cd0f10058f0%26cid%3D4-Ed3P3QUx3Vk28n6OQRd260307%26_v%3D2%26_r%3DlULkSv%26_vis%3D9169c3ca447b6353a2e4bda8b2896645170a3be3e3b7db5314a25fbb29d5c6c3%26_vvs%3D8f1e5dca1e9719dd5174b788a6a21eec57c06d6b9d61cf24fabd09106642cd56%26_vas%3D016424dd0d5e2fce9f2d9561c253d41a9950a1a1dda63e29df281002e33d8f70/app/c408580.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 21:00 WIB Cagliari vs Como
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 21:30 WIB Freiburg vs Bayer Leverkusen
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 21:30 WIB Heidenheim vs Hoffenheim
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 22:00 WIB Derby County vs Sheffield Wednesday
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/FtSMHX9.jpg", 22:15 WIB Levante vs Girona
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://shorter.me/87PxH", 22:30 WIB Groningen vs Ajax
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/FDOiPI4.jpg", 23:00 WIB Nantes vs Angers SCO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel18.m3u8?wsSecret=c02150b13b4029cc7749f5690c01fbd9&wsABSTime=1762364734
+<================================================>
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWhq-V-IZ23qEMScS529EisBs1ti9BwOSdQ&s", SKY SPORTS BUNDESLIGA
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
