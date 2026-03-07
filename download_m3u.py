@@ -26,7 +26,7 @@ CONFIGURATIONS = [
         "description": "EVENT: Gabungan dari beberapa sumber"
     },
     {
-        "urls": ["https://donztelevisionpremium.icu/donztelevision/donztelevision.php", "https://bakulwifi.my.id/live.m3u"],
+        "urls": ["https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25", "https://deccotech.online/tv/tvstream.html"],
         "output_file": "sports_combined.m3u",
         "keywords": ALL_POSITIVE_KEYWORDS["SPORTS_LIVE"],
         "description": "SPORTS: Gabungan dari dua sumber Live"
