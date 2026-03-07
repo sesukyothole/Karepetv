@@ -16,6 +16,10 @@ GLOBAL_BLACKLIST_URLS = {
     "https://iili.io/KfT7PJ2.jpg",
     "https://drive.google.com/uc?export=download&id=12slpj4XW5B5SlR9lruuZ77_NPtTHKKw8&usp",
     "https://shorter.me/SNozg",
+    "https://kuk1.modprimus.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8",
+    "https://kuk1.modprimus.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8",
+    "hhttps://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8",
+    "https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8",
 }
 
 CONFIGURATIONS = [
