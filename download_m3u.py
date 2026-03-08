@@ -13,7 +13,7 @@ MASTER_URLS = [
     "https://bit.ly/TVKITKAT",
     "https://s.id/semartv",
     "https://semar25.short.gy",
-    "https://s.id/bwifi",
+    "http://sauridigital.my.id/kerbaunakal/2026TVGNS.html",
     "https://freeiptv2026.tsender57.workers.dev",
     "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25"
 ]
