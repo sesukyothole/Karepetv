@@ -70,7 +70,7 @@ CONFIGURATIONS = [
         "output_file": "event_combined.m3u",
         "keywords": ALL_POSITIVE_KEYWORDS["EVENT_ONLY"],
         "exclude_keywords": ALL_POSITIVE_KEYWORDS["NEWS"] + ALL_POSITIVE_KEYWORDS["KIDS"] + ALL_POSITIVE_KEYWORDS["RELIGI"] + ALL_POSITIVE_KEYWORDS["KNOWLEDGE"], 
-        "category_name": "EVENT", 
+        "category_name": "LIVE EVENT SPORTS", 
         "force_category": True, 
         "description": "EVENT: Gabungan Event Olahraga"
     },
