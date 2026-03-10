@@ -75,7 +75,7 @@ CONFIGURATIONS = [
         "exclude_keywords": ALL_POSITIVE_KEYWORDS["NEWS"] + ALL_POSITIVE_KEYWORDS["KIDS"] + ALL_POSITIVE_KEYWORDS["RELIGI"] + ALL_POSITIVE_KEYWORDS["KNOWLEDGE"], 
         "category_name": "LIVE EVENT SPORTS", 
         "force_category": True, 
-        "require_time": True,
+        "require_time": True,  # <--- KHUSUS LIVE EVENT (ATURAN ASLI DIPERTAHANKAN)
         "description": "EVENT: Gabungan Event Olahraga (Wajib Berjadwal)"
     },
     {
@@ -145,7 +145,7 @@ GROUP_TITLE_REGEX = re.compile(r'group-title="([^"]*)"', re.IGNORECASE)
 CLEANING_REGEX = re.compile(r'[^a-zA-Z0-9\s]+')
 TIME_PATTERN_REGEX = re.compile(r'\d{1,2}[:.]\d{2}')
 
-# REGEX PEMBERSIH KUALITAS/KATA EKSTRA (Untuk menyamakan Bein 1 HD & Bein 1 Ind)
+# REGEX PEMBERSIH KUALITAS/KATA EKSTRA (Untuk menyamakan nama channel)
 QUALITY_CLEANER_REGEX = re.compile(r'\b(hd|fhd|uhd|sd|4k|8k|tv|ind|indo|id|my|sg|ch|channel|network|plus|max|raw|hevc|hq)\b', re.IGNORECASE)
 
 # ====================================================================
@@ -165,13 +165,10 @@ def get_ott_headers():
     }
 
 def normalize_channel_name(name):
-    """
-    Fungsi untuk membuang karakter aneh dan embel-embel seperti HD, FHD, IND.
-    Contoh: "BEIN SPORTS 1 HD" -> "beinsports1"
-    """
-    clean_name = CLEANING_REGEX.sub(' ', name) # Buang simbol
-    clean_name = QUALITY_CLEANER_REGEX.sub('', clean_name) # Buang kata "HD", "IND", dll
-    clean_name = re.sub(r'\s+', '', clean_name) # Hapus semua spasi
+    """Fungsi untuk membersihkan embel-embel agar bisa dicegat jika dobel"""
+    clean_name = CLEANING_REGEX.sub(' ', name) 
+    clean_name = QUALITY_CLEANER_REGEX.sub('', clean_name) 
+    clean_name = re.sub(r'\s+', '', clean_name) 
     return clean_name.lower()
 
 def filter_m3u_by_config(config):
@@ -192,10 +189,9 @@ def filter_m3u_by_config(config):
         if not url: continue
         
         # =========================================================
-        # TRACKER DI-RESET DI SINI (SETIAP GANTI PENYEDIA/URL BARU)
+        # TRACKER DI-RESET SETIAP GANTI PENYEDIA/URL BARU
         # =========================================================
         seen_channels = set() 
-        # =========================================================
             
         print(f"  > Mengunduh dari: {url}")
         
@@ -233,18 +229,16 @@ def filter_m3u_by_config(config):
                                 raw_channel_name = current_extinf.strip()
                             
                             # =======================================================
-                            # SISTEM CEGAT DOBEL (PER-PROVIDER/LINK)
+                            # SISTEM CEGAT DOBEL (TIDAK BERLAKU UNTUK LIVE EVENT)
                             # =======================================================
-                            # Kategori EVENT_ONLY (Live Event) tidak boleh dicegat, 
-                            # karena beda jam tayang = beda acara (walau di channel yg sama).
                             if not require_time: 
                                 normalized_name = normalize_channel_name(raw_channel_name)
                                 if normalized_name in seen_channels:
                                     current_buffer = []
                                     current_extinf = ""
-                                    continue # LEWATI JIKA NAMA SUDAH ADA DI PROVIDER INI
+                                    continue # Abaikan jika sudah ada di provider ini
                                 else:
-                                    seen_channels.add(normalized_name) # CATAT NAMA BARU
+                                    seen_channels.add(normalized_name) # Simpan nama baru
                             # =======================================================
 
                             clean_group_title = CLEANING_REGEX.sub(' ', raw_group_title).upper()
@@ -291,7 +285,16 @@ def filter_m3u_by_config(config):
             print(f"  > WARNING: Gagal memproses {url}. Error: {e}")
             continue
             
-    channels_data.sort(key=lambda x: x[0])
+    # ====================================================================
+    # SISTEM PENGURUTAN (SORTING) YANG BARU
+    # ====================================================================
+    if require_time:
+        # 1. Khusus LIVE EVENT SPORTS -> Tetap diurutkan pakai Abjad (A-Z) seperti aturan sebelumnya
+        channels_data.sort(key=lambda x: x[0])
+    else:
+        # 2. Kategori Reguler -> TIDAK DIURUT ABJAD (Dibiarkan apa adanya sesuai urutan Provider lalu Posisi Pabrik)
+        pass 
+    # ====================================================================
     
     filtered_lines = ["#EXTM3U"]
     for _, block_data, s_url in channels_data:
@@ -309,7 +312,7 @@ def filter_m3u_by_config(config):
 # ====================================================================
 
 if __name__ == "__main__":
-    print("Memulai Multi-Filter M3U (Anti-Dobel Per Penyedia)...")
+    print("Memulai Multi-Filter M3U (Susunan Asli Per Provider)...")
     for config in CONFIGURATIONS:
         filter_m3u_by_config(config)
     print("\nProses selesai. File M3U siap digunakan!")
