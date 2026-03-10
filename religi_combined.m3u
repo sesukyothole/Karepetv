@@ -1,115 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="HuzurTV.ru" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWpicD3ufhG63BVWSX1xDuZJo3RZMWuwWgYeiDc6ioPf54p4mflsKU8GuQ9SYKVXAdG9fz-sZXBswoGWkglYEbkrGne5slRQnhnCGEtPfa9xcLxFJoMtgjg9bjYJFjDTlRzXkkIpzCyoEVfRcuLrPqgf6etNNhTaRR7CVZx7Vjt8_3cdwgbjrd9XXoOa94/s700/%D0%A5%D0%A3%D0%97%D0%A3%D0%A0%20%D0%A2%D0%92.png" group-title="RELIGI",ХУЗУР ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="KabbalaTV.ru" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFTqXSAxiGPezz8CzvRJ7_YZcbfYOflp2boGX1Me-zHWJkO5ES9oYhKKO1sPRPyuQhoG5pnt_buCivfY0CEfDce7kVEV_-Gkw09kZko6YIEqYNbD0QKrn-Pmjd2lvWmUYjkxOykJYkhRKeFYRLA0p9Wu4xP4-7yb240hyfZuseaX2dQdA_DWlAwj11-WF/s700/%D0%9A%D0%90%D0%91%D0%91%D0%90%D0%9B%D0%90%20%D0%A2%D0%92.png" group-title="RELIGI",КАББАЛА ТВ
-https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://aliman.id/site/wp-content/uploads/2024/09/LOGO-AL-IMAN-TV-2-1024x250.png" group-title="RELIGI", AL IMAN TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch9.m3u8
-#EXTINF:-1 tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" group-title="RELIGI", Al WAFA TARIM
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSFRKJ1VIxxMok2eHg6WhWIMs77KPQiiwhxdhEABmzqwndNPzKVk45s9CViTtBp_IF7dIR8T6dRjwD6mvB-faHw7nCmuFUY5dQwLqZFZendio4oI92kgqpRqpV8mja8j8A_YlBj-lxRMlvir_9-C4j6jTumnnZ-DZslB2BD1NizXwqJGeJmnLA9Lic-ug0/s700/ASTRO%20AL%20HIJRAH.png" group-title="RELIGI", ASTRO AL HIJRAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptv.kilas7.com:80/kaukia/asdfrewq/33
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Citra_Muslim.png/1200px-Logo_Citra_Muslim.png" group-title="RELIGI", Citra Muslim
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-name="Citra Muslim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Citra_Muslim.png/1200px-Logo_Citra_Muslim.png" group-title="RELIGI", Citra Muslim
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-name="Citra Muslim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Citra_Muslim.png/1200px-Logo_Citra_Muslim.png" group-title="RELIGI", Citra Muslim
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
-#EXTINF:-1 tvg-id="CitraMuslimHD" tvg-name="Citra Muslim HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/292.png" group-title="RELIGI", Citra Muslim HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFWlof7TagvF0URYpovbWkZWfZrHZERu794yB4Ko_AKg&s" group-title="RELIGI", DHAMMA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Hijrah_TV_logo1.png/revision/latest?cb=20201015115131" group-title="RELIGI", HIJRAH TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch8.m3u8
-################RELIGI##################
-#EXTINF:-1 group-logo="https://www.uii.ac.id/wp-content/uploads/2021/10/islamtantanganzaman-1030x558.jpg" group-title="RELIGI"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgE61xxcOKT0EnE2ysc6_2InllCLRzXbBOyWYfnGo9dg&s" group-title="RELIGI", IZZAH TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch28.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7WM277VJ2sns0LG76oTeWMU3J7kREi54HOcYytN7iB37N9FQkIFSGY-i4cwz3UjUvNFwPv90L-6VdjRh1DJPuiss_YMpVcY8lHS_RhoW7ZDQDT7cs9a3Eww6XmqagGoJ6QNPktAVVLGWYu49blyxiXz2-oiO2eqSh93wWFj9ifAAE7C4NSEpU9HP1S2oh/s700/KHAZANAH%20TV.png" group-title="RELIGI", KHAZANAH
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qMurvWHQTm141ewKlGNFLz03ozz25wy0IxALvNBfZw&s" group-title="RELIGI", MADANI TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-#https://stream.asianastream.com/madani/madanitv.smil/chunklist.m3u8
-https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://makkahtv.tv/assets/images/-436x436.png" group-title="RELIGI", MAKKAH TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch13.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png" group-title="RELIGI", MQTV
-https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/muadz-tv-id.png" group-title="RELIGI", MUADZ TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch5.m3u8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7n8Jq4BXkl0zzx3qK-MJ66s-3LKULGqnodjmZKwWxZSpRdrZ_qdwlm3L1EynMWvU8q3H6g8y6NZ0i8jbI50mGRjprh6k33uNV_QZZQFyh-bKb6Tdd0JgIueZ9b7qB-ArXsBk2eEVx0n5lfu6EXqp5iit1QFxqtx_zTd0K2XHEi5mtcwSNGmH8Kz12vxpr/s700/MUSLIM%20TV.png" group-title="RELIGI", MUSLIM TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnzMbymvPtdvoUzZJolrzGcdmnoY8klwJSMRh4e869beIgOvswFSeU-EtGw1z-HMc4Hk&usqp=CAU" group-title="RELIGI", NAAJIYA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch7.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvdakwah.com/wp-content/uploads/2019/03/tv-online-niaga-tv.png" group-title="RELIGI", NIAGA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch10.m3u8
-#EXTINF:-1 tvg-id="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpVe1Foh2AoDTG3i4jJmACclO60LT6ynTrkghlCplhiJ7j8iya4wePLcutD7UIMoNoFvTbyK3hsCivYcshdjZ3g_4TwymaBDGELTMvJNHMnAzWh0kwyPmMS5-Wkwn-nBzJgQ5sWxgvXwRGMVc-geClqgfiA3Nb7RaE9Y8lArFcAkz9Wb7WiNymMSaVhYj2/s700/QURAN%20TV.png" group-title="RELIGI", QURAN KAREEM TV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
-#EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/poster-rodjatv-live-streaming.jpg" group-title="RELIGI", RODJA TV
-https://rodjatv.com/rodjatv/live_240p528kbs/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbvZlNKfEnHh1qEmTjEKC5a5UFPg1cxsQbTWyKf3bYn9oFi_DCFrUNbf9Duqthu_iO5rCrMCFrUGr6HHn9-3OCGAC4q7RuISkahODarJGM91CxkPrWREM3EoPas5BLHWMHebB0XMUECufPhn43N_DwdDdyzfTRg7WPa1nbIC_bLelkEz0qAMVLllE9FboQ/s700/RODJA.png" group-title="RELIGI", RODJA TV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
-#EXTINF:-1  tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="RELIGI", RODJA TV DENS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="RELIGI", RodjaTV
-https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://salamtelevisi.com/wp-content/uploads/2022/05/copy-logo-salamtv.png" group-title="RELIGI", SALAM TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch12.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYrSkE7defPaYAeHpUD22vQAb1sCeamnAQa8o7VTf_00as51PC1-05N81QxYAYGahOncI&usqp=CAU" group-title="RELIGI", SIAK TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch60.m3u8
-#EXTINF:-1 tvg-logo="https://test.annurs.com/uploads/tv_image/sunnah-tv.png" group-title="RELIGI", SUNNAH JALAN PASTI
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch17.m3u8
-#EXTINF:-1 tvg-id="88" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghlcwJ0IO4iuG1_KzQvdOJ-LfQoiIHXBDvqTqf58dmw5sEFUlo3SEunYBiqgxnBIuAOyd8-GsWrVD7g8kPTSTbdcFuQC4VhYkEJNm2puCA9dh62_A42Y1L0yOoINDggxjDP8UxEGVcJoe-Mi10KSmtfPpsNrTn29wwVsHpxzQyOGlZoOVvaV-E4886aZ9e/s700/SUNNAH%20NABAWI%20TV.png" group-title="RELIGI", SUNNAH NABAWI TV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SurauTV.png" group-title="RELIGI", SurauTV
-https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWqJ5ZmHf1L7oKJMOH9i9genCaXTrUaBdaVxLN0Rhz6V6QNu0vD8x0Z-ZrBNT4aOt6JfmBedYpXVNjbUa0ns8ttRw7RCCcGUcIu_A0gOWHgicw933apM_hUrSxJ4fqeU2Ip2uPD-gHRsEJsPEmEBa41nMwWfjGpmUavTJeME-wrbbOucmypISytMCfAZ06/s700/TVMU.png" group-title="RELIGI", TVMU
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Wesal_TV.png" group-title="RELIGI", WesalTV
-https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih3hvarr2bhY7-iEneL8ob926EtspQi7o3yP0ymI9-PtoUQGX4uaOA23hX6YR1JDcYYh9C2CLUQViYjGvOQ7iNfJYl_3I6EQv0s6Oa4G2fBHTPj5-HSwBaXvfG5tmOMAAqehYLG9ECcm2j7LnZlDlbk9kWqW0R6ef5h-VzmzfnhmjDL3SxZOZD1sUWgKh3/s700/ABY%20TV.png" group-title="RELIGI",ABY TV IM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch79.m3u8
@@ -186,10 +77,6 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlfathSonnahTV.eg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitzfgjZxNtAMRskEhfad3R-OA-8aLTXQ3WhKYrZMXQQQIWchF5yvDnPC6F-PbEl6-7B325eOLGKM3k-66VLctXV5tOPXzgFKHLOuAVV51iza6L26Xuuguyn1eYUCm8KfHKpeA0s-_1E6Hh3T8nuqwFgeMJz2JhceVSFjrxMwqzqRVyWl72krTwfa8JMGws/s700/ALFATH%20SONNAH%20TV.png" group-title="RELIGI",ALFATH SONNAH TV
 https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
-#EXTINF:-1 tvg-id="AlImanTV.lb" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaNSJGNiMKqYL6pSSc-sqWP89z9J8w5HK6utEM7iFu4TMfHBFpik0KeynQcdDpCZjWQtCbu5TM6Zz-nhPz9e7vgfXycbgk7QLHEwUBEihFjKuSSqvAJ9qmyfRJzEVBi44kFbXuXKixbtrIDYLwBYrHNNFyhuZ-e0Pt4EgRA5L-X7x9CtusFG0xJfTlNYpr/s700/ALIMAN%20TV.png" group-title="RELIGI",ALIMAN TV
-https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlistiqamaTV.om" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU2zvUdPXuoQ6QBCUkFxFaOgrg814SaMba_U8y4_pzatmdfqe9GftSfGgpiCpTCshuNEW3J0gbEYR503HYC3bM3Yx-Ozs3kJy4NQ8EM5dqjpowoWyhXre9ns2zSjcXBiwGlL6uOfDA-qYVJr5R1de17q231AvUSY2IZs2ZHEaKeNFDhHAmDc7Hi1B99zEn/s700/ALISTIQAMA%20TV.png" group-title="RELIGI",ALISTIQAMA TV
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #https://ythls.kekikakademi.org/youtube/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw1s3JWNxoNUzABQPLQ8L6_yVX75qHZfdiVoOyh5VOxzoVr9JLGJWdA7Z8_eaWGiip_SU5mXOoc3ngWgY0_dUylSmtrT37Oi_K9xWeOYN4XZW919sX-9Aa6wqk0Q44Vta658ZK0StKDDhO3TYMMcDKivI39X2fquWIT3d74YSIv0v8Q-vlrOVSIx8GvN7j/s700/ALJAEERA%20MUBASHER.png" group-title="RELIGI",ALJAEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
@@ -210,6 +97,9 @@ https://flv.intechmedia.net/live/ch2.m3u8
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AshiilTV.png" group-title="RELIGI",AshillTV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSFRKJ1VIxxMok2eHg6WhWIMs77KPQiiwhxdhEABmzqwndNPzKVk45s9CViTtBp_IF7dIR8T6dRjwD6mvB-faHw7nCmuFUY5dQwLqZFZendio4oI92kgqpRqpV8mja8j8A_YlBj-lxRMlvir_9-C4j6jTumnnZ-DZslB2BD1NizXwqJGeJmnLA9Lic-ug0/s700/ASTRO%20AL%20HIJRAH.png" group-title="RELIGI", ASTRO AL HIJRAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptv.kilas7.com:80/kaukia/asdfrewq/33
 #https://ythls.kekikakademi.org/youtube/channel/UCCv1Pd24oPErw5S7zJWltnQ.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsEuO7SlYsY6Rx0evmn0KXoyfpPszoZ7eRmNdCTc9N-gTN1Gpra-onuCHs0qHmJzZhu7G_b9vLJRzbujKFsSbASUKMB4F0qRBc8EtydEFaXHWb2I7DX_4ncP1b93NRWJOt3Tcp4__EfnqPN493FDrT-YbY0M-HbtKNgvKgboI4FpDaWktCUTsRYmcT_etq/s700/BAHRAIN%20QURAN.png",BAHRAIN QURAN
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
@@ -228,10 +118,27 @@ https://wms.klikhost.net/brtv/brtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Citra.Muslim.id" tvg-name="Citra Muslim" tvg-logo="https://mimipipi22.github.io/logo/religion/citramuslim.jpg" group-title="RELIGI",CITRA MUSLIM
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Citra_Muslim.png/1200px-Logo_Citra_Muslim.png" group-title="RELIGI", Citra Muslim
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPWhE0p7g6NVHvg8TR_tafiQhoYal9jwxtl9qgFdh-fuUVLxmyrpM4-OTLUGan9n84B1zmH816ZHedOF0TUrVP96qaOUnZsnJIjP1v7V3asq1gB9MuJowCI6RHcy5eo0qv0N-ha6o-rQA7Tu3JZ2ZTeZ7SdnUMglEz2jzhTTqh0fhArPEGx98OHYT078fR/s700/CITRA%20MUSLIM.png",CITRA MUSLIM
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-name="Citra Muslim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Citra_Muslim.png/1200px-Logo_Citra_Muslim.png" group-title="RELIGI", Citra Muslim
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-name="Citra Muslim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Citra_Muslim.png/1200px-Logo_Citra_Muslim.png" group-title="RELIGI", Citra Muslim
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/vidio/daystar-tv.jpg" group-title="RELIGI",Daystar TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -280,8 +187,6 @@ https://flv.intechmedia.net/live/ch8.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FB-Vs6cCY7SOrTfGgSVci_kWqNANLGHEo9IEx3Xn6EOupcBUBJyJ6Lq25tk3girNjhZfXD0BkS5omoDpRCm1rt-2VEinonCJuBuVriGuxdmfEgT9E8Sp_IQjzG41qi7OErYnkh4m6igdHcLSoe4HzzTa_Y7WNwa3Hm3P3HWocV5YwLcYvYixZxOgD2uL/s700/HOLY%20QURAN.png" group-title="RELIGI",HOLY QURAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sauridigital.my.id/balabala/tube-live.php?channel=UC_KYVOU2lpXpuSsQ5JI6xvg
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr25Io7hg0nWcDx38xeDG42MWmpFYZTJl7sVhnSWGUqdO-eihGecEAvgEpO90QLSwaQ3Tv84szUlL5Xh19e_B-TEH4v3mXrIiaUJpqG4eb2gLEsTo5DzmbpLiEttYVHIW8AZVx40LUPpe6_wip6tEmQwxBlqr6UiHC1jQh1hjHsUtlD9iU4o-m2ec377YZ/s700/NGAJI%20MERDU.png" group-title="RELIGI",HOLY QURAN
-https://sauridigital.my.id/balabala/tube-live.php?channel=UC_KYVOU2lpXpuSsQ5JI6xvg
 #EXTINF:-1 tvg-id="Hope" tvg-name="Hope" tvg-logo="https://mimipipi22.github.io/logo/religion/hope.jpg" group-title="RELIGI",HOPE
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
@@ -312,11 +217,6 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 https://flv.intechmedia.net/live/ch28.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_XY5BUzssBD9s2U7AU4Aw4R_PiY1dh_usVU6y0QU2OSUiF8tbj0TUghlQo_oVD0rMJdq05-Ipo3-zlGKTp5ajJKgvTqTNxyWCbYEvUU9G09mUKgHwu255mjWFyPYxug8IK1QESMmd8XY9wBjmHtNY-OsBBqdRfKBBgTpesutWbj0ZZrcuhtl79c_rqTW/s700/JOM%20NGAJI.png",JOM NGAJI
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_XY5BUzssBD9s2U7AU4Aw4R_PiY1dh_usVU6y0QU2OSUiF8tbj0TUghlQo_oVD0rMJdq05-Ipo3-zlGKTp5ajJKgvTqTNxyWCbYEvUU9G09mUKgHwu255mjWFyPYxug8IK1QESMmd8XY9wBjmHtNY-OsBBqdRfKBBgTpesutWbj0ZZrcuhtl79c_rqTW/s700/JOM%20NGAJI.png",JOM NGAJI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -329,8 +229,7 @@ https://ncdn.telewebion.com/quran/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Khazanah.id" tvg-name="Khazanah" tvg-logo="https://mimipipi22.github.io/logo/religion/khazanah.jpg" group-title="RELIGI",KHAZANAH
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7WM277VJ2sns0LG76oTeWMU3J7kREi54HOcYytN7iB37N9FQkIFSGY-i4cwz3UjUvNFwPv90L-6VdjRh1DJPuiss_YMpVcY8lHS_RhoW7ZDQDT7cs9a3Eww6XmqagGoJ6QNPktAVVLGWYu49blyxiXz2-oiO2eqSh93wWFj9ifAAE7C4NSEpU9HP1S2oh/s700/KHAZANAH%20TV.png" group-title="RELIGI",KHAZANAH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7WM277VJ2sns0LG76oTeWMU3J7kREi54HOcYytN7iB37N9FQkIFSGY-i4cwz3UjUvNFwPv90L-6VdjRh1DJPuiss_YMpVcY8lHS_RhoW7ZDQDT7cs9a3Eww6XmqagGoJ6QNPktAVVLGWYu49blyxiXz2-oiO2eqSh93wWFj9ifAAE7C4NSEpU9HP1S2oh/s700/KHAZANAH%20TV.png" group-title="RELIGI", KHAZANAH
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -384,17 +283,15 @@ https://flv.intechmedia.net/live/ch34.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://mimipipi22.github.io/logo/religion/mqtv.jpg" group-title="RELIGI",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png" group-title="RELIGI", MQTV
+https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png" group-title="RELIGI",MQTV
 https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirGVO8pIUwFmH0S4crSPveZ7sT4rePHI4UCbkhzoFBQ4Nx20ugGdmUIvrQZRLLq3KXt83kcq9zaZ5b8xmn5FhkNjKxiImqrd5v2MWMpaU7mhZYd2QbWI3j-j4MYXOvDJ_8ugrOWmJysdhLOqstDCkuQSvvR5h7uRM4aPEhxzYYQoL2MI9yUTsOi_p4ViOl/s700/MQTV.png" group-title="RELIGI",MQTV HD
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sVYZyl5lM_MlhEEeXDmhtdJmuEXRbyyA1jAmlo1SsQ0ISBWduEPbv1h5lQy4a5K7O4zvxdqbEgaySBXs-ngmEstlxYN982GZh-14hYd0mYdC0ISS78JI0KYN97lkM_FNeCNhEaKL38bFMNkfiDatycvA2yOJQPEo-STGorNbmxMskPb0LZx6FyPCuSkx/s700/MTA.png" group-title="RELIGI",MTA
-https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sVYZyl5lM_MlhEEeXDmhtdJmuEXRbyyA1jAmlo1SsQ0ISBWduEPbv1h5lQy4a5K7O4zvxdqbEgaySBXs-ngmEstlxYN982GZh-14hYd0mYdC0ISS78JI0KYN97lkM_FNeCNhEaKL38bFMNkfiDatycvA2yOJQPEo-STGorNbmxMskPb0LZx6FyPCuSkx/s700/MTA.png" group-title="RELIGI",MTA HD
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sVYZyl5lM_MlhEEeXDmhtdJmuEXRbyyA1jAmlo1SsQ0ISBWduEPbv1h5lQy4a5K7O4zvxdqbEgaySBXs-ngmEstlxYN982GZh-14hYd0mYdC0ISS78JI0KYN97lkM_FNeCNhEaKL38bFMNkfiDatycvA2yOJQPEo-STGorNbmxMskPb0LZx6FyPCuSkx/s700/MTA.png" group-title="RELIGI",MTA HD
-https://sauridigital.my.id/balabala/tube-live.php?channel=UCIrj7gqiu8uUfgMitYFzkNg
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX3id9GQ2WXXWaWzNgDUArJq7GBCKl855-PyBNMPRcPJ9gGEJs8WbLyoUg1PJpARUN_c3-Pqv3zMlhRxrDSMdBfjteCTwm_QE2EmHCHFr_D0OB9ioPwIPv9iUfKHDd1skY328f20Sz9JJy6hoct8xcuQ-Z16Vzsijs3GFD9JXtojIs1jJlhLMH6XB-54wh/s700/MTA%20INTERNASIONAL.png" group-title="RELIGI",MTA INTERNATIONAL
 https://sauridigital.my.id/balabala/tube-live.php?channel=UCW4QTka08QOHRNxKcJLEuUA
 #EXTINF:-1 tvg-id="MTA1World.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsRP3Mb0mfMrXTMkToCkrH3Yc24sHaT8Xy4TfjYpDULrZrQ4DmQN5Gs2H5DOP6gXTaYj5ievJiNlQSoU8LLFSB0aLvqq4OmZCbzgf959FZADAYblBdrph5srxFF7LSh-ser9HE1cjmne4pqeTGEz6cmUQzRd-XAEV5Xx-ZKTYr6_Ibjhjq4m7V1fSaCtl/s700/MTA1%20WORLD.png" group-title="RELIGI",MTA1 WORLD
@@ -436,11 +333,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
 #EXTINF:-1 tvg-id="Muslim.TV.id" tvg-name="Muslim TV" tvg-logo="https://mimipipi22.github.io/logo/religion/muslimtv.jpg" group-title="RELIGI",MUSLIM TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7n8Jq4BXkl0zzx3qK-MJ66s-3LKULGqnodjmZKwWxZSpRdrZ_qdwlm3L1EynMWvU8q3H6g8y6NZ0i8jbI50mGRjprh6k33uNV_QZZQFyh-bKb6Tdd0JgIueZ9b7qB-ArXsBk2eEVx0n5lfu6EXqp5iit1QFxqtx_zTd0K2XHEi5mtcwSNGmH8Kz12vxpr/s700/MUSLIM%20TV.png" group-title="RELIGI",MUSLIM TV
-https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7n8Jq4BXkl0zzx3qK-MJ66s-3LKULGqnodjmZKwWxZSpRdrZ_qdwlm3L1EynMWvU8q3H6g8y6NZ0i8jbI50mGRjprh6k33uNV_QZZQFyh-bKb6Tdd0JgIueZ9b7qB-ArXsBk2eEVx0n5lfu6EXqp5iit1QFxqtx_zTd0K2XHEi5mtcwSNGmH8Kz12vxpr/s700/MUSLIM%20TV.png" group-title="RELIGI", MUSLIM TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -479,6 +374,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f35
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-fZGu9VoghP0h8O2C6neQ__iEhhlUVe7x87oRcBaXPNZBO0JINCNtIBba4HiM0P2VcVjFfgByPjWqZ-67-HdTw_fumm7J_zF5jcxQWycLfo0eQcM3_wbvFCEnO6IYpnQsaLVby1858fBxNOKugDIdwUcopsBxeuMFdaPX3B_x7YaOMH_UQ5dSagnq6dMD/s700/PULDAPII%20TV.png" group-title="RELIGI",PULDAPII TV IM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch15.m3u8
+#EXTINF:-1 tvg-id="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpVe1Foh2AoDTG3i4jJmACclO60LT6ynTrkghlCplhiJ7j8iya4wePLcutD7UIMoNoFvTbyK3hsCivYcshdjZ3g_4TwymaBDGELTMvJNHMnAzWh0kwyPmMS5-Wkwn-nBzJgQ5sWxgvXwRGMVc-geClqgfiA3Nb7RaE9Y8lArFcAkz9Wb7WiNymMSaVhYj2/s700/QURAN%20TV.png" group-title="RELIGI", QURAN KAREEM TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMdp1LGyMemail3SzBwJz3SnF4wQLjkZ3Jp1nnuqRDM_d2VR6H1NhnNNNMu4XRKAPMTEmsgtbGJUEnBZD-TTfaiA4V59ZAMg3r-dQHHn62_xI72ToOJgAFFfzrXi9IuEU3rZ4nMDDiLSrPb0kmJ-lFB1y5zyjKpVH1oDNW7keYy_i-aRHvUngk1qmCsOl/s700/RASYAAD%20TV.png" group-title="RELIGI",RASYAAD TV YT
 https://sauridigital.my.id/balabala/tube-live.php?channel=UCotIkyDFzztbSm21GNGsK9w
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -495,8 +394,6 @@ https://flv.intechmedia.net/live/ch32.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&userid=lite&chname=RodjaTV
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbvZlNKfEnHh1qEmTjEKC5a5UFPg1cxsQbTWyKf3bYn9oFi_DCFrUNbf9Duqthu_iO5rCrMCFrUGr6HHn9-3OCGAC4q7RuISkahODarJGM91CxkPrWREM3EoPas5BLHWMHebB0XMUECufPhn43N_DwdDdyzfTRg7WPa1nbIC_bLelkEz0qAMVLllE9FboQ/s700/RODJA.png" group-title="RELIGI",RODJA TV
 https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbvZlNKfEnHh1qEmTjEKC5a5UFPg1cxsQbTWyKf3bYn9oFi_DCFrUNbf9Duqthu_iO5rCrMCFrUGr6HHn9-3OCGAC4q7RuISkahODarJGM91CxkPrWREM3EoPas5BLHWMHebB0XMUECufPhn43N_DwdDdyzfTRg7WPa1nbIC_bLelkEz0qAMVLllE9FboQ/s700/RODJA.png" group-title="RELIGI",RODJA TV
-https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPKzuSGXnuJG5gOA1AGIknytvyxTCq9kQRw&s",RODJA TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
@@ -506,9 +403,8 @@ http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbvZlNKfEnHh1qEmTjEKC5a5UFPg1cxsQbTWyKf3bYn9oFi_DCFrUNbf9Duqthu_iO5rCrMCFrUGr6HHn9-3OCGAC4q7RuISkahODarJGM91CxkPrWREM3EoPas5BLHWMHebB0XMUECufPhn43N_DwdDdyzfTRg7WPa1nbIC_bLelkEz0qAMVLllE9FboQ/s700/RODJA.png",RODJA TV DN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbvZlNKfEnHh1qEmTjEKC5a5UFPg1cxsQbTWyKf3bYn9oFi_DCFrUNbf9Duqthu_iO5rCrMCFrUGr6HHn9-3OCGAC4q7RuISkahODarJGM91CxkPrWREM3EoPas5BLHWMHebB0XMUECufPhn43N_DwdDdyzfTRg7WPa1nbIC_bLelkEz0qAMVLllE9FboQ/s700/RODJA.png",RODJA TV HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="RELIGI", RodjaTV
+https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="RELIGI",RodjaTV
 https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
 #EXTINF:-1 tvg-id="SadaEHaqTV.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwrgmUpf4Bp3TI3ZPx6DmdoEb2oowMjxdXtTtVNy16gfdJz9l3_et1B-mggm2U3wjTfDsMeVUTyYEQVGhNSk8EisSVVCoZxEK64J3rfP6dSk77R3IlVqZPJSYJ4wjJ-JJU8YxglU7vAu-1fDSpjqPTmDJBYmkwVTK1IBxmb25nzs1Mi1mPERzdTFL-e2R-/s700/SADA%20E-HAQ%20TV.png" group-title="RELIGI",SADA E-HAQ TV
@@ -523,14 +419,10 @@ https://flv.intechmedia.net/live/ch12.m3u8
 https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SANGAJI_TV_JOGJA.jpg" group-title="RELIGI",SANGAJI TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SANGAJI_TV_JOGJA.jpg" group-title="RELIGI",SANGAJI TV
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje10grhwE80k4GDAiDfHnVrhYq_0kJ7vAfPI8NsAYnJ01WH_PgFMk7TSagHHtjKGd368OyCFpql_BG2Z_xfBFmNG4xgj6sXxACNeygZYjgIlPjtBhWZPjbz80MaRS-dd9dDmbJ8pVqmaoU7k4Y8XXPPiDMew3YnQNF6QpTY9DxI_TCCwQ_TI6K0t2VF8Rj/s700/SANGAJI%20TV.png" group-title="RELIGI",SANGAJI TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SANGAJI_TV_JOGJA.jpg" group-title="RELIGI",SANGAJI TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid0CM6bc5T2xrsV4tJL77Ccby1Aj5ZaQYzWwEYHM3OgusQ5CfXUhpCs7ohbtwttjZgX3CtyBojx7g_Li0OLK6wunB18qaUESgsMIcQ0WOknj5ADNjuDOP_uRQjH7O4vPb_DJ1CGwV-RYdplohxKWyDJAfGhIDeC3wXyzpdOAnQ8gIxWFCvuGCUR-hCG2VQ/s700/SHARJAH%20TV.png" group-title="RELIGI",SHARJAH TV
-https://svs.itworkscdn.net/smc1live/smc1tv.smil/smc1publish/smc1tvhd_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqu59kedv52ry2s61Zh1cKesX4jws8Lkxev4dbiLOG5Ep_y-XDjHORvIqdxR4wApd0Erp4pJePe7IHmYHALZ7H_DPIkolYuBD0Opopt63jOlqPasL41F0pCnQK5N5u2d7Y46HYBI2nObr7liVjno09OjiNaulQwinKd0pKVHLugSJMKLI1ItpWF-Nk601/s700/SJP%20TV.png" group-title="RELIGI",SJP TV IM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch17.m3u8
@@ -539,9 +431,15 @@ https://iptvfreemium.serv00.net/youtubechannelid.php?id=UCoPO7QD-HlBn7B02OMOsJJQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Sunna.TV.id" tvg-name="Sunna TV" tvg-logo="https://mimipipi22.github.io/logo/religion/sunnatv.jpg" group-title="RELIGI",SUNNA TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="88" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghlcwJ0IO4iuG1_KzQvdOJ-LfQoiIHXBDvqTqf58dmw5sEFUlo3SEunYBiqgxnBIuAOyd8-GsWrVD7g8kPTSTbdcFuQC4VhYkEJNm2puCA9dh62_A42Y1L0yOoINDggxjDP8UxEGVcJoe-Mi10KSmtfPpsNrTn29wwVsHpxzQyOGlZoOVvaV-E4886aZ9e/s700/SUNNAH%20NABAWI%20TV.png" group-title="RELIGI", SUNNAH NABAWI TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikiIMPA4AgnkmjBjetRlpoTH_tFnCmKlvyPhIEJNkogtX8oKIe00yiqtpdtzBwBwzn-Qj7ir4WJ9KhuHplNSajIsW2yw63__FesWFenamxnhz1x4rUknhGzE7BcKhgxh4yaFma-w5_iKqyv9PZiCxkEZLfhdGl5ED-f3uJdZwNn5FDvmFItiqs2XPyAl1a/s700/SURAU%20TV.png" group-title="RELIGI",SURAU TV IM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.4; Sky Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
 https://flv.intechmedia.net/live/ch3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SurauTV.png" group-title="RELIGI", SurauTV
+https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SurauTV.png" group-title="RELIGI",SurauTV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitBjDiu8K5nIDknwxh-lHMVBDtkq9m9P-u9g6N5XCtXA_I6GLXNsVrke3pGuFHQZD8KlxKCsbsD7HzBCnupcM4gI8O2SWPuVu7QT_LH5D3W3BGJmSHbL_PUykZXQITC2EEUW9GaDRDaC2xWkxSn7j4ML_0TgCu59JS7A0yuSvq9wSut9fxQP35VVdv3UU/s700/TARBIYAH%20SUNNAH.png" group-title="RELIGI",TARBIYAH SUNNAH
@@ -588,8 +486,6 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://fta1-cdn-flr.visionplus.id/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWqJ5ZmHf1L7oKJMOH9i9genCaXTrUaBdaVxLN0Rhz6V6QNu0vD8x0Z-ZrBNT4aOt6JfmBedYpXVNjbUa0ns8ttRw7RCCcGUcIu_A0gOWHgicw933apM_hUrSxJ4fqeU2Ip2uPD-gHRsEJsPEmEBa41nMwWfjGpmUavTJeME-wrbbOucmypISytMCfAZ06/s700/TVMU.png" group-title="RELIGI",TVMU
 https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWqJ5ZmHf1L7oKJMOH9i9genCaXTrUaBdaVxLN0Rhz6V6QNu0vD8x0Z-ZrBNT4aOt6JfmBedYpXVNjbUa0ns8ttRw7RCCcGUcIu_A0gOWHgicw933apM_hUrSxJ4fqeU2Ip2uPD-gHRsEJsPEmEBa41nMwWfjGpmUavTJeME-wrbbOucmypISytMCfAZ06/s700/TVMU.png" group-title="RELIGI",TVMU
-https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -627,6 +523,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZLWQMGQhFF8I1TYi8Knszs-k77aEA9ZxT1pl6ZT5qscciWzUlKMxQnENjWelfSXEIklM_vBf2jHepBHz1V-495KjrC8x1m0k1X3Pm5gHilJ4MnD4VAOPCo3k6JEyiAXkBRgnzqWN_h2tMbl1ahNG4XfMlrVr2KNpQ1OOa3dZuS24CDCtcAbZF-IpcQJoL/s700/WESAL%20TV.png" group-title="RELIGI",WESAL TV IM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch33.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Wesal_TV.png" group-title="RELIGI", WesalTV
+https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Wesal_TV.png" group-title="RELIGI",WesalTV
 https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
 #EXTINF:-1 tvg-id="ZainabiaChannel.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ436tsotNTbF-rIImqMiscuJtvHRqQ83wGpRIboT8Mi3IG218TSyMkEaYl7VJBiKKCKxTggIuCv56zjoyVl6EqVsh0kW67IkuPHDBD_jNXCvzMo5G9losJAc3W9aMOwtU19HOY16gL56z4SHk1XLgJXcUYzgewynjSrvyjCIrF1J27KBsQ2aQ0X99CmP/s700/ZAINABIA%20CHANNEL.png" group-title="RELIGI",ZAINABIA CHANNEL
