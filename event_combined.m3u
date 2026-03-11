@@ -1,69 +1,76 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/ii84S", 00:45 WIB Galatasaray vs Liverpool
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/ii84S", 00:45 WIB Bayer Leverkusen vs Arsenal
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Atalanta vs Bayern München
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Bodø / Glimt vs Sporting CP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Atlético Madrid vs Tottenham Hotspur
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png", 03:00 WIB Coventry City vs Preston North End
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/ii84S", 03:00 WIB PSG vs Chelsea
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Newcastle United vs Barcelona
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/ii84S", 03:00 WIB Real Madrid vs Manchester City
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 15:30 WIB YONEX Swiss Open 2026
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 16:00 WIB YONEX Swiss Open 2026
 #EXTVLCOPT:http-referrer=https://embed.infobets.top/
 #EXTVLCOPT:http-origin=https://embed.infobets.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://ikohls.tailaso.top/live/hvSCSh.m3u8
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 15:30 WIB YONEX Swiss Open 2026
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299441437061_AiHD.m3u8?txSecret=2938f21299992721fb14449c5a391aab&txTime=69B26470
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 16:00 WIB YONEX Swiss Open 2026
 #EXTVLCOPT:http-referrer=https://embed.infobets.top/
 #EXTVLCOPT:http-origin=https://embed.infobets.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://ikohls.tailaso.top/live/ekGqZC.m3u8
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 15:30 WIB YONEX Swiss Open 2026
+https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299633472061_AiHD.m3u8?txSecret=91adff919689597ad3b75d423405217d&txTime=69B26470
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 16:00 WIB YONEX Swiss Open 2026
 #EXTVLCOPT:http-referrer=https://embed.infobets.top/
 #EXTVLCOPT:http-origin=https://embed.infobets.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://ikohls.tailaso.top/live/L8ujyB.m3u8
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 15:30 WIB YONEX Swiss Open 2026
+https://ikohls.tailaso.top/live/qajAhK.m3u8
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 16:00 WIB YONEX Swiss Open 2026
 #EXTVLCOPT:http-referrer=https://embed.infobets.top/
 #EXTVLCOPT:http-origin=https://embed.infobets.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://ikohls.tailaso.top/live/gpXKCA.m3u8
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/FNR-a", 19:15 WIB Buriram United vs Melbourne City
+https://ikohls.tailaso.top/live/JXEr9S.m3u8
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB AI Peppers W vs GS Caltex W
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Rush & Cash vs Suwon KEPCO
+<================================================>
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/FNR-a", 17:00 WIB Sanfrecce Hiroshima vs Johor Darul Ta'zim
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/FNR-a", 17:00 WIB Vissel Kobe vs Seoul
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/sS209", 19:15 WIB Ratchaburi vs Gamba Osaka
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Bhayangkara vs Arema
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB PSIM Yogyakarta vs Persijap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel18.m3u8?wsSecret=c02150b13b4029cc7749f5690c01fbd9&wsABSTime=1762364734
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Bhayangkara vs Arema
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://195.178.110.37/hls/LJJJQQQQQQ.m3u8
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 20:30 WIB Bhayangkara vs Arema
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://xxyznt1-cf.didjhfyu8yg.sbs/auth%3D4666aa3913b5ac58934b01cb1c1ecf2f093d0336accc5145798cc9de2c15a0972da2b2557306d2bf7118cebad96fb918890b8946a97b4c9a2f742f007717c0ce531cdbe47e06074a560154955ebe80c63cbfdd19d2dcb276f4329e42887fa0288be411a1d8fc937bdeb26ff02b2f83de33cd6b9ed590177db331f99ed3dd16584f92b36b50128ba4dfb29f42fa06dd94de6ff0112fd7bcc5720ae28fc1d51947%26cid%3D4-Ed3P3QUx3Vk28n6OQRd260307%26_v%3D2%26_r%3D_CuP7F%26_vis%3D1ebc11eefe385da9c7f439f4fd0dd0f621a69760f96f47f89bcf0cdddb2c2705%26_vvs%3D4450bbe14802e35647b9c3327cac0b69ef4db129a97587bbc9860465f6c40ad8%26_vas%3D703ff60eba07c22b96c461e8bd008d9bc9ab7705a1a6b50e5b323bcb62ca996f/app/c409522.m3u8
+https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=f56bef7bf4aa7288d3fe39aac3ca7d85&wsABSTime=1761932703
