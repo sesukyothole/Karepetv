@@ -37,14 +37,12 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Hyundai Skywalkers vs Samsung Blue Fangs
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Incheon Heungkuk W vs Expressway Co W
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 20:00 WIB YONEX Swiss Open 2026
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4149302735412061_AiHD.m3u8?txSecret=a2407a635786f6805351d3b6ef86b58c&txTime=69B53FB0
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 20:00 WIB YONEX Swiss Open 2026
+https://39e614f2a59a121b49e98f673d605e5b.v.smtcdns.net/play.cbalive.weibisai.com/live/4149303065492061_AiHD.m3u8?txSecret=d3d3b7b82729f09f68d4e51d405f9711&txTime=69B53FB0
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8aO_n7o9ddr-AAhwH5Zw6ABZtbEMKmdjCQ&s", 20:00 WIB YONEX Swiss Open 2026
+#EXTVLCOPT:http-referrer=https://embed.infobets.top/
+#EXTVLCOPT:http-origin=https://embed.infobets.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260313022F243
-https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/52ah3dtbpy8n7w5txz2cu7fky3iuh98t15y1/playlist.m3u8?hdnts=st=1773396690~exp=1773429100~acl=*/52ah3dtbpy8n7w5txz2cu7fky3iuh98t15y1/*~hmac=6be4c8c4553563c7585ae86e732d870dd13dd24940a4076d589e911fdb9588d1
+https://ikohls.tailaso.top/live/cR7V4M.m3u8
