@@ -11,6 +11,7 @@ MASTER_URLS = [
     "https://semar25.short.gy", 
     "https://deccotech.online/tv/tvstream.html",
     "https://bit.ly/KPL203",
+    "https://freeiptv2026.tsender57.workers.dev",
     "https://liveevent.iptvbonekoe.workers.dev",
     "http://sauridigital.my.id/kerbaunakal/2026TVGNS.html",
     "https://bit.ly/TVKITKAT",
