@@ -37,16 +37,14 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://shorter.me/kHd6b", 15:00 WIB Brisbane Roar vs Western Sydney Wanderers
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Incheon Heungkuk W vs Expressway Co W
 #EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Hyundai Skywalkers vs Samsung Blue Fangs
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Incheon Heungkuk W vs Expressway Co W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://m.sports.naver.com
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260313022F243
+https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/52ah3dtbpy8n7w5txz2cu7fky3iuh98t15y1/playlist.m3u8?hdnts=st=1773396690~exp=1773429100~acl=*/52ah3dtbpy8n7w5txz2cu7fky3iuh98t15y1/*~hmac=6be4c8c4553563c7585ae86e732d870dd13dd24940a4076d589e911fdb9588d1
