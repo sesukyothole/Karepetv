@@ -7,11 +7,11 @@ import re
 
 # DAFTAR URL SUMBER UTAMA (Semua kategori akan menarik data dari sini)
 MASTER_URLS = [
-    "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25", 
     "https://semar25.short.gy", 
-    "https://deccotech.online/tv/tvstream.html",
+    "https://freeiptv2026.tsender57.workers.dev", 
+    "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
     "https://bit.ly/KPL203",
-    "https://freeiptv2026.tsender57.workers.dev",
+    "https://deccotech.online/tv/tvstream.html",
     "https://liveevent.iptvbonekoe.workers.dev",
     "http://sauridigital.my.id/kerbaunakal/2026TVGNS.html",
     "https://bit.ly/TVKITKAT",
