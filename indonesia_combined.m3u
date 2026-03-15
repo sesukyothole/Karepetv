@@ -222,6 +222,10 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="INDONESIA",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png",Canal 17 RTVD (720p)
+https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/LHChpid.png",GTV (360p) [Not 24/7]
+http://91.220.221.60/gtv_hls/gtv_03.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctvw.jpg" group-title="INDONESIA",MNCTV WORLD
 ##https://mimipipi22.github.io/logo/offline.m3u8
 http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=1919420&extension=ts&play_token=JRjuGlw0qo
@@ -514,11 +518,6 @@ https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzoeeLMUpAx04K8xiw0cEPO-XYfZtCaR8KGYFy6fTnu6RVawJJvmjV5gApqR0pXVkQRX16KMg7tyf2015mpws3Jy6fV7RADfSF7H2Mi5HYCXwNeectW2DngaG6iXwNqW8sMLV7c9fkg24kr7vrfnVoUFX1Rw2B35EOguGNrAovBgbVxoMNs5gQId3nEBRP/s700/KALTARA%20TV.png" group-title="INDONESIA",KALTARA TV
 https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJrqOAYgrwTwt_dmOygk3lk9UjvIAAYrgBB0KP7oNt5yCSL5NoO88PvqD9cchGLsXik_dIAFb0v9GVqrqDpcnMDzppRBTX5BUaPajCBDEIAsluvz0sBcqWWeOiOGxYTk_GWK4Qyze2TvTp8WguvzbctEDem7mLejNHtPrI5v2gRSzlKjZ47oU_U_Y-7GRh/s700/SALIRA%20TV.png" group-title="INDONESIA",SALIRA TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-1H4q8ily6a6hERsLVzuz85Oz9mr3kRuqdig7512dLgg2Wavz0GWMdrvk9ObmFZZUpyACy3krinp_mC9glz6tdlgDRhTh23ixkiylA96PJe7Y1MoLf9nSCu_iINF1YIfXtVjoBMS2nFC677M0YIgW1QVkVXbSZrofh75mXc90nVfrrYcaQ00xXbIrVaNc/s700/JURNAL%20TV.png",JURNAL TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/playlist.m3u8
