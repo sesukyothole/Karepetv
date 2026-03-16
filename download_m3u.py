@@ -135,8 +135,14 @@ CONFIGURATIONS = [
 # Regex
 GROUP_TITLE_REGEX = re.compile(r'group-title="([^"]*)"', re.IGNORECASE)
 CLEANING_REGEX = re.compile(r'[^a-zA-Z0-9\s]+')
-TIME_PATTERN_REGEX = re.compile(r'\d{1,2}[:.]\d{2}')
+
+# REGEX SUPER KETAT: Hanya mendeteksi format Jam 00:00 sampai 23:59 (Mengabaikan versi browser/IP address)
+TIME_PATTERN_REGEX = re.compile(r'\b(?:[01]?[0-9]|2[0-3])[:.][0-5][0-9]\b')
+
 QUALITY_CLEANER_REGEX = re.compile(r'\b(hd|fhd|uhd|sd|4k|8k|tv|ind|indo|id|my|sg|ch|channel|network|plus|max|raw|hevc|hq)\b', re.IGNORECASE)
+
+# KATA KUNCI PEMBASMI SPAM (Membuang User-Agent yang bocor ke nama channel)
+SPAM_KEYWORDS = ['EXTVLCOPT', 'USER-AGENT', 'GECKO', 'CHROME', 'SAFARI', 'WINK', 'MOZILLA', 'APPLEWEBKIT', 'HTTP']
 
 # ====================================================================
 # TRACKER GLOBAL
@@ -211,7 +217,8 @@ def download_playlist(url):
                 if line.startswith("#EXTINF"):
                     current_extinf = line
                     
-            elif len(line) > 5: 
+            # VALIDASI SUPER KETAT: Memastikan ini benar-benar URL, bukan teks nyasar
+            elif len(line) > 5 and line.lower().startswith("http"): 
                 stream_url = line
                 if current_buffer and current_extinf:
                     channels.append({
@@ -276,6 +283,14 @@ def filter_m3u_by_config(config, super_clean_channels):
         clean_group_title = CLEANING_REGEX.sub(' ', raw_group_title).upper()
         clean_channel_name = CLEANING_REGEX.sub(' ', raw_channel_name).upper()
         
+        # PENGHANCUR SPAM: Buang seketika jika nama channel berisi kode browser / VLC
+        if any(spam in clean_channel_name for spam in SPAM_KEYWORDS):
+            continue
+
+        # Pengecualian mutlak untuk RADIO
+        if "RADIO" in clean_channel_name or "RADIO" in clean_group_title:
+            continue
+
         match_found = False
 
         # ==============================================================
@@ -304,10 +319,6 @@ def filter_m3u_by_config(config, super_clean_channels):
                     match_found = False
                 else:
                     match_found = True
-
-        # Pengecualian mutlak untuk RADIO
-        if "RADIO" in clean_channel_name or "RADIO" in clean_group_title:
-            match_found = False
 
         if match_found:
             if force_category:
@@ -407,4 +418,4 @@ if __name__ == "__main__":
     for config in CONFIGURATIONS:
         filter_m3u_by_config(config, super_clean_channels)
         
-    print("\n✅ PROSES SELESAI! M3U Event Bosku sekarang punya Tanggal & terurut presisi!")
+    print("\n✅ PROSES SELESAI! M3U Event Bosku sekarang bersih dari Spam dan punya Tanggal!")
