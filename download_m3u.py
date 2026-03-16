@@ -136,8 +136,11 @@ CONFIGURATIONS = [
 GROUP_TITLE_REGEX = re.compile(r'group-title="([^"]*)"', re.IGNORECASE)
 CLEANING_REGEX = re.compile(r'[^a-zA-Z0-9\s]+')
 
-# REGEX SUPER KETAT: Hanya mendeteksi format Jam 00:00 sampai 23:59 (Mengabaikan versi browser/IP address)
-TIME_PATTERN_REGEX = re.compile(r'\b(?:[01]?[0-9]|2[0-3])[:.][0-5][0-9]\b')
+# ====================================================================
+# REGEX SUPER KETAT: Wajib mendeteksi format Jam (00:00 - 23:59) yang DIIKUTI kata "WIB"
+# Contoh: "00.00 WIB", "19:30 wib", "21:00WIB"
+# ====================================================================
+TIME_PATTERN_REGEX = re.compile(r'\b(?:[01]?[0-9]|2[0-3])[:.][0-5][0-9]\s*WIB\b', re.IGNORECASE)
 
 QUALITY_CLEANER_REGEX = re.compile(r'\b(hd|fhd|uhd|sd|4k|8k|tv|ind|indo|id|my|sg|ch|channel|network|plus|max|raw|hevc|hq)\b', re.IGNORECASE)
 
@@ -297,7 +300,7 @@ def filter_m3u_by_config(config, super_clean_channels):
         # PUKAT HARIMAU WAKTU: ATURAN KHUSUS UNTUK "LIVE EVENT SPORTS"
         # ==============================================================
         if is_event_category:
-            # Jika namanya mengandung Jam, OTOMATIS MASUK ke Event (Bypass keywords)
+            # Jika namanya mengandung Jam + WIB, OTOMATIS MASUK ke Event (Bypass keywords)
             if has_time_pattern:
                 match_found = True
                 # Curi tanggal dari group-title aslinya
