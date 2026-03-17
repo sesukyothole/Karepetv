@@ -7,7 +7,7 @@ from datetime import datetime
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-# Matikan peringatan SSL agar bypass HTTPS Sauri lancar
+# Matikan peringatan SSL agar bypass HTTPS lancar
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ====================================================================
@@ -24,7 +24,7 @@ MASTER_URLS = [
     "https://semar25.short.gy",
     "https://bit.ly/TVKITKAT",
     "https://liveevent.iptvbonekoe.workers.dev",
-    "https://bwifi.my.id/lokal",
+    "https://tvg.short.gy/GEULISALLOTT26",
     "https://bit.ly/KPL203"
 ]
 
@@ -147,6 +147,20 @@ SPAM_KEYWORDS = ['EXTVLCOPT', 'USER-AGENT', 'GECKO', 'CHROME', 'SAFARI', 'WINK',
 
 CATEGORIZED_URLS = set()
 
+# PENAMPUNGAN NAMA UNTUK CETAK FILE TXT
+SPORTS_LOG = {k: set() for k in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 99, 999]}
+KASTA_NAMES = {
+    1: "[KASTA 1 - BEIN]", 2: "[KASTA 2 - CTV]", 3: "[KASTA 3 - SPOTV]",
+    4: "[KASTA 4 - SPORTSTARS]", 5: "[KASTA 5 - SOCCER CHANNEL]",
+    6: "[KASTA 6 - LOKAL SPORTS]", 7: "[KASTA 7 - DAZN / ELEVEN]",
+    8: "[KASTA 8 - SKY SPORTS]", 9: "[KASTA 9 - TNT SPORTS]",
+    10: "[KASTA 10 - TRUE SPORTS]", 11: "[KASTA 11 - HUB PREMIER / SPORTS]",
+    12: "[KASTA 12 - ASTRO]", 13: "[KASTA 13 - SETANTA]",
+    14: "[KASTA 14 - PRIMA]", 15: "[KASTA 15 - SPORT UMUM]",
+    16: "[KASTA 16 - FUBO]", 99: "[KASTA 99 - LAIN-LAIN / SISA]",
+    999: "[KASTA 999 - ARENA (JURU KUNCI)]"
+}
+
 # ====================================================================
 # II. FUNGSI UTAMA MESIN SEDOT & FILTERING
 # ====================================================================
@@ -190,9 +204,7 @@ def extract_date_from_group(group_title):
     return None
 
 def get_channel_priority(channel_name):
-    """
-    SISTEM KASTA MAHA SULTAN (Prioritas Urutan SPORTS 1-17)
-    """
+    """ SISTEM KASTA MAHA SULTAN (Prioritas Urutan SPORTS 1-16, 99, 999) """
     n = channel_name.upper()
     
     if "BEIN" in n: return 1
@@ -213,14 +225,18 @@ def get_channel_priority(channel_name):
     if "ASTRO" in n: return 12
     if "SETANTA" in n: return 13
     if "PRIMA" in n: return 14
-    if "SPORT" in n and not any(k in n for k in ["BEIN", "SPOTV", "SKY", "TNT", "TRUE", "ARENA"]): return 15
+    
+    # Sport Umum
+    if "SPORT" in n and not any(k in n for k in ["BEIN", "SPOTV", "SKY", "TNT", "TRUE", "ARENA", "DAZN"]): return 15
     if "FUBO" in n: return 16
+    
+    # Hukuman
     if "ARENA" in n: return 999 
     
+    # Rakyat Jelata
     return 99 
 
 def download_playlist(args):
-    # Args berisi Tuple: (Index Provider, URL String)
     idx, url = args
     print(f"  > Sedang menyedot dari: {url}")
     channels = []
@@ -257,8 +273,6 @@ def download_playlist(args):
                     
             elif len(line) > 5 and line.lower().startswith("http"): 
                 stream_url = line
-                
-                # Pemusnah link sauri kembar dibebaskan (tidak diblokir lagi)
                 if current_buffer and current_extinf:
                     channels.append({
                         "buffer": current_buffer,
@@ -290,7 +304,7 @@ def filter_m3u_by_config(config, super_clean_channels):
     
     for ch in super_clean_channels:
         stream_url = ch["url"]
-        provider_idx = ch["provider_idx"] # Ambil ID Urutan Provider
+        provider_idx = ch["provider_idx"] 
         
         if stream_url in CATEGORIZED_URLS:
             continue
@@ -310,7 +324,7 @@ def filter_m3u_by_config(config, super_clean_channels):
         new_channel_name = raw_channel_name
         extracted_date = None
         
-        # MUTASI ELEVEN -> DAZN Mutlak
+        # MUTASI ELEVEN -> DAZN
         if target_category == "SPORTS":
             new_channel_name = re.sub(r'(?i)eleven', 'DAZN', new_channel_name)
         
@@ -321,6 +335,7 @@ def filter_m3u_by_config(config, super_clean_channels):
             continue
 
         if target_category == "SPORTS":
+            # Musnahkan CHAMPIONS & BEIN MAX
             if "CHAMPIONS" in clean_channel_name:
                 continue
             if "BEIN" in clean_channel_name and "MAX" in clean_channel_name:
@@ -362,7 +377,7 @@ def filter_m3u_by_config(config, super_clean_channels):
             if match_found and require_time and not has_time_pattern:
                 match_found = False
 
-        # SATPAM LOKAL GRATIS
+        # SATPAM LOKAL GRATIS DI SPORTS
         if match_found and target_category == "SPORTS":
             lokal_gratis = ["RCTI", "SCTV", "INDOSIAR", "ANTV", "MNC TV", "MNCTV", "INEWS", "GTV", "TVRI", "TRANS", "MOJI", "RTV", "NET TV", "VOLI TV", "RCTV"]
             if any(k in clean_channel_name for k in lokal_gratis):
@@ -403,22 +418,23 @@ def filter_m3u_by_config(config, super_clean_channels):
             priority_score = 99
             if target_category == "SPORTS":
                 priority_score = get_channel_priority(new_channel_name)
+                # REKAM NAMA UNTUK DIBUATKAN FILE TXT (Bersihkan tag m3u)
+                clean_name_for_log = re.sub(r'\[.*?\]|\(.*?\)', '', new_channel_name).strip()
+                SPORTS_LOG[priority_score].add(clean_name_for_log)
+                
             elif is_event_category:
                 priority_score = 0
             
-            # MEMASUKKAN 3 LAPIS DATA: Kasta (0), Urutan Provider (1), Abjad Nama (2)
             channels_data.append((priority_score, provider_idx, sort_key, current_buffer, stream_url))
             CATEGORIZED_URLS.add(stream_url)
                     
-    # ====================================================================
-    # SISTEM SORTIR 3 LAPIS (SUPER RAPI & SERAGAM)
-    # ====================================================================
+    # SORTIR 3 LAPIS: Kasta -> Provider -> Abjad
     if is_event_category:
-        channels_data.sort(key=lambda x: (x[2], x[1])) # Tanggal -> Provider
+        channels_data.sort(key=lambda x: (x[2], x[1])) 
     elif target_category == "SPORTS":
-        channels_data.sort(key=lambda x: (x[0], x[1], x[2])) # Kasta -> Provider -> Nama
+        channels_data.sort(key=lambda x: (x[0], x[1], x[2])) 
     else:
-        channels_data.sort(key=lambda x: (x[1], x[2])) # Provider -> Nama
+        channels_data.sort(key=lambda x: (x[1], x[2])) 
     
     filtered_lines = ["#EXTM3U"]
     for _, _, _, block_data, s_url in channels_data:
@@ -443,7 +459,6 @@ if __name__ == "__main__":
     all_providers_data = []
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
-        # Menyematkan Nomor Urut Provider untuk 3 Lapis Sortir
         results = executor.map(download_playlist, enumerate(MASTER_URLS))
         
         for idx, url, channels in results:
@@ -469,7 +484,6 @@ if __name__ == "__main__":
             
             if stream_url not in master_seen_urls:
                 master_seen_urls.add(stream_url)
-                # Menyimpan ID Provider ke dalam channel
                 super_clean_channels.append({
                     "buffer": ch["buffer"],
                     "extinf": ch["extinf"],
@@ -483,4 +497,16 @@ if __name__ == "__main__":
     for config in CONFIGURATIONS:
         filter_m3u_by_config(config, super_clean_channels)
         
-    print("\n✅ PROSES SELESAI! Tampilan 100% Seragam, Rapi, Estetik, dan Super Ngebut!")
+    # CETAK FILE LAPORAN SEMUA EPG SPORTS (1 - 999)
+    print("\n[+] Mencetak file Laporan EPG Sports...")
+    with open("daftar_semua_sports_epg.txt", "w", encoding="utf-8") as f:
+        f.write("DAFTAR LENGKAP CHANNEL SPORTS (UNTUK MAPPING EPG)\n")
+        f.write("==================================================\n\n")
+        for kasta in sorted(KASTA_NAMES.keys()):
+            if SPORTS_LOG[kasta]: # Jika kasta ini ada isinya
+                f.write(f"{KASTA_NAMES[kasta]}\n")
+                for name in sorted(SPORTS_LOG[kasta]):
+                    f.write(f"  - {name}\n")
+                f.write("\n")
+                
+    print("\n✅ PROSES SELESAI! Laporan 'daftar_semua_sports_epg.txt' sukses dicetak!")
