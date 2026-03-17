@@ -5,23 +5,29 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
   [KASTA 1 - PRIORITAS UTAMA]
     - RCTI
     - RCTI HD
+    - RCTI R+
     - RCTI VIP
   [KASTA 2 - PRIORITAS UTAMA]
     - SCTV
-    - SCTV DIGITAL
+    - SCTV DN
     - SCTV HD
+    - SCTV IH
     - SCTV15 HD
     - SCTV17 HD
     - SCTV9
   [KASTA 3 - PRIORITAS UTAMA]
     - INDOSIAR
-    - INDOSIAR DIGITAL
     - INDOSIAR DIGITAL 720 VIP
+    - INDOSIAR DN
     - INDOSIAR ID
+    - INDOSIAR WF
     - Indosiar
     - Indosiar HD
   [KASTA 4 - PRIORITAS UTAMA]
     - TRANS 7
+    - TRANS 7 DK
+    - TRANS TV
+    - TRANS TV DK
     - Trans 7 DT
     - Trans TV DT
     - Trans7
@@ -30,12 +36,14 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Transtv
   [KASTA 5 - PRIORITAS UTAMA]
     - MNC TV
+    - MNC TV R+
     - MNCTV
     - MNCTV WORLD
     - My Family Channel
   [KASTA 6 - PRIORITAS UTAMA]
     - FGTV
     - GTV
+    - GTV R+
     - GTV WORLD
     - HGTV
     - HGTV HD
@@ -43,6 +51,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - gtv
     - hgtv
   [KASTA 7 - PRIORITAS UTAMA]
+    - TVRI
     - TVRI Bangka Belitung
     - TVRI Jawa Barat
     - TVRI Jawa Tengah
@@ -51,6 +60,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - TVRI Kalimantan Selatan
     - TVRI Kalimantan Tengah
     - TVRI Kalimantan Timur
+    - TVRI NASIONAL
+    - TVRI NASIONAL KH
     - TVRI Nasional
     - TVRI Sulawesi Barat
     - TVRI Sulawesi Selatan
@@ -63,17 +74,24 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - TVRI WORLD
     - TVRI World
   [KASTA 8 - PRIORITAS UTAMA]
+    - METRO TV
+    - METRO TV FM
     - METRO TV HD
     - Metro TV
     - Metro TV DT
   [KASTA 9 - PRIORITAS UTAMA]
     - Fuji TV One
+    - TV ONE
     - TV ONE DT
     - TVONE
+    - TVONE DN
+    - TVONE IM
   [KASTA 10 - PRIORITAS UTAMA]
     - KOMPAS TV
+    - KOMPAS TV IH
     - Kompas TV HD
   [KASTA 11 - PRIORITAS UTAMA]
+    - INEWS
     - iNews
     - iNews  ID
   [KASTA 12 - PRIORITAS UTAMA]
@@ -81,29 +99,43 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Canal 17 RTVD
     - LINGKARTV
     - RTV
+    - RTV DN
+    - RTV IH
     - RTVI
   [KASTA 13 - PRIORITAS UTAMA]
+    - NET TV
     - NET TV/MDTV
     - NET TV/MDTV V+
     - NET TV/MDTV VIP
   [KASTA 14 - PRIORITAS UTAMA]
+    - ABTV BLITAR
     - BTV
+    - BTV V+
     - Berita Satu
   [KASTA 15 - PRIORITAS UTAMA]
     - JAK TV
     - JTV
-    - JTV Kediri
+    - JTV KEDIRI
   [KASTA 16 - PRIORITAS UTAMA]
     - DAAI TV
   [KASTA 99 - UMUM / LAIN-LAIN]
     - 5 cm
     - 7 Hari Untuk Keshia
+    - ABC AUSTRALIA
+    - AFN
+    - AKTV
+    - AL JAZEERA
     - ANTV
+    - AREK TV
+    - ARIRANG
+    - AXN
     - AllPlay Ent
     - Antara
     - Avatar: Fire and Ash
+    - BALAP
+    - BALIKPAPAN TV
     - BERITASATU
-    - BETV
+    - BETV IM
     - BIOSKOP INDONESIA
     - BMS TV
     - BN Channel
@@ -115,53 +147,94 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Banten TV
     - Bioskop Indonesia
     - Bungo TV
+    - CCTV 4
+    - CGTN
+    - CINEMA WORLD
+    - CINEMAX
+    - CLUBBING TV
+    - CNA
     - CNBC
+    - CNBC INDONESIA
     - CNBC Indonesia
     - CNN INDONESIA
     - CNN Indonesia
+    - COOKING TV
     - CelebritiesTV
     - Channel Jowo âª
     - Citra Bioskop HD
     - Citra Dangdut HD
-    - Citra Drama
     - Citra Entertainment HD
+    - DAVIKA TV LAMPUNG
+    - DIZI
+    - DTVI
+    - DUNIA LAIN
     - Dhamma TV
     - Dhoho TV
     - Dhoho TV- Kediri
     - Duta TV
+    - EAT & GO
     - ELSHINTA TV
-    - Elshinta TV
+    - EURO NEWS
     - Entertainment
-    - Flik
+    - FASHION TV
+    - FICOM CHANNEL
+    - FITNESS TV
+    - FRANCE 24
     - Food Travel
+    - GAMING TV
     - GARUDA TV
+    - GEM TV
+    - GOLF+
+    - GOSSIP
     - Garuda TV
     - Guru-Guru Gokil
     - HANACARAKA TV
+    - HBO
+    - HBO FAMILY
+    - HBO HITS
+    - HBO SIGNATURE
+    - HOWTO
+    - HUMA BETANG TV
+    - IDCYCLIST
     - IDX
+    - IDX CHANNEL FM
     - INSPIRA TV
     - Indonesia Movie Channel
     - Indonesiana TV
     - JAKTV
+    - JAMBI TV
     - JAWAPOST TV
-    - JITV
+    - JAYA TV IM
+    - JEK TV
     - JITV Jogja
+    - JOGJA TV
+    - JOKE TV
+    - JOWO CHANNEL
     - JOWO TV
+    - JURNAL TV
     - Jawa Pos TV
-    - Jaya TV
+    - KALTARA TV
     - KILAS 7
+    - KILAT TV
     - KTV
+    - KTV IM
     - Kilisuci TV Kediri
     - Lara Ati
     - Laura
     - Lovely Man
     - MAGNA
+    - MAGNA CHANNEL
     - MAGNA TV
+    - MATRIX TV
     - MBG TV
     - MDTV
+    - MDTV KH
+    - MGS TV
     - MOJI
-    - MOJI DIGITAL
+    - MOJI DN
     - MOJI TV D
+    - MOTOR RACING
+    - MOVIES NEWS
     - MUSIK INDONESIA
     - Madu TV
     - Merindu Cahaya De Amstel
@@ -169,31 +242,74 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Moji
     - Mungkin Esok Lusa Atau Nanti
     - Musik Indonesia
+    - NASIONAL TV
+    - NATURE VISION TV
     - NESIA
+    - NUSANTARA
     - NUSANTARA TV
     - NUSANTARA TV DT
     - Nasional Tv
     - Nusantara TV
+    - ONE TV
     - Oxygen TV
+    - PAL TV IM
+    - PIJAR TV
+    - PKTV
+    - PON TV
+    - PORTALOKA TV
+    - PRETTY TV
     - Pasutri Gaje
+    - RADAR LAMPUNG TV
+    - RADAR TV TASIKMALAYA
+    - RAJAWALI TV
+    - RB TV IM
     - RCTV
+    - RUSSIA TODAY
     - Rumah Dinas Bapak
+    - SAMPIT TV
+    - SEMARANG TV
+    - SERIES ZONE
     - SINDONEWS
     - SINPO TV
+    - SMTV
+    - SONG TV
+    - SPEED TV
+    - STARA TV
+    - STARA TV BANDUNG
+    - STARA TV CIANJUR
+    - STARA TV JAKARTA
+    - STARA TV MALANG
+    - SULTRA TV
+    - SUPERYATCH TV
     - SURABAYA TV
     - Sakti TV
     - Selesai
-    - Semarang TV
     - Semusim Setelah Kemarau
     - Sesuai Aplikasi
     - TATV
+    - TECHSTROM
+    - THE INDONESIA CHANNEL
+    - TRAVEL TV
+    - TV DESA
+    - TV MU
+    - TV TABALONG
     - TV Tabalong
+    - TV5 MONDE
+    - TV9
+    - TVKU
+    - TVN
+    - TVR PARLEMEN
     - VTV
     - Vision Prime
+    - WAI LANA
+    - WARNER TV
+    - WION TV
+    - ZEE BIOSKOP
 
 === KATEGORI: KIDS ===
   [KASTA 1 - PRIORITAS UTAMA]
     - DISNEY JUNIOR
+    - DISNEY JUNIOR EN
     - DISNEY XD
     - Disney
     - Disney Channel
@@ -209,6 +325,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - NICK
     - NICK JR
     - NICK JR 🇹🇭
+    - NICK JR. PLUTO
     - NICKELODEON 🇹🇭
     - NICKTOONS
     - Nick
@@ -221,6 +338,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
   [KASTA 3 - PRIORITAS UTAMA]
     - ABC Cartoons
     - CARTOON NETWORK
+    - CARTOON NETWORK CM
     - CARTOON NETWORK 🇹🇭
     - CARTOON TV
     - CARTOON TV CLASSICS
@@ -236,13 +354,16 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Cartoonito
     - cartoonnetwork
   [KASTA 4 - PRIORITAS UTAMA]
+    - BOOMERANG
     - Boomerang
   [KASTA 5 - PRIORITAS UTAMA]
     - Baby Shark TV
     - Baby TV
+    - I NEED YOU BABY
     - Pinkfong Baby Shark TV
   [KASTA 6 - PRIORITAS UTAMA]
     - MENTARI TV
+    - MENTARI TV VD
     - Mentari TV
     - PBS Documentaries
   [KASTA 7 - PRIORITAS UTAMA]
@@ -259,7 +380,9 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - ABC Kids Play Music
     - ABC Kids Play School
     - ADN TV+
+    - ANIMAX
     - ANIME x HIDIVE
+    - ANIPLUS
     - Animax
     - Anime
     - Anime Vision
@@ -274,9 +397,9 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - DA VINCI
     - DEI KIDS
     - DREAMWORKS
+    - DREAMWORKS V+
     - DUNIA ANAK
     - Discovery Kids
-    - Dreamworks HD
     - Duck tv
     - EBS KIDS
     - EnerGeek
@@ -325,6 +448,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - KidsFlix
     - KidsFlix TV
     - Kuriakos Kids
+    - MYKIDZ
     - MYKIDZ DENS
     - Moonbug
     - Moonbug Kids
@@ -332,6 +456,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Naruto
     - ON KIDS
     - PBS Kids
+    - PINGFONG TV
     - PLANET FUN
     - Peppa pig TV
     - Pluto TV Kids
@@ -359,6 +484,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
   [KASTA 1 - PRIORITAS UTAMA]
     - NATGEO WILD 🇺🇸
     - NATGEO 🇺🇸
+    - NATIONAL GEOGRAPHIC
     - Nat Geo HD
     - Nat Geo Sharks
     - Nat Geo Wild
@@ -374,6 +500,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Asharq Discovery
     - DISCOVERY INVESTIGATION
     - DISCOVERY LIFE
+    - DISCOVERY SCI
     - DISCOVERY SCIENCE
     - Discovery
     - Discovery Asia
@@ -395,6 +522,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Autentic History
     - HISTORY
     - HISTORY HD
+    - HISTORY HIT
     - HISTORY 🇺🇸
     - History
     - History Channel DE
@@ -409,6 +537,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - history
   [KASTA 5 - PRIORITAS UTAMA]
     - Mystery Science Theater 3000
+    - PLUTO SCIENCE
     - Science is Amazing
   [KASTA 6 - PRIORITAS UTAMA]
     - Action-2-River Wild
@@ -421,6 +550,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - WildEarth
   [KASTA 7 - PRIORITAS UTAMA]
     - Asharq Documentary
+    - CGTN DOCUMENTARY
     - CGTN Documentary
     - Documentary+
     - Documentary+ International
@@ -441,13 +571,16 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - CGTN DOC
     - CGTN Doc
     - CGTN Global Biz
+    - COSMOS TV
     - CRIME INVESTIGATION
+    - CURIOSITY CHANNEL
     - Click TV
     - Court TV
     - Crime + Investigation HD
     - Crime Investigation
     - Curiosity
     - DENS KNOWLEDGE
+    - DENSKNOWLEDGE
     - DMAX
     - DangerTV
     - Dateline 24/7
@@ -458,12 +591,15 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - EcovisiÃ³n
     - FOX WEATHER
     - Francophonie24
+    - GLOBAL TREKKER
     - GZT
     - Global Trekker
     - HDL
     - HGTV
+    - KNOWLEDGE+
     - KTOO 360TV 3
     - Knowledge Channel
+    - LINGUA CHANNEL
     - Law & Crime
     - Lifetime
     - Love Nature
@@ -478,6 +614,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Persiana Travel
     - Polsat Viasat Nature
     - REELZ Famous & Infamous
+    - SMITHSONIAN CHANNEL
     - Smithsonian
     - Smithsonian Channel
     - TBN
@@ -489,6 +626,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Unidentified
     - Viasat EXPLORE 🇬🇧 🇧🇦
     - Viasat NATURE 🇬🇧 🇧🇦
+    - WEDOTV BIG STORIES
     - Wonder
     - Zylo Into Crime
     - ÄT 2
@@ -510,6 +648,27 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 17:00 WIB - NU TRUNG QUOC VS NU AUSTRALIA
     - 17:30 WIB - GIMCHEON SANGMU VS GWANGJU FC
     - 18:30 WIB - ARAKS ARARAT VS SHIRAK GJUMRI B
+    - Alajuelense vs Los Angeles FC
+    - Atletico de Madrid U19 vs Club Brugge U19
+    - Braga U23 vs Leixoes U23
+    - Chelsea vs Paris Saint-Germain
+    - Cruz Azul vs Monterrey
+    - Denver Nuggets vs Philadelphia 76ers
+    - Gimcheon Sangmu FC vs Gwangju FC
+    - Gimnasia Mendoza vs Estudiantes La Plata
+    - Guangdong Southern Tigers vs Xinjiang Yilite
+    - Hàn Quốc Nữ vs Nhật Bản Nữ
+    - Lanus vs Newells Old Boys
+    - Lokomotiv 1929 Sofia vs Septemvri Sofia
+    - Melbourne City Nữ vs Adelaide Nữ
+    - Sagaing vs Ayeyawady
+    - Shanxi Fenjiu vs Beijing Konggu
+    - Sporting vs Bodo Glimt
+    - Sydney FC vs Melbourne city
+    - Torreense U23 vs Santa Clara U23
+    - Trung Quốc Nữ vs Úc Nữ
+    - Villarreal U19 vs Paris Saint Germain U19
+    - Yarmanya United FC vs Thitsar Arman FC
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
@@ -546,12 +705,16 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - BBC THREE
     - BBC TWO
     - BBC Treasures
+    - BBC WORLD
     - BBC World
     - BBC World FM
     - BBC World News
     - BBC World V+
     - bbcnews
   [KASTA 4 - PRIORITAS UTAMA]
+    - AL JAZEERA
+    - AL JAZEERA ARABIC
+    - AL JAZEERA ENGLISH
     - Al Jazeera
     - Al Jazeera Arabic
     - Al Jazeera English
@@ -561,6 +724,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - CNA Originals
   [KASTA 6 - PRIORITAS UTAMA]
     - BLOOMBERG
+    - BLOOMBERG TV
     - Bloomberg
     - Bloomberg HT
     - Bloomberg Originals
@@ -578,8 +742,11 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - ABC NEWS AUSTRALIA
     - ABC News
     - AFRICANEWS
+    - AL-JAZEERA ARAB
+    - AL-JAZEERA ENGLISH
     - ALJAZEERA ARAB
     - ALJAZEERA ENGLISH
+    - ASHARQ NEWS
     - Al Arabiya
     - Al-Manar TV
     - AlJazeera Arabic
@@ -591,15 +758,19 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Bilyonaryo News Channel
     - CBS NEWS
     - CGTN
+    - CHANNEL NEWS ASIA
     - Channel News Asia
     - Channel News Asia HD
     - Channel NewsAsia
     - DW
     - DW ENGLISH
     - DW English
+    - DW NEWS
     - Dongguan News Summary
+    - EURO NEWS
     - EURONEWS
     - Euronews
+    - FOX NEWS
     - FOX News
     - FRANCE24
     - Fox News
@@ -610,7 +781,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - IDX
     - JAKARTA GLOBE CHANNEL
     - Jakarta GlobeNews Channel
-    - MOVIES NEWS
+    - MSNBC HD
     - NBC NEWS
     - NEWS MAX
     - NEWS MAX 2
@@ -619,6 +790,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - NHK World Premium HD
     - OANN
     - PHOENIX INFO NEWS
+    - PHOENIX INFONEWS
     - REUTERS TV
     - RT ENGLISH
     - Russia Today
@@ -626,6 +798,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SKY UK
     - Sindo News TV
     - Skynews Arabiya
+    - TASTYTRADE
     - TRT WORLD
     - TRT World
     - TVBS NEWS
@@ -672,6 +845,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - CCTV+
     - CCTV+ 1
     - CCTV+ 2
+    - CCTV-4
     - CCTV1
     - CCTV10
     - CCTV11
@@ -699,65 +873,153 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - RODJA TV
     - RODJA TV 2
     - RODJA TV DENS
+    - RODJA TV DN
+    - RODJA TV HD
     - Rodja TV
     - RodjaTV
   [KASTA 3 - PRIORITAS UTAMA]
     - TVMU
     - TVMU HD
-    - TVMu
+    - TVMU V+
   [KASTA 4 - PRIORITAS UTAMA]
-    - MTATV
+    - MTA HD
+    - MTA INTERNATIONAL
+    - MTA1 WORLD
+    - MTA2 EUROPE
+    - MTA3 AL-ARABIA
+    - MTA4 AFRICA
+    - MTA5 AFRICA
+    - MTA6 ASIA
+    - MTA7 ASIA
+    - MTA8 AMERICA
   [KASTA 5 - PRIORITAS UTAMA]
     - INSAN TV
+    - INSAN TV IM
+    - SURAU TV IM
     - SurauTV
+    - WESAL TV
+    - WESAL TV IM
     - WesalTV
   [KASTA 6 - PRIORITAS UTAMA]
     - KHAZANAH
+  [KASTA 7 - PRIORITAS UTAMA]
+    - NABAWI TV
   [KASTA 99 - UMUM / LAIN-LAIN]
+    - ABY TV IM
+    - AFRICA TV 2
+    - AFRICA TV 3
+    - AHL-ALQURAN TV
+    - AHSAN TV IM
     - AJWA TV
+    - AL BAHJAH TV
+    - AL FAYDA TV
+    - AL HAYAT TV
     - AL IMAN TV
+    - AL QURAN AL KAREEM
     - AL QURAN KAREEM
+    - AL QURAN KAREEM TV
+    - AL-AIMMA TV
+    - AL-FURQON TV IM
+    - AL-JAWADAIN TV
+    - AL-ZAHRA TV TURKIC
+    - ALFATH SONNAH TV
+    - ALJAEERA MUBASHER
+    - ALQURAN
+    - ARTVISI AUDIO
     - ASHIIL TV
+    - ASHIIL TV IM
+    - ASTRO AL HIJRAH
     - Ajwa TV
-    - Al Quran Al Kareem
     - Al WAFA TARIM
     - AlQuran Kareem
     - AshillTV
     - AswajaTV
+    - BAHRAIN QURAN
+    - BAYYINAT TV
+    - BEITOLABBAS TV
+    - BIN BAZ TV IM
+    - BRTV HD
     - Bahrain Quran
     - Citra Muslim HD
+    - DIYAR TV
     - DMI TV
+    - DMI TV IH
+    - DOST TV
     - Daystar TV
+    - ESLAH TV
     - FATWA TV
     - HIJRAH TV
+    - HOLY QURAN
     - HOPE
+    - HUDA TV
+    - IBN TV
+    - IBN TV AFRICA
+    - IMAM HUSSEIN TV 1
+    - IMAM HUSSEIN TV 2
+    - IMAM HUSSEIN TV 3
+    - IMAM HUSSEIN TV 4
     - IZZAH TV
+    - JOM NGAJI
+    - KANI QURAN HD
+    - KTV ETHRAA
     - LIFE
+    - MADANI CHANNEL BANGLA
+    - MADANI CHANNEL ENGLISH
+    - MADANI CHANNEL URDU
     - MADANI TV
+    - MARJAEYAT TV ARABIC
+    - MARJAEYAT TV ENGLISH
+    - MARJAEYAT TV PERSIAN
+    - MEDS TV IM
+    - MERCY TV
+    - MGI TV IM
+    - MGI TV YT
+    - MIHRAB TV
+    - MNC MUSLIM
+    - MQH TV IM
     - MQTV
+    - MQTV HD
     - MUADZ TV
     - MUI TV
-    - MUITV
     - MUSLIM TV
     - Makka TV
     - Muslim TV
     - NAAJIYA TV
+    - NAAJIYA TV YT
     - NIAGA TV
-    - PIJAR TV
+    - NOUR TV
+    - PALIKO TV IM
+    - PALIKO TV YT
+    - PULDAPII TV IM
+    - RASYAAD TV YT
     - REFORMED 21
+    - RINJANI TV IM
+    - SADA E-HAQ TV
+    - SADA TV
     - SALAM TV
+    - SALING SAPA TV
     - SANGAJI TV
+    - SHARJAH TV
     - SIAK TV
+    - SJP TV YT
     - SUNNA TV
     - SUNNAH JALAN PASTI
     - Saudi Sunna HD
     - Sharjah Quran HD
+    - TARBIYAH SUNNAH
     - TV 10 HD
+    - TV MANÃ BRASIL
     - TV MUI
+    - TV SUNNAH IM
     - TV9
     - TV9 HD
     - TV9 Nusantara
     - U-CHANNEL
+    - VELAYAT TV
+    - WALAD TV IM
+    - ZAINABIA CHANNEL
+    - ÐÐÐÐÐÐÐ Ð¢Ð
+    - Ð¥Ð£ÐÐ£Ð  Ð¢Ð
 
 === KATEGORI: SPORTS ===
   [KASTA 1 - PRIORITAS UTAMA]
@@ -822,19 +1084,22 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - CTV 6
   [KASTA 3 - PRIORITAS UTAMA]
     - SPOTV
+    - SPOTV 2
     - SPOTV 2 HD
+    - SPOTV 2 PH
     - SPOTV HD FM
     - SPOTV NOW
+    - SPOTV PH
     - SPOTV2
     - SpoTV 1
     - SpoTV 1 PH
     - SpoTV 2
     - SpoTV 2 PH
-    - SpoTV 2 🇵🇭
-    - SpoTV 🇵🇭
   [KASTA 4 - PRIORITAS UTAMA]
     - SPORTSTARS 04 HD
+    - SPORTSTARS 2
     - SPORTSTARS 3
+    - SPORTSTARS 4
     - Sportstar
     - Sportstar 2
     - Sportstar 4
@@ -849,11 +1114,14 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
   [KASTA 6 - PRIORITAS UTAMA]
     - ANTV SPORTS
     - GTV SPORTS
+    - INDOSIAR SPORTS 1
     - INDOSIAR SPORTS 2
     - MNC TV SPORTS
-    - RCTI LIVE SPORTS
+    - MOJI SPORTS
+    - RCTI SPORTS
     - RTVS SPORT 🇸🇰
     - SCTV 22 - SSPORT 1 🇻🇳
+    - SCTV SPORTS
     - SporTV 2 BR
     - SporTV BR
     - Sportv HD
@@ -861,15 +1129,29 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - TVRI SPORTS
     - TVRI Sport
   [KASTA 7 - PRIORITAS UTAMA]
+    - DAZN 1 DE
+    - DAZN 1 ES
+    - DAZN 1 IP
     - DAZN 1 🇹🇼
+    - DAZN 2 ES
+    - DAZN 2 IP
     - DAZN 2 🇹🇼
+    - DAZN 3 IP
+    - DAZN 4 IP
+    - DAZN 5 IP
+    - DAZN 6 IP
     - DAZN COMBAT
+    - DAZN F1
+    - DAZN F1 IP
     - DAZN FAST+
+    - DAZN HELDINNEN
+    - DAZN LALIGA
     - DAZN RINGSIDE
     - DAZN SPORTS 1
     - DAZN SPORTS 2
     - DAZN SPORTS 3
     - DAZN SPORTS 4
+    - DAZN WOMEN'S FOOTBALL
     - DAZN1
     - DAZN2
     - DAZN3
@@ -879,8 +1161,12 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Dazn laliga hypermotion 1
     - Dazn laliga hypermotion 2
   [KASTA 8 - PRIORITAS UTAMA]
+    - EPL 10 SKY SPORT TE
+    - EPL 8 SKY SPORT MIX
+    - EPL 9 SKY SPORT PL
     - SKY SPORT ARENA
     - SKY SPORT RACING
+    - SKY SPORTS
     - SKY SPORTS 2
     - SKY SPORTS ACTION
     - SKY SPORTS BUNDESLIGA
@@ -1012,11 +1298,15 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
   [KASTA 12 - PRIORITAS UTAMA]
     - ASTRO ARENA
     - ASTRO ARENA 2
+    - ASTRO ARENA BOLA
+    - ASTRO ARENA BOLA 2
+    - ASTRO BADMINTON 2
     - ASTRO CRICKET
     - ASTRO FOOTBALL
     - ASTRO FOOTBALL LIVE
     - ASTRO GOLF
     - ASTRO GRANDSTAND
+    - ASTRO PRIMA IP
     - Astro Arena
     - Astro Football
   [KASTA 13 - PRIORITAS UTAMA]
@@ -1025,6 +1315,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Setanta Sports 2
   [KASTA 14 - PRIORITAS UTAMA]
     - PRIMA
+    - PRIMA TV
     - PRIMA_KRIMI
     - PRIMA_LOVE
     - PRIMA_ZOOM
@@ -1034,7 +1325,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Prima Sport 3
     - Prima Sport 4
     - Prima Sport 5
-    - Prima TV
   [KASTA 15 - PRIORITAS UTAMA]
     - ACI Sport TV
     - ART SPORT 1
@@ -1094,6 +1384,11 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - DSTV: SuperSport OTT 6
     - DSTV: SuperSport OTT 7
     - DSTV: SuperSport OTT 8
+    - DUBAI SPORT 2
+    - DUBAI SPORT 3
+    - DUBAI SPORTS 1
+    - DUBAI SPORTS 2
+    - DUBAI SPORTS 3
     - Digi Sport 1
     - Digi Sport 2
     - Digi Sport 3
@@ -1106,11 +1401,13 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - EUROSPORT 1 🇸🇰
     - EUROSPORT 2
     - EUROSPORT 2 🇸🇰
+    - EUROSPORT ASIA
     - Euro Sport 2 HD
     - Euro Sport HD
     - Eurosport 1
     - Eurosport 2
     - Eurosport 4k
+    - FIGHT SPORT
     - FIGHT SPORTS
     - FIGHT SPORTS HD
     - FOX SPORTS 1
@@ -1137,9 +1434,13 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Fox Sports 506 FHD
     - Fox Sports 507 FHD
     - Fox Sports en Espanol
+    - GO3 SPORT 1
+    - GO3 SPORT 2
+    - GO3 SPORT 3
     - GO3 Sport 1
     - Gaora Sports
     - Gaora Sports,
+    - HISTORICAL SPORTS
     - HORIZON SPORTS
     - IN: EUROSPORTS
     - IN: STAR SPORTS 1 .
@@ -1150,6 +1451,10 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - IN: Star Sports Select 1
     - IN: Star Sports Select 2
     - Infosport+
+    - J SPORTS 1
+    - J SPORTS 2
+    - J SPORTS 3
+    - J SPORTS 4
     - J Sports 1
     - J Sports 2
     - J Sports 3
@@ -1165,6 +1470,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - KTV Sport
     - KTV Sport Plus
     - M4 Sport
+    - MAX SPORTS
     - MAXSport 1
     - MAXSport 1 Backup
     - MAXSport 1 RAW
@@ -1177,7 +1483,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - MaxSport4 HD
     - More Than Sports TV
     - MultivisiÃ³n Sports
-    - NBC SPORTS
     - NBC Sports
     - NBC Sports NOW
     - NOW SPORTS 1
@@ -1193,7 +1498,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Now Sports PL 1 FHD
     - Nudge Sports Channel
     - ON Sports HD
-    - ON Sports+
     - ONE SPORTS +
     - ONE SPORTS HD
     - Oman Sport
@@ -1211,6 +1515,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Realitatea Sportiva
     - S-SPORT 1
     - S-SPORT 2
+    - SHARJAH SPORT
     - SLOVAKIA: Nova Sport 1
     - SLOVAKIA: Nova Sport 2
     - SLOVAKIA: SPORT 1
@@ -1240,6 +1545,9 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SPORT TV3 HD
     - SPORTS TV
     - SPORTS TV TURKEY
+    - STAR SPORTS 1 HD
+    - STAR SPORTS 2 HD
+    - STAR SPORTS SELECT 1 HD
     - SUPER SPORTS 1 ALB
     - SUPER SPORTS 2 ALB
     - SUPER SPORTS 3 ALB
@@ -1305,6 +1613,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - T SPorts
     - T Sports 7
     - TAP Sports
+    - TEN SPORTS HD
     - TOFFEE Sports VIP
     - TRACE Sport Stars
     - TRT SPORT 1
@@ -1313,6 +1622,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - TYC Sports
     - Tianjin Sports
     - TÃ¼rkmenistan Sport
+    - UNIFI SPORTS
     - Unifi Sports 1
     - V Sport + 🇳🇴
     - V Sport 1 🇳🇴
@@ -1322,12 +1632,12 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - VOO SPORT 2
     - Viasat sport
     - W-SPORT
-    - W-SPORTS
     - W14DK-D 14.5 All Sports Television Network
     - WE DO SPORT
+    - WEDOTV SPORTS
     - Willow Sports
     - World of Freesports
-    - XTREAM SPORTS
+    - XTEM SPORTS
     - Xtrem sports
     - ZIGGO SPORT 1
     - ZIGGO SPORT 2
@@ -1341,6 +1651,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - ZIGGO SPORT 6 🇳🇱
     - ZIGGO SPORT 🇳🇱
     - fubo Sports Network
+    - group-title="SPORTS", NBA PHILIPPINES
     - ~GO3 Sport
     - ~GO3 Sport 2
     - ÄT Sport
@@ -1364,11 +1675,15 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Asian TV
     - B4U Movies VIP
     - B4U Music VIP
+    - BELLATOR MMA
     - BFL Live 1
     - BFL Live 2
     - BFL Live 3
     - BFL Live 4
+    - BILLIYARD TV
+    - BOXING TV
     - BWF COURT LIVE 1
+    - BWF COURT LIVE 2
     - BWF COURT LIVE 3
     - Bangla TV
     - Bijoy TV
@@ -1391,13 +1706,23 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - DSTV: WWE Superslam
     - DZ COMBAT
     - DraftKings Network
+    - EPL 11 PRIMERE
+    - EPL 12 CMP 5
+    - EPL 12 TELEMUNDO
+    - EPL 6 NBC
     - EPL channel 5
+    - ESPN
     - ESPN 1 NL
+    - ESPN 2
     - ESPN 2 NL
     - ESPN 2 US HD Test
     - ESPN 2 🇨🇴
+    - ESPN 3
     - ESPN 3 NL
+    - ESPN 4
     - ESPN 4 NL
+    - ESPN 5
+    - ESPN 6
     - Ekattor TV
     - Equidia
     - FANCODE TV 1
@@ -1427,9 +1752,10 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Fanduel TV
     - Fight Network
     - Futbol
+    - GLORY KICKBOXING
     - GLORY Kickboxing
     - GOLF CHANNEL 🇸🇰
-    - GOLF+
+    - GOLFPASS HD
     - GP1
     - Game+
     - Glory Kickboxing
@@ -1443,6 +1769,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Hum Masala
     - Hum Sitarey
     - Hum TV
+    - IMPACT! WRESTLING
     - IN: SONY TEN 5
     - IN: SONY TEN 5 .
     - IN: Sony Ten 1
@@ -1453,12 +1780,14 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - IN: TEN 3 .
     - INTER TV
     - ITV Deportes
+    - JOURNAL DU GOLF
     - KBS LIVECAM DOKDO
     - KCMN-LD6
     - KHL
     - KHL Prime
     - L'Equipe
     - LALIGA
+    - LALIGA 3 CANALE 5
     - LIVE EVENT 01
     - LIVE EVENT 02
     - LIVE EVENT 03
@@ -1517,17 +1846,20 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Mr Bean Live Action
     - NBA PHILIPPINES
     - NBA TV
+    - NBC GOLF
     - NFL NETWORK
     - NFL Network
     - NHL NETWORK
     - NHRA TV
     - Nautical Channel
     - Nittele G Plus
+    - OMAN LIVE
+    - ON FOOTBALL
     - ON Football HD
+    - ON GOLF
     - Outside
     - Ovacion TV
     - Overtime
-    - PSJ TV
     - Pac 12 Insider
     - Persiana Fight
     - Pilipinas Live 1
@@ -1543,12 +1875,19 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Poker Go
     - RACER International
     - REDBULL TV
+    - RTB GO  LIVE
     - RTB Go Live FHD
     - RTI La 3
     - Real Madrid TV
     - Red Bull TV
     - RightNow TV
+    - SERIE A 1 PLUTO
     - SK Fight Channel
+    - SKY LIVE 1
+    - SKY LIVE 2
+    - SKY LIVE 3
+    - SKY LIVE 4
+    - SKY LIVE 7
     - SKY_ACTION
     - SKY_F1
     - SKY_RACE
@@ -1559,16 +1898,28 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SONY MAX VIP
     - SONY PIX HD VIP
     - SONY SAB HD VIP
+    - SONY TEN 1 HD
+    - SONY TEN 2 HD
+    - SONY TEN 3 HD
+    - SONY TEN 4 HD
+    - SONY TEN 5 HD
     - SONY TEN Cricket
     - SONY YAY VIP
     - SOS Kanal
     - SOS Kanal Plus
-    - SPEED TV
     - SS F1 UK
     - SS Football UK
     - SS Golf UK
     - SS Main Event UK
     - SS Racing UK
+    - SSC 1
+    - SSC 2
+    - SSC 3
+    - SSC 4
+    - SSC 5
+    - SSC EXTRA 1
+    - SSC EXTRA 2
+    - SSC EXTRA 3
     - Somoy TV
     - Sony Aat VIP
     - Stadium
@@ -1583,6 +1934,9 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Sukan TV 1
     - Swerve Combat
     - Sydney FC vs Melbourne City
+    - TIMNAS DAY 1
+    - TIMNAS DAY 2
+    - TIMNAS DAY 3
     - TIVIBU 1
     - TIVIBU 2
     - TIVIBU 3
@@ -1590,6 +1944,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - TLC HD
     - TOFFEE Dramas VIP
     - TOFFEE Movies VIP
+    - TRUE GOLF CHANNEL
     - TSN 1
     - TSN 1 HD
     - TSN 1 🇨🇦
@@ -1603,6 +1958,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - TSN 5
     - TSN 5 🇨🇦
     - TSN The Ocho
+    - TUDN
     - TUDN 🇲🇽
     - TV Zvezda
     - TV4 Tennis 🇸🇪
@@ -1613,11 +1969,13 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Tennis Channel 2
     - Turf Movil
     - Tv4Futbol 🇸🇪
+    - UAAP VARSITY
     - UFC MMA 1
     - UFC MMA 2
     - USA
     - VITAL Drive
     - WOWOW Live
+    - WWE NETWORK
     - Wanted: Dead or Alive
     - World Poker Tour
     - Zee Bangla Cinema VIP
