@@ -4,7 +4,7 @@ import concurrent.futures
 from datetime import datetime
 
 # ====================================================================
-# I. KONFIGURASI GLOBAL
+# I. KONFIGURASI GLOBAL & KATA KUNCI
 # ====================================================================
 
 MASTER_URLS = [
@@ -47,6 +47,31 @@ ALL_POSITIVE_KEYWORDS = {
         "RELIGI", "ISLAM", "MUSLIM", "ROHANI", "DAKWAH", "NGAJI", 
         "SUNNAH", "QURAN", "RODJA", "WESAL", "INSAN", "SURAU", 
         "TVMU", "MTA", "KHAZANAH", "MADINAH", "MAKKAH", "NABAWI", "UMMAT"
+    ]
+}
+
+# ====================================================================
+# URUTAN PRIORITAS ALA TV PREMIUM (BISA DIEDIT SESUAI SELERA)
+# ====================================================================
+PRIORITY_ORDER = {
+    "SPORTS": [
+        ["BEIN", "BE IN"],         # Prioritas 0 (Paling Atas)
+        ["SPOTV"],                 # Prioritas 1
+        ["CHAMPIONS", "CTV"],      # Prioritas 2 (Sesuai Permintaan)
+        ["DAZN"],                  # Prioritas 3
+        ["SKY"],                   # Prioritas 4
+        ["TNT"],                   # Prioritas 5
+        ["ASTRO", "ARENA"],        # Prioritas 6
+        ["OPTUS"],                 # Prioritas 7
+        ["ZIGGO"],                 # Prioritas 8
+        ["ESPN", "FOX"]            # Prioritas 9
+    ],
+    "INDONESIA": [
+        ["RCTI", "MNC", "GTV", "INEWS"],            # MNC Group
+        ["SCTV", "INDOSIAR", "MOJI", "MENTARI"],    # Emtek
+        ["TRANS", "CNN INDONESIA"],                 # Trans Media
+        ["TV ONE", "TVONE", "ANTV"],                # Viva
+        ["METRO"]                                   # Media Group
     ]
 }
 
@@ -135,19 +160,10 @@ CONFIGURATIONS = [
 # Regex
 GROUP_TITLE_REGEX = re.compile(r'group-title="([^"]*)"', re.IGNORECASE)
 CLEANING_REGEX = re.compile(r'[^a-zA-Z0-9\s]+')
-
-# ====================================================================
-# REGEX SUPER KETAT: Wajib mendeteksi format Jam yang DIIKUTI kata "WIB"
-# ====================================================================
 TIME_PATTERN_REGEX = re.compile(r'\b(?:[01]?[0-9]|2[0-3])[:.][0-5][0-9]\s*WIB\b', re.IGNORECASE)
-
 QUALITY_CLEANER_REGEX = re.compile(r'\b(hd|fhd|uhd|sd|4k|8k|tv|ind|indo|id|my|sg|ch|channel|network|plus|max|raw|hevc|hq)\b', re.IGNORECASE)
-
 SPAM_KEYWORDS = ['EXTVLCOPT', 'USER-AGENT', 'GECKO', 'CHROME', 'SAFARI', 'WINK', 'MOZILLA', 'APPLEWEBKIT', 'HTTP']
 
-# ====================================================================
-# TRACKER GLOBAL
-# ====================================================================
 CATEGORIZED_URLS = set()
 
 # ====================================================================
@@ -187,6 +203,16 @@ def extract_date_from_group(group_title):
         year = datetime.now().strftime("%y") 
         return f"{day}-{month}-{year}"
     return None
+
+# Fungsi Penentu Skor Prioritas
+def get_priority_score(clean_name, category_name):
+    if category_name in PRIORITY_ORDER:
+        for index, keywords in enumerate(PRIORITY_ORDER[category_name]):
+            # Jika salah satu kata kunci prioritas ada di nama channel, berikan skor indeksnya
+            if any(kw in clean_name for kw in keywords):
+                return index
+    # Jika tidak ada di daftar VIP, beri nilai 99 agar terlempar ke bawah
+    return 99
 
 def download_playlist(url):
     print(f"  > Sedang menyedot dari: {url}")
@@ -243,7 +269,6 @@ def filter_m3u_by_config(config, super_clean_channels):
     for ch in super_clean_channels:
         stream_url = ch["url"]
         
-        # Cegah masuk kategori ganda
         if stream_url in CATEGORIZED_URLS:
             continue
 
@@ -265,19 +290,15 @@ def filter_m3u_by_config(config, super_clean_channels):
         clean_group_title = CLEANING_REGEX.sub(' ', raw_group_title).upper()
         clean_channel_name = CLEANING_REGEX.sub(' ', raw_channel_name).upper()
         
-        # PENGHANCUR SPAM
         if any(spam in clean_channel_name for spam in SPAM_KEYWORDS):
             continue
 
-        # Pengecualian mutlak untuk RADIO
         if "RADIO" in clean_channel_name or "RADIO" in clean_group_title:
             continue
 
         match_found = False
 
-        # ==============================================================
-        # ATURAN EVENT: TARIK PAKSA JIKA ADA JAM TAYANG (00.00 WIB)
-        # ==============================================================
+        # ATURAN EVENT
         if is_event_category:
             if has_time_pattern:
                 match_found = True
@@ -285,9 +306,7 @@ def filter_m3u_by_config(config, super_clean_channels):
                 if extracted_date and not re.match(r'^\d{2}-\d{2}-\d{2,4}', raw_channel_name.strip()):
                     new_channel_name = f"{extracted_date} {raw_channel_name.strip()}"
         
-        # ==============================================================
         # ATURAN KATEGORI LAIN
-        # ==============================================================
         else:
             is_match = any(k in clean_group_title or k in clean_channel_name for k in keywords)
             is_excluded = any(k in clean_group_title or k in clean_channel_name for k in exclude_keywords)
@@ -323,18 +342,28 @@ def filter_m3u_by_config(config, super_clean_channels):
                     elif b_line.upper().startswith("#EXTGRP:"):
                         current_buffer[idx] = f"#EXTGRP:{target_category}"
             
-            sort_key = new_channel_name.upper()
+            # PENERAPAN SISTEM TIKET VIP (SORTING)
             if is_event_category and extracted_date:
+                # Event tetap diurutkan berdasarkan Waktu/Tanggal
                 date_parts = extracted_date.split('-')
                 if len(date_parts) == 3:
-                    sort_key = f"{date_parts[2]}-{date_parts[1]}-{date_parts[0]} {new_channel_name.upper()}"
+                    date_str = f"{date_parts[2]}-{date_parts[1]}-{date_parts[0]}"
+                    # Tuple sorting: Prioritas 0 (agar setara) lalu urut tanggal
+                    sort_key = (0, f"{date_str} {new_channel_name.upper()}") 
+                else:
+                    sort_key = (0, new_channel_name.upper())
+            else:
+                # Kategori reguler diurutkan berdasarkan Daftar Premium
+                priority_score = get_priority_score(clean_channel_name, target_category)
+                # Tuple sorting: Urut skor prioritas dulu, jika skor sama baru urut abjad
+                sort_key = (priority_score, new_channel_name.upper())
             
             channels_data.append((sort_key, current_buffer, stream_url))
             CATEGORIZED_URLS.add(stream_url)
                     
-    # SORTING
-    if require_time or is_event_category:
-        channels_data.sort(key=lambda x: x[0])
+    # SORTING EKSEKUSI
+    # x[0] merujuk pada sort_key (yang sekarang berisi tuple prioritas & nama)
+    channels_data.sort(key=lambda x: x[0])
     
     # GABUNGKAN PLAYLIST
     filtered_lines = ["#EXTM3U"]
@@ -359,7 +388,6 @@ if __name__ == "__main__":
     
     all_providers_data = []
     
-    # Executor Map memastikan hasil tetap sesuai urutan dari MASTER_URLS
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
         results = executor.map(download_playlist, MASTER_URLS)
         
@@ -382,7 +410,6 @@ if __name__ == "__main__":
             if stream_url in GLOBAL_BLACKLIST_URLS:
                 continue
             
-            # CEK KEMBAR: Nama boleh sama (sebagai cadangan), TAPI link (URL) wajib beda/unik
             if stream_url not in master_seen_urls:
                 master_seen_urls.add(stream_url)
                 super_clean_channels.append(ch) 
@@ -393,4 +420,4 @@ if __name__ == "__main__":
     for config in CONFIGURATIONS:
         filter_m3u_by_config(config, super_clean_channels)
         
-    print("\n✅ PROSES SELESAI! M3U bersih, Nama Kembar diizinkan untuk cadangan asalkan link beda!")
+    print("\n✅ PROSES SELESAI! M3U bersih, kategori tertata rapi ala TV Premium!")
