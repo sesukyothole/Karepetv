@@ -17,13 +17,13 @@ MASTER_URLS = [
     "https://semar25.short.gy",
     "https://bit.ly/TVKITKAT",
     "https://liveevent.iptvbonekoe.workers.dev",
-    "https://tvg.short.gy/GEULISALLOTT26",
     "https://bit.ly/KPL203"
 ]
 
 ALL_POSITIVE_KEYWORDS = {
     "EVENT_ONLY": ["EVENT", "SEA GAMES", "PREMIER LEAGUE", "LA LIGA", "SERIE A", "BUNDESLIGA", "LIGUE 1", "EREDIVISIE", "LIGA 1 INDONESIA", "LIGA PRO SAUDI"],
-    "SPORTS_LIVE": ["SPORT", "SPORTS", "LIVE", "LANGSUNG", "OLAHRAGA", "MATCH", "LIGA", "FOOTBALL", "BEIN", "SPOTV", "BE IN"],
+    # Menambahkan keyword brand agar aman tersedot meskipun grup dari providernya aneh
+    "SPORTS_LIVE": ["SPORT", "SPORTS", "LIVE", "LANGSUNG", "OLAHRAGA", "MATCH", "LIGA", "FOOTBALL", "BEIN", "SPOTV", "BE IN", "CTV", "DAZN", "ELEVEN", "ZIGGO", "SSC"],
     "INDONESIA": [
         "INDONESIA", "NASIONAL", "LOKAL", "DAERAH",
         "RCTI", "SCTV", "INDOSIAR", "TRANS", "MNC", "GTV", "GLOBAL TV", 
@@ -181,25 +181,25 @@ def extract_date_from_group(group_title):
 
 def get_channel_priority(channel_name):
     """
-    Fungsi untuk menentukan 'Kasta' channel. 
-    Semakin kecil angkanya, semakin tinggi posisinya di daftar.
+    SISTEM KASTA SULTAN (Prioritas Urutan SPORTS)
+    Makin kecil angkanya, makin di atas posisinya.
     """
     n = channel_name.upper()
     if "BEIN" in n: return 1
-    if "SPOTV" in n: return 2
-    if "DAZN" in n or "ELEVEN" in n: return 3
+    if "SPOTV" in n or "CTV" in n: return 2
+    if any(k in n for k in ["MNC", "SPORTSTARS", "SOCCER CHANNEL", "VIDIO"]): return 3
     if "SUPER" in n and "SPORT" in n or re.search(r'\bSS\b', n): return 4
-    if "SKY" in n and "SPORT" in n: return 5
-    if "TNT" in n or "BT SPORT" in n: return 6
-    if "MNC" in n and "SPORT" in n: return 7
-    if "SOCCER CHANNEL" in n or "SPORTSTARS" in n: return 8
-    if "CHAMPIONS" in n or "VIDIO" in n: return 9
-    if "SSC" in n: return 10
-    if "ABU DHABI" in n or "DUBAI" in n: return 11
-    if "ASTRO" in n: return 12
-    if "TRUE" in n: return 13
-    if any(k in n for k in ["EUROSPORT", "FOX", "OPTUS", "SETANTA"]): return 14
-    return 99 # Kasta terendah (diurutkan sesuai abjad di bawah)
+    if "ZIGGO" in n: return 5
+    if "SKY" in n: return 6
+    if "TNT" in n or "BT SPORT" in n: return 7
+    if "SSC" in n: return 8
+    if "ABU DHABI" in n or "DUBAI" in n: return 9
+    if "ASTRO" in n: return 10
+    if "TRUE" in n: return 11
+    if any(k in n for k in ["EUROSPORT", "FOX", "OPTUS", "SETANTA"]): return 12
+    
+    # 99 adalah rakyat jelata, akan berjejer sesuai aslinya tanpa diurutkan abjad
+    return 99 
 
 def download_playlist(url):
     print(f"  > Sedang menyedot dari: {url}")
@@ -279,10 +279,14 @@ def filter_m3u_by_config(config, super_clean_channels):
             new_channel_name = re.sub(r'(?i)\beleven\b', 'DAZN', new_channel_name)
         
         clean_group_title = CLEANING_REGEX.sub(' ', raw_group_title).upper()
-        clean_channel_name = CLEANING_REGEX.sub(' ', raw_channel_name).upper()
+        clean_channel_name = CLEANING_REGEX.sub(' ', new_channel_name).upper()
         
         # PENGHANCUR SPAM
         if any(spam in clean_channel_name for spam in SPAM_KEYWORDS):
+            continue
+
+        # PEMUSNAH CHAMPIONS (Khusus di Sports) - Link Eror Dibuang
+        if target_category == "SPORTS" and "CHAMPIONS" in clean_channel_name:
             continue
 
         # Pengecualian mutlak untuk RADIO
@@ -339,22 +343,23 @@ def filter_m3u_by_config(config, super_clean_channels):
                 if len(date_parts) == 3:
                     sort_key = f"{date_parts[2]}-{date_parts[1]}-{date_parts[0]} {new_channel_name.upper()}"
             
-            # Hitung Skor Kasta (Hanya untuk SPORTS, yang lain default 99)
+            # SKOR KASTA
             priority_score = 99
             if target_category == "SPORTS":
                 priority_score = get_channel_priority(new_channel_name)
             elif is_event_category:
-                priority_score = 0 # Event urut berdasarkan tanggal/waktu
+                priority_score = 0
             
-            # Memasukkan priority_score ke dalam data channels
             channels_data.append((priority_score, sort_key, current_buffer, stream_url))
             CATEGORIZED_URLS.add(stream_url)
                     
-    # SORTING KASTA SULTAN (Prioritas 1st, Abjad/Tanggal 2nd)
-    if require_time or is_event_category or target_category == "SPORTS":
-        channels_data.sort(key=lambda x: (x[0], x[1]))
+    # SORTING KASTA SULTAN 
+    if is_event_category:
+        channels_data.sort(key=lambda x: x[1]) # Urutkan murni berdasarkan Waktu/Tanggal
+    elif target_category == "SPORTS":
+        channels_data.sort(key=lambda x: x[0]) # HANYA urutkan kasta (1-12). Kasta 99 akan tetap berjejer satu rumpun sesuai aslinya!
     else:
-        channels_data.sort(key=lambda x: x[1]) # Kategori lain tetap sesuai abjad murni
+        pass # Kategori lain biarkan natural tanpa urut abjad
     
     # GABUNGKAN PLAYLIST
     filtered_lines = ["#EXTM3U"]
@@ -411,4 +416,4 @@ if __name__ == "__main__":
     for config in CONFIGURATIONS:
         filter_m3u_by_config(config, super_clean_channels)
         
-    print("\n✅ PROSES SELESAI! M3U bersih, Nama Kembar diizinkan untuk cadangan asalkan link beda!")
+    print("\n✅ PROSES SELESAI! M3U bersih, Kasta Rapi, Nama Kembar diizinkan untuk cadangan asalkan link beda!")
