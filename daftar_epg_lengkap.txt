@@ -624,6 +624,27 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 16:30 WIB - MAHAR UNITED VS AYEYAWADY
     - 17:00 WIB - NU AO U17 VS NU ICELAND U17
     - 17:00 WIB - NU TRUNG QUOC VS NU AUSTRALIA
+    - Alajuelense vs Los Angeles FC
+    - Atletico de Madrid U19 vs Club Brugge U19
+    - Braga U23 vs Leixoes U23
+    - Chelsea vs Paris Saint-Germain
+    - Cruz Azul vs Monterrey
+    - Câu lạc bộ Bóng đá Lokomotiv 1929 Sofia vs Septemvri Sofia
+    - Denver Nuggets vs Philadelphia 76ers
+    - Gimcheon Sangmu FC vs Gwangju FC
+    - Gimnasia Mendoza vs Estudiantes La Plata
+    - Guangdong Southern Tigers vs Xinjiang Yilite
+    - Hàn Quốc Nữ vs Nhật Bản Nữ
+    - Lanus vs Newells Old Boys
+    - Melbourne City Nữ vs Adelaide Nữ
+    - Sagaing vs Ayeyawady
+    - Shanxi Fenjiu vs Beijing Konggu
+    - Sporting vs Bodo Glimt
+    - Sydney FC vs Melbourne city
+    - Torreense U23 vs Santa Clara U23
+    - Trung Quốc Nữ vs Úc Nữ
+    - Villarreal U19 vs Paris Saint Germain U19
+    - Yarmanya United FC vs Thitsar Arman FC
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
