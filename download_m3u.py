@@ -8,10 +8,10 @@ from datetime import datetime
 # ====================================================================
 
 MASTER_URLS = [
+    "https://aspaltvpasti.top/xxx/merah.php",
     "https://deccotech.online/tv/tvstream.html", 
     "https://freeiptv2026.tsender57.workers.dev", 
     "https://raw.githubusercontent.com/tvplaylist/T2/refs/heads/main/tv1",
-    "https://aspaltvpasti.top/xxx/merah.php",
     "http://sauridigital.my.id/kerbaunakal/2026TVGNS.html",
     "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
     "https://semar25.short.gy",
