@@ -1,7 +1,10 @@
 import requests
 import re
 import concurrent.futures
+import random
 from datetime import datetime
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # ====================================================================
 # I. KONFIGURASI GLOBAL
@@ -17,7 +20,6 @@ MASTER_URLS = [
     "https://semar25.short.gy",
     "https://bit.ly/TVKITKAT",
     "https://liveevent.iptvbonekoe.workers.dev",
-    "https://tvg.short.gy/GEULISALLOTT26",
     "https://bit.ly/KPL203"
 ]
 
@@ -149,12 +151,18 @@ def contains_time_pattern(text):
     return bool(TIME_PATTERN_REGEX.search(text))
 
 def get_ott_headers():
+    # Kamuflase dirotasi agar server provider bingung
+    user_agents = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "VLC/3.0.18 LibVLC/3.0.18",
+        "TiviMate/4.7.0 (Android)"
+    ]
     return {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "User-Agent": random.choice(user_agents),
         "Accept": "*/*",
         "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
-        "Origin": "https://www.google.com",
-        "Referer": "https://www.google.com/"
+        "Connection": "keep-alive"
     }
 
 def extract_date_from_group(group_title):
@@ -182,30 +190,65 @@ def extract_date_from_group(group_title):
 def get_channel_priority(channel_name):
     n = channel_name.upper()
     
+    # Kasta 1: beIN
     if "BEIN" in n: return 1
     
+    # Kasta 2: SPOTV, CTV, dan TV Lokal Gratis yang ditambahi kata "SPORT"
     lokal_gratis = ["RCTI", "SCTV", "INDOSIAR", "ANTV", "MNC TV", "INEWS", "GTV", "TVRI", "TRANS", "MOJI", "RTV", "VOLI TV"]
     is_lokal_sports = any(k in n for k in lokal_gratis) and "SPORT" in n
     if "SPOTV" in n or "CTV" in n or is_lokal_sports: return 2
     
+    # Kasta 3: Lokal Premium Berbayar
     if any(k in n for k in ["MNC", "SPORTSTARS", "SOCCER CHANNEL", "VIDIO"]): return 3
+    
+    # Kasta 4: Raksasa Afrika
     if "SUPER" in n and "SPORT" in n or re.search(r'\bSS\b', n): return 4
+    
+    # Kasta 5: Ziggo (Belanda)
     if "ZIGGO" in n: return 5
+    
+    # Kasta 6: Sky Sports
     if "SKY" in n: return 6
+    
+    # Kasta 7: TNT & BT Sport
     if "TNT" in n or "BT SPORT" in n: return 7
+    
+    # Kasta 8: SSC
     if "SSC" in n: return 8
+    
+    # Kasta 9: Abu Dhabi & Dubai
     if "ABU DHABI" in n or "DUBAI" in n: return 9
+    
+    # Kasta 10: Astro
     if "ASTRO" in n: return 10
+    
+    # Kasta 11: TrueVisions
     if "TRUE" in n: return 11
+    
+    # Kasta 12: Menengah
     if any(k in n for k in ["EUROSPORT", "FOX", "OPTUS", "SETANTA"]): return 12
     
+    # Kasta 99: Rakyat jelata, akan berjejer sesuai aslinya dari server tanpa diurutkan abjad
     return 99 
 
 def download_playlist(url):
     print(f"  > Sedang menyedot dari: {url}")
     channels = []
     try:
-        response = requests.get(url, headers=get_ott_headers(), timeout=20)
+        # Membangun sistem kebal timeout (Auto-Retry Pantang Menyerah)
+        session = requests.Session()
+        retry_strategy = Retry(
+            total=3,  # Coba ulang maksimal 3 kali jika gagal
+            status_forcelist=[429, 500, 502, 503, 504],
+            allowed_methods=["HEAD", "GET", "OPTIONS"],
+            backoff_factor=1  # Jeda 1 detik, lalu 2 detik, lalu 4 detik
+        )
+        adapter = HTTPAdapter(max_retries=retry_strategy)
+        session.mount("http://", adapter)
+        session.mount("https://", adapter)
+
+        # Timeout diperpanjang jadi 30 detik
+        response = session.get(url, headers=get_ott_headers(), timeout=30)
         response.raise_for_status()
         
         # PERBAIKAN HTML: Baca keseluruhan teks, tangani <br>, lalu splitlines
@@ -315,9 +358,7 @@ def filter_m3u_by_config(config, super_clean_channels):
         # ====================================================================
         if match_found and target_category == "SPORTS":
             lokal_gratis = ["RCTI", "SCTV", "INDOSIAR", "ANTV", "MNC TV", "INEWS", "GTV", "TVRI", "TRANS", "MOJI", "RTV", "NET TV", "VOLI TV"]
-            # Kalau namanya berbau TV lokal
             if any(k in clean_channel_name for k in lokal_gratis):
-                # HARUS mengandung kata SPORT, SPORTS, atau LIGA. Kalau tidak ada, TENDANG!
                 if not any(s in clean_channel_name for s in ["SPORT", "LIGA"]):
                     match_found = False
 
@@ -422,4 +463,4 @@ if __name__ == "__main__":
     for config in CONFIGURATIONS:
         filter_m3u_by_config(config, super_clean_channels)
         
-    print("\n✅ PROSES SELESAI! SCTV Biasa Aman, Link HTML Kembali Terbaca!")
+    print("\n✅ PROSES SELESAI! Anti-Error Siap Menjalankan Tugas!")
