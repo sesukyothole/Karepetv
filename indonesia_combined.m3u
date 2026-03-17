@@ -133,7 +133,7 @@ https://gooo.blog/opix/genx.m3u8?id=ktv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi2IaLbo8o2ofjAd7F7KdUM1gNXeg7cufNsZ76NjgdvunjRA7eFxDsu3cHOnnHswmKGmxQ2SwGrZljwliB1XxElXln2IrhZNZF9GbO9feiYNurLLIWtNhbu07CebJP1uO7E4C3Ltq9V6ppGioqfOwEV61um_zcgDKrMZs0Ds0EUSngxpHSjguwAWynH=s720" group-title="INDONESIA", Channel Jowo ⚪
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi2IaLbo8o2ofjAd7F7KdUM1gNXeg7cufNsZ76NjgdvunjRA7eFxDsu3cHOnnHswmKGmxQ2SwGrZljwliB1XxElXln2IrhZNZF9GbO9feiYNurLLIWtNhbu07CebJP1uO7E4C3Ltq9V6ppGioqfOwEV61um_zcgDKrMZs0Ds0EUSngxpHSjguwAWynH=s720" group-title="INDONESIA", Channel Jowo âª
 https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2020/09/15/20484-logo-indosiar.jpg" group-title="INDONESIA", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -163,7 +163,7 @@ http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="INDONESIA",Trans7
 http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
-##EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://1.bp.blogspot.com/-WN87OwYixGI/YJZOaUPWAMI/AAAAAAAAEqE/-R2XLyKQ5yIgT-zTqW4K3XCtv4zTS8nXACLcBGAsYHQ/s720/CitraDrama-pos.png", Citra Drama HD
+##EXTINF:-1 group-title="ð®ð© NASIONAL 2" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://1.bp.blogspot.com/-WN87OwYixGI/YJZOaUPWAMI/AAAAAAAAEqE/-R2XLyKQ5yIgT-zTqW4K3XCtv4zTS8nXACLcBGAsYHQ/s720/CitraDrama-pos.png", Citra Drama HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
