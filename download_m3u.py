@@ -191,7 +191,6 @@ def extract_date_from_group(group_title):
     return None
 
 def get_channel_priority(channel_name, category):
-    """ SISTEM KASTA MAHA SULTAN UNTUK SEMUA KATEGORI """
     n = channel_name.upper()
     
     if category == "SPORTS":
@@ -288,7 +287,6 @@ def download_playlist(args):
     channels = []
     try:
         session = requests.Session()
-        # RETRY DITAMBAH JADI 2 DAN BACKOFF DILONGGARKAN AGAR LEBIH SABAR
         retry_strategy = Retry(
             total=2,  
             status_forcelist=[429, 500, 502, 503, 504],
@@ -299,8 +297,8 @@ def download_playlist(args):
         session.mount("http://", adapter)
         session.mount("https://", adapter)
 
-        # TIMEOUT DINAIKKAN JADI 30 DETIK (Anti Gagal untuk Server Lemot)
-        response = session.get(url, headers=get_ott_headers(), timeout=30, verify=False)
+        # TIMEOUT GANDA: 15 detik konek, 60 detik nunggu download
+        response = session.get(url, headers=get_ott_headers(), timeout=(15, 60), verify=False)
         response.raise_for_status()
         
         text_data = response.text.replace('<br>', '\n').replace('<br/>', '\n').replace('<BR>', '\n')
@@ -343,8 +341,6 @@ def filter_m3u_by_config(config, super_clean_channels):
     force_category = config["force_category"]
     require_time = config.get("require_time", False) 
     description = config["description"]
-
-    is_event_category = (target_category == "LIVE EVENT SPORTS")
 
     print(f"\n--- Memproses [{description}] ---")
     
@@ -393,7 +389,7 @@ def filter_m3u_by_config(config, super_clean_channels):
 
         match_found = False
 
-        if is_event_category:
+        if target_category == "LIVE EVENT SPORTS":
             if has_time_pattern:
                 match_found = True
                 extracted_date = extract_date_from_group(raw_group_title)
@@ -456,7 +452,7 @@ def filter_m3u_by_config(config, super_clean_channels):
                         current_buffer[idx] = f"#EXTGRP:{target_category}"
             
             sort_key = new_channel_name.upper()
-            if is_event_category and extracted_date:
+            if target_category == "LIVE EVENT SPORTS" and extracted_date:
                 date_parts = extracted_date.split('-')
                 if len(date_parts) == 3:
                     sort_key = f"{date_parts[2]}-{date_parts[1]}-{date_parts[0]} {new_channel_name.upper()}"
@@ -471,7 +467,7 @@ def filter_m3u_by_config(config, super_clean_channels):
             channels_data.append((priority_score, provider_idx, sort_key, current_buffer, stream_url))
             CATEGORIZED_URLS.add(stream_url)
                     
-    if is_event_category:
+    if target_category == "LIVE EVENT SPORTS":
         channels_data.sort(key=lambda x: (x[2], x[1])) 
     else:
         channels_data.sort(key=lambda x: (x[0], x[1], x[2])) 
@@ -561,4 +557,4 @@ if __name__ == "__main__":
                     f.write(f"    - {name}\n")
             f.write("\n")
                 
-    print("\n✅ PROSES SELESAI! Mesin kini lebih sabar untuk server lemot!")
+    print("\n✅ PROSES SELESAI! Mesin Anti-Timeout siap bertempur!")
