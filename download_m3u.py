@@ -192,7 +192,6 @@ def extract_date_from_group(group_title):
 def get_channel_priority(channel_name):
     """
     SISTEM KASTA MAHA SULTAN (Prioritas Urutan SPORTS 1-17)
-    Makin kecil angkanya, makin di atas posisinya.
     """
     n = channel_name.upper()
     
@@ -202,7 +201,7 @@ def get_channel_priority(channel_name):
     if "SPORTSTAR" in n: return 4
     if "SOCCER CHANNEL" in n: return 5
     
-    lokal_gratis = ["RCTI", "SCTV", "INDOSIAR", "ANTV", "MNC TV", "MNCTV", "INEWS", "GTV", "TVRI", "TRANS", "MOJI", "RTV", "VOLI TV"]
+    lokal_gratis = ["RCTI", "SCTV", "INDOSIAR", "ANTV", "MNC TV", "MNCTV", "INEWS", "GTV", "TVRI", "TRANS", "MOJI", "RTV", "VOLI TV", "RCTV"]
     is_lokal_sports = any(k in n for k in lokal_gratis) and ("SPORT" in n or "LIGA" in n)
     if is_lokal_sports: return 6
     
@@ -216,11 +215,13 @@ def get_channel_priority(channel_name):
     if "PRIMA" in n: return 14
     if "SPORT" in n and not any(k in n for k in ["BEIN", "SPOTV", "SKY", "TNT", "TRUE", "ARENA"]): return 15
     if "FUBO" in n: return 16
-    if "ARENA" in n: return 999 # Arena dihukum ke dasar klasemen
+    if "ARENA" in n: return 999 
     
-    return 99 # Rakyat Jelata (Kasta Menengah)
+    return 99 
 
-def download_playlist(url):
+def download_playlist(args):
+    # Args berisi Tuple: (Index Provider, URL String)
+    idx, url = args
     print(f"  > Sedang menyedot dari: {url}")
     channels = []
     try:
@@ -257,6 +258,7 @@ def download_playlist(url):
             elif len(line) > 5 and line.lower().startswith("http"): 
                 stream_url = line
                 
+                # Pemusnah link sauri kembar dibebaskan (tidak diblokir lagi)
                 if current_buffer and current_extinf:
                     channels.append({
                         "buffer": current_buffer,
@@ -266,10 +268,10 @@ def download_playlist(url):
                 current_buffer = []
                 current_extinf = ""
                 
-        return url, channels
+        return idx, url, channels
     except Exception as e:
         print(f"  > WARNING: Gagal memproses {url}. Error: {e}")
-        return url, []
+        return idx, url, []
 
 def filter_m3u_by_config(config, super_clean_channels):
     output_file = config["output_file"]
@@ -288,6 +290,7 @@ def filter_m3u_by_config(config, super_clean_channels):
     
     for ch in super_clean_channels:
         stream_url = ch["url"]
+        provider_idx = ch["provider_idx"] # Ambil ID Urutan Provider
         
         if stream_url in CATEGORIZED_URLS:
             continue
@@ -307,7 +310,7 @@ def filter_m3u_by_config(config, super_clean_channels):
         new_channel_name = raw_channel_name
         extracted_date = None
         
-        # MUTASI ELEVEN -> DAZN (Mutlak tanpa pandang spasi)
+        # MUTASI ELEVEN -> DAZN Mutlak
         if target_category == "SPORTS":
             new_channel_name = re.sub(r'(?i)eleven', 'DAZN', new_channel_name)
         
@@ -318,10 +321,8 @@ def filter_m3u_by_config(config, super_clean_channels):
             continue
 
         if target_category == "SPORTS":
-            # 1. Musnahkan "CHAMPIONS"
             if "CHAMPIONS" in clean_channel_name:
                 continue
-            # 2. Musnahkan "BEIN MAX"
             if "BEIN" in clean_channel_name and "MAX" in clean_channel_name:
                 continue
 
@@ -337,10 +338,8 @@ def filter_m3u_by_config(config, super_clean_channels):
                 if extracted_date and not re.match(r'^\d{2}-\d{2}-\d{2,4}', raw_channel_name.strip()):
                     new_channel_name = f"{extracted_date} {raw_channel_name.strip()}"
         else:
-            # Pencocokan Kata Kunci Pintar
             for k in keywords:
                 if k == "CTV":
-                    # Khusus CTV, harus berdiri sendiri agar MNCTV & RCTV tidak terseret
                     if re.search(r'\bCTV\b', clean_group_title) or re.search(r'\bCTV\b', clean_channel_name):
                         match_found = True
                         break
@@ -349,7 +348,6 @@ def filter_m3u_by_config(config, super_clean_channels):
                         match_found = True
                         break
                         
-            # Cek Pengecualian
             if match_found:
                 for ek in exclude_keywords:
                     if ek == "CTV":
@@ -361,15 +359,13 @@ def filter_m3u_by_config(config, super_clean_channels):
                             match_found = False
                             break
 
-            # Cek Waktu untuk Event
             if match_found and require_time and not has_time_pattern:
                 match_found = False
 
-        # SATPAM LOKAL GRATIS DI SPORTS
+        # SATPAM LOKAL GRATIS
         if match_found and target_category == "SPORTS":
             lokal_gratis = ["RCTI", "SCTV", "INDOSIAR", "ANTV", "MNC TV", "MNCTV", "INEWS", "GTV", "TVRI", "TRANS", "MOJI", "RTV", "NET TV", "VOLI TV", "RCTV"]
             if any(k in clean_channel_name for k in lokal_gratis):
-                # Harus ada SPORT/LIGA, kalau tidak = TENDANG
                 if not any(s in clean_channel_name for s in ["SPORT", "LIGA"]):
                     match_found = False
 
@@ -410,20 +406,22 @@ def filter_m3u_by_config(config, super_clean_channels):
             elif is_event_category:
                 priority_score = 0
             
-            channels_data.append((priority_score, sort_key, current_buffer, stream_url))
+            # MEMASUKKAN 3 LAPIS DATA: Kasta (0), Urutan Provider (1), Abjad Nama (2)
+            channels_data.append((priority_score, provider_idx, sort_key, current_buffer, stream_url))
             CATEGORIZED_URLS.add(stream_url)
                     
-    # ATURAN SORTING MAHA SULTAN (Kasta -> Nama Abjad)
+    # ====================================================================
+    # SISTEM SORTIR 3 LAPIS (SUPER RAPI & SERAGAM)
+    # ====================================================================
     if is_event_category:
-        channels_data.sort(key=lambda x: x[1]) 
+        channels_data.sort(key=lambda x: (x[2], x[1])) # Tanggal -> Provider
     elif target_category == "SPORTS":
-        channels_data.sort(key=lambda x: (x[0], x[1])) 
+        channels_data.sort(key=lambda x: (x[0], x[1], x[2])) # Kasta -> Provider -> Nama
     else:
-        # Kategori lain urutkan murni abjad agar rapi
-        channels_data.sort(key=lambda x: x[1]) 
+        channels_data.sort(key=lambda x: (x[1], x[2])) # Provider -> Nama
     
     filtered_lines = ["#EXTM3U"]
-    for _, _, block_data, s_url in channels_data:
+    for _, _, _, block_data, s_url in channels_data:
         filtered_lines.extend(block_data)  
         filtered_lines.append(s_url)       
 
@@ -445,11 +443,13 @@ if __name__ == "__main__":
     all_providers_data = []
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
-        results = executor.map(download_playlist, MASTER_URLS)
+        # Menyematkan Nomor Urut Provider untuk 3 Lapis Sortir
+        results = executor.map(download_playlist, enumerate(MASTER_URLS))
         
-        for url, channels in results:
+        for idx, url, channels in results:
             if channels:
                 all_providers_data.append({
+                    "provider_idx": idx,
                     "url": url,
                     "channels": channels
                 })
@@ -460,6 +460,7 @@ if __name__ == "__main__":
     master_seen_urls = set()
     
     for provider in all_providers_data:
+        p_idx = provider["provider_idx"]
         for ch in provider["channels"]:
             stream_url = ch["url"]
             
@@ -468,7 +469,13 @@ if __name__ == "__main__":
             
             if stream_url not in master_seen_urls:
                 master_seen_urls.add(stream_url)
-                super_clean_channels.append(ch) 
+                # Menyimpan ID Provider ke dalam channel
+                super_clean_channels.append({
+                    "buffer": ch["buffer"],
+                    "extinf": ch["extinf"],
+                    "url": stream_url,
+                    "provider_idx": p_idx
+                }) 
     
     print(f"Total saluran unik (Link Beda) yang didapat: {len(super_clean_channels)}")
     print("\n[+] Memulai proses filtering ke Kategori...")
@@ -476,4 +483,4 @@ if __name__ == "__main__":
     for config in CONFIGURATIONS:
         filter_m3u_by_config(config, super_clean_channels)
         
-    print("\n✅ PROSES SELESAI! MNCTV/RCTV Aman, Eleven Mutasi Total, Kasta Terkunci Rapat!")
+    print("\n✅ PROSES SELESAI! Tampilan 100% Seragam, Rapi, Estetik, dan Super Ngebut!")
