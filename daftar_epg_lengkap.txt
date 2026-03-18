@@ -642,44 +642,35 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 02:00 WIB Al-Ahli vs Al Hilal
     - 03:00 WIB Bayern München vs Atalanta
     - 03:00 WIB Tottenham Hotspur vs Atlético Madrid
-    - 16:30 WIB - CEREZO OSAKA VS FAGIANO OKAYAMA
-    - 17:00 WIB - AVISPA FUKUOKA VS SHIMIZU S PULSE
-    - 17:00 WIB - JEF UNITED VS FC TOKYO
-    - 17:00 WIB - MITO HOLLYHOCK VS YOKOHAMA MARINOS
-    - 17:00 WIB - NAGOYA GRAMPUS VS SANFRECCE HIROSHIMA
-    - 17:00 WIB - TOKYO VERDY VS KAWASAKI FRONTALE
-    - 17:00 WIB - V VAREN NAGASAKI VS KYOTO SANGA
-    - 17:00 WIB - VISSEL KOBE VS GAMBA OSAKA
-    - 17:30 WIB - BUCHEON 1995 VS GANGWON FC
     - 17:30 WIB - INCHEON UNITED VS DAEJEON CITIZEN
-    - 17:30 WIB - JEJU SK FC VS ULSAN HYUNDAI
-    - 17:30 WIB - JEONBUK HYUNDAI VS FC ANYANG
-    - 17:30 WIB - MACHIDA ZELVIA VS KASHIMA ANTLERS
-    - 17:30 WIB - POHANG STEELERS VS SEOUL FC
     - 17:30 WIB - URAWA RED VS KASHIWA REYSOL
     - 18:00 WIB - SHB DA NANG VS NAM DINH
+    - 19:00 WIB - PATTANI VS BURIRAM UNITED
+    - 19:00 WIB - PORT FC VS KHONKAEN UNITED
+    - 20:00 WIB - ALANYASPOR VS KOCAELISPOR
+    - 20:00 WIB - REAL MADRID U19 VS SPORTING CP U19
     - 22:30 WIB Sporting Braga vs Ferencváros
     - Alanyaspor vs Kocaelispor
+    - Athletico-PR vs Cruzeiro
     - Braga vs Ferencvarosi TC
-    - Bucheon FC 1995 vs Gangwon
-    - Chiba vs Tokyo
+    - Chivas Guadalajara vs Club Leon
+    - Club America vs Philadelphia Union
     - Eyupspor vs Trabzonspor
+    - FC Barcelona vs Newcastle
     - FC Bayern München vs Atalanta B.C.
     - FC Chanmari vs Lajong
     - Houston Rockets vs Los Angeles Lakers
+    - Inter Miami vs Nashville
     - Inter Milan U19 vs Benfica U19
-    - Jeonbuk Hyundai Motors vs FC Anyang
     - Johor Darul Takzim vs PDRM FC
     - Liverpool vs Galatasaray
-    - Machida vs Kashima Antlers
-    - Nagoya Grampus vs Sanfrecce Hiroshima
     - Pathum United vs Mahasarakham United FC
     - Pattani vs Buriram
+    - Real Madrid U19 vs Sporting CP U19
     - SHB Đà Nẵng vs Nam Định
     - Shanghai vs Shandong Hi-Speed
     - Tottenham Hotspur vs Atlético Madrid
     - Vasco vs Fluminense RJ
-    - Vissel Kobe vs Gamba Osaka
     - Zenit vs FK Makhachkala
 
 === KATEGORI: NEWS ===
@@ -1616,7 +1607,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - CBS Golazo Network
     - CDN Deportes
     - Canal do Inter
-    - Cerezo Osaka vs Fagiano Okayama
     - Channel S
     - ColimdoT TV
     - Cowboy tv
@@ -1689,7 +1679,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - INTER TV
     - ITV Deportes
     - JOURNAL DU GOLF
-    - Jeonbuk Hyundai Motors vs FC Anyang
     - KBS LIVECAM DOKDO
     - KCMN-LD6
     - KHL
@@ -1744,7 +1733,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - MOTORVISION+
     - MTV LIVE
     - MTV Live
-    - Machida Zelvia vs Kashima Antlers
     - MadeinBO TV
     - Match! Planet
     - Match! Strana
@@ -1760,7 +1748,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - NFL Network
     - NHL NETWORK
     - NHRA TV
-    - Nagoya Grampus vs Sanfrecce Hiroshima
     - Nautical Channel
     - Nittele G Plus
     - OMAN LIVE
@@ -1786,7 +1773,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Pilipinas Live 8
     - Pilipinas Live 9
     - Pogo
-    - Pohang Steelers vs Football Club Seoul
     - Poker Go
     - RACER International
     - REDBULL TV
@@ -1876,7 +1862,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Teletrak
     - Tennis Channel 1
     - Tennis Channel 2
-    - Tokyo Verdy vs Kawasaki Frontale
     - Turf Movil
     - Tv4Futbol 🇸🇪
     - UAAP VARSITY
@@ -1885,7 +1870,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - USA
     - Urawa Red Diamonds vs Kashiwa Reysol
     - VITAL Drive
-    - Vissel Kobe vs Gamba Osaka
     - WOWOW Live
     - WWE NETWORK
     - Wanted: Dead or Alive
