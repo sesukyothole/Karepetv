@@ -640,10 +640,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 00:45 WIB Sporting CP vs Bodø / Glimt
     - 03:00 WIB Arsenal vs Bayer Leverkusen
     - 03:00 WIB Chelsea vs PSG
-    - 08:30 WIB - MILLONARIOS VS ATL NACIONAL
-    - 10:00 WIB - CRUZ AZUL VS MONTERREY
-    - 10:06 WIB - NU TIJUANA VS NU UNAM PUMAS
-    - 12:00 WIB - VANUATU UNITED FC VS AUCKLAND FC R
+    - 11:00 WIB - VANUATU UNITED FC VS AUCKLAND FC R
     - 13:30 WIB - NU MELBOURNE CITY VS NU ADELAIDE UNITED
     - 15:00 WIB - TULOY FC VS MENDIOLA 1991
     - 15:00 WIB Orleans Masters Badminton 2026
@@ -651,8 +648,11 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 16:00 WIB - SHAN UNITED VS HANTHARWADY UTD
     - 16:30 WIB - CEREZO OSAKA VS FAGIANO OKAYAMA
     - 17:00 WIB - AVISPA FUKUOKA VS SHIMIZU S PULSE
+    - 17:00 WIB - JEF UNITED VS FC TOKYO
     - 17:00 WIB - MITO HOLLYHOCK VS YOKOHAMA MARINOS
+    - 17:00 WIB - NAGOYA GRAMPUS VS SANFRECCE HIROSHIMA
     - 17:00 WIB - TOKYO VERDY VS KAWASAKI FRONTALE
+    - 17:00 WIB - V VAREN NAGASAKI VS KYOTO SANGA
     - 17:00 WIB - VISSEL KOBE VS GAMBA OSAKA
     - Alanyaspor vs Kocaelispor
     - Basaksehir vs Antalyaspor
@@ -660,12 +660,11 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Bucheon FC 1995 vs Gangwon
     - Cerezo Osaka vs Fagiano Okayama
     - Chiba vs Tokyo
-    - Club Tijuana Nữ vs U.N.A.M.- Pumas Nữ
-    - Cruz Azul vs Monterrey
-    - Denver Nuggets vs Philadelphia 76ers
     - Eyupspor vs Trabzonspor
+    - FC Bayern München vs Atalanta B.C.
     - Hàn Quốc Nữ vs Nhật Bản Nữ
     - Jeonbuk Hyundai Motors vs FC Anyang
+    - Johor Darul Takzim vs PDRM FC
     - Machida vs Kashima Antlers
     - Melbourne City Nữ vs Adelaide Nữ
     - Nagoya Grampus vs Sanfrecce Hiroshima
@@ -1047,9 +1046,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Bein Sports 8 HD
     - Bein Sports 9 HD
     - USA_BEIN
-    - beIN SPORTS 4
-    - beIN SPORTS 5
-    - beIN Sports
     - beIN Sports 1
     - beIN Sports 1 HD
     - beIN Sports 2
@@ -1058,6 +1054,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - beIN Sports 3 HD
     - beIN Sports 4 HD
     - beIN Sports 5 HD
+    - beIN Sports ID 4
+    - beIN Sports ID 5
     - beIN Sports XTRA en Espanol
   [KASTA 2 - PRIORITAS UTAMA]
     - CTV 1
@@ -1370,7 +1368,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - FUBO SPORTS 1
     - FUBO SPORTS 2
     - Fight Sports
-    - Fight Sports HD
     - Fox Sports 501 FHD
     - Fox Sports 502 FHD
     - Fox Sports 503 FHD
@@ -1583,7 +1580,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
   [KASTA 99 - UMUM / LAIN-LAIN]
     - & Pictures HD
     - &TV HD
-    - ,M LIVE 6
     - :Å port
     - ACCDN
     - ATG Live
@@ -1621,7 +1617,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Channel S
     - ColimdoT TV
     - Cowboy tv
-    - Cruz Azul vs Monterrey
     - DGS 2
     - DGS 3
     - DZ COMBAT
@@ -1729,6 +1724,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - M LIVE 5
     - M LIVE SPL 01
     - M LIVE SPL 02
+    - M Live 6
     - MATCH! FIGHT 🇷🇺
     - MATCH! FOOTBALL 1 🇷🇺
     - MATCH! FOOTBALL 2 🇷🇺
