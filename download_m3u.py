@@ -108,6 +108,7 @@ C_GREEN = '\033[92m'
 C_RED = '\033[91m'
 C_YELLOW = '\033[93m'
 C_ORANGE = '\033[38;5;208m'
+C_CYAN = '\033[96m'
 C_RESET = '\033[0m'
 
 # ====================================================================
@@ -236,7 +237,7 @@ def filter_m3u_by_config(config, super_clean_channels):
         raw_channel_name = current_extinf.split(',', 1)[1].strip() if "," in current_extinf else current_extinf.strip()
         clean_channel_name = CLEANING_REGEX.sub(' ', raw_channel_name).upper()
         
-        # Logika filtering sederhana (Dipersingkat untuk contoh, Anda bisa pasang regex prioritas yang asli di sini)
+        # Logika filtering sederhana
         match_found = any(k in clean_channel_name for k in keywords)
 
         if match_found:
@@ -336,7 +337,7 @@ if __name__ == "__main__":
                             saran_id = get_suggested_epg_id(name)
                             line_out = f"    🔴 {C_RED}{name} ({tvg_id}) -> Meleset (di EPG bernama '{epg_name}'). Harusnya: {saran_id}{C_RESET}\n"
                             
-                f.write(line_out)
+                    f.write(line_out)
             f.write("\n")
                 
-    print("\n✅ PROSES SELESAI! Silakan buka file 'daftar_epg_lengkap.txt' di Terminal untuk melihat warnanya.")
+    print("\n✅ PROSES SELESAI! Laporan sudah dicetak ke 'daftar_epg_lengkap.txt'.")
