@@ -637,11 +637,12 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
 
 === KATEGORI: LIVE EVENT SPORTS ===
   [JADWAL EVENT]
-    - 00:45 WIB Sporting CP vs Bodø / Glimt
-    - 03:00 WIB Arsenal vs Bayer Leverkusen
-    - 03:00 WIB Chelsea vs PSG
+    - 00:45 WIB Barcelona vs Newcastle United
+    - 02:00 WIB Al Kholood vs Al Ittihad
+    - 02:00 WIB Al-Ahli vs Al Hilal
+    - 03:00 WIB Bayern München vs Atalanta
+    - 03:00 WIB Tottenham Hotspur vs Atlético Madrid
     - 15:00 WIB - TULOY FC VS MENDIOLA 1991
-    - 15:00 WIB Orleans Masters Badminton 2026
     - 16:00 WIB - NU HAN QUOC VS NU NHAT BAN
     - 16:00 WIB - SHAN UNITED VS HANTHARWADY UTD
     - 16:30 WIB - CEREZO OSAKA VS FAGIANO OKAYAMA
@@ -653,6 +654,30 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 17:00 WIB - V VAREN NAGASAKI VS KYOTO SANGA
     - 17:00 WIB - VISSEL KOBE VS GAMBA OSAKA
     - 17:30 WIB - MACHIDA ZELVIA VS KASHIMA ANTLERS
+    - 17:30 WIB - URAWA RED VS KASHIWA REYSOL
+    - 22:30 WIB Sporting Braga vs Ferencváros
+    - Alanyaspor vs Kocaelispor
+    - Braga vs Ferencvarosi TC
+    - Bucheon FC 1995 vs Gangwon
+    - Cerezo Osaka vs Fagiano Okayama
+    - Chiba vs Tokyo
+    - Eyupspor vs Trabzonspor
+    - FC Bayern München vs Atalanta B.C.
+    - Hàn Quốc Nữ vs Nhật Bản Nữ
+    - Jeonbuk Hyundai Motors vs FC Anyang
+    - Johor Darul Takzim vs PDRM FC
+    - Liverpool vs Galatasaray
+    - Machida vs Kashima Antlers
+    - Nagoya Grampus vs Sanfrecce Hiroshima
+    - Palmeiras vs Botafogo RJ
+    - Pathum United vs Mahasarakham United FC
+    - Pattani vs Buriram
+    - SHB Đà Nẵng vs Nam Định
+    - Shanghai vs Shandong Hi-Speed
+    - Tottenham Hotspur vs Atlético Madrid
+    - Vasco vs Fluminense RJ
+    - Vissel Kobe vs Gamba Osaka
+    - Zenit vs FK Makhachkala
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
@@ -1049,9 +1074,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SPOTV PH
     - SPOTV2
     - SpoTV 1
-    - SpoTV 1 PH
     - SpoTV 2
-    - SpoTV 2 PH
   [KASTA 4 - PRIORITAS UTAMA]
     - SPORTSTARS 04 HD
     - SPORTSTARS 2
@@ -1172,7 +1195,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - TNT SPORTS 3
     - TNT SPORTS 4
     - TNT SPORTS 5
-    - TNT Sport 4 🇬🇧
     - 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" group-title="WORLD SPORTS",ARENA SPORT 2 PREMIUM ᴴᴰ
   [KASTA 10 - PRIORITAS UTAMA]
     - True Sports 1
@@ -1591,6 +1613,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - CBS Golazo Network
     - CDN Deportes
     - Canal do Inter
+    - Cerezo Osaka vs Fagiano Okayama
     - Channel S
     - ColimdoT TV
     - Cowboy tv
@@ -1807,6 +1830,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SSC EXTRA 3
     - Somoy TV
     - Sony Aat VIP
+    - South Korea Women vs Japan Women
     - Stadium
     - Star Select1
     - Star Select2
