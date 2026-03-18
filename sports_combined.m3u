@@ -2398,32 +2398,24 @@ https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playl
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
 #EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="SPORTS",Äá»ng Nai 2 (480p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS", Ajman vs Baniyas Club
-https://play3.yhuias.com/live/113360273691_4173341775_adaptive.m3u8
+#EXTINF:-1 group-title="SPORTS", Al Kholood vs Al Ittihad Club
+https://play4.yhuias.com/live/111136631145_2519761892_adaptive.m3u8
+### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", Al-Ahli SFC vs Al Hilal
-https://hwcn111pull-b.bszb.me/live/2368794_1773852376.flv
-#EXTINF:-1 group-title="SPORTS", Al-Nasr Dubai vs Al Bataeh
-https://play5.yhuias.com/live/112459825468_3772861994_adaptive.m3u8
-#EXTINF:-1 group-title="SPORTS", Al-Wasl SC vs Al-Dhafra
-https://v.lfsxfj.com/live/100461.m3u8?txSecret=0d6e39ae50947a952208a268fd149992&txTime=69BAF6AD&sign=7df0e393bbb69b52
-#EXTINF:-1 group-title="SPORTS", Başakşehir Futbol Kulübü vs Antalyaspor
-https://live3.trendgallary.com/live/13612167_b85318a4d519d2221a92f9d8630d6579.m3u8
+https://play4.yhuias.com/live/112458865862_4031895556_adaptive.m3u8
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="SPORTS",DZ COMBAT
 https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
-### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", Eintracht Frankfurt Women vs Hoffenheim Women
-https://live.trendgallary.com/live/13550964_aae82737746c4036fc032a349afcd348.m3u8
-#EXTINF:-1 group-title="SPORTS", Eyupspor vs Trabzonspor
-https://live2.trendgallary.com/live/13612169_9cb9355ff05d83b23c5e19f8ee88b5ae.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fastandfunbox.jpg" group-title="SPORTS",FAST AND FUNBOX 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS", FC Barcelona vs Newcastle United
-https://play2.yhuias.com/live/11357133128_914003797_adaptive.m3u8
+https://live.trendgallary.com/live/13645172_7f57e5f55c181a0365765c0b2b1ffbb8.m3u8
+#EXTINF:-1 group-title="SPORTS", FC Bayern Munich vs Atalanta
+https://hwcn111pull-b.bszb.me/live/2048226_1773854888.flv
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fightbox.jpg" group-title="SPORTS",FIGHT BOX 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/

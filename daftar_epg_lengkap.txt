@@ -637,13 +637,11 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
 
 === KATEGORI: LIVE EVENT SPORTS ===
   [JADWAL EVENT]
-    - 00:00 WIB - BASAKSEHIR FK VS ANTALYASPOR
-    - 00:00 WIB - EYUPSPOR VS TRABZONSPOR
     - 00:00 WIB - SV RIED VS LASK LINZ
-    - 00:00 WIB - VIKING VS AALESUND FK
     - 00:45 WIB - BARCELONA VS NEWCASTLE UNITED
     - 00:45 WIB - SPARTAK MOSCOW VS DYNAMO MOSCOW
     - 00:45 WIB Barcelona vs Newcastle United
+    - 02:00 WIB - AL AHLI SFC VS AL HILAL
     - 02:00 WIB Al Kholood vs Al Ittihad
     - 02:00 WIB Al-Ahli vs Al Hilal
     - 03:00 WIB - BAYERN MUNICH VS ATALANTA
@@ -654,19 +652,19 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 22:30 WIB Sporting Braga vs Ferencváros
     - Athletico-PR vs Cruzeiro
     - Atletico Mineiro vs Sao Paulo
-    - Basaksehir vs Antalyaspor
     - Chicago Bulls vs Toronto Raptors
     - Chivas Guadalajara vs Club Leon
     - Club America vs Philadelphia Union
-    - Eyupspor vs Trabzonspor
     - FC Barcelona vs Newcastle
     - FC Bayern München vs Atalanta B.C.
     - FC Chanmari vs Lajong
+    - Fujian Xunxing vs Beijing Shougang
     - Goyang Carrot Jumpers vs KCC Egis
     - Houston Rockets vs Los Angeles Lakers
     - Inter Miami vs Nashville
     - Liverpool vs Galatasaray
     - Palmeiras vs Botafogo RJ
+    - Spartak Varna vs Ludogorets Razgrad
     - Toluca vs San Diego FC
     - Tottenham Hotspur vs Atlético Madrid
     - Vasco vs Fluminense RJ
@@ -1575,10 +1573,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - ACCDN
     - ATG Live
     - Action-2-Special Delivery
-    - Ajman vs Baniyas Club
+    - Al Kholood vs Al Ittihad Club
     - Al-Ahli SFC vs Al Hilal
-    - Al-Nasr Dubai vs Al Bataeh
-    - Al-Wasl SC vs Al-Dhafra
     - Alkass Five
     - Alkass Four
     - Alkass One
@@ -1602,7 +1598,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - BWF COURT LIVE 1
     - BWF COURT LIVE 3
     - Bangla TV
-    - Başakşehir Futbol Kulübü vs Antalyaspor
     - Bijoy TV
     - CAZE TV 1
     - CAZE TV 2
@@ -1633,16 +1628,15 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - ESPN 4 NL
     - ESPN 5
     - ESPN 6
-    - Eintracht Frankfurt Women vs Hoffenheim Women
     - Ekattor TV
     - Equidia
-    - Eyupspor vs Trabzonspor
     - FANCODE TV 1
     - FANCODE TV 2
     - FANCODE TV 3
     - FAST AND FUNBOX 🇸🇰
     - FB TV
     - FC Barcelona vs Newcastle United
+    - FC Bayern Munich vs Atalanta
     - FIFA+
     - FIFA+ 1
     - FIFA+ AU
