@@ -642,17 +642,20 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 02:00 WIB Al-Ahli vs Al Hilal
     - 03:00 WIB Bayern München vs Atalanta
     - 03:00 WIB Tottenham Hotspur vs Atlético Madrid
-    - 17:30 WIB - INCHEON UNITED VS DAEJEON CITIZEN
-    - 17:30 WIB - URAWA RED VS KASHIWA REYSOL
-    - 18:00 WIB - SHB DA NANG VS NAM DINH
     - 19:00 WIB - PATTANI VS BURIRAM UNITED
     - 19:00 WIB - PORT FC VS KHONKAEN UNITED
     - 20:00 WIB - ALANYASPOR VS KOCAELISPOR
     - 20:00 WIB - REAL MADRID U19 VS SPORTING CP U19
+    - 21:00 WIB - JOHOR DARUL TAKZIM VS PDRM FC
+    - 21:15 WIB - XORAZM URGANCH VS BUNYODKOR
+    - 22:00 WIB - INTER MILAN U19 VS BENFICA U19
+    - 22:00 WIB - QIZILQUM ZARAFSHON VS FC OKMK OLMALIQ
     - 22:30 WIB Sporting Braga vs Ferencváros
     - Alanyaspor vs Kocaelispor
     - Athletico-PR vs Cruzeiro
+    - Atletico Mineiro vs Sao Paulo
     - Braga vs Ferencvarosi TC
+    - Chicago Bulls vs Toronto Raptors
     - Chivas Guadalajara vs Club Leon
     - Club America vs Philadelphia Union
     - Eyupspor vs Trabzonspor
@@ -664,11 +667,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Inter Milan U19 vs Benfica U19
     - Johor Darul Takzim vs PDRM FC
     - Liverpool vs Galatasaray
-    - Pathum United vs Mahasarakham United FC
-    - Pattani vs Buriram
     - Real Madrid U19 vs Sporting CP U19
-    - SHB Đà Nẵng vs Nam Định
-    - Shanghai vs Shandong Hi-Speed
+    - Toluca vs San Diego FC
     - Tottenham Hotspur vs Atlético Madrid
     - Vasco vs Fluminense RJ
     - Zenit vs FK Makhachkala
@@ -1577,6 +1577,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - ACCDN
     - ATG Live
     - Action-2-Special Delivery
+    - Alanyaspor vs Kocaelispor
     - Alkass Five
     - Alkass Four
     - Alkass One
@@ -1649,6 +1650,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - FIFA+ United States
     - FIFA+ Women
     - FIGHT BOX 🇸🇰
+    - FK Kokand 1912 vs Navbahor Namangan
     - FNC PPV
     - FOOTBALL TV
     - FS1
@@ -1679,6 +1681,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - INTER TV
     - ITV Deportes
     - JOURNAL DU GOLF
+    - Johor Darul Ta'zim FC vs PDRM FC
     - KBS LIVECAM DOKDO
     - KCMN-LD6
     - KHL
@@ -1868,7 +1871,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - UFC MMA 1
     - UFC MMA 2
     - USA
-    - Urawa Red Diamonds vs Kashiwa Reysol
     - VITAL Drive
     - WOWOW Live
     - WWE NETWORK
