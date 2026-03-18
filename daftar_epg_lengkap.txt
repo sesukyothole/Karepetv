@@ -619,29 +619,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Ð¡Ð¸ÑÐ¸ Ð­Ð´ÐµÐ¼ ÐÐ¸Ð½Ð¾ÐÐ¾Ðº
 
 === KATEGORI: LIVE EVENT SPORTS ===
-  [JADWAL EVENT]
-    - Alanyaspor vs Kocaelispor
-    - Braga vs Ferencvarosi TC
-    - Bucheon FC 1995 vs Gangwon
-    - Chiba vs Tokyo
-    - Eyupspor vs Trabzonspor
-    - FC Bayern München vs Atalanta B.C.
-    - FC Chanmari vs Lajong
-    - Houston Rockets vs Los Angeles Lakers
-    - Inter Milan U19 vs Benfica U19
-    - Jeonbuk Hyundai Motors vs FC Anyang
-    - Johor Darul Takzim vs PDRM FC
-    - Liverpool vs Galatasaray
-    - Machida vs Kashima Antlers
-    - Nagoya Grampus vs Sanfrecce Hiroshima
-    - Pathum United vs Mahasarakham United FC
-    - Pattani vs Buriram
-    - SHB Đà Nẵng vs Nam Định
-    - Shanghai vs Shandong Hi-Speed
-    - Tottenham Hotspur vs Atlético Madrid
-    - Vasco vs Fluminense RJ
-    - Vissel Kobe vs Gamba Osaka
-    - Zenit vs FK Makhachkala
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
