@@ -1381,7 +1381,6 @@ LEGENDA STATUS EPG:
     🟠 [38;5;208mw_400,q_100/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" group-title="Toffee Live",Zee Anmol (dc488b1502f5) -> Tidak valid/kosong di XML. Harusnya: TIDAK DITEMUKAN[0m
     🟠 [38;5;208mw_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png" group-title="Toffee Live",Zing (4effcf0f2452) -> Tidak valid/kosong di XML. Harusnya: TIDAK DITEMUKAN[0m
     🟠 [38;5;208mw_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png" group-title="Toffee Live",Zee Action (72a0803cf563) -> Tidak valid/kosong di XML. Harusnya: TIDAK DITEMUKAN[0m
-    🟠 [38;5;208mw_400,q_100/PnZefJcBcqxnFHJBoxca/posters/955ae898-8336-4936-8d78-c6b8866e35f7.png" group-title="Toffee Live",ICC Test Championship Highlights (b18613696a70) -> Tidak valid/kosong di XML. Harusnya: TIDAK DITEMUKAN[0m
     🟠 [38;5;208mw_400,q_100/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Toffee Live",Zee Cafe (c65460ba0d73) -> Tidak valid/kosong di XML. Harusnya: TIDAK DITEMUKAN[0m
     🟡 [93m~GO3 Sport (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
     🟡 [93m~GO3 Sport 2 (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
@@ -1400,11 +1399,6 @@ LEGENDA STATUS EPG:
     🟡 [93mBWF COURT LIVE 4 (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
     🟡 [93mCCTV 4 (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
     🟠 [38;5;208mCCTV-4 (85) -> Tidak valid/kosong di XML. Harusnya: TIDAK DITEMUKAN[0m
-    🟡 [93mCTV 1 (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
-    🟡 [93mCTV 2 (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
-    🟡 [93mCTV 3 (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
-    🟡 [93mCTV 5 (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
-    🟡 [93mCTV 6 (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
     🟡 [93mDAZN 1 DE (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
     🟡 [93mDAZN 1 ES (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
     🟡 [93mDAZN 1 IP (Kosong) -> Harusnya id epgnya: TIDAK DITEMUKAN[0m
