@@ -647,6 +647,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 00:45 WIB Midtjylland vs Nottingham Forest
     - 00:45 WIB Olympique Lyonnais vs Celta de Vigo
     - 01:30 WIB - DINAMO BUCURESTI VS UNIV CRAIOVA
+    - 03:00 WIB - FC PORTO VS VFB STUTTGART
     - 03:00 WIB Aston Villa vs Lille
     - 03:00 WIB Porto vs Stuttgart
     - A.S. Roma vs Bologna F.C. 1909
