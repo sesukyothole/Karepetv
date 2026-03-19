@@ -2420,8 +2420,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS", AS Roma vs Bologna
 https://live.trendgallary.com/live/13645226_daf75dfdae2d66a750d0a26b34acd32e.m3u8
-#EXTINF:-1 group-title="SPORTS", Aston Villa vs LOSC Lille
-https://live1.trendgallary.com/live/13645242_6e0ec9f16d67199064fca9bca53c11f3.m3u8
 ### 🟡 UPCOMING EVENT
 #EXTINF:-1 group-title="SPORTS", BKMA vs Urartu
 https://freeiptv2026.tsender57.workers.dev/go
@@ -2434,8 +2432,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS", FC Porto vs VfB Stuttgart
-https://live.trendgallary.com/live/13645230_247a654834f40f05458345ff733c2f2e.m3u8
+### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", FC Shakhtar Donetsk vs Lech Poznan
 https://live2.trendgallary.com/live/13645437_26cd15a31973bb6a8cbbf9c5502dd046.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fightbox.jpg" group-title="SPORTS",FIGHT BOX 🇸🇰
@@ -2502,15 +2499,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/v5wKtPf.png?v=1.1.1.1" group-title="SPORTS" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="CAAJ2700030ON" tvg-name="Outside", Outside
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/c04d61b0a6119b0f2efcc31b3308c8cc82d2025a/Outside.m3u8
-#EXTINF:-1 group-title="SPORTS", Rayo Vallecano vs Samsunspor
-https://live4.trendgallary.com/live/13645416_40cb463f2b996202344134179981904e.m3u8
-#EXTINF:-1 group-title="SPORTS", RC Strasbourg Alsace vs Rijeka
-https://live5.trendgallary.com/live/13645408_5c5fb04ca799ac5e1c6fd2a5c7265a0c.m3u8
-#EXTINF:-1 group-title="SPORTS", Real Betis vs Panathinaikos
-https://live.trendgallary.com/live/edq09illr38aeqx_61ee21298078b8c4becf960b4b3ab416.m3u8
-### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", Sparta Praha vs AZ Alkmaar
-https://live3.trendgallary.com/live/13645435_fb5a8c0d3b9a9c8fad3467c955868545.m3u8
 #EXTINF:-1 tvg-logo="http://stvlive.net/assets/images/Star Select11731408156.png" group-title="SPORTS",Star Select1
 http://ts1.supports.top/live/Flixprime1896/qxhnz0fxqn/276734.ts
 #EXTINF:-1 tvg-logo="http://stvlive.net/assets/images/Star Select21731408458.png" group-title="SPORTS",Star Select2

@@ -640,21 +640,20 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 00:45 WIB Midtjylland vs Nottingham Forest
     - 00:45 WIB Olympique Lyonnais vs Celta de Vigo
     - 03:00 WIB - AS ROMA VS BOLOGNA
-    - 03:00 WIB - ASTON VILLA VS LOSC LILLE
-    - 03:00 WIB - FC PORTO VS VFB STUTTGART
     - 03:00 WIB - RAYO VALLECANO VS SAMSUNSPOR
     - 03:00 WIB - REAL BETIS VS PANATHINAIKOS
     - 03:00 WIB - SHAKHTAR DONETSK VS LECH POZNAN
-    - 03:00 WIB - SPARTA PRAHA VS AZ ALKMAAR
-    - 03:00 WIB - STRASBOURG VS RIJEKA
     - 03:00 WIB Aston Villa vs Lille
     - 03:00 WIB Porto vs Stuttgart
     - 04:10 WIB - ALIANZA PETROLERA VS CD JAGUARES
     - 04:30 WIB - ORENSE SC VS MUSHUC RUNA
+    - 05:00 WIB - GREMIO VS VITORIA BA
+    - 05:30 WIB - MARINGA FC VS GOIAS EC
+    - 06:00 WIB - CR FLAMENGO VS REMO BELEM PA
     - A.S. Roma vs Bologna F.C. 1909
     - Albirex Niigata vs Kataller Toyama
-    - Aston Villa vs Lille OSC
     - Bournemouth vs Manchester United
+    - CLB Haras El Hedoud vs Ismaily
     - Chapecoense SC vs Corinthians Paulista
     - Dalian Yingbo vs Shanghai Port
     - Edgeworth Eagles vs Valentine
@@ -662,13 +661,12 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Gangneung vs Dangjin Citizen
     - Gremio vs Vitoria BA
     - Guangxi Hengchen vs Ningbo Professional
+    - Hồ Chí Minh vs Trường Tươi Đồng Nai
     - Miami Heat vs Los Angeles Lakers
     - Mount Pleasant vs Los Angeles Galaxy
     - North East Utd vs Odisha
     - Ordabasy vs Kaisar Kyzylorda
-    - Porto vs VfB Stuttgart
-    - Rayo Vallecano vs Samsunspor
-    - Real Betis Balompié vs Panathinaikos
+    - Qingdao Hainiu FC vs Zhejiang Professional
     - Sydney Nữ vs Wellington Phoenix Nữ
     - Thespakusatsu Gunma vs Shonan Bellmare
     - Tigres vs Cincinnati
@@ -1593,7 +1591,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Alkass Two
     - Ananda TV
     - Asian TV
-    - Aston Villa vs LOSC Lille
     - B4U Movies VIP
     - B4U Music VIP
     - BELLATOR MMA
@@ -1644,7 +1641,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - FANCODE TV 3
     - FAST AND FUNBOX 🇸🇰
     - FB TV
-    - FC Porto vs VfB Stuttgart
     - FC Shakhtar Donetsk vs Lech Poznan
     - FIFA+
     - FIFA+ 1
@@ -1784,13 +1780,10 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Pogo
     - Poker Go
     - RACER International
-    - RC Strasbourg Alsace vs Rijeka
     - REDBULL TV
     - RTB GO  LIVE
     - RTB Go Live FHD
     - RTI La 3
-    - Rayo Vallecano vs Samsunspor
-    - Real Betis vs Panathinaikos
     - Real Madrid TV
     - Red Bull TV
     - RightNow TV
@@ -1835,7 +1828,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SSC EXTRA 3
     - Somoy TV
     - Sony Aat VIP
-    - Sparta Praha vs AZ Alkmaar
     - Stadium
     - Star Select1
     - Star Select2
