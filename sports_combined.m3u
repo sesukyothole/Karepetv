@@ -2422,10 +2422,9 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 https://live.trendgallary.com/live/o07dni55rx5imkn_f91235654a7ba7b38db48eef2c4c799c.m3u8
 #EXTINF:-1 group-title="SPORTS", AEK Athens vs NK Publikum Celje
 https://live4.trendgallary.com/live/13645414_75f02ef89451ad270b45a0e9c07b4d0c.m3u8
+### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", AEK Larnaca vs Crystal Palace
 https://live.trendgallary.com/live/13645431_8c3f54ed5a8f0a3420edc4dc40a12075.m3u8
-#EXTINF:-1 group-title="SPORTS", Besiktas JK vs Kasimpasa
-https://live1.trendgallary.com/live/13612168_dcdfeed5249e7a6005aeb232abc63a38.m3u8
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="SPORTS",DZ COMBAT
@@ -2452,11 +2451,6 @@ https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",INTER TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 group-title="SPORTS", KFUM Oslo vs Fredrikstad
-https://live.trendgallary.com/live/13679175_bfbde0a05283bcb8a8d692a577818ceb.m3u8
-### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", Konyaspor vs Genclerbirligi
-https://live.trendgallary.com/live/13612173_1aa2e9ae43490589a8c50ba2789bf1ed.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",La liga Inside
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="SPORTS",LALIGA
