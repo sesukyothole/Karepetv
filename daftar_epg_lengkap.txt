@@ -641,30 +641,30 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 00:45 WIB Olympique Lyonnais vs Celta de Vigo
     - 03:00 WIB Aston Villa vs Lille
     - 03:00 WIB Porto vs Stuttgart
-    - 05:00 WIB - GREMIO VS VITORIA BA
-    - 05:30 WIB - MARINGA FC VS GOIAS EC
-    - 06:00 WIB - CR FLAMENGO VS REMO BELEM PA
-    - 06:00 WIB - MOUNT PLEASANT FA VS L A GALAXY
-    - 06:20 WIB - DEPORTES TOLIMA VS FORTALEZA F C
-    - 07:00 WIB - SPORT EMELEC VS IND DEL VALLE
+    - 07:00 WIB - SAN ANTONIO SPURS VS PHOENIX SUNS
     - 07:30 WIB - CHAPECOENSE SC VS CORINTHIANS SP
+    - 08:00 WIB - TIGRES UANL VS FC CINCINNATI
+    - 08:30 WIB - DEP INDEPENDIENTE VS ATLETICO JUNIOR
+    - 12:00 WIB - ALBIREX NIIGATA VS KATALLER TOYAMA
+    - 12:00 WIB - THESPA GUNMA VS SHONAN BELLMARE
+    - 15:00 WIB - NU SYDNEY FC VS NU WELLINGTON PHOENIX
     - Albirex Niigata vs Kataller Toyama
     - Bournemouth vs Manchester United
     - CLB Haras El Hedoud vs Ismaily
     - Chapecoense SC vs Corinthians Paulista
     - Dalian Yingbo vs Shanghai Port
     - Edgeworth Eagles vs Valentine
-    - Flamengo vs Remo Belem
     - Gangneung vs Dangjin Citizen
-    - Gremio vs Vitoria BA
     - Guangxi Hengchen vs Ningbo Professional
     - Hồ Chí Minh vs Trường Tươi Đồng Nai
+    - Mazatlan FC vs Cruz Azul
     - Miami Heat vs Los Angeles Lakers
     - Mohun Bagan vs Mumbai City
-    - Mount Pleasant vs Los Angeles Galaxy
     - North East Utd vs Odisha
     - Ordabasy vs Kaisar Kyzylorda
     - Qingdao Hainiu FC vs Zhejiang Professional
+    - Sacramento Kings vs Philadelphia 76ers
+    - San Lorenzo vs Deportivo Rincon
     - Sydney Nữ vs Wellington Phoenix Nữ
     - Thespakusatsu Gunma vs Shonan Bellmare
     - Tigres vs Cincinnati
@@ -1314,6 +1314,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - CT SPORT 🇸🇰
     - CYTAVISION SPORT 1
     - CYTAVISION SPORT 2
+    - Chapecoense SC vs Sport Club Corinthians Paulista
     - DD Sports SD
     - DIGI SPORT 1
     - DIGI SPORT 2
@@ -1607,7 +1608,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - CAZE TV 3
     - CBS Golazo Network
     - CDN Deportes
-    - CR Flamengo vs Remo Belem
     - Canal do Inter
     - Channel S
     - ColimdoT TV
@@ -1670,7 +1670,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Gol Classics
     - Golf Channel Latin America
     - Golf Network
-    - Gremio vs Vitoria BA
     - HBO Boxing
     - HTSpor TV
     - Hajduk TV
@@ -1743,7 +1742,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Monterrico TV
     - Motorvision TV
     - Motorvision+
-    - Mount Pleasant FA vs Los Angeles Galaxy
     - Mr Bean Live Action
     - NBA PHILIPPINES
     - NBA TV
@@ -1866,6 +1864,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Teletrak
     - Tennis Channel 1
     - Tennis Channel 2
+    - Tigres UANL vs FC Cincinnati
     - Turf Movil
     - Tv4Futbol 🇸🇪
     - UAAP VARSITY
