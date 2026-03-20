@@ -641,11 +641,31 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 03:00 WIB AFC Bournemouth vs Manchester United
     - 04:00 WIB - AGUILAS DORADAS VS AMERICA DE CALI
     - 05:30 WIB - RIO CLARO BASQUETE VS MOGI DAS CRUZES
+    - 06:00 WIB - FLAMENGO VS OSASCO BASKET
     - 07:00 WIB - ATLETICO TUCUMAN VS GIMNASIA LA PLATA
     - 07:00 WIB - BANFIELD VS CLUB ATLETICO TIGRE
     - 07:00 WIB - NU TOLUCA VS NU CLUB NECAXA
-    - 08:00 WIB - NECAXA VS CLUB TIJUANA
-    - 09:00 WIB - NU MONTERREY VS NU GUADALAJARA
+    - Akhmat Grozny vs FC Rostov
+    - Auckland FC vs Macarthur
+    - Avispa Fukuoka vs Gamba Osaka
+    - Banfield vs Club Atletico Tigre
+    - Bayern München vs Union Berlin
+    - Brighton vs Liverpool
+    - Brisbane Roar vs Wellington Phoenix
+    - Daejeon vs Jeonbuk Hyundai Motors
+    - Detroit Pistons vs Golden State Warriors
+    - Espanyol vs Getafe CF
+    - Fagiano Okayama vs V Varen Nagasaki
+    - Fulham vs Burnley
+    - Heidenheimer vs Bayer 04 Leverkusen
+    - Henan Songshan Longmen vs Wuhan Three Towns
+    - Hull City vs Sheffield Wednesday
+    - Mazatlan FC vs Cruz Azul
+    - Melbourne Victory vs Central Coast
+    - Metrostars SC vs Adelaide City FC
+    - Necaxa vs Club Tijuana
+    - San Lorenzo vs Deportivo Rincon
+    - VfL Wolfsburg vs SV Werder Bremen
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
