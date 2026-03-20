@@ -2430,13 +2430,13 @@ https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playl
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
 #EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="SPORTS",Äá»ng Nai 2 (480p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS", Aizawl FC vs Diamond Harbour FC
+https://live.trendgallary.com/live/zrkn6i44go4fwql_fd87b35e1ddc1060dc3dfc088d2c97d8.m3u8
 ### 🟡 UPCOMING EVENT
 #EXTINF:-1 group-title="SPORTS", BKMA vs Urartu
 https://freeiptv2026.tsender57.workers.dev/go
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS", Dalian Yingbo vs Shanghai Port
-https://live.trendgallary.com/live/13598972_c7d17c52c24f788aacf517b57dedb224.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="SPORTS",DZ COMBAT
 https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fastandfunbox.jpg" group-title="SPORTS",FAST AND FUNBOX 🇸🇰
@@ -2454,8 +2454,9 @@ https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", Guangxi Hengchen vs Ningbo Professional Football Club
-https://hwcn111pull-b.bszb.me/live/583717_1774007206.flv
+https://live.trendgallary.com/live/13658688_93059b0c387e060eff0c4183182a9ed2.m3u8
 #EXTINF:-1 tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1-620x396.jpg" group-title="SPORTS" tvg-logo="",HBO Boxing
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2496,8 +2497,6 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qr0o2tP.png?v=1.0.0.1" group-title="SPORTS" tvg-id="Motorvision+.id" tvg-name="Motorvision+.id", Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision+
-#EXTINF:-1 group-title="SPORTS", Northeast United vs Odisha FC
-https://live.trendgallary.com/live/13570785_eca0057e6376dbd6f0371bec42608d7b.m3u8
 #EXTINF:-1 tvg-id="onfootball" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnFootball.png",ON Football HD (VTV Prime)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2510,10 +2509,12 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a323b53e0864492b0e04c70d591c564:843584bafaf2736c4fd1b76e1eee74d8
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
+#EXTINF:-1 group-title="SPORTS", Ordabasy vs Kaisar Kyzylorda
+https://live.trendgallary.com/live/13637882_484cd6cdb3df155e1841fefdf61f9be3.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/v5wKtPf.png?v=1.1.1.1" group-title="SPORTS" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="CAAJ2700030ON" tvg-name="Outside", Outside
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/c04d61b0a6119b0f2efcc31b3308c8cc82d2025a/Outside.m3u8
-#EXTINF:-1 group-title="SPORTS", Qingdao Hainiu vs Zhejiang Professional FC
-https://live.trendgallary.com/live/13598973_90aaa8c5792133c59a1167d6d35d7906.m3u8
+#EXTINF:-1 group-title="SPORTS", Sogdiana Jizak vs Pakhtakor
+https://live.trendgallary.com/live/13534258_8710b1226a67922614a3cb3e0c96bbdb.m3u8
 #EXTINF:-1 tvg-logo="http://stvlive.net/assets/images/Star Select11731408156.png" group-title="SPORTS",Star Select1
 http://ts1.supports.top/live/Flixprime1896/qxhnz0fxqn/276734.ts
 #EXTINF:-1 tvg-logo="http://stvlive.net/assets/images/Star Select21731408458.png" group-title="SPORTS",Star Select2
@@ -2557,9 +2558,6 @@ https://qw.live.pv-cdn.net/OTTB/sin-nitro/live/clients/dash/enc/jkcljgqbx8/out/v
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
-### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", Wuxi Wugo vs Shenzhen Juniors
-https://live1.trendgallary.com/live/13658687_a28c27f84997dbc3cca5ee521db6e9b8.m3u8
 #EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/espn2.png" group-title="SPORTS",ESPN 2 US HD Test
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/4022
 #EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/daznppv.png" group-title="SPORTS",FNC PPV

@@ -637,34 +637,34 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
 
 === KATEGORI: LIVE EVENT SPORTS ===
   [JADWAL EVENT]
+    - 00:45 WIB - FENERBAHCE ISTANBUL VS OLIMPIA MILANO
     - 02:45 WIB Lens vs Angers SCO
     - 03:00 WIB AFC Bournemouth vs Manchester United
-    - 17:00 WIB - KYZYLZHAR VS IRTYSH PAVLODAR
-    - 18:00 WIB - DALIAN YINGBO VS SHANGHAI PORT
-    - 18:00 WIB - FK ATYRAU VS ZHENIS ASTANA
-    - 18:00 WIB - FK KAPAZ GANCA VS QARABAG
-    - 18:30 WIB - FK VAN VS ARARAT ARMENIA
-    - 18:30 WIB - NORTHEAST UNITED VS ODISHA FC
-    - 18:35 WIB - QINGDAO MANATEE VS ZHEJIANG GREENTOWN
-    - 19:00 WIB - NASAF QARSHI VS TERMEZ SURKHON
+    - 19:15 WIB - HO CHI MINH VS BINH PHUOC
+    - 20:00 WIB - ORDABASY VS KAISAR KYZYLORDA
+    - 21:00 WIB - ATK MOHUN BAGAN VS MUMBAI CITY FC
+    - 21:00 WIB - FC ASTANA VS TOBOL KOSTANAI
+    - 21:00 WIB - FC MINSK VS ARSENAL DZYARZ
+    - 22:00 WIB - HARAS EL HODOOD VS ISMAILY SC
+    - Aguilas Doradas vs America de Cali
+    - Auckland FC vs Macarthur
     - Banfield vs Club Atletico Tigre
     - Bournemouth vs Manchester United
     - Brisbane Roar vs Wellington Phoenix
     - CLB Haras El Hedoud vs Ismaily
-    - Dalian Yingbo vs Shanghai Port
+    - Derby County U21 vs Middlesbrough U21
     - Detroit Pistons vs Golden State Warriors
+    - Genoa vs Udinese Calcio
     - Guangxi Hengchen vs Ningbo Professional
+    - Hannover 96 vs Braunschweig
     - Hồ Chí Minh vs Trường Tươi Đồng Nai
+    - KSC vs Greuther Furth
     - Mazatlan FC vs Cruz Azul
     - Melbourne Victory vs Central Coast
     - Mohun Bagan vs Mumbai City
-    - North East Utd vs Odisha
     - Ordabasy vs Kaisar Kyzylorda
-    - Qingdao Hainiu FC vs Zhejiang Professional
-    - Redlands United vs Holland Park Hawks
     - San Lorenzo vs Deportivo Rincon
     - Slavia Sofia vs Botev Plovdiv
-    - Suwon KT vs KoGas
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
@@ -1573,6 +1573,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - ACCDN
     - ATG Live
     - Action-2-Special Delivery
+    - Aizawl FC vs Diamond Harbour FC
     - Alkass Five
     - Alkass Four
     - Alkass One
@@ -1610,7 +1611,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - DGS 2
     - DGS 3
     - DZ COMBAT
-    - Dalian Yingbo vs Shanghai Port
     - DraftKings Network
     - EPL 11 PRIMERE
     - EPL 12 CMP 5
@@ -1749,10 +1749,10 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - NHRA TV
     - Nautical Channel
     - Nittele G Plus
-    - Northeast United vs Odisha FC
     - OMAN LIVE
     - ON Football HD
     - On Golf HD
+    - Ordabasy vs Kaisar Kyzylorda
     - Outside
     - Ovacion TV
     - Overtime
@@ -1774,7 +1774,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Pilipinas Live 9
     - Pogo
     - Poker Go
-    - Qingdao Hainiu vs Zhejiang Professional FC
     - RACER International
     - REDBULL TV
     - RTB GO  LIVE
@@ -1822,6 +1821,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SSC EXTRA 1
     - SSC EXTRA 2
     - SSC EXTRA 3
+    - Sogdiana Jizak vs Pakhtakor
     - Somoy TV
     - Sony Aat VIP
     - Stadium
@@ -1874,7 +1874,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - WWE NETWORK
     - Wanted: Dead or Alive
     - World Poker Tour
-    - Wuxi Wugo vs Shenzhen Juniors
     - Zee Bangla Cinema VIP
     - Zee Bangla VIP
     - Zee Cinema HD
