@@ -641,14 +641,35 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 00:45 WIB Olympique Lyonnais vs Celta de Vigo
     - 03:00 WIB Aston Villa vs Lille
     - 03:00 WIB Porto vs Stuttgart
-    - 04:10 WIB - ALIANZA PETROLERA VS CD JAGUARES
-    - 04:30 WIB - ORENSE SC VS MUSHUC RUNA
     - 05:00 WIB - GREMIO VS VITORIA BA
     - 05:30 WIB - MARINGA FC VS GOIAS EC
     - 06:00 WIB - CR FLAMENGO VS REMO BELEM PA
     - 06:00 WIB - MOUNT PLEASANT FA VS L A GALAXY
     - 06:20 WIB - DEPORTES TOLIMA VS FORTALEZA F C
     - 07:00 WIB - SPORT EMELEC VS IND DEL VALLE
+    - 07:30 WIB - CHAPECOENSE SC VS CORINTHIANS SP
+    - Albirex Niigata vs Kataller Toyama
+    - Bournemouth vs Manchester United
+    - CLB Haras El Hedoud vs Ismaily
+    - Chapecoense SC vs Corinthians Paulista
+    - Dalian Yingbo vs Shanghai Port
+    - Edgeworth Eagles vs Valentine
+    - Flamengo vs Remo Belem
+    - Gangneung vs Dangjin Citizen
+    - Gremio vs Vitoria BA
+    - Guangxi Hengchen vs Ningbo Professional
+    - Hồ Chí Minh vs Trường Tươi Đồng Nai
+    - Miami Heat vs Los Angeles Lakers
+    - Mohun Bagan vs Mumbai City
+    - Mount Pleasant vs Los Angeles Galaxy
+    - North East Utd vs Odisha
+    - Ordabasy vs Kaisar Kyzylorda
+    - Qingdao Hainiu FC vs Zhejiang Professional
+    - Sydney Nữ vs Wellington Phoenix Nữ
+    - Thespakusatsu Gunma vs Shonan Bellmare
+    - Tigres vs Cincinnati
+    - Western Sydney vs Adelaide United
+    - Xelaju vs CSD Municipal
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
@@ -1586,6 +1607,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - CAZE TV 3
     - CBS Golazo Network
     - CDN Deportes
+    - CR Flamengo vs Remo Belem
     - Canal do Inter
     - Channel S
     - ColimdoT TV
