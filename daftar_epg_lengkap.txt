@@ -641,18 +641,18 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 00:00 WIB - OGRE UNITED VS FK LIEPAJA
     - 00:00 WIB - PIAST GLIWICE VS RADOMIAK RADOM
     - 00:30 WIB - CAGLIARI VS NAPOLI
+    - 00:30 WIB - HANNOVER 96 VS E BRAUNSCHWEIG
+    - 00:30 WIB - KARLSRUHER SC VS GREUTHER FURTH
     - 02:30 WIB - RB LEIPZIG VS TSG HOFFENHEIM
     - 02:45 WIB - GENOA VS UDINESE
     - 02:45 WIB - RC LENS VS ANGERS
     - 02:45 WIB Lens vs Angers SCO
     - 03:00 WIB AFC Bournemouth vs Manchester United
-    - 23:00 WIB - FK AUDA RIGA VS RIGA FC
-    - 23:00 WIB - FK SPARTAK VODA VS RADNIK SURDULICA
-    - 23:00 WIB - SLAVIA SOFIA VS BOTEV PLOVDIV
     - 23:30 WIB - NK ALUMINIJ VS MARIBOR
     - 23:30 WIB - ROTOR VOLGOGRAD VS FAKEL
     - Aguilas Doradas vs America de Cali
     - Auckland FC vs Macarthur
+    - Banfield vs Club Atletico Tigre
     - Bournemouth vs Manchester United
     - Brisbane Roar vs Wellington Phoenix
     - Cagliari vs S.S.C. Napoli
@@ -668,7 +668,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - RB Leipzig vs TSG 1899 Hoffenheim
     - RC Lens vs Angers SCO
     - San Lorenzo vs Deportivo Rincon
-    - Slavia Sofia vs Botev Plovdiv
     - Villarreal vs Real Sociedad
 
 === KATEGORI: NEWS ===
@@ -1651,7 +1650,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - FIFA+ United States
     - FIFA+ Women
     - FIGHT BOX 🇸🇰
-    - FK Spartak Subotica vs Radnik Surdulica
     - FNC PPV
     - FOOTBALL TV
     - FS1
@@ -1662,6 +1660,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Fanduel TV
     - Fight Network
     - Futbol
+    - GD Chaves vs Uniao Leiria
     - GLORY KICKBOXING
     - GLORY Kickboxing
     - GOLF CHANNEL 🇸🇰
@@ -1876,6 +1875,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - UFC MMA 2
     - USA
     - VITAL Drive
+    - Vejle vs Odense BK
     - WOWOW Live
     - WWE NETWORK
     - Wanted: Dead or Alive
