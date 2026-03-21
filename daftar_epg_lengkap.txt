@@ -638,12 +638,13 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
 === KATEGORI: LIVE EVENT SPORTS ===
   [JADWAL EVENT]
     - 03:05 WIB Nice vs PSG
-    - 15:30 WIB - METROSTARS SC VS ADELAIDE CITY
     - 16:00 WIB - NU AUSTRALIA VS NU NHAT BAN
     - 16:00 WIB - OKZHETPES VS ULYTAU ZHEZKAZGAN
-    - 16:00 WIB - TAIPEI TAISHIN MARS VS TAIWAN BEER LEOPARDS
-    - 16:00 WIB - TAIWAN BEER VS CHANGHUA BLL
+    - 19:30 WIB - BRIGHTON VS LIVERPOOL
     - 19:30 WIB Brighton & Hove Albion vs Liverpool
+    - 20:00 WIB - ELCHE VS RCD MALLORCA
+    - 21:30 WIB - BAYERN MUNICH VS UNION BERLIN
+    - 22:00 WIB - FULHAM VS BURNLEY
     - 22:00 WIB Fulham vs Burnley
     - Akhmat Grozny vs FC Rostov
     - Bayern München vs Union Berlin
@@ -653,12 +654,13 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Elche vs RCD Mallorca
     - Elversberg vs Bielefeld
     - Espanyol vs Getafe CF
+    - Fluminense RJ vs Atletico Mineiro
     - Fulham vs Burnley
     - Heidenheimer vs Bayer 04 Leverkusen
     - Henan Songshan Longmen vs Wuhan Three Towns
     - Hull City vs Sheffield Wednesday
     - Independiente vs Talleres Cordoba
-    - Metrostars SC vs Adelaide City FC
+    - Köln vs Borussia Mönchengladbach
     - Nashville vs Orlando City
     - Parma vs U.S. Cremonese
     - Phu Dong Ninh Binh vs PVF CAND
@@ -666,7 +668,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Sheffield United vs Wrexham
     - Thể Công - Viettel vs Bac Ninh
     - VfL Wolfsburg vs SV Werder Bremen
-    - Úc Nữ vs Nhật Bản Nữ
+    - Yunnan Yukun vs Shandong Taishan
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
@@ -1574,6 +1576,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - ACCDN
     - ATG Live
     - Action-2-Special Delivery
+    - Akhmat Grozny vs FK Rostov
     - Alkass Five
     - Alkass Four
     - Alkass One
@@ -1585,7 +1588,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Alkass Two
     - Ananda TV
     - Asian TV
-    - Australia Women vs Japan Women
     - B4U Movies VIP
     - B4U Music VIP
     - BELLATOR MMA
@@ -1669,6 +1671,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - HBO Boxing
     - HTSpor TV
     - Hajduk TV
+    - Henan FC vs Wuhan Three Towns
     - Horse TV
     - Hum Masala
     - Hum Sitarey
