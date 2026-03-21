@@ -638,22 +638,18 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
 === KATEGORI: LIVE EVENT SPORTS ===
   [JADWAL EVENT]
     - 03:05 WIB Nice vs PSG
-    - 19:00 WIB - SV ELVERSBERG VS ARMINIA BIELEFELD
-    - 19:15 WIB - THE CONG VIETTEL VS TDTT BAC NINH
-    - 19:30 WIB - BLACKBURN ROVERS VS MIDDLESBROUGH
-    - 19:30 WIB - BRIGHTON VS LIVERPOOL
-    - 19:30 WIB - DERBY COUNTY VS BIRMINGHAM CITY
-    - 19:30 WIB - IPSWICH TOWN VS MILLWALL
     - 19:30 WIB Brighton & Hove Albion vs Liverpool
     - 20:00 WIB - CSKA MOSCOW VS DYNAMO MAKHACHKALA
     - 20:00 WIB - ELCHE VS RCD MALLORCA
+    - 20:45 WIB - CRACOVIA KRAKOW VS GKS KATOWICE
+    - 21:00 WIB - PARMA VS CREMONESE
     - 21:30 WIB - BAYERN MUNICH VS UNION BERLIN
     - 22:00 WIB - FULHAM VS BURNLEY
     - 22:00 WIB Fulham vs Burnley
+    - AC Milan vs Torino F.C.
     - Atlas vs Queretaro
     - Bayern München vs Union Berlin
     - Bhutan U20 vs Nepal U20
-    - Brighton vs Liverpool
     - Charlotte FC vs New York Red Bulls
     - Dallas vs Houston Dynamo
     - Elche vs RCD Mallorca
@@ -665,11 +661,11 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Independiente vs Talleres Cordoba
     - Köln vs Borussia Mönchengladbach
     - Nashville vs Orlando City
+    - OGC Nice vs Paris Saint-Germain
     - Parma vs U.S. Cremonese
     - Pohang Steelers vs Bucheon FC 1995
     - Sao Paulo vs Palmeiras
     - Sheffield United vs Wrexham
-    - Thể Công - Viettel vs Bac Ninh
     - Toulouse FC vs FC Lorient
     - VfL Wolfsburg vs SV Werder Bremen
 
