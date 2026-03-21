@@ -640,18 +640,38 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 00:00 WIB - AC MILAN VS TORINO
     - 00:30 WIB - EVERTON VS CHELSEA
     - 00:30 WIB Everton vs Chelsea
+    - 03:00 WIB - LEEDS UNITED VS BRENTFORD
     - 03:00 WIB Leeds United vs Brentford
     - 03:05 WIB Nice vs PSG
     - 19:30 WIB Brighton & Hove Albion vs Liverpool
-    - 21:30 WIB - BAYERN MUNICH VS UNION BERLIN
-    - 21:30 WIB - FC KOLN VS B MONCHENGLADBACH
-    - 21:30 WIB - HEIDENHEIM VS BAYER LEVERKUSEN
-    - 21:30 WIB - VFL WOLFSBURG VS WERDER BREMEN
-    - 22:00 WIB - BRISTOL CITY VS WEST BROM
     - 22:00 WIB - FULHAM VS BURNLEY
-    - 22:00 WIB - SHEFFIELD UNITED VS WREXHAM
-    - 22:00 WIB - SOUTHAMPTON VS OXFORD UNITED
+    - 22:00 WIB - INTER TURKU VS AC OULU
+    - 22:00 WIB - WATFORD VS LEICESTER CITY
     - 22:00 WIB Fulham vs Burnley
+    - 22:15 WIB - ESPANYOL VS GETAFE
+    - 22:15 WIB - FK KRASNODAR VS NIZHNIY NOVGOROD
+    - 22:30 WIB - FC FAMALICAO VS CD NACIONAL
+    - AC Milan vs Torino F.C.
+    - AJ Auxerre vs Stade Brestois 29
+    - Atlas vs Queretaro
+    - Bhutan U20 vs Nepal U20
+    - Charlotte FC vs New York Red Bulls
+    - Dallas vs Houston Dynamo
+    - Espanyol vs Getafe CF
+    - Everton vs Chelsea
+    - Fluminense RJ vs Atletico Mineiro
+    - Independiente vs Talleres Cordoba
+    - Juventus F.C. vs U.S. Sassuolo Calcio
+    - Leeds vs Brentford
+    - Levante vs R. Oviedo
+    - Monterrey vs Chivas Guadalajara
+    - Nashville vs Orlando City
+    - OGC Nice vs Paris Saint-Germain
+    - Osasuna vs Girona
+    - Pohang Steelers vs Bucheon FC 1995
+    - Sao Paulo vs Palmeiras
+    - Sydney FC vs Newcastle Jets
+    - Toulouse FC vs FC Lorient
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
