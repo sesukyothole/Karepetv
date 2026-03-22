@@ -620,7 +620,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
 
 === KATEGORI: LIVE EVENT SPORTS ===
   [JADWAL EVENT]
-    - 19:00 WIB Newcastle United vs Sunderland
     - 21:15 WIB Aston Villa vs West Ham United
     - 21:15 WIB Tottenham Hotspur vs Nottingham Forest
     - 22:15 WIB Celta de Vigo vs Deportivo Alavés
@@ -633,7 +632,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Calcio Como vs Pisa
     - Dusseldorf vs Hertha BSC
     - FC Barcelona vs Rayo Vallecano
-    - Gazovik Orenburg vs Spartak
+    - Mainz 05 vs Eintracht Frankfurt
     - Newcastle vs Sunderland
     - Olympique Lyonnais vs AS Monaco
     - Olympique de Marseille vs Lille OSC
