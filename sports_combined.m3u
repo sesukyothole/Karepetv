@@ -1655,8 +1655,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10", SportDigital
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8
-#EXTINF:-1 group-title="SPORTS", Sporting Braga vs FC Porto
-https://live.trendgallary.com/live/12693983_3ab37d10605cb4d5a9b849d7ae8b897a.m3u8
 #EXTINF:-1 tvg-id="starsportsselect1.in" tvg-name="STAR SPORTS SELECT 1 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12067.jpeg" group-title="SPORTS",STAR SPORTS SELECT 1 4K
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9400
 #EXTINF:-1 tvg-id="starsportsselect2.in" tvg-name="STAR SPORTS SELECT 2 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12068.jpg" group-title="SPORTS",STAR SPORTS SELECT 2 4K
@@ -2528,8 +2526,12 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/v5wKtPf.png?v=1.1.1.1" group-title="SPORTS" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="CAAJ2700030ON" tvg-name="Outside", Outside
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/c04d61b0a6119b0f2efcc31b3308c8cc82d2025a/Outside.m3u8
-#EXTINF:-1 group-title="SPORTS", Portland Timbers vs Los Angeles Galaxy
-https://live.trendgallary.com/live/13360699_e178eff8d4cec2bd6070a42cc0437089.m3u8
+#EXTINF:-1 group-title="SPORTS", Pachuca vs Toluca
+https://hwcn111pull-b.bszb.me/live/2165019_1774219717.flv
+#EXTINF:-1 group-title="SPORTS", San Diego FC vs Real Salt Lake
+https://hwcn111pull-b.bszb.me/live/1161772_1774219771.flv
+#EXTINF:-1 group-title="SPORTS", Santos Laguna vs Puebla
+https://hwcn111pull-b.bszb.me/live/2464811_1774219724.flv
 #EXTINF:-1 tvg-logo="http://stvlive.net/assets/images/Star Select11731408156.png" group-title="SPORTS",Star Select1
 http://ts1.supports.top/live/Flixprime1896/qxhnz0fxqn/276734.ts
 #EXTINF:-1 tvg-logo="http://stvlive.net/assets/images/Star Select21731408458.png" group-title="SPORTS",Star Select2

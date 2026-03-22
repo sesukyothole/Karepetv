@@ -637,11 +637,13 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
 
 === KATEGORI: LIVE EVENT SPORTS ===
   [JADWAL EVENT]
-    - 03:30 WIB - SPORTING BRAGA VS FC PORTO
-    - 03:45 WIB - PORTLAND TIMBERS VS L A GALAXY
     - 04:00 WIB - ALIANZA PETROLERA VS DEPORTIVO CALI
-    - 04:00 WIB - DENVER NUGGETS VS PORTLAND TRAIL BLAZERS
     - 04:30 WIB - INTERNACIONAL RS VS CHAPECOENSE SC
+    - 06:00 WIB - BOCA JUNIORS VS INSTITUTO
+    - 06:00 WIB - CHIVAS TAPATIO VS ATLETICO MORELIA
+    - 06:00 WIB - PACHUCA VS TOLUCA
+    - 06:00 WIB - SAN DIEGO FC VS REAL SALT LAKE
+    - 06:00 WIB - SANTOS LAGUNA VS PUEBLA
     - 19:00 WIB Newcastle United vs Sunderland
     - 21:00 WIB Atalanta vs Verona
     - 21:15 WIB Aston Villa vs West Ham United
@@ -1511,7 +1513,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SportTV 3
     - Sportdigital FUSSBALL HD
     - Sportdigital Fussball DE
-    - Sporting Braga vs FC Porto
     - SportsGrid
     - SportsNet New York
     - SportsTVPlus
@@ -1765,6 +1766,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - PSN 4
     - PSN 5
     - Pac 12 Insider
+    - Pachuca vs Toluca
     - Persiana Fight
     - Pilipinas Live 1
     - Pilipinas Live 2
@@ -1777,7 +1779,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Pilipinas Live 9
     - Pogo
     - Poker Go
-    - Portland Timbers vs Los Angeles Galaxy
     - RACER International
     - REDBULL TV
     - RTB GO  LIVE
@@ -1825,6 +1826,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SSC EXTRA 1
     - SSC EXTRA 2
     - SSC EXTRA 3
+    - San Diego FC vs Real Salt Lake
+    - Santos Laguna vs Puebla
     - Somoy TV
     - Sony Aat VIP
     - Stadium
