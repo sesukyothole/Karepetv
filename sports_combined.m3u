@@ -2480,7 +2480,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 ### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", Internacional RS vs Chapecoense SC
-https://v.lfsxfj.com/live/100300.m3u8?txSecret=98a267f17e752484c95149916aabc27c&txTime=69C06BC9&sign=cc16edc9cafee3a7
+https://live.trendgallary.com/live/13376962_e97de8980af0e752919b514bb17da74c.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",La liga Inside
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="SPORTS",LALIGA
@@ -2530,8 +2530,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/c04d61b0a6119b0f2efcc31b3308c8cc82d2025a/Outside.m3u8
 #EXTINF:-1 group-title="SPORTS", Portland Timbers vs Los Angeles Galaxy
 https://live.trendgallary.com/live/13360699_e178eff8d4cec2bd6070a42cc0437089.m3u8
-#EXTINF:-1 group-title="SPORTS", Real Madrid vs Atletico Madrid
-https://hwcn111pull-b.bszb.me/live/2459618_1774208321.flv
 #EXTINF:-1 tvg-logo="http://stvlive.net/assets/images/Star Select11731408156.png" group-title="SPORTS",Star Select1
 http://ts1.supports.top/live/Flixprime1896/qxhnz0fxqn/276734.ts
 #EXTINF:-1 tvg-logo="http://stvlive.net/assets/images/Star Select21731408458.png" group-title="SPORTS",Star Select2
@@ -2570,6 +2568,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
+#EXTINF:-1 group-title="SPORTS", Vitoria BA vs Mirassol
+https://live1.trendgallary.com/live/13376966_1d3b23f27c2c7cd03566f8c47e46c7f4.m3u8
 #EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/espn2.png" group-title="SPORTS",ESPN 2 US HD Test
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/4022
 #EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/daznppv.png" group-title="SPORTS",FNC PPV

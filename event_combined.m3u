@@ -1,35 +1,30 @@
 #EXTM3U
 ### 🔵 EXTRA SOURCE
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="LIVE EVENT SPORTS",03:00 WIB - REAL MADRID VS ATLETICO MADRID [Server 1] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=96fca9c99e6703791c9caf32493b106b&wsABSTime=1774259712
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="LIVE EVENT SPORTS",03:00 WIB - REAL MADRID VS ATLETICO MADRID [Server 2] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=4dd2c0881e2df8c147d44e14e82bb9c1&wsABSTime=1774259712
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="LIVE EVENT SPORTS",03:30 WIB - SPORTING BRAGA VS FC PORTO [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=b6af14f9938e61d0bcd8f5e97b11c51f&wsABSTime=1774259713
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=b3994f18ebe11376f028b68edd1fcb0b&wsABSTime=1774261212
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="LIVE EVENT SPORTS",03:45 WIB - PORTLAND TIMBERS VS L A GALAXY [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=e71e6086b1847792ffeaa236ba5a9813&wsABSTime=1774259714
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=4d896aa0328596a7f79723a66bfdde4e&wsABSTime=1774261213
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="LIVE EVENT SPORTS",04:00 WIB - ALIANZA PETROLERA VS DEPORTIVO CALI [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=7a9af4d5019dbe0e78e16c7f3220e4ad&wsABSTime=1774259715
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=37263e6d95a1b284c64c4a92db03ac95&wsABSTime=1774261214
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="LIVE EVENT SPORTS",04:00 WIB - DENVER NUGGETS VS PORTLAND TRAIL BLAZERS [Server 1] [BASKETBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=7f71daaff0406b5b82adae7d76e69ec4&wsABSTime=1774261217
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="LIVE EVENT SPORTS",04:30 WIB - INTERNACIONAL RS VS CHAPECOENSE SC [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=591bbab805e54299c26a409c2e6412c8&wsABSTime=1774259716
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=461c80f88a414cbf100afb9d68298889&wsABSTime=1774261215
 ### 🥇 PRIORITY SOURCE
 ### 🥈 SECOND SOURCE
 #EXTINF:-1 group-title="LIVE EVENT SPORTS" tvg-logo="https://iili.io/FtSr5Mb.jpg", 19:00 WIB Newcastle United vs Sunderland
