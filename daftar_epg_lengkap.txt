@@ -644,13 +644,33 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 21:00 WIB Atalanta vs Verona
     - 21:15 WIB Aston Villa vs West Ham United
     - 21:15 WIB Tottenham Hotspur vs Nottingham Forest
-    - 22:00 WIB - COPENHAGEN VS FREDERICIA
-    - 22:15 WIB - RC CELTA VS ALAVES
     - 22:15 WIB Celta de Vigo vs Deportivo Alavés
-    - 22:30 WIB - ESTORIL VS RIO AVE
-    - 22:45 WIB - GRONINGEN VS AZ ALKMAAR
-    - 22:45 WIB - SC TELSTAR VS PSV EINDHOVEN
+    - 23:00 WIB - LOKOMOTIV MOSCOW VS AKRON TOGLIATTI
+    - 23:15 WIB - MARSEILLE VS LOSC LILLE
+    - 23:15 WIB - PARIS FC VS LE HAVRE FC
+    - 23:15 WIB - RENNES VS METZ
     - 23:30 WIB - ARSENAL VS MANCHESTER CITY
+    - 23:30 WIB - ST PAULI VS SC FREIBURG
+    - A.S. Roma vs U.S. Lecce
+    - ACF Fiorentina vs Inter Milan
+    - Arsenal vs Manchester City
+    - Athletic Bilbao vs Real Betis Balompié
+    - Augsburg vs VfB Stuttgart
+    - Bhutan U20 vs Nepal U20
+    - Boca Juniors vs Instituto
+    - Braga vs Porto
+    - Independiente Chivilcoy vs Escobar FC
+    - New York City vs Inter Miami
+    - Olympique de Marseille vs Lille OSC
+    - Pachuca vs Toluca
+    - Paris FC vs Le Havre
+    - Phoenix suns vs Toronto Raptors
+    - Portimonense U23 vs Estoril U23
+    - Real Madrid CF vs Atlético Madrid
+    - Santos Laguna vs Puebla
+    - St. Pauli vs SC Freiburg
+    - Stade Rennais vs Metz
+    - Vitoria BA vs Mirassol
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
@@ -1280,6 +1300,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Abu Dhabi Sports 2
     - Adventure Sports TV
     - Africa 24 Sport
+    - Alverca vs Sporting CP
     - AntenaSport
     - Auto Motor Sport
     - BAHRAIN SPORTS 1
@@ -1571,6 +1592,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Ananda TV
     - Arsenal vs Manchester City
     - Asian TV
+    - Athletic Club vs Real Betis
     - B4U Movies VIP
     - B4U Music VIP
     - BELLATOR MMA
@@ -1593,6 +1615,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Canal do Inter
     - Channel S
     - ColimdoT TV
+    - Court 1
     - Cowboy tv
     - DGS 2
     - DGS 3
@@ -1616,12 +1639,12 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - ESPN 6
     - Ekattor TV
     - Equidia
-    - Estoril vs Rio Ave
     - FANCODE TV 1
     - FANCODE TV 2
     - FANCODE TV 3
     - FAST AND FUNBOX 🇸🇰
     - FB TV
+    - FC Bulleen Lions Women vs Bentleigh Greens Women
     - FC Cincinnati vs Montreal Impact
     - FC St. Pauli vs SC Freiburg
     - FIFA+
@@ -1655,7 +1678,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Gol Classics
     - Golf Channel Latin America
     - Golf Network
-    - Groningen vs AZ Alkmaar
     - HBO Boxing
     - HTSpor TV
     - Hajduk TV
@@ -1699,8 +1721,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - LIVE EVENT 29
     - LIVE EVENT 30
     - La liga Inside
-    - Leixoes vs Pacos de Ferreira
     - Live
+    - Lokomotiv Moscow vs Akron Togliatti
     - M LIVE 1
     - M LIVE 2
     - M LIVE 5
@@ -1767,7 +1789,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Pogo
     - Poker Go
     - RACER International
-    - RC Celta vs Deportivo Alavés
     - REDBULL TV
     - RTB GO  LIVE
     - RTB Go Live FHD
@@ -1775,7 +1796,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Real Madrid TV
     - Red Bull TV
     - RightNow TV
-    - SC Telstar vs PSV Eindhoven
     - SERIE A 1 PLUTO
     - SK Fight Channel
     - SKY LIVE 1
@@ -1815,6 +1835,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SSC EXTRA 1
     - SSC EXTRA 2
     - SSC EXTRA 3
+    - Sandefjord vs Sarpsborg 08
     - Somoy TV
     - Sony Aat VIP
     - Stade Rennais FC vs Metz
