@@ -641,38 +641,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - 16:45 WIB - ADELAIDE BLUE VS MODBURY JETS
     - 19:00 WIB - BENTONIT IDZHEVAN VS FC SYUNIK
     - 19:00 WIB - PYUNIK B VS MIKA ASHTARAK
-    - 19:00 WIB Newcastle United vs Sunderland
     - 20:00 WIB - COVENTRY U21 VS CHARLTON ATHLETIC U21
     - 21:00 WIB - EAST BENGAL VS MOHAMMEDAN SC
-    - 21:00 WIB Atalanta vs Verona
-    - 21:15 WIB Aston Villa vs West Ham United
-    - 21:15 WIB Tottenham Hotspur vs Nottingham Forest
-    - 22:15 WIB Celta de Vigo vs Deportivo Alavés
-    - Armenia U19 vs Kosovo U19
-    - Bhutan U20 vs Nepal U20
-    - Blue Eagles vs Modbury Jets
-    - Boyaca Chico vs Deportes Tolima
-    - Castellon vs Cultural Leonesa
-    - Dallas Mavericks vs Golden State Warriors
-    - Detroit Pistons vs Los Angeles Lakers
-    - East Bengal vs Mohammedan
-    - FK Chelyabinsk vs Torpedo Moscow
-    - Guayaquil City F.C vs Leones del Norte
-    - Jaguares de Cordoba vs Aguilas Doradas
-    - Los Angeles Clippers vs Milwaukee Bucks
-    - Ma Rốc U17 vs Tunisia U17
-    - Maldives U20 vs Sri Lanka U20
-    - Oman U20 vs Qatar U20
-    - Palestine U20 vs Kuwait U20
-    - Portimonense U23 vs Estoril U23
-    - Rodina Moskva vs Chayka K-SR
-    - Santa Fe vs Medellin Independiente
-    - Seoul Samsung Thunders vs Mobis Phoebus
-    - Shanghai vs Guangdong Southern Tigers
-    - Union Berlin Nữ vs Werder Bremen Nữ
-    - Unirea Slobozia vs Otelul
-    - Yantra Gabrovo vs Fratria
-    - Ả Rập Saudi U20 vs Bahrain U20
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
@@ -1071,6 +1041,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - SpoTV 1
     - SpoTV 1 PH
     - SpoTV 2
+    - SpoTV 2 PH
   [KASTA 4 - PRIORITAS UTAMA]
     - SPORTSTARS 04 HD
     - SPORTSTARS 2
@@ -1607,7 +1578,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Canal do Inter
     - Channel S
     - ColimdoT TV
-    - Court 1
     - Cowboy tv
     - DGS 2
     - DGS 3
