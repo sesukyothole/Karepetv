@@ -169,8 +169,7 @@ def get_ott_headers():
     }
 
 def extract_date_from_group(group_title):
-    if not group_title:
-        return None
+    if not group_title: return None
     months = {
         'januari': '01', 'jan': '01', 'februari': '02', 'feb': '02',
         'maret': '03', 'mar': '03', 'april': '04', 'apr': '04',
@@ -191,31 +190,47 @@ def extract_date_from_group(group_title):
     return None
 
 def get_channel_priority(channel_name, category):
+    """ SISTEM 31 KASTA SUPER VIP UNTUK SPORTS """
     n = channel_name.upper()
     
     if category == "SPORTS":
         if "BEIN" in n: return 1
-        if re.search(r'\bCTV\b', n): return 2
+        if re.search(r'\bCTV\b', n) or "CHAMPIONS" in n: return 2
         if "SPOTV" in n: return 3
         if "SPORTSTAR" in n: return 4
         if "SOCCER CHANNEL" in n: return 5
         
         lokal_gratis = ["RCTI", "SCTV", "INDOSIAR", "ANTV", "MNC TV", "MNCTV", "INEWS", "GTV", "TVRI", "TRANS", "MOJI", "RTV", "VOLI TV", "RCTV"]
-        is_lokal_sports = any(k in n for k in lokal_gratis) and ("SPORT" in n or "LIGA" in n)
-        if is_lokal_sports: return 6
+        if any(k in n for k in lokal_gratis) and ("SPORT" in n or "LIGA" in n): return 6
         
         if "DAZN" in n: return 7
-        if "SKY" in n and "SPORT" in n: return 8
-        if "TNT" in n and "SPORT" in n: return 9
-        if "TRUE" in n and "SPORT" in n: return 10
-        if "HUB" in n or "PREMIER" in n: return 11
-        if "ASTRO" in n: return 12
-        if "SETANTA" in n: return 13
-        if "PRIMA" in n: return 14
-        if "SPORT" in n and not any(k in n for k in ["BEIN", "SPOTV", "SKY", "TNT", "TRUE", "ARENA", "DAZN"]): return 15
-        if "FUBO" in n: return 16
-        if "ARENA" in n: return 999 
-        return 99 
+        if "ZIGGO" in n: return 8
+        if "ARENA" in n and not "BEIN" in n: return 9
+        if "SKY" in n and "SPORT" in n: return 10
+        if "TNT" in n and "SPORT" in n: return 11
+        if "TRUE" in n and ("SPORT" in n or "PREMIER" in n): return 12
+        if "HUB" in n and ("PREMIER" in n or "SPORT" in n): return 13
+        if "ASTRO" in n: return 14
+        if "SETANTA" in n: return 15
+        if "PRIMA" in n: return 16
+        
+        if any(k in n for k in ["EUROSPORT", "SPORT KLUB", "NOVA SPORT", "DIGI SPORT", "CT SPORT", "MAXSPORT", "GO3 SPORT"]): return 17
+        if "ESPN" in n: return 18
+        if any(k in n for k in ["SSC", "ALKASS", "ABU DHABI", "DUBAI", "OMAN SPORT", "BAHRAIN", "SHARJAH"]): return 19
+        if any(k in n for k in ["NBA", "NFL", "MLB", "NHL", "CBS", "FOX SPORT", "NBC", "FUBO", "PEACOCK", "DRAFTKINGS", "FANDUEL"]): return 20
+        if any(k in n for k in ["WWE", "SMACKDOWN", "RAW", "UFC", "BELLATOR", "GLORY", "IMPACT", "FNC", "FIGHT", "MMA"]): return 21
+        if any(k in n for k in ["MUTV", "LFCTV", "CHELSEA", "REAL MADRID", "BARCA", "HAJDUK", "INTER TV"]): return 22
+        if "TSN" in n or "SPORTSNET" in n or "GAME+" in n: return 23
+        if "SUPERSPORT" in n or "SS PREMIER" in n or "SS F1" in n or "SS FOOTBALL" in n or "SS GOLF" in n or "SS MAIN" in n or "SS RACING" in n: return 24
+        if "SONY" in n or "STAR SPORT" in n or "DD SPORT" in n or "FANCODE": return 25
+        if "MATCH!" in n or "KHL" in n or "ZVEZDA" in n: return 26
+        if "FIFA" in n or "AFC" in n: return 27
+        if any(k in n for k in ["TUDN", "TYC", "TELEDEPORTE", "SPORTV", "CAZE", "CDN", "OVACION", "MULTIVISION"]): return 28
+        if any(k in n for k in ["GOLF", "MOTORVISION", "GP1", "AUTO MOTOR", "RACER", "NHRA"]): return 29
+        if any(k in n for k in ["BWF", "LIVE EVENT", "TIMNAS", "EPL", "M LIVE"]): return 30
+        if any(k in n for k in ["PILIPINAS", "UAAP", "SUKAN", "RTB", "ELTA", "J SPORT", "GAORA", "NITTELE"]): return 31
+        
+        return 999 
 
     elif category == "INDONESIA":
         if "RCTI" in n: return 1
@@ -303,15 +318,11 @@ def download_playlist(args):
         
         text_data = response.text.replace('<br>', '\n').replace('<br/>', '\n').replace('<BR>', '\n')
         
-        # ====================================================================
-        # FITUR BARU: AUTO-REPLACE LOGO OGI BONE MENJADI BAKUL WIFI
-        # ====================================================================
         url_logo_lama1 = "https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png"
         url_logo_lama2 = "https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo OGI Bone.png"
-        url_logo_baru = "https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" # Memakai versi Raw file!
+        url_logo_baru = "https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" 
         
         text_data = text_data.replace(url_logo_lama1, url_logo_baru).replace(url_logo_lama2, url_logo_baru)
-        # ====================================================================
         
         current_buffer = []  
         current_extinf = ""  
@@ -386,12 +397,14 @@ def filter_m3u_by_config(config, super_clean_channels):
         
         clean_group_title = CLEANING_REGEX.sub(' ', raw_group_title).upper()
         clean_channel_name = CLEANING_REGEX.sub(' ', new_channel_name).upper()
+
+        if "SPOTV" in clean_channel_name and re.search(r'[\U0001F1E6-\U0001F1FF]', raw_channel_name):
+            continue 
         
         if any(spam in clean_channel_name for spam in SPAM_KEYWORDS):
             continue
 
         if target_category == "SPORTS":
-            if "CHAMPIONS" in clean_channel_name: continue
             if "BEIN" in clean_channel_name and "MAX" in clean_channel_name: continue
 
         if "RADIO" in clean_channel_name or "RADIO" in clean_group_title:
@@ -440,8 +453,17 @@ def filter_m3u_by_config(config, super_clean_channels):
             if any(k in clean_channel_name for k in lokal_gratis):
                 if not any(s in clean_channel_name for s in ["SPORT", "LIGA"]):
                     match_found = False
+            
+            if "CHAMPIONS" in clean_channel_name or re.search(r'\bCTV\b', clean_channel_name):
+                if "deccotech" not in stream_url.lower():
+                    match_found = False
 
         if match_found:
+            priority_score = get_channel_priority(new_channel_name, target_category)
+            
+            if target_category == "SPORTS" and priority_score == 999:
+                continue 
+
             if force_category:
                 for idx in range(len(current_buffer)):
                     b_line = current_buffer[idx]
@@ -472,12 +494,20 @@ def filter_m3u_by_config(config, super_clean_channels):
                 if len(date_parts) == 3:
                     sort_key = f"{date_parts[2]}-{date_parts[1]}-{date_parts[0]} {new_channel_name.upper()}"
             
-            priority_score = get_channel_priority(new_channel_name, target_category)
-            
             clean_name_for_log = re.sub(r'\[.*?\]|\(.*?\)', '', new_channel_name).strip()
+            
+            # Ekstrak nama EPG dari tvg-id atau tvg-name untuk Laporan TXT
+            tvg_id_match = re.search(r'tvg-id="([^"]*)"', current_extinf, re.IGNORECASE)
+            epg_name = tvg_id_match.group(1).strip() if tvg_id_match else ""
+            if not epg_name:
+                tvg_name_match = re.search(r'tvg-name="([^"]*)"', current_extinf, re.IGNORECASE)
+                epg_name = tvg_name_match.group(1).strip() if tvg_name_match else "KOSONG"
+                
+            log_entry = f"{clean_name_for_log}  [EPG: {epg_name}]"
+            
             if priority_score not in CATEGORY_LOGS[target_category]:
                 CATEGORY_LOGS[target_category][priority_score] = set()
-            CATEGORY_LOGS[target_category][priority_score].add(clean_name_for_log)
+            CATEGORY_LOGS[target_category][priority_score].add(log_entry)
             
             channels_data.append((priority_score, provider_idx, sort_key, current_buffer, stream_url))
             CATEGORIZED_URLS.add(stream_url)
@@ -549,8 +579,27 @@ if __name__ == "__main__":
         filter_m3u_by_config(config, super_clean_channels)
         
     print("\n[+] Mencetak file Laporan EPG Lengkap...")
+    
+    kasta_names_sports = {
+        1: "[KASTA 1 - BEIN]", 2: "[KASTA 2 - CTV]", 3: "[KASTA 3 - SPOTV]",
+        4: "[KASTA 4 - SPORTSTARS]", 5: "[KASTA 5 - SOCCER CHANNEL]",
+        6: "[KASTA 6 - LOKAL SPORTS]", 7: "[KASTA 7 - DAZN / ELEVEN]",
+        8: "[KASTA 8 - ZIGGO SPORT]", 9: "[KASTA 9 - ARENA SPORT]",
+        10: "[KASTA 10 - SKY SPORTS]", 11: "[KASTA 11 - TNT SPORTS]",
+        12: "[KASTA 12 - TRUE SPORTS]", 13: "[KASTA 13 - HUB PREMIER / SPORTS]",
+        14: "[KASTA 14 - ASTRO]", 15: "[KASTA 15 - SETANTA]",
+        16: "[KASTA 16 - PRIMA]", 17: "[KASTA 17 - EUROSPORT & SPORT KLUB]",
+        18: "[KASTA 18 - ESPN NETWORK]", 19: "[KASTA 19 - SULTAN TIMUR TENGAH]",
+        20: "[KASTA 20 - US MAJOR LEAGUES & NETWORKS]", 21: "[KASTA 21 - COMBAT & WRESTLING]",
+        22: "[KASTA 22 - FOOTBALL CLUB TV]", 23: "[KASTA 23 - TSN CANADA & SPORTSNET]",
+        24: "[KASTA 24 - SUPERSPORT AFRICA]", 25: "[KASTA 25 - SONY & STAR SPORTS]",
+        26: "[KASTA 26 - MATCH! RUSSIA]", 27: "[KASTA 27 - OLYMPIC, FIFA & FEDERATION]",
+        28: "[KASTA 28 - LATIN & SPANISH]", 29: "[KASTA 29 - GOLF & RACING]",
+        30: "[KASTA 30 - FEEDS & LIVE EVENTS]", 31: "[KASTA 31 - PHILIPPINES & EAST ASIA]"
+    }
+
     with open("daftar_epg_lengkap.txt", "w", encoding="utf-8") as f:
-        f.write("DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)\n")
+        f.write("DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG\n")
         f.write("=========================================================\n\n")
         
         for category in sorted(CATEGORY_LOGS.keys()):
@@ -560,16 +609,18 @@ if __name__ == "__main__":
             for kasta in sorted(kasta_dict.keys()):
                 if kasta == 0:
                     kasta_name = "[JADWAL EVENT]"
+                elif category == "SPORTS" and kasta <= 31:
+                    kasta_name = kasta_names_sports.get(kasta, f"[KASTA {kasta} - SPORTS]")
                 elif kasta == 99:
                     kasta_name = "[KASTA 99 - UMUM / LAIN-LAIN]"
                 elif kasta == 999:
-                    kasta_name = "[KASTA 999 - BAWAH / JURU KUNCI]"
+                    kasta_name = "[KASTA 999 - BAWAH / JURU KUNCI]" 
                 else:
                     kasta_name = f"[KASTA {kasta} - PRIORITAS UTAMA]"
                     
                 f.write(f"  {kasta_name}\n")
-                for name in sorted(kasta_dict[kasta]):
-                    f.write(f"    - {name}\n")
+                for name_with_epg in sorted(kasta_dict[kasta]):
+                    f.write(f"    - {name_with_epg}\n")
             f.write("\n")
                 
-    print("\n✅ PROSES SELESAI! Logo OGI Bone berhasil disulap jadi Bakul Wifi!")
+    print("\n✅ PROSES SELESAI! Daftar Channel dan EPG sukses dicetak ke TXT!")
