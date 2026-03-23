@@ -454,8 +454,11 @@ def filter_m3u_by_config(config, super_clean_channels):
                 if not any(s in clean_channel_name for s in ["SPORT", "LIGA"]):
                     match_found = False
             
+            # ====================================================================
+            # PERBAIKAN SATPAM CTV: Cek ke Provider URL, bukan ke Stream URL
+            # ====================================================================
             if "CHAMPIONS" in clean_channel_name or re.search(r'\bCTV\b', clean_channel_name):
-                if "deccotech" not in stream_url.lower():
+                if "deccotech" not in MASTER_URLS[provider_idx].lower():
                     match_found = False
 
         if match_found:
@@ -496,7 +499,6 @@ def filter_m3u_by_config(config, super_clean_channels):
             
             clean_name_for_log = re.sub(r'\[.*?\]|\(.*?\)', '', new_channel_name).strip()
             
-            # Ekstrak nama EPG dari tvg-id atau tvg-name untuk Laporan TXT
             tvg_id_match = re.search(r'tvg-id="([^"]*)"', current_extinf, re.IGNORECASE)
             epg_name = tvg_id_match.group(1).strip() if tvg_id_match else ""
             if not epg_name:
