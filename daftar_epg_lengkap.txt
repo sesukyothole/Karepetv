@@ -637,19 +637,18 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
 
 === KATEGORI: LIVE EVENT SPORTS ===
   [JADWAL EVENT]
-    - 08:06 WIB - FC JUAREZ VS TIGRES UANL
-    - 08:15 WIB - IND RIVADAVIA VS ROSARIO CENTRAL
-    - 09:00 WIB - TACOMA DEFIANCE VS AUSTIN FC II
     - 16:30 WIB - NU BULLEEN LIONS FC VS NU BENTLEIGH GREENS
     - 16:45 WIB - ADELAIDE BLUE VS MODBURY JETS
     - 19:00 WIB - BENTONIT IDZHEVAN VS FC SYUNIK
     - 19:00 WIB - PYUNIK B VS MIKA ASHTARAK
     - 19:00 WIB Newcastle United vs Sunderland
     - 20:00 WIB - COVENTRY U21 VS CHARLTON ATHLETIC U21
+    - 21:00 WIB - EAST BENGAL VS MOHAMMEDAN SC
     - 21:00 WIB Atalanta vs Verona
     - 21:15 WIB Aston Villa vs West Ham United
     - 21:15 WIB Tottenham Hotspur vs Nottingham Forest
     - 22:15 WIB Celta de Vigo vs Deportivo Alavés
+    - Armenia U19 vs Kosovo U19
     - Bhutan U20 vs Nepal U20
     - Blue Eagles vs Modbury Jets
     - Boyaca Chico vs Deportes Tolima
@@ -657,14 +656,14 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Dallas Mavericks vs Golden State Warriors
     - Detroit Pistons vs Los Angeles Lakers
     - East Bengal vs Mohammedan
-    - FC Aizawl vs FC Chanmari
     - FK Chelyabinsk vs Torpedo Moscow
     - Guayaquil City F.C vs Leones del Norte
     - Jaguares de Cordoba vs Aguilas Doradas
     - Los Angeles Clippers vs Milwaukee Bucks
     - Ma Rốc U17 vs Tunisia U17
-    - Malacateco vs Aurora
+    - Maldives U20 vs Sri Lanka U20
     - Oman U20 vs Qatar U20
+    - Palestine U20 vs Kuwait U20
     - Portimonense U23 vs Estoril U23
     - Rodina Moskva vs Chayka K-SR
     - Santa Fe vs Medellin Independiente
@@ -673,6 +672,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Union Berlin Nữ vs Werder Bremen Nữ
     - Unirea Slobozia vs Otelul
     - Yantra Gabrovo vs Fratria
+    - Ả Rập Saudi U20 vs Bahrain U20
 
 === KATEGORI: NEWS ===
   [KASTA 1 - PRIORITAS UTAMA]
@@ -1242,7 +1242,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Now Sports Premier League 3 HD
     - Now Sports Premier League1 HD
     - Now Sports PremierLeague 2 HD
-    - PEACOCK LIVE | Premier League
     - PREMIER SPORT 1
     - PREMIER SPORT 2
     - PREMIER SPORTS
@@ -1560,14 +1559,10 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Xtrem sports
     - ZIGGO SPORT 1
     - ZIGGO SPORT 2
-    - ZIGGO SPORT 2 🇳🇱
     - ZIGGO SPORT 3
-    - ZIGGO SPORT 3 🇳🇱
     - ZIGGO SPORT 4
     - ZIGGO SPORT 5
-    - ZIGGO SPORT 5 🇳🇱
     - ZIGGO SPORT 6
-    - ZIGGO SPORT 6 🇳🇱
     - fubo Sports Network
     - group-title="SPORTS", NBA PHILIPPINES
     - ~GO3 Sport
@@ -1760,6 +1755,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Outside
     - Ovacion TV
     - Overtime
+    - PEACOCK TV
     - PSN 1
     - PSN 2
     - PSN 3
@@ -1828,8 +1824,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI (UNTUK MAPPING EPG)
     - Somoy TV
     - Sony Aat VIP
     - Stadium
-    - Star Select1
-    - Star Select2
     - Strongman
     - Sukan TV 1
     - Swerve Combat
