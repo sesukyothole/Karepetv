@@ -715,11 +715,12 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
 
 === KATEGORI: LIVE EVENT SPORTS ===
   [JADWAL EVENT]
-    - 14:00 WIB - CHINESE TAIPEI R VS NATIONAL TAIWAN ARTS R  [EPG: KOSONG]
     - 15:30 WIB - TRE CONG AN HA NOI VS HANOI FC B  [EPG: KOSONG]
     - 16:00 WIB - CTBC BUSINESS SCHOOL VS FU JEN CATHOLIC UNIVERSITY  [EPG: KOSONG]
-    - 16:00 WIB - MALTA U17 VS LITHUANIA U17  [EPG: KOSONG]
+    - 17:00 WIB - WONJU DONGBU PROMY VS ANYANG JUNGKWANJANG  [EPG: KOSONG]
     - 17:45 WIB - BANGLADESH U20 VS PAKISTAN U20  [EPG: KOSONG]
+    - 19:00 WIB - LIBYA U17 VS ALGERIA U17  [EPG: KOSONG]
+    - 19:00 WIB Vakifbank W vs Galatasaray W  [EPG: KOSONG]
     - Al Rayyan vs Al-Shahaniya  [EPG: KOSONG]
     - Armenia U19 vs Kosovo U19  [EPG: KOSONG]
     - Arsenal Nữ vs Chelsea Nữ  [EPG: KOSONG]
@@ -732,7 +733,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
     - Imperatriz vs FC FC Brasil  [EPG: KOSONG]
     - Junior vs Bucaramanga  [EPG: KOSONG]
     - Kuwait vs Namibia  [EPG: KOSONG]
-    - Malta U17 vs Lithuania U17  [EPG: KOSONG]
     - Nacional vs Cerro Largo  [EPG: KOSONG]
     - Phoenix suns vs Denver Nuggets  [EPG: KOSONG]
     - Sao Tome & Principe vs Ethiopia  [EPG: KOSONG]
