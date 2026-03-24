@@ -1,9 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a2be7e8bbaaae5f62e13b12ef3269dc1.png!w80" group-title="BACKUP EVENT SPORTS",[LIVE] (02:00 WIB) Emmen vs Cambuur [BLV LAVIE]
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/75748097.m3u8
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/IxVCR", [GEOBLOCK] 19:00 WIB Vakifbank W vs Galatasaray W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+https://live3.procdnlive.com/livecdn/channel41.flv?auth_key=3000001774342809-0-0-fe66abcfc283c4bf2013338b8d6c015b
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/36fad8e54349d4917a8b098dc2c1aa2d.png!w80" group-title="BACKUP EVENT SPORTS",[LIVE] (02:45 WIB) Doncaster Rovers vs Port Vale [BLV SAMURAI]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -15,16 +14,16 @@ https://live5.msrktz.app/live/07808742.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2a016d670dd775e37ae908540843a444.png!w80" group-title="BACKUP EVENT SPORTS",[LIVE] (03:30 WIB) Pereira vs Cucuta [BLV STING]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80" group-title="BACKUP EVENT SPORTS",[UPCOMING] (00:00 WIB) Đức U19 vs Sweden U19 [BLV MOUNTAIN DEW]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2a016d670dd775e37ae908540843a444.png!w80" group-title="BACKUP EVENT SPORTS",[UPCOMING] (03:30 WIB) Pereira vs Cucuta [BLV STING]
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ad8481149c7bf7e1e31d5fd6dff8a4c6.png!w80" group-title="BACKUP EVENT SPORTS",[UPCOMING] (05:00 WIB) Imperatriz vs FC Brasil [BLV FANTA]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -120,12 +119,13 @@ https://live5.msrktz.app/live/02456966.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/90725470.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" group-title="BACKUP EVENT SPORTS",[UPCOMING] (22:00 WIB) Kazakhstan U19 vs Romania U19 [BLV LAVIE]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/75748097.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png!w80" group-title="BACKUP EVENT SPORTS",[UPCOMING] (22:00 WIB) Kuwait vs Namibia [BLV ÔLONG]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/97312754.m3u8
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/IxVCR", [GEOBLOCK] 19:00 WIB Vakifbank W vs Galatasaray W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live3.procdnlive.com/livecdn/channel41.flv?auth_key=3000001774342809-0-0-fe66abcfc283c4bf2013338b8d6c015b
