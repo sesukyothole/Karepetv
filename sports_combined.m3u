@@ -1776,6 +1776,11 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVMaticFight.br@SD" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="SPORTS",TVMatic Fight (720p)
 http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - NU SPARTA PRAHA VS NU HAMMARBY [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=82aa151c0a327a2f3c7893e5ca94f511&wsABSTime=1774503642
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fightbox.jpg" group-title="SPORTS",FIGHT BOX 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
@@ -1785,6 +1790,8 @@ https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
 https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+#EXTINF:-1 group-title="SPORTS", Sparta Praha Women vs Hammarby Women
+https://hls.livelivelive.space/live/4500017.m3u8
 #EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/daznppv.png" group-title="SPORTS",FNC PPV
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/25949
 #EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/skfightchannel.png" group-title="SPORTS",SK Fight Channel
@@ -1840,6 +1847,8 @@ https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",INTER TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 group-title="SPORTS", Real Madrid Women vs Barcelona Women
+https://hwc777pullb.bszb.me/live/2468003_1774460161.flv
 #EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/hdtv.png" group-title="SPORTS",Hajduk TV
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26481
 #EXTINF:-1 tvg-id="GamePlus.ca@SD" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="SPORTS",Game+ (720p)
@@ -2324,46 +2333,51 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="SPORTS",Äá»ng Nai 2 (480p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
-### 🔵 EXTRA SOURCE
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",21:30 WIB - TAY BAN NHA U19 VS CROATIA U19 [Server 1] [FOOTBALL]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - ALBION FC VS WANDERERS FC [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=825521ef3fa3a230bcdbcc43dee1e9d1&wsABSTime=1774499739
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",22:00 WIB - DUC U17 VS BAC MACEDONIA U17 [Server 1] [FOOTBALL]
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=31a0d3b635359137f5376317b67cc2e3&wsABSTime=1774503641
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - DUC U19 VS THUY DIEN U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=0453eb761c44bd717aa1899a58d93b96&wsABSTime=1774499740
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",22:00 WIB - KAZAKHSTAN U19 VS ROMANIA U19 [Server 1] [FOOTBALL]
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=313c23d89dbcdad2861a63e042e24ecb&wsABSTime=1774503642
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - TAY BAN NHA U19 VS SLOVENIA U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=ca4c76f2dc131ebc8c0ada29dc49af5b&wsABSTime=1774499740
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",22:00 WIB - WADI DEGLA SC VS TALAEA EL GAISH [Server 1] [FOOTBALL]
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=1f99bb2e841d08682fc4867237e89e33&wsABSTime=1774503643
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:30 WIB - NU EINTRACHT FRANKFURT VS NU BK HACKEN [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=900733f1b913a6e5bc4913b1f77b6902&wsABSTime=1774499739
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=3d14be8ea4a3e7816d12b1aa1a52e411&wsABSTime=1774503643
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",23:00 WIB - AZERBAIJAN U19 VS LITHUANIA U19 [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=36c611ed6aaf23a063c63b42421ea0e4&wsABSTime=1774503641
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",23:00 WIB - BA LAN U19 VS BO DAO NHA U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=45ec3ced55fcb702b31b4a463cc4f9db&wsABSTime=1774499742
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=f5d9376ec3b1e9d906d5cd3e8020756c&wsABSTime=1774503640
+### 🔵 EXTRA SOURCE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",23:00 WIB - BI U19 VS DAN MACH U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=61df1c39800f9fcafebc7e279c14fc2e&wsABSTime=1774499742
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=c80f5c9b43a028efca5669a8f7196b2e&wsABSTime=1774503639
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",23:00 WIB - ITALY U19 VS HUNGARY U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=a02d9eed408a76f2b6cfe1e45965672e&wsABSTime=1774499742
-#EXTINF:-1 group-title="SPORTS", Al Talaba vs Amanat Baghdad
-https://live.bbs456.com/live/70006688_adb94da534d813d79fa79072bca94597.m3u8
-#EXTINF:-1 group-title="SPORTS", Al Zawraa vs Al-Kahrbaa Club
-https://live.bbs456.com/live/13705497_0fdad055fdd117a94b83f86d0489357d.m3u8
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=bf60235ec8624d6e6ee96e120c6cb9f6&wsABSTime=1774503639
+#EXTINF:-1 group-title="SPORTS", Al-Arabi SC vs Al Waab SC
+https://hls.livelivelive.space/live/4517898.m3u8
+#EXTINF:-1 group-title="SPORTS", Albion FC vs Montevideo Wanderers FC
+https://hls.livelivelive.space/live/4515306.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/automotorsport.jpg" group-title="SPORTS",AUTO MOTOR AND SPORT 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2376,6 +2390,8 @@ https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="SPORTS",DZ COMBAT
 https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
+#EXTINF:-1 group-title="SPORTS", Eintracht Frankfurt Women vs BK Hacken Women
+https://hls.livelivelive.space/live/4500015.m3u8
 ### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", Eritrea vs Eswatini
 https://hls.livelivelive.space/live/4518713.m3u8
@@ -2418,8 +2434,6 @@ https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
-#EXTINF:-1 group-title="SPORTS", Kazakhstan U19 vs Romania U19
-https://live1.bbs456.com/live/13384675_f20b788705c317e40f20c7012e4ac68a.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",La liga Inside
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="SPORTS",LALIGA
@@ -2449,14 +2463,10 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-#EXTINF:-1 group-title="SPORTS", Maldives U20 vs Bhutan U20
-https://hwc777pullb.bszb.me/live/2401667_1774450452.flv
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qr0o2tP.png?v=1.0.0.1" group-title="SPORTS" tvg-id="Motorvision+.id" tvg-name="Motorvision+.id", Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision+
-#EXTINF:-1 group-title="SPORTS", Muaither SC vs Al Markhiya
-https://live.bbs456.com/live/13612117_d433d8462575276b76ab51cb588e0fc8.m3u8
 #http://109.61.81.147:1935/cdn7/767/video.m3u8?token=90ebae0e3bcdc07da5780154166659c6
 #https://a1xs.vip/1100001
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png",Now HK Premier Sports 1 (Backup)
@@ -2552,6 +2562,8 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 group-title="SPORTS", Spain U19 vs Slovenia U19
+https://live.bbs456.com/live/13559774_cbc234cc5335feeba5f28265aeec5528.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10", SportDigital
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8
 #http://vipbxcass.top:8080/VIP01697172669118799/80fba95604f6/34327
@@ -2647,8 +2659,6 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-#EXTINF:-1 group-title="SPORTS", Wadi Degla SC vs Tala'ea El Gaish
-https://live.bbs456.com/live/13509603_fa6d18787750de25953fabafa1676bdc.m3u8
 #EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/njemacka/automotorsport.png" group-title="SPORTS",Auto Motor Sport
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/9362
 #EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/btsport1.png" group-title="SPORTS",BT Sport 1 HD
