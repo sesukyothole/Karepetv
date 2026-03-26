@@ -2351,68 +2351,78 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=a56790560f75d56afa465bdce896900a&wsABSTime=1774588235
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=bdc66f872c0d54bbb1e9e996bceca9ff&wsABSTime=1774591834
+### 🔵 EXTRA SOURCE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - GIBRALTAR VS LATVIA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=2167059470f1f2f8d4e179e37d19b43e&wsABSTime=1774588231
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=72d6b49cd7c31f26f94bae7c2d7c5237&wsABSTime=1774591831
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - GIBRALTAR VS LATVIA [Server 2] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=36f831291611c99abb671a73c6861b41&wsABSTime=1774588232
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=3f3c8c2b39870d0b2743bd77dc937358&wsABSTime=1774591831
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - MALTA VS LUXEMBOURG [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=ec9f5dac77f79fd5380ddc8ac00c7db9&wsABSTime=1774588231
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=5d2f6efbb01b356b89e7f9a5e262afbb&wsABSTime=1774591831
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - MALTA VS LUXEMBOURG [Server 2] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=4b850c221cd9ad114d50b44d05654756&wsABSTime=1774588231
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=6ddd335950ad7ff429c839b24db7f030&wsABSTime=1774591832
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - SAN MARINO U21 VS PHAN LAN U21 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=11a1e18ae8950a6c06a1a1389cfab1c8&wsABSTime=1774588235
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=b17cdb397ab1d1214bfd0b8174efe8ef&wsABSTime=1774591834
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - SCHWEINFURT 05 FC VS SCHALKE 04 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=55f3369829ebd011fa3e2a2011e92947&wsABSTime=1774588236
-### 🔵 EXTRA SOURCE
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=3569a6179153cb2573b43f937235545c&wsABSTime=1774591835
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - THO NHI KY VS ROMANIA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=1cfe92f01a711ed34e82209ec3c09778&wsABSTime=1774588230
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=ae49a4f4ff616de58f33a2c694133a37&wsABSTime=1774591832
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:00 WIB - THO NHI KY VS ROMANIA [Server 2] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=db345a3c237856c1005bcfff06ff6c5e&wsABSTime=1774588230
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=e3b84a0f3b21bc20fb1f4681d1372714&wsABSTime=1774591832
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:15 WIB - IRELAND U21 VS MOLDOVA U21 [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=c1dbf8a06022163462e3e77fa61fdb1b&wsABSTime=1774591835
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",00:15 WIB - ITALY U21 VS BAC MACEDONIA U21 [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=ac6be3c127cef90723ecba77a4b7401f&wsABSTime=1774591836
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",01:00 WIB - ZED FC VS ARAB CONTRACTORS [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=b56b6ce613917196c5680d16442338cf&wsABSTime=1774591836
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",02:45 WIB - ITALY VS BAC IRELAND [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=426143c8a2a84a3e5ede6f5b7bca9979&wsABSTime=1774588232
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=307934be3ca6de4ef47761038073d000&wsABSTime=1774591833
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",02:45 WIB - ITALY VS BAC IRELAND [Server 2] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=8f555c5d580efac7a4fd914633789d7c&wsABSTime=1774588232
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",23:00 WIB - RC MONTEVIDEO VS CA PROGRESO [Server 1] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=6a3b30507952fa9d565ce414743fdcab&wsABSTime=1774588233
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=e92c6ec965c86e0ab1c86ec07a41c889&wsABSTime=1774591833
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",23:30 WIB - ICELAND U21 VS ESTONIA U21 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=d7f11b15e1a46243aab540198d730edc&wsABSTime=1774588234
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=0c962711a0b777be9d8931f3940786e5&wsABSTime=1774591834
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/automotorsport.jpg" group-title="SPORTS",AUTO MOTOR AND SPORT 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2434,10 +2444,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS", Georgia vs Israel
 https://hls.livelivelive.space/live/4512145.m3u8
-#EXTINF:-1 group-title="SPORTS", Germany U20 vs Czechia Republic U20
-https://hwc777pullb.bszb.me/live/2380729_1774538740.flv
 #EXTINF:-1 group-title="SPORTS", Gibraltar vs Latvia
-https://v.lfsxfj.com/live/100506.m3u8?txSecret=beb4073d3ba94f674d89c842868f9f10&txTime=69C56D95&sign=ab81655b15b460b0
+https://v.lfsxfj.com/live/100506.m3u8?txSecret=3789a0d2c9895bcd7edacc62da3efaa1&txTime=69C57D0D&sign=6244f881d52d9bd0
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/golfchannel.jpg" group-title="SPORTS",GOLF CHANNEL 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
@@ -2451,7 +2459,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #EXTINF:-1 group-title="SPORTS", Iceland U21 vs Estonia U21
 https://live1.bbs456.com/live/11927541_beecbf12403f33ae172b298c71af827b.m3u8
 #EXTINF:-1 group-title="SPORTS", Italy U21 vs North Macedonia U21
-https://hwc777pullb.bszb.me/live/2368794_1774544496.flv
+https://hls.livelivelive.space/live/4336553.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/0b/98/db0b98a2e02b2d2f172c2430b469e855.jpg" group-title="SPORTS", JOJ SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2506,7 +2514,7 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 #EXTINF:-1 group-title="SPORTS", Malta vs Luxembourg
-https://v.lfsxfj.com/live/100334.m3u8?txSecret=ae906e36f012905b2dce2a6af562df2f&txTime=69C56D96&sign=3a480566c0814233
+https://v.lfsxfj.com/live/100334.m3u8?txSecret=be5f71588b645d55f1b8eaacd48bccdd&txTime=69C57D0D&sign=266755e65b75d77f
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qr0o2tP.png?v=1.0.0.1" group-title="SPORTS" tvg-id="Motorvision+.id" tvg-name="Motorvision+.id", Motorvision+
@@ -2606,8 +2614,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 group-title="SPORTS", Racing Club Montevideo vs Club Atletico Progreso
-https://live2.bbs456.com/live/13604398_6181375eb4d337a3b9dac750f3705bb8.m3u8
 #EXTINF:-1 group-title="SPORTS", San Marino U21 vs Finland U21
 https://hls.livelivelive.space/live/4336431.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10", SportDigital
