@@ -2348,36 +2348,31 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="SPORTS",Äá»ng Nai 2 (480p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 ### 🔵 EXTRA SOURCE
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",04:00 WIB - DEPORTES LIMACHE VS PALESTINO [Server 1] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=6c3d6c97a84c76941f0831df4ef3737b&wsABSTime=1774609233
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",05:00 WIB - BOLIVIA VS SURINAME [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=9faab1d05cfe41ad26a4696ddb83ec86&wsABSTime=1774609234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",06:00 WIB - DETROIT PISTONS VS NEW ORLEANS PELICANS [Server 1] [BASKETBALL]
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=7e35bcce1a5bd38d5844deeec857b38a&wsABSTime=1774611928
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",06:00 WIB - CHARLOTTE HORNETS VS NEW YORK KNICKS [Server 1] [BASKETBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=b7ce53324bc475c223fa3d532d6e4d5c&wsABSTime=1774609240
+https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=d8e86973185d64849e31fd9e19a6d5ef&wsABSTime=1774611933
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",06:30 WIB - COLOMBIA VS CROATIA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=bdb9262b6b4a3ecadffa92643f0b0a2d&wsABSTime=1774609237
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=6bedb9aa180df28a43bce40ae011101d&wsABSTime=1774611931
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",06:30 WIB - EVERTON CD VS O HIGGINS [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=91a16b0bd38d5abc54098eb48429784f&wsABSTime=1774609236
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=2ab3e29fd8c1ffa7141ae2bfbfa0681c&wsABSTime=1774611930
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="SPORTS",07:00 WIB - ARGENTINOS JUNIORS VS CA LANUS [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=d672ea0909b8841e3217f09ba7ce7582&wsABSTime=1774609238
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=bdf93f8037c8849be3df9dda21485f1c&wsABSTime=1774611931
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/automotorsport.jpg" group-title="SPORTS",AUTO MOTOR AND SPORT 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2389,6 +2384,8 @@ https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
 ### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", Bolivia vs Suriname
 https://hls.livelivelive.space/live/4455336.m3u8
+#EXTINF:-1 group-title="SPORTS", Colombia vs Croatia
+https://hls.livelivelive.space/live/4512148.m3u8
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="SPORTS",DZ COMBAT
