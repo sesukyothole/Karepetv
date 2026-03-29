@@ -6,26 +6,16 @@
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 ### 🔵 EXTRA SOURCE
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",19:00 WIB - EIBAR VS LAS PALMAS [Server 1] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=3f28be551d0d508d4f482e4ba9662436&wsABSTime=1774836027
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",19:00 WIB - NU WERDER BREMEN VS NU SGS ESSEN [Server 1] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=84e51e1fd5a750dce6b8d0adf53dc3a8&wsABSTime=1774836028
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",20:00 WIB - LITHUANIA VS GEORGIA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=67c34dc87d38d11855c28ca6bdce3629&wsABSTime=1774836029
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=a825eb26403036813313ebcd426cd34b&wsABSTime=1774839026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",20:00 WIB - NAM SUDAN VS DJIBOUTI [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=f904e080430bcf2d6250cbb5ef9422a3&wsABSTime=1774836030
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=36c646c24d1496def64228ef91ab1ad2&wsABSTime=1774839027
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPu-5-b848-zx0BFtMV7hENQ_KEaOQ_i3Xw&s", 20:00 WIB Inter Milano vs Roma
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
@@ -34,17 +24,27 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=af7686730d337da4296f544cdc6cc54b&wsABSTime=1774836031
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=2fdc0b550a1761333c015b143c264da2&wsABSTime=1774839028
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",21:00 WIB - ARMENIA VS BELARUS [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=d79caa0c1e24d711672313a06feb52ec&wsABSTime=1774836031
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=ef97c908fc9edab6e0545e7dec761e2b&wsABSTime=1774839029
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",21:00 WIB - ARSENAL TULA VS SOKOL SARATOV [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=f49d72d2ac34a36d8687884c4d3e66e8&wsABSTime=1774836032
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=a8ff8556fca714a80c0d45cd66303e92&wsABSTime=1774839029
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",21:00 WIB - NU LEICESTER CITY VS NU BRIGHTON [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=10696c0fd5833d4d05345e47ba5f5bb7&wsABSTime=1774839030
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",21:15 WIB - CULTURAL LEONESA VS ANDORRA CF [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=291d2a9b428e98dd2f2a62edcfb59b75&wsABSTime=1774839031
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/IxVCR", GEOBLOCK 22:00 WIB Zeren Spor vs Fenerbahce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
