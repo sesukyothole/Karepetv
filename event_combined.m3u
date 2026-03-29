@@ -9,28 +9,28 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=4db8c8e9318da2929e7c3844ecc9430b&wsABSTime=1774862131
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=63378db8b32b6a06fb6a36adbb30b387&wsABSTime=1774864530
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",03:00 WIB - AD CONFIANCA VS FLUMINENSE PI [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=6f7a1d64bb87d1b29e654dd9cf806785&wsABSTime=1774862127
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=85294d06d0e252acce18d1536d771f08&wsABSTime=1774864527
 ### 🔵 EXTRA SOURCE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",03:00 WIB - PORTO VITORIA VS ATL GOIANIENSE [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=869392182e1c7b3f422729e9d8f19072&wsABSTime=1774862127
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=784d3991c29d7994e9cfba4cf0021740&wsABSTime=1774864526
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",03:00 WIB - SAN ANTONIO VS LEXINGTON [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=47a30f628e87eb9b69413e42be8beb73&wsABSTime=1774862128
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",04:00 WIB - INDIANA PACERS VS MIAMI HEAT [Server 1] [BASKETBALL]
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=e8445dad3be4983ec1f526004fb1546d&wsABSTime=1774864527
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",04:00 WIB - CA HURACAN VS OLIMPO BAHIA BLANCA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=88adf0139a07dfe1d6f2063420271001&wsABSTime=1774862131
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=01357a0e791a8947cb210c901bbb0d57&wsABSTime=1774864530
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPu-5-b848-zx0BFtMV7hENQ_KEaOQ_i3Xw&s", 20:00 WIB Inter Milano vs Roma
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
