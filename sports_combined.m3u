@@ -2001,9 +2001,9 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/tNKPSkO.png",Äá»ng Nai 2 (480p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS", Algeria vs Uruguay
-https://hls.livelivelive.space/live/4521220.m3u8
+https://live.bbs456.com/live/8lk2dirdgn1sz73_bbcf49d93216f9fa25c1e9d4453af627.m3u8
 #EXTINF:-1 group-title="SPORTS", Austria vs South Korea
-https://v.lfsxfj.com/live/100274.m3u8?txSecret=fc0c5a579799edcf07fbb027e6ac39fe&txTime=69CC2622&sign=fc638236c9eb5196
+https://v.lfsxfj.com/live/100274.m3u8?txSecret=0a096d108ca5825be4adb1e7b41150c6&txTime=69CC3215&sign=c15d6fbaaceb4010
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/automotorsport.jpg" group-title="SPORTS",AUTO MOTOR AND SPORT 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2013,17 +2013,15 @@ https://v.lfsxfj.com/live/100274.m3u8?txSecret=fc0c5a579799edcf07fbb027e6ac39fe&
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
 #EXTINF:-1 group-title="SPORTS", Bosnia-Herzegovina vs Italy
-https://hls.livelivelive.space/live/4523068.m3u8
+https://live3.bbs456.com/live/13301517_00ea28c81e24b0e29d8b33f50f1e9598.m3u8
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS", Czechia vs Denmark
-https://hls.livelivelive.space/live/4523069.m3u8
-#EXTINF:-1 group-title="SPORTS", Deportivo La Coruna vs Cordoba
-https://live.bbs456.com/live/12562473_694bb4523a1892f853223160248627ab.m3u8
+https://live4.bbs456.com/live/13301520_fa0c3f2ce5c9bee72d5486d204f9c73c.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="SPORTS",DZ COMBAT
 https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
 #EXTINF:-1 group-title="SPORTS", England vs Japan
-https://hls.livelivelive.space/live/4512434.m3u8
+https://live.bbs456.com/live/13372902_8fe75ea56232796de0c45399f86b2445.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fastandfunbox.jpg" group-title="SPORTS",FAST AND FUNBOX 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
@@ -2065,7 +2063,7 @@ https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 ### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", Kosovo vs Turkiye
-https://v.lfsxfj.com/live/100384.m3u8?txSecret=0ea6b75aef391b7c3e930310005a0e6d&txTime=69CC2622&sign=1d47082271294e34
+https://live1.bbs456.com/live/13301519_070f9537ce3ab70afae692f7c4c24315.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",La liga Inside
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="SPORTS",LALIGA
@@ -2095,14 +2093,12 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-#EXTINF:-1 group-title="SPORTS", Morocco vs Paraguay
-https://live.bbs456.com/live/13581767_4d83172fc003aa747758965393af3dab.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qr0o2tP.png?v=1.0.0.1" group-title="SPORTS" tvg-id="Motorvision+.id" tvg-name="Motorvision+.id", Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision+
 #EXTINF:-1 group-title="SPORTS", Netherlands vs Ecuador
-https://hls.livelivelive.space/live/4512461.m3u8
+https://live.bbs456.com/live/13372904_8b634c41130046ff95a3d013693bdaa5.m3u8
 #http://109.61.81.147:1935/cdn7/767/video.m3u8?token=90ebae0e3bcdc07da5780154166659c6
 #https://a1xs.vip/1100001
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png",Now HK Premier Sports 1 (Backup)
@@ -2198,12 +2194,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 group-title="SPORTS", Real Valladolid CF vs Cadiz
+https://v.lfsxfj.com/live/100378.m3u8?txSecret=d27a571500afecb868843b17e63d31eb&txTime=69CC3215&sign=a7d13e53ee8b4e85
 #EXTINF:-1 group-title="SPORTS", Scotland vs Cote d'Ivoire
-https://hls.livelivelive.space/live/4519738.m3u8
-#EXTINF:-1 group-title="SPORTS", South Africa vs Panama
-https://live.bbs456.com/live/13572028_a5484dfac418bc5bd2d60df980faf594.m3u8
+https://live2.bbs456.com/live/13554155_ef6f0c2c38b15f6fdc5629fcf76fb913.m3u8
 #EXTINF:-1 group-title="SPORTS", Spain vs Egypt
-https://v.lfsxfj.com/live/100458.m3u8?txSecret=436e20731e5feb163acf4f2cc207503b&txTime=69CC2622&sign=7e781e79061628d7
+https://live.bbs456.com/live/13496982_ec543a9d2024cdf3e519e19d04d5606a.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10", SportDigital
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8
 #http://vipbxcass.top:8080/VIP01697172669118799/80fba95604f6/34327
@@ -2260,7 +2256,7 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9400
 #EXTINF:-1 tvg-id="starsportsselect2.in" tvg-name="STAR SPORTS SELECT 2 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12068.jpg" group-title="SPORTS",STAR SPORTS SELECT 2 4K
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/9401
 #EXTINF:-1 group-title="SPORTS", Sweden vs Poland
-https://hls.livelivelive.space/live/4523067.m3u8
+https://live2.bbs456.com/live/13301518_6026d0094675f871d60e245cc2c3b1aa.m3u8
 #EXTINF:-1 tvg-logo="http://stvlive.net/assets/images/Tsports1735735587.png" group-title="SPORTS",T SPorts
 http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b8/ec/c1/b8ecc1497d5a6a0f7ee2d8b25d6f53eb.jpg" group-title="SPORTS",TAP Sports
