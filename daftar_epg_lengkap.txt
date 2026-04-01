@@ -3,12 +3,11 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
 
 === KATEGORI: BACKUP EVENT SPORTS ===
   [KASTA 99 - UMUM / LAIN-LAIN]
-    - 21:00 WIB - NU MONTENEGRO U17 VS NU MOLDOVA U17  [EPG: KOSONG]
-    - 21:00 WIB - TYUMEN VS DYNAMO KIROV  [EPG: KOSONG]
-    - 21:30 WIB - URALMASH VS BC NIZHNY NOVGOROD  [EPG: KOSONG]
-    - 22:00 WIB - URARTU VS ARARAT YEREVAN  [EPG: KOSONG]
+    - 00:00 WIB - ANDORRA CF VS MALAGA  [EPG: KOSONG]
+    - 01:00 WIB - SD HUESCA VS CULTURAL LEONESA  [EPG: KOSONG]
     - 23:00 WIB - ZENIT II VS AMKAR PERM  [EPG: KOSONG]
     - 23:30 WIB - NEFTEKHIMIK FC VS FAKEL  [EPG: KOSONG]
+    - 23:45 WIB - NU BAYERN MUNCHEN VS NU MANCHESTER UTD  [EPG: KOSONG]
 
 === KATEGORI: INDONESIA ===
   [KASTA 1 - PRIORITAS UTAMA]
@@ -1572,6 +1571,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
     - Adventure Sports TV  [EPG: 292]
     - Africa 24 Sport  [EPG: KOSONG]
     - Altitude Sports  [EPG: Altitude.Sports.us2]
+    - Andorra CF vs Malaga  [EPG: KOSONG]
     - BEK TV Sports West  [EPG: KOSONG]
     - BFL Live 1  [EPG: match-11]
     - BFL Live 2  [EPG: match-12]
@@ -1581,6 +1581,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
     - BOXING TV  [EPG: KOSONG]
     - BWF COURT LIVE 1  [EPG: KOSONG]
     - BWF COURT LIVE 3  [EPG: KOSONG]
+    - Bayern Munchen Women vs Manchester United Women  [EPG: KOSONG]
     - CANAL+ Sport  [EPG: KOSONG]
     - CAZE TV 1  [EPG: KOSONG]
     - CAZE TV 2  [EPG: KOSONG]
@@ -1688,7 +1689,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
     - MTV LIVE  [EPG: MTV.Live.us]
     - MTV Live  [EPG: KOSONG]
     - MadeinBO TV  [EPG: KOSONG]
-    - Maritimo U23 vs Vizela U23  [EPG: KOSONG]
     - Marquee Sports Network  [EPG: 24.7.Dummy.us]
     - Match! Planet  [EPG: KOSONG]
     - Match! Strana  [EPG: KOSONG]
@@ -1701,6 +1701,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
     - MultivisiÃ³n Sports  [EPG: KOSONG]
     - NHRA TV  [EPG: KOSONG]
     - Nautical Channel  [EPG: KOSONG]
+    - Neftekhimik Nizhnekamsk vs Fakel Voronezh  [EPG: KOSONG]
     - Now HK Premier Sports 2  [EPG: KOSONG]
     - Now HK Premier Sports 3  [EPG: KOSONG]
     - Now Sports PL 1 FHD  [EPG: Now.Sports.Premier.League.1.hk]
