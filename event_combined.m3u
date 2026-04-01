@@ -1,1 +1,37 @@
 #EXTM3U
+### 🔵 EXTRA SOURCE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",02:30 WIB - RACING SANTANDER VS SPORTING GIJON [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=6f9e06be879fb9ca1b06f8ea4bc3e6e2&wsABSTime=1775121624
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",04:00 WIB - AMERICA MG VS BOTAFOGO SP [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=1e00e9b86925fcd98a33b78650b1bdd7&wsABSTime=1775121625
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",04:10 WIB - ALIANZA PETROLERA VS DEPORTIVO PASTO [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=344e7b5512a9664215cb9a23ed958e33&wsABSTime=1775121625
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",04:45 WIB - NU PUEBLA VS NU QUERETARO [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=25ea084f42213a17336688bec2df7b4a&wsABSTime=1775121626
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",05:00 WIB - DEFENSA Y JUSTICIA VS CHACO FOR EVER [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=45243e969d87d7997914ae343e284825&wsABSTime=1775121627
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",05:30 WIB - BOTAFOGO RJ VS MIRASSOL [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=f9fff7ebd26971c73e24c9562e58dd62&wsABSTime=1775121628
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/karepech/bakul/refs/heads/main/bw.png" group-title="BACKUP EVENT SPORTS",05:30 WIB - INTERNACIONAL RS VS SAO PAULO [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=6579a74e4333fd19d6f8b60253d56d7d&wsABSTime=1775121628
