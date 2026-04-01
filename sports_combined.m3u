@@ -1213,6 +1213,12 @@ https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.ts
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYY7Ull7hxpAyPJ_eD4cYBXurv0dM_CXGPXSBzD5vv9H1l-igZahkmyP0P6o2WqnRJ_Tc9Fg79gtcJLB-bvcqw5DabdEMlS5dFxItXj_mLYZh9uv9oz0-XBVza9jT6n_DOsRvpUOfTyIqaDNjR-FMNkeWci19U_JgKHkdcjuwFuIQORa-g545tXdoYnPc/s700/ESPN.png" group-title="SPORTS",ESPN 6
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/logo.png" group-title="SPORTS",ESPN USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-icy-metadata=1
+https://pixelstream-cdn.b-cdn.net/play/pAVJjXWDXadNqa4ml_eoyMqgFOqlTe9h0iTA4jf8kBw/.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="SPORTS",Abu Dhabi Sports 1
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 2.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="SPORTS",Abu Dhabi Sports 2
@@ -1525,6 +1531,12 @@ http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/logo.png" group-title="SPORTS",MLB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-icy-metadata=1
+https://pixelstream-cdn.b-cdn.net/play/pAVJjXWDXadNqa4ml_eoyDzDyUTZLQ2k4HO44SlpIZE/.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 ##EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1532,6 +1544,30 @@ http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1
 ##KODIPROP:inputstream.adaptive.license_key=834ec3cbface4fe992e995a32d35f587:e0a97198d9f2dfcb0a0483cd4b04414b
 ##https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298558
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/logo.png" group-title="SPORTS",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-icy-metadata=1
+https://pixelstream-cdn.b-cdn.net/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/logo.png" group-title="SPORTS",NFL NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-icy-metadata=1
+https://pixelstream-cdn.b-cdn.net/play/pAVJjXWDXadNqa4ml_eoyPYisdMY6FKYSoL0-SG5N-Q/.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/logo.png" group-title="SPORTS",NFL REDZONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.crisphd.top/play/pAVJjXWDXadNqa4ml_eoyKZQ8k0ap79kISFRXRCtgp0/.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/logo.png" group-title="SPORTS",NHL NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-icy-metadata=1
+https://pixelstream-cdn.b-cdn.net/play/pAVJjXWDXadNqa4ml_eoyNyGDZgYwxqhIJyr31zc28I/.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", NBA TV ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1595,6 +1631,18 @@ http://cors.tundracast.com:2000/https://fsly.stream.peacocktv.com/Content/CMAF_C
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/logo.png" group-title="SPORTS",Fight Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.crisphd.top/play/pAVJjXWDXadNqa4ml_eoyAiyN-O_xDpFlaxGznH--Jk/.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/logo.png" group-title="SPORTS",Fight Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-icy-metadata=1
+https://pixelstream-cdn.b-cdn.net/7cFdf8vWab/QuhxjzcZY2/1038.m3u8
 #EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/fightsports.jpg" group-title="SPORTS",FIGHT SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2585,7 +2633,13 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 https://sm-monirul.top/Toffee/live.php?id=euro_sports_hd&e=.m3u8
 #EXTINF:-1 group-title="SPORTS",Euro Sport HD
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Gaora Sports,
+#EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/df2bdc3d-9bc6-43ca-a4e6-2002d47fdac1.jpg" group-title="SPORTS", Football TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/Rm9vdGJhbGwgVFY/manifest.mpd
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png" group-title="SPORTS",Gaora Sports
 https://nl.utako.moe/gaora/index.m3u8
 #EXTINF:-1 tvg-id="Horizon.Sports.id" tvg-name="Horizon Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/horizonsports.jpg" group-title="SPORTS",HORIZON SPORTS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
@@ -2593,13 +2647,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="SPORTS",Infosport+
 http://151.80.18.177:86/Infosport+_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",JSport 1
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png" group-title="SPORTS",JSport 1
 https://nl.utako.moe/js1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",JSport 2
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="SPORTS",JSport 2
 https://nl.utako.moe/js2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",JSport 3
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png" group-title="SPORTS",JSport 3
 https://nl.utako.moe/js3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",JSport 4
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png" group-title="SPORTS",JSport 4
 https://nl.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",KBSN Sports KR
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2610,6 +2664,12 @@ http://live-114.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=SQuHD7cISY
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 #EXTINF:-1 group-title="SPORTS",Live
 https://a3569457567-s70378.cdn.ngenix.net/jivi/1/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/logo.png" group-title="SPORTS",Marquee Sports Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-icy-metadata=1
+https://pixelstream-cdn.b-cdn.net/play/pAVJjXWDXadNqa4ml_eoyAf82ZyDSxJs2PI6C55WYnY/.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://i.ibb.co.com/TLDsrbz/matchf1.png", MATCH! FOOTBALL 1 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2647,6 +2707,10 @@ http://video.beeline.tv/live/d/channel304.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
 https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="SPORTS",MAX SPORT
+https://cdn10jtedge.indihometv.com/atm/DASH/useesport/manifest.mpd
 #EXTINF:-1 tvg-id="here" group-title="SPORTS" tvg-logo="", MIR BASKETBOLA 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2656,6 +2720,12 @@ https://video.beeline.tv/live/d/channel423.isml/manifest-stb.mpd
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-id="Motorvision+.us" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/motorvision.jpg" group-title="SPORTS",MOTORVISION+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
+#https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mediampd/MTV90sHD.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+#EXTINF:-1 tvg-id="MTV.Live.us" tvg-name="MTV Live" tvg-logo="https://mimipipi22.github.io/logo/music/mtvlive.jpg" group-title="SPORTS",MTV LIVE
+http://104.250.144.202:46183/
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
@@ -2833,8 +2903,14 @@ http://estreams.tv.nej.cz/dash/CH_SPORT2_Portable.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-SPORT-FISHING-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8?hdnts=st%3D1769558009~exp%3D1769579609~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-SPORT-FISHING-TV-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Feea68b79-bfe2-451e-a227-d637a5b9548a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_76_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_76_-1~hmac%3Dbd904b22ca6eceb12f393d304bde559d0efb33a8f4037c87c87ebe90640e5143
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sport Live Plus
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png" group-title="SPORTS",Sport Live Plus
 https://nl.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f974ea07-54bf-4463-854a-fbbe51a70cc3.jpg" group-title="SPORTS", Sports TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/U3BvcnRzIFRW/manifest.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-tv.png",SPORTS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-SPORTSTV/playlist.m3u8
@@ -2922,8 +2998,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8?hdnts=st%3D1769558007~exp%3D1769579607~acl%3D%21%2A%2Fplaylist%2Famg01269-willowtvfast-willowplus-yupptvus%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_284_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_284_-1~hmac%3D09b7d9e67ce50125aec63b2f9046fc1933a57880a927e8af18018f3814a7ceb7
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",WOWOW Live
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png" group-title="SPORTS",WOWOW Live
 https://nl.utako.moe/wlive/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/17f217c6-7009-45de-a54e-e7b15fa5f061.jpg" group-title="SPORTS", Xtrem Sports
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/WHRyZW0gU3BvcnRz/manifest.mpd
 #EXTINF:-1 tvg-id="40" tvg-chno="279" tvg-name="xtrem-sports" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xtrem-sports.png" group-title="SPORTS", Xtrem sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls

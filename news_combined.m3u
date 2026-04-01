@@ -507,6 +507,8 @@ https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i563q3GWpCXZq2GKXJ+Z2Q", "kid":"lylVipv/jZR3S/ovAZoTEA" } ], "type":"temporary" }
 ##https://ast.livecricketsl.live/proxy/sg.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 http://mytv-extra.com:80/V713SWTY/D8T8KGTL/5109
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://images.indihometv.com/images/channels/image_ch_phoenixinfonews.png",PHOENIX INFONEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 #EXTINF:-1 tvg-id="atn_news" tvg-name="ATN News" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/NCLx35oBEef-9-uVh-Dg/posters/af9773c7-7971-41a2-9b78-121fcb240c48.png" group-title="NEWS",ATN News
 https://sm-monirul.top/Toffee/live.php?id=atn_news&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png" group-title="NEWS",REUTERS TV

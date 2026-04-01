@@ -25,7 +25,7 @@ https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561307/index.mpd
 https://mega.z5cable.com/bpk-tv/disney_channel_hd/default/index.mpd
 #EXTINF:-1 tvg-chno="43" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS",Disney Channel
 http://89.105.221.127/Disney/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Disney Channel
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png" group-title="KIDS",Disney Channel
 https://nl.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="KIDS",Disney HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -205,17 +205,35 @@ https://sm-monirul.top/Toffee/live.php?id=cartoon_network_hd&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/cartoon_network_hd/default/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Cartoon Network Japan
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" group-title="KIDS",Cartoon Network Japan
 https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="KIDS",CARTOON NETWORK 🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e422d53-5c00-49ea-8422-e2a3f1e03f70.jpg" group-title="KIDS", Cartoon TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/Q2FydG9vbiBUVg/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87c43b67-b234-41a8-b188-ae6b498a40b4.jpg" group-title="KIDS", Cartoon TV Classic
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
 #EXTINF:-1 tvg-id="48" tvg-chno="235" tvg-name="cartoon-tv-classics" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png" group-title="KIDS", Cartoon TV Classics
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st%3D1769557978~exp%3D1769579578~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-CARTOON-TV-CLASSICS-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd5543c06-5122-49a7-9662-32187f48aa2c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_48_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.160.230_yuppfast_2_channel_48_-1~hmac%3Dbd91e6b14e5d9418296d4ce9163c5c5b8e59367ab9d0979620ea1462087a988b
+#EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e735e2f-e7db-47ec-b13b-23d3a0342124.jpg" group-title="KIDS", Cartoon TV Premium
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/zXJGwChc/ezgif-67daec0494f623a7.png",CARTOONITO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-CARTOONITO/playlist.m3u8
@@ -535,6 +553,12 @@ https://sm-monirul.top/Toffee/live.php?id=discovery_kids&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_kids_hd/default/index.mpd
+#EXTINF:-1 tvg-id="Dunia.anak.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/76e39ba2-62b9-4f96-90ae-3de803edb400.png" group-title="KIDS",Dunia anak
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/RHVuaWEgQW5haw/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
@@ -563,7 +587,7 @@ https://gooo.blog/opix/genx.m3u8?id=kartoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTINF:-1  tvg-id="556893" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358834'&EntityType='Item'&EntityId='556893'&Width=350&Height=250" group-title="KIDS",Kartoon Channel!
 https://d29ecfnk3jwkp9.cloudfront.net/out/v1/f246ce87793444d9bbbc56f244ec3c2c/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Kids Station
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png" group-title="KIDS",Kids Station
 https://nl.utako.moe/kids_station/index.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/kidszoneplus.jpg" group-title="KIDS",KIDS ZONE PLUS
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2

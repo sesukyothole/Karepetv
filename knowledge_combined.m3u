@@ -361,6 +361,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
 ############### PENGETAHUAN ###############
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMBOocFuESu6S13QMoV2ARjAbZ-PClEag3vSRqmgnn0Ouuz4lYg2O_JmGDdMdTPTY0dDOrcgchL_s8NMRZBVe50ha6Yd06F9NhXlArpu5-JvIcgKrTycMFad5hDea5Fy2XPYrCCkKzEWvavq2pJ-OYFyMpP8H4aWZqI3pBnVicZfICaIgH9w0SkAxYJ-Ju/s700/CGTN%20DOCUMENTARY.png",CGTN DOCUMENTARY
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+#EXTINF:-1 tvg-id="CGTN.Documentary.id" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f779de19-b7cd-4f39-b332-fbe9eb399ec6.jpg" group-title="KNOWLEDGE", CGTN Documentary
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/Q0dUTiBEb2N1bWVudGFyeQ/manifest.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png",CGTN DOCUMENTARY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-CGTNDOC/playlist.m3u8
@@ -606,6 +612,12 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_knowledgechannel/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/4dbae785-6fc6-4e6a-b3aa-7753cced105b.jpg" group-title="KNOWLEDGE", KNOWLEDGE+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/S25vd2xlZGdlKw/manifest.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/rmcB6JMQ/ezgif-63cedb0a1d9add6a.png",KNOWLEDGE+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-KNOWLEDGE/playlist.m3u8
