@@ -3,28 +3,33 @@
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=b949259b9cfe4daca4e870b3a4a50ac6&wsABSTime=1775250649
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=989c855d98ea028a85ebc3aad59e75ef&wsABSTime=1775253650
 ### 🔵 EXTRA SOURCE
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh31ldqg8n/image/small" group-title="BACKUP EVENT SPORTS",15:00 WIB - NU PERTH GLORY VS NU MELBOURNE VICTORY [AUS WAL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=0ad04460cc7dc8aceb91a30b68dcc571&wsABSTime=1775250648
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/y0or5gtljnwqwzv/image/small" group-title="BACKUP EVENT SPORTS",15:00 WIB - WEST ADELAIDE BEARCATS VS FORESTVILLE EAGLES [NBL] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=02ec2633aba8d443fd8854e1451aa138&wsABSTime=1775250653
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=e66bded97962b393cd750d2a195fc857&wsABSTime=1775253650
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4nvdmoep/image/small" group-title="BACKUP EVENT SPORTS",15:35 WIB - ADELAIDE UNITED VS AUCKLAND FC [AUS D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=ca2575d584d054b5fc8d46d81890fa39&wsABSTime=1775250652
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=0ff0f970775c4365452c96bd3013914c&wsABSTime=1775253653
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4wxymoep/image/small" group-title="BACKUP EVENT SPORTS",16:00 WIB - DONG THAP VS TP HO CHI MINH II [VIE D2] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=38fcdb93caa3c34fecefb474d0720bad&wsABSTime=1775250653
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=a09630d7bd81a4fcce38fa91b6c4c8e2&wsABSTime=1775253654
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohj834q1zp/image/small" group-title="BACKUP EVENT SPORTS",16:00 WIB - VAN HIEN VS THAN QUANG NINH [VIE D2] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=3b6ef6975855d57bcbe9afed970ea10c&wsABSTime=1775253654
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/j1l4rjzt0vom7vx/image/small" group-title="BACKUP EVENT SPORTS",16:00 WIB - YULON LUXGEN DINOS VS BANK OF TAIWAN [CHI] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=be445d452336a964c1badbaa0ee1125e&wsABSTime=1775253654
 ### 🥇 PRIORITY SOURCE
 ### 🥈 SECOND SOURCE
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/IxVCR",  GEOBLOCK 21:00 WIB Fenerbahce Medicana W vs Zeren Spor W
