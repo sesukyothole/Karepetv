@@ -3,34 +3,3 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=796baabf373552b168b54380f98ae384&wsABSTime=1773517215
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh30zq1zp/image/small" group-title="BACKUP EVENT SPORTS",02:00 WIB - COVENTRY CITY VS DERBY COUNTY [ENG LCH] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=e6bef51ec07b5eb10762c95bf6933c02&wsABSTime=1775292634
-### 🔵 EXTRA SOURCE
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhp88qwzv/image/small" group-title="BACKUP EVENT SPORTS",02:00 WIB - RAYO VALLECANO VS ELCHE [SPA D1] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=2d997384e0416c47effaa3ab6d2da299&wsABSTime=1775292633
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllhyydqvy9/image/small" group-title="BACKUP EVENT SPORTS",02:30 WIB - SPORTING CP VS SANTA CLARA [POR D1] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=a74c458890d8c42835ef8c0792bb51a3&wsABSTime=1775292635
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhvojwrepz/image/small" group-title="BACKUP EVENT SPORTS",03:15 WIB - UNION SANTA FE VS DEPORTIVO RIESTRA [ARG D1] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=31e75c393250d1900559bbcc73dbfb90&wsABSTime=1775292636
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/l5ergytopjvr8k0/image/small" group-title="BACKUP EVENT SPORTS",05:30 WIB - COLEGIO LOS LEONES VS PUENTE ALTO [CHI] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=1cd249026b42f3d5280ddc6be61f74ce&wsABSTime=1775292640
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/3glrwyt1nj7qdyj/image/small" group-title="BACKUP EVENT SPORTS",05:30 WIB - OSASCO BASKET VS UNIFACISA [BRA] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=9970389d177d69d001e6e72a878a919c&wsABSTime=1775292640
