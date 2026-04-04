@@ -7,22 +7,22 @@ https://live1.pro2cdnlive.com/live/channel12.m3u8?wsSecret=ebe030a4e29a30f949b66
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=ee1a75f2babeb4270583d92517ac3260&wsABSTime=1775367324
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=b82e682e7e57c18e5a8f0ab35766a61e&wsABSTime=1775368825
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghodjr6od/image/small" group-title="BACKUP EVENT SPORTS",02:00 WIB - ATLETICO MADRID VS BARCELONA [SPA D1] (v2)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=b93c1a0950c08848cd5ccca7f045d733&wsABSTime=1775367324
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=96a6790f26bb7c196a4b0ee1564fd787&wsABSTime=1775368825
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9whlperyox/image/small" group-title="BACKUP EVENT SPORTS",02:00 WIB - SOUTHAMPTON VS ARSENAL [ENG FAC] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=294fee01a0511a7b94965901d78bb334&wsABSTime=1775367323
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=1ed01516b27f4278ebee163fa334bd52&wsABSTime=1775368824
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9whlperyox/image/small" group-title="BACKUP EVENT SPORTS",02:00 WIB - SOUTHAMPTON VS ARSENAL [ENG FAC] (v2)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=c0202df8139da8061fb633001a7e5cb5&wsABSTime=1775367323
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=a0755165fabf1fb226b3731dbbd706cd&wsABSTime=1775368824
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:05 WIB Lille vs Lens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
@@ -33,52 +33,43 @@ https://live1.pro2cdnlive.com/live/channel13.m3u8?wsSecret=7394e64feb0236bf8e9e2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs Persita
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://stream.titanlivescore.com/live/LXSCORE-4879973.m3u8
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs Persita
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cxyznt3-cf.didjhfyu8yg.sbs/auth%3D3768352a1afb49dd9625c6e5b8c48378289dc60f76b87db38ff121ff43b916781ed603c8799f7b7545d64b38b135d6d315f4d7816efee9a730f6bc33183f9139cb091a434d7ad9f99d4cff7b16e2e6cd7d42bd5e5b7d5c662b4a6ce094953ee828c83732e5ce46d47f38772b88cde56d52e0d207eeb5e8fe5a8f139c2a4acce787d8ad29cf67dfbf7f7ce46ec99a8fe1d4ad09b609bcc4065334292fb08cc964%26cid%3DLdV2wawfzl1fwrZo7RY8n260327%26_v%3D2%26_r%3D5rqr4u%26_vis%3D26b7099b6cba26025f5a27059b1f5cb9b7d0ac075d8191bfeaf0ce14c0feea0d%26_vvs%3D53e63bf1c1383a2094917fb178282dbaedc6abd6848dded2b5c448459abb5ea1%26_vas%3D6680f91fc674083ad8e65743481b90ec8ef929c793bfdfdcb4a421499eaa8014/app/c414198.m3u8
-### 🥇 PRIORITY SOURCE
-### 🥈 SECOND SOURCE
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/fe5XHVn.md.png", 19:00 WIB Putri: Jakarta Popsivo Polwan vs Jakarta Pertamina Enduro
-http://103.66.62.83:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FDOiPI4.jpg", 22:00 WIB Strasbourg vs Nice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=26576590a096ff3d65c837105946304f&wsABSTime=1775332953
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwkv9qdyj/image/small" group-title="BACKUP EVENT SPORTS",23:00 WIB - GNISTAN HELSINKI VS AC OULU [FIN D1] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=42645457294bfae6a9305b0fb4c02cf1&wsABSTime=1775367327
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghkgdq82w/image/small" group-title="BACKUP EVENT SPORTS",23:00 WIB - HELLAS VERONA VS FIORENTINA [ITA D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=f47c0097034e7aa1b4d06b443dc5afb9&wsABSTime=1775367325
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh40xrepz/image/small" group-title="BACKUP EVENT SPORTS",23:00 WIB - LUGANO VS THUN [SUI SL] (v1)
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=5a48755f0a55b17cf639e1eca7a38321&wsABSTime=1775368825
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergphgy8r8k0/image/small" group-title="BACKUP EVENT SPORTS",23:15 WIB - AL AHLI SFC VS DAMAC [SPL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=b1d45cc538372200cbbc2527bc0222c1&wsABSTime=1775367325
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=f040f3d140bdf2923c80b3f20d146252&wsABSTime=1775368826
 ### 🔵 EXTRA SOURCE
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="BACKUP EVENT SPORTS",23:15 WIB - CHELSEA VS PORT VALE [ENG FAC] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=a72edb44e3da7d0bb65747b97cc6c942&wsABSTime=1775367322
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=2910eaf8bfdcf819d787f9bb87f1ccbe&wsABSTime=1775368823
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="BACKUP EVENT SPORTS",23:15 WIB - CHELSEA VS PORT VALE [ENG FAC] (v2)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=4186a63481e3a122a189ba8780882c81&wsABSTime=1775367322
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=cc3a7659b80f2c544ed5101cd94756ec&wsABSTime=1775368823
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh1ld0qwzv/image/small" group-title="BACKUP EVENT SPORTS",23:30 WIB - NEOM SPORTS CLUB VS AL FAYHA [SPL] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=240e8ec45c74b2e88a132e6203bbf8f8&wsABSTime=1775368828
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkhz9nqg8n/image/small" group-title="BACKUP EVENT SPORTS",23:30 WIB - REAL BETIS VS ESPANYOL [SPA D1] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=47e6e3f3635fd3337d93806b548cc604&wsABSTime=1775368827
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phd7em2wd/image/small" group-title="BACKUP EVENT SPORTS",23:30 WIB - VFB STUTTGART VS DORTMUND [GER D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=7a80470a700fff656e0949de31447d17&wsABSTime=1775367323
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=1fb2d454b8602239e6050087138e7ed2&wsABSTime=1775368824
