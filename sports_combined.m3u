@@ -2054,9 +2054,6 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", Cuiaba vs Ceara
-https://live1.bbs456.com/live/13586281_42a17e5785ec36b9d9e8bbb0dc54d41b.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="SPORTS",DZ COMBAT
 https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fastandfunbox.jpg" group-title="SPORTS",FAST AND FUNBOX 🇸🇰
@@ -2136,8 +2133,6 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qr0o2tP.png?v=1.0.0.1" group-title="SPORTS" tvg-id="Motorvision+.id" tvg-name="Motorvision+.id", Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision+
-#EXTINF:-1 group-title="SPORTS", Nautico (PE) vs Ponte Preta
-https://live2.bbs456.com/live/13587788_441f8c34fcd51ddd1054c28f08940d4d.m3u8
 #http://109.61.81.147:1935/cdn7/767/video.m3u8?token=90ebae0e3bcdc07da5780154166659c6
 #https://a1xs.vip/1100001
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png",Now HK Premier Sports 1 (Backup)
@@ -2233,6 +2228,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+### 🔴 LIVE EVENT
+#EXTINF:-1 group-title="SPORTS", Queretaro FC vs Toluca
+https://hls.livelivelive.space/live/4465569.m3u8
 #EXTINF:-1 group-title="SPORTS", Sao Paulo vs Cruzeiro Esporte Clube
 https://live.bbs456.com/live/13376985_86279ef632e60902a0dc64ab5fb5b4a1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10", SportDigital
