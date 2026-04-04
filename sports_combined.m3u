@@ -2044,6 +2044,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/tNKPSkO.png",Äá»ng Nai 2 (480p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS", Atlanta United vs Columbus Crew
+https://live5.bbs456.com/live/13360704_6f74f21d41fe4ad2e96d6cb85a27d870.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/automotorsport.jpg" group-title="SPORTS",AUTO MOTOR AND SPORT 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2052,8 +2054,14 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
+#EXTINF:-1 group-title="SPORTS", Charlotte FC vs Philadelphia Union
+https://live4.bbs456.com/live/13360705_84e95cf5ce18a4512a9bf7b8ca00550e.m3u8
+#EXTINF:-1 group-title="SPORTS", Coritiba PR vs Fluminense RJ
+https://live.bbs456.com/live/13376981_88a0b78624e49efee8bfe5353cd41a51.m3u8
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", DC United vs FC Dallas
+https://live2.bbs456.com/live/13360706_38704b199224f4a4c8d9bb07422bccbe.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="SPORTS",DZ COMBAT
 https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fastandfunbox.jpg" group-title="SPORTS",FAST AND FUNBOX 🇸🇰
@@ -2133,6 +2141,10 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qr0o2tP.png?v=1.0.0.1" group-title="SPORTS" tvg-id="Motorvision+.id" tvg-name="Motorvision+.id", Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision+
+#EXTINF:-1 group-title="SPORTS", New York City FC vs St. Louis City SC
+https://live.bbs456.com/live/13360708_24b9988a24fbb07ef9ab6f77363bf1c4.m3u8
+#EXTINF:-1 group-title="SPORTS", New York Red Bulls vs FC Cincinnati
+https://live3.bbs456.com/live/13360709_1e0eed1256287a727ab0483d844bbc74.m3u8
 #http://109.61.81.147:1935/cdn7/767/video.m3u8?token=90ebae0e3bcdc07da5780154166659c6
 #https://a1xs.vip/1100001
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png",Now HK Premier Sports 1 (Backup)
@@ -2230,9 +2242,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 ### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", Queretaro FC vs Toluca
-https://hls.livelivelive.space/live/4465569.m3u8
-#EXTINF:-1 group-title="SPORTS", Sao Paulo vs Cruzeiro Esporte Clube
-https://live.bbs456.com/live/13376985_86279ef632e60902a0dc64ab5fb5b4a1.m3u8
+https://live.bbs456.com/live/13376354_250e148492279533d3cb6285f3428690.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10", SportDigital
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8
 #https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
