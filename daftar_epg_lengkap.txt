@@ -4,7 +4,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
 === KATEGORI: BACKUP EVENT SPORTS ===
   [KASTA 99 - UMUM / LAIN-LAIN]
     - 00:00 WIB Brest vs Rennes  [EPG: KOSONG]
-    - 15:30 WIB PSM vs Persis Solo  [EPG: KOSONG]
+    - 02:05 WIB Lille vs Lens  [EPG: KOSONG]
+    - 19:00 WIB Persebaya Surabaya vs Persita  [EPG: KOSONG]
     - 22:00 WIB Strasbourg vs Nice  [EPG: KOSONG]
 
 === KATEGORI: INDONESIA ===
