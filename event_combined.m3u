@@ -1,5 +1,37 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/8y39mp4t8dkmojx/image/small" group-title="BACKUP EVENT SPORTS",02:00 WIB - MIAMI HEAT VS WASHINGTON WIZARDS [NBA] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=a0508076868ace03fc82b176076b57c1&wsABSTime=1775380521
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/w9SUr", 02:00 WIB Southampton vs Arsenal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:05 WIB Lille vs Lens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel13.m3u8?wsSecret=7394e64feb0236bf8e9e232eb0c1cf52&wsABSTime=1758737017
+### 🔵 EXTRA SOURCE
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwl4ryk0/image/small" group-title="BACKUP EVENT SPORTS",02:30 WIB - FC PORTO VS FC FAMALICAO [POR D1] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=1d07b540c11bb0bbf11d32d6093dcb2a&wsABSTime=1775380516
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4z3ryox/image/small" group-title="BACKUP EVENT SPORTS",03:30 WIB - NEW ENGLAND VS MONTREAL IMPACT [MLS] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=ce669928ed3f429c2da06e8631593bb7&wsABSTime=1775380518
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkk1qwzv/image/small" group-title="BACKUP EVENT SPORTS",03:30 WIB - REAL SALT LAKE VS SPORTING KANSAS [MLS] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=6d524b0475e4a5b337ab0a294f3ba1b1&wsABSTime=1775380518
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkhjj6qg8n/image/small" group-title="BACKUP EVENT SPORTS",04:30 WIB - SAO PAULO VS CRUZEIRO [BRA D1] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=956b2f549f8929053450ee5ae6e449a3&wsABSTime=1775380520
