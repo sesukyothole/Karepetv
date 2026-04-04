@@ -1651,6 +1651,9 @@ https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s",Real Madrid TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+### 🔴 LIVE EVENT
+#EXTINF:-1 group-title="SPORTS", Chelsea vs Port Vale
+https://hwc777pullb.bszb.me/live/2368794_1775318405.flv
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",INTER TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 group-title="SPORTS", RCD Mallorca vs Real Madrid
@@ -2046,8 +2049,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/tNKPSkO.png",Äá»ng Nai 2 (480p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS", Albacete Balompié SAD vs Burgos CF
-https://hls.livelivelive.space/live/4361908.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/automotorsport.jpg" group-title="SPORTS",AUTO MOTOR AND SPORT 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2058,8 +2059,6 @@ https://hls.livelivelive.space/live/4361908.m3u8
 https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS", Dynamo Moscow vs Gazovik Orenburg
-https://v.lfsxfj.com/live/100313.m3u8?txSecret=c20a595bad95a7b16b011aab4939448a&txTime=69D13649&sign=55f811067aff1802
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="SPORTS",DZ COMBAT
 https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fastandfunbox.jpg" group-title="SPORTS",FAST AND FUNBOX 🇸🇰
@@ -2072,8 +2071,6 @@ https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
-#EXTINF:-1 group-title="SPORTS", Gazisehir Gaziantep vs Alanyaspor
-https://hls.livelivelive.space/live/4366169.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/golfchannel.jpg" group-title="SPORTS",GOLF CHANNEL 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
@@ -2084,6 +2081,8 @@ https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+#EXTINF:-1 group-title="SPORTS", Hellas Verona vs Fiorentina
+https://hwc777pullb.bszb.me/live/774300_1775317630.flv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/0b/98/db0b98a2e02b2d2f172c2430b469e855.jpg" group-title="SPORTS", JOJ SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2142,7 +2141,7 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qr0o2tP.png?v=1.0.0.1" group-title="SPORTS" tvg-id="Motorvision+.id" tvg-name="Motorvision+.id", Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision+
 #EXTINF:-1 group-title="SPORTS", Nacional da Madeira vs CF Estrela Amadora SAD
-https://v.lfsxfj.com/live/100359.m3u8?txSecret=2f062c0df8c88767bb554f5712108224&txTime=69D13649&sign=6122e59e895b1f6f
+https://hwc777pullb.bszb.me/live/2048226_1775312413.flv
 #http://109.61.81.147:1935/cdn7/767/video.m3u8?token=90ebae0e3bcdc07da5780154166659c6
 #https://a1xs.vip/1100001
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png",Now HK Premier Sports 1 (Backup)
@@ -2239,11 +2238,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 #EXTINF:-1 group-title="SPORTS", PSV Eindhoven vs FC Utrecht
-https://v.lfsxfj.com/live/100368.m3u8?txSecret=affa88af1cc69184e76e97fc004ea6e6&txTime=69D13649&sign=9c047b96b7c63832
+https://hwc777pullb.bszb.me/live/1990195_1775310893.flv
 #EXTINF:-1 group-title="SPORTS", RC Strasbourg Alsace vs OGC Nice
-https://v.lfsxfj.com/live/100374.m3u8?txSecret=ca6f86a71e78b8b7a64895e35cf9cea1&txTime=69D12F40&sign=fd1e2cb18221826e
-#EXTINF:-1 group-title="SPORTS", Spartak Kostroma vs Yenisey Krasnoyarsk
-https://hls.livelivelive.space/live/4520306.m3u8
+https://hwc777pullb.bszb.me/live/1052339_1775315215.flv
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnznWuIcC6OZZ0o8JRWcabHGnkBr8eTGFpX-LcMmKOw&s=10", SportDigital
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/413e9d90-a69f-4c02-963d-6aca91619f32/0.m3u8
 #https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
@@ -2340,9 +2337,6 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", Zulte-Waregem vs Cercle Brugge
-https://hls.livelivelive.space/live/4521150.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsipWOIMkUaOTGFlOsyaS4gZOU5OtBhVgHEQewgVGKM0P8-wFqEvp2SAgaQq6Pg_6T0NrtBSm-y0ac5SQKoct4nJ3CkaDP2j7iwIkOnHCaYkSNuVHYTjFUnJfyrQTZObfPMumAtk0gAFbUjjO6ScJQaCvBPOnCz-1NWL0ubaUYDhFkgCtNFPjlODXuhSl/s700/BILLIYARD%20TV.png" group-title="SPORTS",BILLIYARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQR9Rf25uPOeL_KvSLFBihQG9laN9uNNYb8hisYExCCXXJHdD0jNRQJUNbRi8cMV6Uj39x1xTTHBBltITmT13vl9nisDju2pGovRbQqZDxbK1SQcllHHJH6mzMYTxQHkmJbXViQCSzZeMVY_XixkGNgoVxGKRdVOrFQYrVXdoAIdWnjsRsUKM5HaVHTpI/s700/BOXING%20TV.png",BOXING TV
