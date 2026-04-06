@@ -2390,27 +2390,27 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-#EXTINF:-1 group-title="SPORTS", [LIVE] FC Ufa vs Torpedo Moscow - RUS 1st League
-https://hls.livelivelive.space/live/4520313.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] FK Epitsentr Dunayivtsi vs Kudrivka - UKR Premier League
 https://hls.livelivelive.space/live/4362176.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] GAIS vs Djurgardens - SWE Allsvenskan
 https://hls.livelivelive.space/live/4467003.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Ham-Kam vs Brann - NOR Eliteserien
 https://hls.livelivelive.space/live/4467531.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Juventus vs Genoa - ITA Serie A
+https://hwc777pullb.bszb.me/live/2459618_1775489437.flv
+#EXTINF:-1 group-title="SPORTS", [LIVE] Kahraba Ismailia vs Petrojet - EGY Premier League
+https://hls.livelivelive.space/live/4515573.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Kristiansund BK vs Bodo Glimt - NOR Eliteserien
-https://v.lfsxfj.com/live/100344.m3u8?txSecret=10c481b51cba36fd0b0c797c6e18b88a&txTime=69D3CF70&sign=45338e05b34112e3
+https://v.lfsxfj.com/live/100344.m3u8?txSecret=5cc1e5a153e56e9f779eb9b46e030ce7&txTime=69D3DE34&sign=b6fedc2294b829cb
 #EXTINF:-1 group-title="SPORTS", [LIVE] Molde vs Lillestrom - NOR Eliteserien
-https://hls.livelivelive.space/live/4467487.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Odense BK vs Fredericia - DEN Superliga
-https://v.lfsxfj.com/live/100370.m3u8?txSecret=cf5ee5d1d55dfeace600e4adc74bd4db&txTime=69D3D241&sign=cd1411b578f5664c
-### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", [LIVE] RAAL La Louvière vs FCV Dender EH - BEL Pro League
-https://hls.livelivelive.space/live/4521172.m3u8
+https://live2.bbs456.com/live/12619469_c5fb83774dd1e4501c199408193c7916.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Sarpsborg 08 vs Start Kristiansand - NOR Eliteserien
 https://hls.livelivelive.space/live/4467562.m3u8
+### 🔴 LIVE EVENT
+#EXTINF:-1 group-title="SPORTS", [LIVE] Viborg vs Aarhus AGF - DEN Superliga
+https://hwc777pullb.bszb.me/live/774300_1775490285.flv
 ### 🟡 UPCOMING EVENT
-#EXTINF:-1 group-title="SPORTS", [UPCOMING] KAA Gent vs KV Mechelen - BEL Pro League
+#EXTINF:-1 group-title="SPORTS", [UPCOMING] Argentinos Juniors vs Banfield - ARG Division 1
 https://freeiptv2026.tsender57.workers.dev/go
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsipWOIMkUaOTGFlOsyaS4gZOU5OtBhVgHEQewgVGKM0P8-wFqEvp2SAgaQq6Pg_6T0NrtBSm-y0ac5SQKoct4nJ3CkaDP2j7iwIkOnHCaYkSNuVHYTjFUnJfyrQTZObfPMumAtk0gAFbUjjO6ScJQaCvBPOnCz-1NWL0ubaUYDhFkgCtNFPjlODXuhSl/s700/BILLIYARD%20TV.png" group-title="SPORTS",BILLIYARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
