@@ -2086,10 +2086,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/tNKPSkO.png",Äá»ng Nai 2 (480p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1686592534162923520/tLjYTNbc_400x400.jpg" group-title="SPORTS",15:30 WIB | [Indonesia Liga 1] Persik Kediri vs Persijap Jepara
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/baaa.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/automotorsport.jpg" group-title="SPORTS",AUTO MOTOR AND SPORT 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2394,17 +2390,13 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-### 🟣 RAKHOI SOURCE
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="SPORTS",[LIVE] (15:30 WIB) Persik Kediri vs Persijap Jepara [BLV REVIVE]
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/33982309.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Helmond Sport vs RKC Waalwijk - NED Eerste Divisie
+https://v.lfsxfj.com/live/100334.m3u8?txSecret=00362918154f50856d957d32b0b0a2b2&txTime=69D38D58&sign=54561414a8d11861
 ### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", [LIVE] Guizhou Xufengtang vs Hubei Super Mr - CMCL
-https://v.lfsxfj.com/live/100469.m3u8?txSecret=19a6126e2d874cd11c2cee3b4d67f142&txTime=69D37FFC&sign=82db97907c853e4e
-#EXTINF:-1 group-title="SPORTS", [LIVE] Persatuan sepak bola Indonesia Kediri vs Persatuan Sepakbola Indonesia Jepara - IDN Super League
-https://live.bbs456.com/live/12704429_b17821b2f5e150ae8ffe39a915b7cf05.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] LKS Nieciecza vs Piast Gliwice - Ekstraklasa
+https://v.lfsxfj.com/live/100375.m3u8?txSecret=162bf393da1c1fdc14e39accabda5382&txTime=69D392FA&sign=bc571abe053469cb
+#EXTINF:-1 group-title="SPORTS", [LIVE] Udinese vs Como - ITA Serie A
+https://hls.livelivelive.space/live/4339794.m3u8
 ### 🟡 UPCOMING EVENT
 #EXTINF:-1 group-title="SPORTS", [UPCOMING] Club Brugge vs Anderlecht - BEL Pro League
 https://freeiptv2026.tsender57.workers.dev/go
