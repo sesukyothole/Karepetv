@@ -2390,15 +2390,17 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-#EXTINF:-1 group-title="SPORTS", [LIVE] Helmond Sport vs RKC Waalwijk - NED Eerste Divisie
-https://v.lfsxfj.com/live/100334.m3u8?txSecret=00362918154f50856d957d32b0b0a2b2&txTime=69D38D58&sign=54561414a8d11861
 ### 🔴 LIVE EVENT
+#EXTINF:-1 group-title="SPORTS", [LIVE] Club Brugge vs Anderlecht - BEL Pro League
+https://v.lfsxfj.com/live/100325.m3u8?txSecret=3cc0ee38427035d758129c7e5a51aae5&txTime=69D39EEC&sign=09c5cc9c1d673094
+#EXTINF:-1 group-title="SPORTS", [LIVE] Helmond Sport vs RKC Waalwijk - NED Eerste Divisie
+https://live.bbs456.com/live/12512663_3c84e3cd07797722d8c5ece6144e6790.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] LKS Nieciecza vs Piast Gliwice - Ekstraklasa
-https://v.lfsxfj.com/live/100375.m3u8?txSecret=162bf393da1c1fdc14e39accabda5382&txTime=69D392FA&sign=bc571abe053469cb
+https://live.bbs456.com/live/12452644_13cbba03d4f99955cd2b7d72739043a0.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Udinese vs Como - ITA Serie A
-https://hls.livelivelive.space/live/4339794.m3u8
+https://live1.bbs456.com/live/13673119_8c6de4cf4f443470d791410872fbcda3.m3u8
 ### 🟡 UPCOMING EVENT
-#EXTINF:-1 group-title="SPORTS", [UPCOMING] Club Brugge vs Anderlecht - BEL Pro League
+#EXTINF:-1 group-title="SPORTS", [UPCOMING] RAAL La Louvière vs FCV Dender EH - BEL Pro League
 https://freeiptv2026.tsender57.workers.dev/go
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsipWOIMkUaOTGFlOsyaS4gZOU5OtBhVgHEQewgVGKM0P8-wFqEvp2SAgaQq6Pg_6T0NrtBSm-y0ac5SQKoct4nJ3CkaDP2j7iwIkOnHCaYkSNuVHYTjFUnJfyrQTZObfPMumAtk0gAFbUjjO6ScJQaCvBPOnCz-1NWL0ubaUYDhFkgCtNFPjlODXuhSl/s700/BILLIYARD%20TV.png" group-title="SPORTS",BILLIYARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
