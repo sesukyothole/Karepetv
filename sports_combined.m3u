@@ -1616,6 +1616,8 @@ https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
 https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+#EXTINF:-1 group-title="SPORTS", [LIVE] Hacken vs Brommapojkarna - SWE Allsvenskan
+https://hls.livelivelive.space/live/4467004.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRGF0MhRj3UWbjk2NgbDF9Mh3m92NaOrulluwpGJtIWmIr-hWc0gOkM3f7kPcSbBFwGk39Nrzka-A_BO_HZcMHDoH_h4dNBmTbWKXVKT7pCWQhqQ33-zi4uyKDW71IFOJZ_X2lmr-xQa1tJf0z0oBBoRFBQzgpKgEKre3mZXwxW1vPan1B4k5kqdHt5dS3/s700/BELLATOR%20MMA.png" group-title="SPORTS", BELLATOR MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2390,15 +2392,18 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/09fe2ecf88f68970da755f8655d5da8a.png!w80" group-title="SPORTS",[LIVE] (19:00 WIB) Bali United vs PSBS Biak Numfor [BLV MONSTER]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/75915087.m3u8
 ### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", [LIVE] Club Brugge vs Anderlecht - BEL Pro League
-https://v.lfsxfj.com/live/100325.m3u8?txSecret=3cc0ee38427035d758129c7e5a51aae5&txTime=69D39EEC&sign=09c5cc9c1d673094
-#EXTINF:-1 group-title="SPORTS", [LIVE] Helmond Sport vs RKC Waalwijk - NED Eerste Divisie
-https://live.bbs456.com/live/12512663_3c84e3cd07797722d8c5ece6144e6790.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] LKS Nieciecza vs Piast Gliwice - Ekstraklasa
-https://live.bbs456.com/live/12452644_13cbba03d4f99955cd2b7d72739043a0.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Udinese vs Como - ITA Serie A
-https://live1.bbs456.com/live/13673119_8c6de4cf4f443470d791410872fbcda3.m3u8
+https://live1.bbs456.com/live/13735307_711ddaaa35a2f6585fae929690637785.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Elfsborg vs IFK Goteborg - SWE Allsvenskan
+https://hls.livelivelive.space/live/4467002.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Vålerenga Fotball Elite vs Viking - NOR Eliteserien
+https://v.lfsxfj.com/live/100307.m3u8?txSecret=9cee0caa886b68ec1120aa70e4c21aa0&txTime=69D3A3D9&sign=ad4655504dab86a0
 ### 🟡 UPCOMING EVENT
 #EXTINF:-1 group-title="SPORTS", [UPCOMING] RAAL La Louvière vs FCV Dender EH - BEL Pro League
 https://freeiptv2026.tsender57.workers.dev/go
