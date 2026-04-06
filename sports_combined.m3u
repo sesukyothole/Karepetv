@@ -2391,24 +2391,26 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
 #EXTINF:-1 group-title="SPORTS", [LIVE] Castellon vs Granada CF - SPA Segunda Division
-https://hls.livelivelive.space/live/4361912.m3u8
+https://live.bbs456.com/live/12562479_574589e29495dff9704d405f0598c364.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] FC Arouca vs Estoril - Liga Portugal
+https://v.lfsxfj.com/live/100369.m3u8?txSecret=28b07f4ad098060d0a9f0998ed380d40&txTime=69D3FB09&sign=909f9f3c80eea9b9
 #EXTINF:-1 group-title="SPORTS", [LIVE] FC Sochi vs Rubin Kazan - RUS Premier League
 https://live.bbs456.com/live/61376671_d7e1bc3d6ce47fa078ad8c65a458f681.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Juventus vs Genoa - ITA Serie A
-https://live.bbs456.com/live/13673118_442cda81f9b57046e43670615b944100.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Jong PSV Eindhoven Youth vs VVV Venlo - NED Eerste Divisie
+https://hls.livelivelive.space/live/4426489.m3u8
 ### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", [LIVE] KAA Gent vs KV Mechelen - BEL Pro League
 https://live.bbs456.com/live/13735305_4cb81737defa0b2f20aab7eb7018e85d.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Kocaelispor vs Başakşehir Futbol Kulübü - TUR Super League
 https://hls.livelivelive.space/live/4366101.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Porto B vs GD Chaves - Liga Portugal 2
-https://live.bbs456.com/live/wv78xivxle9tokr_7f95033599545e686ce46d3e681c3eea.m3u8
+https://live.bbs456.com/live/13743604_ad65466263dad360bf0f03e2c73bd918.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] SCU Torreense vs Leixoes - Liga Portugal 2
-https://hls.livelivelive.space/live/4367903.m3u8
+https://live1.bbs456.com/live/13743605_9acda4be4d0a07dcf953880d5aa2fe9b.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Tromso IL vs Rosenborg - NOR Eliteserien
-https://hwc777pullb.bszb.me/live/1990195_1775493832.flv
-#EXTINF:-1 group-title="SPORTS", [LIVE] Viborg vs Aarhus AGF - DEN Superliga
-https://live.bbs456.com/live/13679067_1fe19118585102632c735c64d4f9f6cf.m3u8
+https://live1.bbs456.com/live/13392160_d8060777d858d2b435f253e66957d8af.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] ZED FC vs El Mokawloon El Arab - EGY Premier League
+https://v.lfsxfj.com/live/100353.m3u8?txSecret=c1972113a2c0ec3dc5b946e6fdc310e7&txTime=69D3F8EC&sign=0afc184bda34f59b
 ### 🟡 UPCOMING EVENT
 #EXTINF:-1 group-title="SPORTS", [UPCOMING] Argentinos Juniors vs Banfield - ARG Division 1
 https://freeiptv2026.tsender57.workers.dev/go
