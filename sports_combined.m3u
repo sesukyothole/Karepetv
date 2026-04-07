@@ -2383,12 +2383,15 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-### 🔵 EXTRA SOURCE
+#EXTINF:-1 group-title="SPORTS", [LIVE] Dalian Juxing Shengheng vs Shanxi Loufan Xiangyu - CMCL
+https://live.bbs456.com/live/m2q15iz8jdpue76_e4a6d4dd1284b861e02a0dfef3d33687.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] FK Ural-2 vs Rubin Kazan-2 - RUS D3B
+https://live.bbs456.com/live/69998340_f7025568e57dc80e043a252230f93e6f.m3u8
 ### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", [LIVE] Kitchee vs Lee Man - CHN HK League Cup
-https://live.bbs456.com/live/13709098_8140870c992821494ad07cbf8c06adf4.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Shanxi Longsheng vs Dalian Tornadoes - CMCL
-https://hwc777pullb.bszb.me/live/2213229_1775543643.flv
+#EXTINF:-1 group-title="SPORTS", [LIVE] Melbourne City vs Central Coast Mariners - AUS A-League
+https://live.bbs456.com/live/13334558_b1e89ad308468432305446635fbb0386.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Podillya Khmelnytskyi vs FC Victoria Mykolaivka - UKR First League
+https://live.bbs456.com/live/12607421_39878d1ed1aa8dce160fbd2d8d2ca550.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsipWOIMkUaOTGFlOsyaS4gZOU5OtBhVgHEQewgVGKM0P8-wFqEvp2SAgaQq6Pg_6T0NrtBSm-y0ac5SQKoct4nJ3CkaDP2j7iwIkOnHCaYkSNuVHYTjFUnJfyrQTZObfPMumAtk0gAFbUjjO6ScJQaCvBPOnCz-1NWL0ubaUYDhFkgCtNFPjlODXuhSl/s700/BILLIYARD%20TV.png" group-title="SPORTS",BILLIYARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQR9Rf25uPOeL_KvSLFBihQG9laN9uNNYb8hisYExCCXXJHdD0jNRQJUNbRi8cMV6Uj39x1xTTHBBltITmT13vl9nisDju2pGovRbQqZDxbK1SQcllHHJH6mzMYTxQHkmJbXViQCSzZeMVY_XixkGNgoVxGKRdVOrFQYrVXdoAIdWnjsRsUKM5HaVHTpI/s700/BOXING%20TV.png",BOXING TV
