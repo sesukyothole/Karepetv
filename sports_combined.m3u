@@ -2386,21 +2386,29 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
+#EXTINF:-1 group-title="SPORTS", [LIVE] 1. FSV Mainz 05 vs RC Strasbourg Alsace - UEFA ECL
+https://hwc777pullb.bszb.me/live/2161697_1775752026.flv
 ### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", [LIVE] Al Ula FC vs Abha - KSA Division 1
-https://live.bbs456.com/live/13428614_b57f4ad4d6d1ffc22ea4e7d414641f25.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Al Ettifaq FC vs Al Riyadh - KSA Professional League
+https://v.lfsxfj.com/live/100390.m3u8?txSecret=137ab0c7c7ccb60f530306ace021b53b&txTime=69D7F7F8&sign=5a6a43580160be74
+#EXTINF:-1 group-title="SPORTS", [LIVE] Bologna vs Aston Villa - UEFA Europa League
+https://hwc777pullb.bszb.me/live/2455722_1775753910.flv
 #EXTINF:-1 group-title="SPORTS", [LIVE] Caykur Rizespor vs Samsunspor - TUR Super League
 https://live.bbs456.com/live/13717142_38186d9ebfab8ec279b1bd0c9dc817d0.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Crvena Zvezda vs FK Spartak Subotica - SER Mozzart Bet Superliga
 https://live1.bbs456.com/live/12741584_0401da40694130fb39f8ed49575bc529.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Damac vs Al Qadsiah - KSA Professional League
-https://live1.bbs456.com/live/12844510_af01573de945788716d8206f28c65941.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Crystal Palace vs Fiorentina - UEFA ECL
+https://hwc777pullb.bszb.me/live/2459618_1775752814.flv
+#EXTINF:-1 group-title="SPORTS", [LIVE] FC Porto vs Nottingham Forest - UEFA Europa League
+https://hwc777pullb.bszb.me/live/774300_1775752239.flv
+#EXTINF:-1 group-title="SPORTS", [LIVE] FC Shakhtar Donetsk vs AZ Alkmaar - UEFA ECL
+https://hwc777pullb.bszb.me/live/2368794_1775753165.flv
 #EXTINF:-1 group-title="SPORTS", [LIVE] OFK Beograd vs Radnik Surdulica - SER Mozzart Bet Superliga
 https://live1.bbs456.com/live/12741589_63dd65f657eb2edb905d2374a351f20b.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Rayo Vallecano vs AEK Athens - UEFA ECL
 https://live.bbs456.com/live/13645585_19a2779add9b23ffa508c9994453cb4a.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Riga FC vs Tukums-2000 - LAT Higher League
-https://live.bbs456.com/live/13543911_d19d1bd9a33a294f73621e1be5c36c49.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] SC Freiburg vs RC Celta - UEFA Europa League
+https://hwc777pullb.bszb.me/live/1374614_1775752592.flv
 ### 🟡 UPCOMING EVENT
 #EXTINF:-1 group-title="SPORTS", [UPCOMING] Central Coast Mariners vs Brisbane Roar - AUS A-League
 https://freeiptv2026.tsender57.workers.dev/go
