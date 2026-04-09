@@ -2020,27 +2020,25 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-#EXTINF:-1 group-title="SPORTS", [LIVE] Al Wahda(UAE) vs Ittihad Kalba FC - UAE Adnoc Pro-League
-https://hls.livelivelive.space/live/4523891.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Boluspor vs Sivasspor - TUR First League
-https://live.bbs456.com/live/12651498_86f0711baa96fa24519d87c600b31ed3.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Buxoro FK vs Qizilqum Zarafshon - UZB Super League
-https://live1.bbs456.com/live/13534268_41f799730abb1e44f7727cf7f4b80369.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Al Ula FC vs Abha - KSA Division 1
+https://hwc777pullb.bszb.me/live/2069958_1775750798.flv
+#EXTINF:-1 group-title="SPORTS", [LIVE] Damac vs Al Qadsiah - KSA Professional League
+https://live1.bbs456.com/live/12844510_af01573de945788716d8206f28c65941.m3u8
 ### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", [LIVE] FK Isloch Minsk vs Dinamo Brest - BLR Premier League
-https://hwc777pullb.bszb.me/live/2398260_1775745834.flv
-#EXTINF:-1 group-title="SPORTS", [LIVE] Jamshedpur FC vs Mumbai City FC - IND Super League
-https://live1.bbs456.com/live/13570797_0e100b09f144d95da784555e341ee20f.m3u8
+https://live.bbs456.com/live/70089758_3edcaf649c58bc12f24b3ab5f0d2295d.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Kahraba Ismailia vs Ittihad Alexandria SC - EGY Premier League
+https://live1.bbs456.com/live/13691231_682f6cd760cf5b599d9293ffe9d830cb.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Ludogorets Razgrad vs Cherno More Varna - BUL First League
-https://hwc777pullb.bszb.me/live/2380729_1775745961.flv
-#EXTINF:-1 group-title="SPORTS", [LIVE] Neftchi Fergana vs Pakhtakor - UZB Super League
-https://live.bbs456.com/live/13534273_5eb90f642bc1b0ccf0c0815a9e83913b.m3u8
+https://hls.livelivelive.space/live/4420474.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Novi Pazar vs Partizan Belgrade - SER Mozzart Bet Superliga
-https://hwc777pullb.bszb.me/live/2366319_1775746032.flv
+https://live.bbs456.com/live/12741588_7609dad5bda47a00fe2e7ff8a9d3366d.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Riga FC vs Tukums-2000 - LAT Higher League
+https://hls.livelivelive.space/live/4495047.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Tala'ea El Gaish vs Bank El Ahly - EGY Premier League
-https://hwc777pullb.bszb.me/live/2403950_1775745821.flv
+https://live2.bbs456.com/live/13691230_3177147265e9bb01df8753b12330249f.m3u8
 ### 🟡 UPCOMING EVENT
-#EXTINF:-1 group-title="SPORTS", [UPCOMING] Spartak Varna vs FC Dobrudzha Dobrich - BUL First League
+#EXTINF:-1 group-title="SPORTS", [UPCOMING] Central Coast Mariners vs Brisbane Roar - AUS A-League
 https://freeiptv2026.tsender57.workers.dev/go
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsipWOIMkUaOTGFlOsyaS4gZOU5OtBhVgHEQewgVGKM0P8-wFqEvp2SAgaQq6Pg_6T0NrtBSm-y0ac5SQKoct4nJ3CkaDP2j7iwIkOnHCaYkSNuVHYTjFUnJfyrQTZObfPMumAtk0gAFbUjjO6ScJQaCvBPOnCz-1NWL0ubaUYDhFkgCtNFPjlODXuhSl/s700/BILLIYARD%20TV.png" group-title="SPORTS",BILLIYARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
