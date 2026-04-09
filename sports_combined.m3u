@@ -2386,9 +2386,11 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", [LIVE] Krylia Sovetov-2 vs Dinamo Barnaul - RUS D3B
 https://live.bbs456.com/live/70252014_a1ccea3ef3b4a05511dab9e969198a77.m3u8
+### 🔴 LIVE EVENT
+#EXTINF:-1 group-title="SPORTS", [LIVE] Simal FK vs Mingachevir - AZE First Division
+https://hwc777pullb.bszb.me/live/2418996_1775733279.flv
 ### 🟡 UPCOMING EVENT
 #EXTINF:-1 group-title="SPORTS", [UPCOMING] Preah Khan Reach Svay Rieng FC vs Manila Digger FC - AFC Challenge League
 https://freeiptv2026.tsender57.workers.dev/go
