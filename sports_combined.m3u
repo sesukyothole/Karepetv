@@ -1614,7 +1614,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",INTER TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Real Madrid vs Girona FC - SPA La Liga
-https://hls.livelivelive.space/live/4358866.m3u8
+https://live1.bbs456.com/live/12562606_6bf0fc80c80052efce4f8751a5c1c9ec.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Lj69WbR.png",Game+ (720p)
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",TSN The Ocho
@@ -2322,30 +2322,12 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-#EXTINF:-1 group-title="SPORTS", [LIVE] AD Ceuta vs Real Sociedad B - SPA Segunda Division
-https://hls.livelivelive.space/live/4361921.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] AS Roma vs Pisa - ITA Serie A
-https://hls.livelivelive.space/live/4339763.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Clermont vs Nancy - FRA Ligue 2
-https://live3.bbs456.com/live/12536284_72f2a0a4b6a2fb32b13328d3fe2fdb88.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] FC Augsburg vs TSG Hoffenheim - GER Bundesliga
-https://v.lfsxfj.com/live/100370.m3u8?txSecret=f9d713e12c4f218f7e1b3bd28acc912a&txTime=69D95B0C&sign=8f3ac347666a41dc
-#EXTINF:-1 group-title="SPORTS", [LIVE] FC Eindhoven vs Roda JC - NED Eerste Divisie
-https://hls.livelivelive.space/live/4426491.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] FC Famalicao vs Moreirense - Liga Portugal
-https://v.lfsxfj.com/live/100344.m3u8?txSecret=8ba8d432ef498866023d34412b05d024&txTime=69D95B0C&sign=ac953ebf723fdc93
-#EXTINF:-1 group-title="SPORTS", [LIVE] FC Twente Enschede vs Volendam - NED Eredivisie
-https://live.bbs456.com/live/12483666_f6429b68c8b1bd5b873f0429c7b9c4ba.m3u8
+https://live.bbs456.com/live/12694005_83ad60a4d642a48216ec5a1e84db18b2.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] Marseille vs Metz - FRA Ligue 1
-https://v.lfsxfj.com/live/100438.m3u8?txSecret=7c2fb3345fe42200478529afdf0e353a&txTime=69D95B0C&sign=44216e9bd5f3a04b
-#EXTINF:-1 group-title="SPORTS", [LIVE] RC Sporting Charleroi vs Royal Antwerp - BEL Pro League
-https://hls.livelivelive.space/live/4521151.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] RKC Waalwijk vs Emmen - NED Eerste Divisie
-https://hls.livelivelive.space/live/4426493.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Stade Lavallois MFC vs Stade DE Reims - FRA Ligue 2
-https://hls.livelivelive.space/live/4401162.m3u8
+https://live.bbs456.com/live/12536573_379cf917f1083596b7eeb7bf89e61a65.m3u8
 #EXTINF:-1 group-title="SPORTS", [LIVE] West Ham United vs Wolverhampton Wanderers - ENG Premier League
-https://hls.livelivelive.space/live/4343367.m3u8
+https://live.bbs456.com/live/12483288_e5713a9b9ef765d940e96c9a4e0db03d.m3u8
 ### 🟡 UPCOMING EVENT
 #EXTINF:-1 group-title="SPORTS", [UPCOMING] Auckland FC vs Melbourne Victory - AUS A-League
 https://freeiptv2026.tsender57.workers.dev/go
