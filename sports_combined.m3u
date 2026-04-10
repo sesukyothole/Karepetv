@@ -1613,8 +1613,6 @@ https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",INTER TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Real Madrid vs Girona FC - SPA La Liga
-https://live1.bbs456.com/live/12562606_6bf0fc80c80052efce4f8751a5c1c9ec.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Lj69WbR.png",Game+ (720p)
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",TSN The Ocho
@@ -2322,12 +2320,9 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
+### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", [LIVE] FC Famalicao vs Moreirense - Liga Portugal
 https://live.bbs456.com/live/12694005_83ad60a4d642a48216ec5a1e84db18b2.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Marseille vs Metz - FRA Ligue 1
-https://live.bbs456.com/live/12536573_379cf917f1083596b7eeb7bf89e61a65.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] West Ham United vs Wolverhampton Wanderers - ENG Premier League
-https://live.bbs456.com/live/12483288_e5713a9b9ef765d940e96c9a4e0db03d.m3u8
 ### 🟡 UPCOMING EVENT
 #EXTINF:-1 group-title="SPORTS", [UPCOMING] Auckland FC vs Melbourne Victory - AUS A-League
 https://freeiptv2026.tsender57.workers.dev/go
