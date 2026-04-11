@@ -2322,19 +2322,27 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
 #EXTINF:-1 group-title="SPORTS", [LIVE] AC Milan vs Udinese - ITA Serie A
 https://live1.bbs456.com/live/12418758_103a1770a0c39c10f2cfede5a1116c99.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] AJ Auxerre vs FC Nantes - FRA Ligue 1
+https://v.lfsxfj.com/live/100465.m3u8?txSecret=54d76f60a85f48854ffcb6532732525a&txTime=69DA8CE8&sign=9f037e64e63f1bc0
 #EXTINF:-1 group-title="SPORTS", [LIVE] Al Najma(KSA) vs NEOM Sports Club - KSA Professional League
-http://hls.livelivelive.space/live/4404620.m3u8?txSecret=02cf69bc6ea17894646ad12133127663&txTime=1775925809
+http://hls.livelivelive.space/live/4404620.m3u8?txSecret=3559400321eedc0f64869f88299188a2&txTime=1775928689
+#EXTINF:-1 group-title="SPORTS", [LIVE] Al Okhdood vs Al Nassr FC - KSA Professional League
+https://hwc777pullb.bszb.me/live/2398260_1775922117.flv
 #EXTINF:-1 group-title="SPORTS", [LIVE] FC Barcelona vs RCD Espanyol de Barcelona - SPA La Liga
-http://hls.livelivelive.space/live/4358837.m3u8?txSecret=51e47a86398f84be6db1069c3b3bd45e&txTime=1775925809
+http://hls.livelivelive.space/live/4358837.m3u8?txSecret=9d3fd9414362b4a8df9a557714c34d6e&txTime=1775928690
 #EXTINF:-1 group-title="SPORTS", [LIVE] FC St. Pauli vs FC Bayern Munich - GER Bundesliga
-http://hls.livelivelive.space/live/4347655.m3u8?txSecret=27c8567b3c031ed260c4507382816fb2&txTime=1775925809
+http://hls.livelivelive.space/live/4347655.m3u8?txSecret=6695d93fa9fc5bccdde409eaa8cabea0&txTime=1775928690
+#EXTINF:-1 group-title="SPORTS", [LIVE] Groningen vs Go Ahead Eagles - NED Eredivisie
+https://hwc777pullb.bszb.me/live/2487167_1775922424.flv
 #EXTINF:-1 group-title="SPORTS", [LIVE] Inter Turku vs Ilves Tampere - FIN Veikkausliiga
 https://hls.livelivelive.space/live/4468067.m3u8
 ### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", [LIVE] Liverpool vs Fulham - ENG Premier League
-http://hls.livelivelive.space/live/4343360.m3u8?txSecret=18034db90590f4a16f0920437a690e29&txTime=1775925809
+http://hls.livelivelive.space/live/4343360.m3u8?txSecret=323fc735f7a9aadf6fbe9a92fa449136&txTime=1775928689
+#EXTINF:-1 group-title="SPORTS", [LIVE] Santa Clara vs Rio Ave - Liga Portugal
+http://hls.livelivelive.space/live/4369046.m3u8?txSecret=24145670d405e5bf3ba5ca969bf45dec&txTime=1775928690
 #EXTINF:-1 group-title="SPORTS", [LIVE] Sparta Rotterdam vs PSV Eindhoven - NED Eredivisie
-http://hls.livelivelive.space/live/4344740.m3u8?txSecret=71ae8561b63c9c7ff4d660a8ceab538e&txTime=1775925809
+http://hls.livelivelive.space/live/4344740.m3u8?txSecret=5fbf842be34984023f9a79734b46123e&txTime=1775928690
 #EXTINF:-1 group-title="SPORTS", [LIVE] Viking vs Bodo Glimt - NOR Eliteserien
 https://hls.livelivelive.space/live/4467457.m3u8
 ### 🟡 UPCOMING EVENT
