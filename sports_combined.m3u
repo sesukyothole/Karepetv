@@ -2321,10 +2321,22 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
 ### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", [LIVE] FC Juarez vs Club Tijuana - MEX Liga MX
-https://live.bbs456.com/live/13376357_837c56c8505fcdae023004e0f817c102.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Auckland FC vs Melbourne Victory - AUS A-League
+https://live1.bbs456.com/live/13039996_66a56a12a47a427f89bdfa5845ab2214.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Avispa Fukuoka vs V-Varen Nagasaki - JPN J1
+https://live4.bbs456.com/live/13471613_a8bade4a18e60749ecdd199a6db47858.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Football Club Seoul vs Jeonbuk Hyundai Motors - KOR K1
+https://hls.livelivelive.space/live/4480390.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] JEF United Ichihara Chiba vs Mito Hollyhock - JPN J1
+https://live.bbs456.com/live/13471612_f681b56b5946e69dc1413782c8d01f18.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Machida Zelvia vs Kashiwa Reysol - JPN J1
+https://live3.bbs456.com/live/13471614_2c376917a61a07e5138e915315ce3cfc.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Pohang Steelers vs Jeju SK FC - KOR K1
+https://live.bbs456.com/live/13460499_252d19974030d3537a7978428fadc749.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Sanfrecce Hiroshima vs Shimizu S-Pulse - JPN J1
+https://live2.bbs456.com/live/13471615_e437f4a6a2842b89c6389108d3a556e8.m3u8
 ### 🟡 UPCOMING EVENT
-#EXTINF:-1 group-title="SPORTS", [UPCOMING] Auckland FC vs Melbourne Victory - AUS A-League
+#EXTINF:-1 group-title="SPORTS", [UPCOMING] Newcastle Jets vs Adelaide United - AUS A-League
 https://freeiptv2026.tsender57.workers.dev/go
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsipWOIMkUaOTGFlOsyaS4gZOU5OtBhVgHEQewgVGKM0P8-wFqEvp2SAgaQq6Pg_6T0NrtBSm-y0ac5SQKoct4nJ3CkaDP2j7iwIkOnHCaYkSNuVHYTjFUnJfyrQTZObfPMumAtk0gAFbUjjO6ScJQaCvBPOnCz-1NWL0ubaUYDhFkgCtNFPjlODXuhSl/s700/BILLIYARD%20TV.png" group-title="SPORTS",BILLIYARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
