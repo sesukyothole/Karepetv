@@ -24,7 +24,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
     - Nottingham Forest vs Aston Villa  [EPG: KOSONG]
     - Pachuca vs Santos Laguna  [EPG: KOSONG]
     - Perth Glory vs Macarthur  [EPG: KOSONG]
-    - Portland Timbers vs Los Angeles FC  [EPG: KOSONG]
+    - San Diego FC vs Minnesota United  [EPG: KOSONG]
     - Santos vs Atletico Mineiro  [EPG: KOSONG]
     - Sport Club Internacional vs Gremio  [EPG: KOSONG]
     - Tigres vs Chivas Guadalajara  [EPG: KOSONG]
