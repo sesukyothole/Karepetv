@@ -2320,31 +2320,25 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-#EXTINF:-1 group-title="SPORTS", [LIVE] Alanyaspor vs Trabzonspor - TUR Super League
-https://v.lfsxfj.com/live/100312.m3u8?txSecret=954b69bad3fed7344fa7e2b55e4a299a&txTime=69DA72E4&sign=a0ca47092767d638
-#EXTINF:-1 group-title="SPORTS", [LIVE] AVS Futebol SAD vs Vitoria Guimaraes - Liga Portugal
-https://v.lfsxfj.com/live/100358.m3u8?txSecret=21bb82db6f80d1ecfa982794c6fb04c4&txTime=69DA72E4&sign=a2be58d444d64bc1
-#EXTINF:-1 group-title="SPORTS", [LIVE] Brentford vs Everton - ENG Premier League
-https://live.bbs456.com/live/13392955_67be6c01791dba632d251a8a798085d8.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Burgos CF vs Sporting Gijon - SPA Segunda Division
-https://hls.livelivelive.space/live/4361919.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Burnley vs Brighton Hove Albion - ENG Premier League
-https://hls.livelivelive.space/live/4343353.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] CD Leganes vs Albacete Balompié SAD - SPA Segunda Division
-https://hls.livelivelive.space/live/4361925.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] AC Milan vs Udinese - ITA Serie A
+https://live1.bbs456.com/live/12418758_103a1770a0c39c10f2cfede5a1116c99.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Al Najma(KSA) vs NEOM Sports Club - KSA Professional League
+http://hls.livelivelive.space/live/4404620.m3u8?txSecret=02cf69bc6ea17894646ad12133127663&txTime=1775925809
+#EXTINF:-1 group-title="SPORTS", [LIVE] FC Barcelona vs RCD Espanyol de Barcelona - SPA La Liga
+http://hls.livelivelive.space/live/4358837.m3u8?txSecret=51e47a86398f84be6db1069c3b3bd45e&txTime=1775925809
+#EXTINF:-1 group-title="SPORTS", [LIVE] FC St. Pauli vs FC Bayern Munich - GER Bundesliga
+http://hls.livelivelive.space/live/4347655.m3u8?txSecret=27c8567b3c031ed260c4507382816fb2&txTime=1775925809
+#EXTINF:-1 group-title="SPORTS", [LIVE] Inter Turku vs Ilves Tampere - FIN Veikkausliiga
+https://hls.livelivelive.space/live/4468067.m3u8
 ### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", [LIVE] Cercle Brugge vs RAAL La Louvière - BEL Pro League
-https://hls.livelivelive.space/live/4521153.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Elche vs Valencia CF - SPA La Liga
-https://hls.livelivelive.space/live/4358844.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] FC Utrecht vs SC Telstar - NED Eredivisie
-https://live.bbs456.com/live/13392163_a8f9371e2ea74799469d515bfb6bbb22.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] Tromso IL vs Kristiansund BK - NOR Eliteserien
-https://hls.livelivelive.space/live/4467560.m3u8
-#EXTINF:-1 group-title="SPORTS", [LIVE] VVV Venlo vs De Graafschap - NED Eerste Divisie
-https://hls.livelivelive.space/live/4426494.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Liverpool vs Fulham - ENG Premier League
+http://hls.livelivelive.space/live/4343360.m3u8?txSecret=18034db90590f4a16f0920437a690e29&txTime=1775925809
+#EXTINF:-1 group-title="SPORTS", [LIVE] Sparta Rotterdam vs PSV Eindhoven - NED Eredivisie
+http://hls.livelivelive.space/live/4344740.m3u8?txSecret=71ae8561b63c9c7ff4d660a8ceab538e&txTime=1775925809
+#EXTINF:-1 group-title="SPORTS", [LIVE] Viking vs Bodo Glimt - NOR Eliteserien
+https://hls.livelivelive.space/live/4467457.m3u8
 ### 🟡 UPCOMING EVENT
-#EXTINF:-1 group-title="SPORTS", [UPCOMING] Liverpool vs Fulham - ENG Premier League
+#EXTINF:-1 group-title="SPORTS", [UPCOMING] Crystal Palace vs Newcastle United - ENG Premier League
 https://freeiptv2026.tsender57.workers.dev/go
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsipWOIMkUaOTGFlOsyaS4gZOU5OtBhVgHEQewgVGKM0P8-wFqEvp2SAgaQq6Pg_6T0NrtBSm-y0ac5SQKoct4nJ3CkaDP2j7iwIkOnHCaYkSNuVHYTjFUnJfyrQTZObfPMumAtk0gAFbUjjO6ScJQaCvBPOnCz-1NWL0ubaUYDhFkgCtNFPjlODXuhSl/s700/BILLIYARD%20TV.png" group-title="SPORTS",BILLIYARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
