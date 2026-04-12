@@ -1564,8 +1564,6 @@ https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
 https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-#EXTINF:-1 group-title="SPORTS", [LIVE] Urawa Red Diamonds vs Tokyo Verdy - JPN J1
-https://live2.bbs456.com/live/13471620_bd2668b161151b0fc71d8d3cb98cf197.m3u8
 ### 🟡 UPCOMING EVENT
 #EXTINF:-1 group-title="SPORTS", [UPCOMING] Perth Glory vs Macarthur FC - AUS A-League
 https://freeiptv2026.tsender57.workers.dev/go
@@ -2325,11 +2323,13 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-#EXTINF:-1 group-title="SPORTS", [LIVE] Daejeon Citizen vs Gangwon Football Club - KOR K1
-https://live3.bbs456.com/live/13460503_911bb6cdd15eccaa4c5f3235ab4cc1bd.m3u8
 ### 🔴 LIVE EVENT
-#EXTINF:-1 group-title="SPORTS", [LIVE] Melbourne City vs Wellington Phoenix - AUS A-League
-https://live1.bbs456.com/live/13039999_362b0521a142061673cb335f352807ce.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Dalian K'un City vs Yanbian Longding - CHN League 1
+https://live.bbs456.com/live/13658906_0031c91bd2b2fdce1d6fc12c2d0683fc.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Gimcheon Sangmu Football Club vs FC Anyang - KOR K1
+https://hwc777pullb.bszb.me/live/956863_1775978450.flv
+#EXTINF:-1 group-title="SPORTS", [LIVE] Kawasaki Frontale vs Kashima Antlers - JPN J1
+https://live1.bbs456.com/live/13471621_858c243bcead996b4074675d87675453.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsipWOIMkUaOTGFlOsyaS4gZOU5OtBhVgHEQewgVGKM0P8-wFqEvp2SAgaQq6Pg_6T0NrtBSm-y0ac5SQKoct4nJ3CkaDP2j7iwIkOnHCaYkSNuVHYTjFUnJfyrQTZObfPMumAtk0gAFbUjjO6ScJQaCvBPOnCz-1NWL0ubaUYDhFkgCtNFPjlODXuhSl/s700/BILLIYARD%20TV.png" group-title="SPORTS",BILLIYARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQR9Rf25uPOeL_KvSLFBihQG9laN9uNNYb8hisYExCCXXJHdD0jNRQJUNbRi8cMV6Uj39x1xTTHBBltITmT13vl9nisDju2pGovRbQqZDxbK1SQcllHHJH6mzMYTxQHkmJbXViQCSzZeMVY_XixkGNgoVxGKRdVOrFQYrVXdoAIdWnjsRsUKM5HaVHTpI/s700/BOXING%20TV.png",BOXING TV
