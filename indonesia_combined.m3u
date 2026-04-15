@@ -160,6 +160,26 @@ http://84.17.50.102/hgtv/index.m3u8
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 #EXTINF:-1 tvg-id="global_tv" tvg-name="Global TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="INDONESIA",Global TV
 https://sm-monirul.top/Toffee/live.php?id=global_tv&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDONESIA",SGTV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5332345367554fd39588283a2b949d02:8abcd0b3126923b068c26508e24c9f69
+https://tglmp04.akamaized.net/out/v1/5793335474d74566a8a0adfa260f22a9/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDONESIA",SGTV 11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDONESIA",SGTV 12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDONESIA",SGTV 15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDONESIA",SGTV 16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 #EXTINF:-1 tvg-id="FGTV.kr" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="INDONESIA",FGTV
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
