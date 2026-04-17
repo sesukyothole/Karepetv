@@ -2289,10 +2289,23 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-#EXTINF:-1 group-title="SPORTS", [LIVE] Termez Surkhon vs Qizilqum Zarafshon - UZB Super League
-https://v.lfsxfj.com/live/100452.m3u8?txSecret=d4d01118cdf7cd284de838fcb771d895&txTime=69E26238&sign=1d4c650023acd4e2
-#EXTINF:-1 group-title="SPORTS", [LIVE] Torpedo Moscow vs KAMAZ Naberezhnye Chelny - RUS 1st League
-https://v.lfsxfj.com/live/100476.m3u8?txSecret=dd19b8d3058fd8efe6d32311addeaa44&txTime=69E26238&sign=09e0a1e6467f1c04
+#EXTINF:-1 group-title="SPORTS", [LIVE] Antalyaspor vs Konyaspor - TUR Super League
+https://v.lfsxfj.com/live/100512.m3u8?txSecret=a1fabf89dcbfa4d4f6a8de25341487bd&txTime=69E27048&sign=ebf4828c30f5d1ea
+#EXTINF:-1 group-title="SPORTS", [LIVE] Degerfors IF vs Elfsborg - SWE Allsvenskan
+https://hls.livelivelive.space/live/4467017.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Djurgardens vs Malmo FF - SWE Allsvenskan
+https://hls.livelivelive.space/live/4467018.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Fenerbahce vs Caykur Rizespor - TUR Super League
+https://v.lfsxfj.com/live/100380.m3u8?txSecret=006a51facf41f938985b223c0fde5ce1&txTime=69E27048&sign=fb6a753babbd9630
+#EXTINF:-1 group-title="SPORTS", [LIVE] FK Rostov vs FC Sochi - RUS Premier League
+https://v.lfsxfj.com/live/100354.m3u8?txSecret=495d482cb5869352d4012822bc64c4e5&txTime=69E27048&sign=adea65e73b75a8b7
+#EXTINF:-1 group-title="SPORTS", [LIVE] Holstein Kiel vs 1. FC Kaiserslautern - GER Bundesliga 2
+https://hls.livelivelive.space/live/4355825.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] Sassuolo vs Como - ITA Serie A
+https://hls.livelivelive.space/live/4339755.m3u8
+#EXTINF:-1 group-title="SPORTS", [LIVE] SV Elversberg vs Karlsruher SC - GER Bundesliga 2
+https://hls.livelivelive.space/live/4355822.m3u8
+### 🔴 LIVE EVENT
 #EXTINF:-1 group-title="SPORTS", [LIVE] Zira FK vs FC Neftci Baku - AZE Premier League
 https://hls.livelivelive.space/live/4508761.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Abudhabi Sports 1
