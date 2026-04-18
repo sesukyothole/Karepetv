@@ -160,26 +160,21 @@ https://tvku.family/dante/tigoals/go.m3u8?match=2784811&stream=417505
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel18.m3u8?wsSecret=c02150b13b4029cc7749f5690c01fbd9&wsABSTime=1762364734
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/yT3dq", 02:00 WIB Atlético Madrid vs Real Sociedad
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:05 WIB Lille vs Nice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel12.m3u8?wsSecret=ebe030a4e29a30f949b663fb1494f778&wsABSTime=1767550108
-##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
-#https://shorter.me/aJXUE
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB PSBS Biak Numfor vs Persija
-#EXTVLCOPT:http-origin=https://jlbfpc.jlbfyh.com/
-#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://bf.jabflive.com/live/322708_hd01.m3u8?txSecret=1fd80d5c763e4359d44361223ed23b6d&txTime=69e36ce9
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB PSM vs Borneo
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://stream.titanlivescore.com/live/LXSCORE-4879992.m3u8
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB PSM vs Borneo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel23.m3u8?wsSecret=350084137f67a9c5153c2353d6f933a7&wsABSTime=1758671972
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 20:00 WIB Udinese vs Parma
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 20:30 WIB Union Berlin vs Wolfsburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
@@ -188,10 +183,18 @@ https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=f56bef7bf4aa7288d3fe3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel24.m3u8?wsSecret=20092658e6ce8b7b6d6eaf58dfc08b8b&wsABSTime=1770143300
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Newcastle United vs AFC Bournemouth
+##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
+#https://shorter.me/aJXUE
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Leeds United vs Wolverhampton Wanderers
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=032bfb6da9975ab4d3cc777e56263649&wsABSTime=1766943321
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/13a5e807-af96-4565-b5d3-16fc6868ee61/master.m3u8
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Newcastle United vs AFC Bournemouth
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3f179699-df69-48b5-9ab7-38ff4b4404bb/master.m3u8
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FDOiPI4.jpg", 22:00 WIB Lorient vs Olympique Marseille
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
