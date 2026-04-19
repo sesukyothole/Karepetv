@@ -1,29 +1,43 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/c3f6K3SD59RgHrzbfAyyGRKlmTI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5018332/4e2189.jpg" group-title="BACKUP EVENT SPORTS", 07:30 WIB 19/04/26 RAGA NEGERI vs TAJIMALELA FA WOMEN - HYDROPLUS Soccer League U-18
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 02/05/24 Football - Ligue 1 McDonald's (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/17278.drm?exp=1776580503&uip=103.247.8.70&sign=80e1e97369ff6d2980f2be606fe5496af1f27f294dfbaa28a1b32dd726c08a67
+https://aspaltvpasti.top/11111/17278.mpd?exp=1776580503&uip=103.247.8.70&sign=669f106caedb413baac7fa1063ecc1cfb37523613d303d8bca476aac35dc5fd3
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 02/05/24 Football - Ligue 1 McDonald's (INTI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/17278.drm?dev_kaki_09&t=1776580503&uip=103.247.8.70&h=9888305bec7c206cf71965637f88e439f0763c77f7bef272bb3bd8f012200722
+https://aspaltvpasti.top/11111/17278.mpd?dev_kaki_09&t=1776580503&uip=103.247.8.70&h=9888305bec7c206cf71965637f88e439f0763c77f7bef272bb3bd8f012200722
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 21/02/20 Full Impact - Round 32 : Serie A 2025/26 - Highlight Show (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6786.drm?exp=1776580503&uip=103.247.8.70&sign=722adb39eb451e1a003f5d98470178291c418c1028074242bf26c204f0925ed8
+https://aspaltvpasti.top/11111/6786.mpd?exp=1776580503&uip=103.247.8.70&sign=674c08b6c8de1c5926990dafe398d483ce0bcfd7bf00e1aa464b009a386ad16f
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 21/02/20 Full Impact - Round 32 : Serie A 2025/26 - Highlight Show (INTI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6786.drm?dev_kaki_09&t=1776580503&uip=103.247.8.70&h=f1d8e765eeb37ed95bcc348f172252aac7c3b095554ed4d1c7801c90a7c7c851
+https://aspaltvpasti.top/11111/6786.mpd?dev_kaki_09&t=1776580503&uip=103.247.8.70&h=f1d8e765eeb37ed95bcc348f172252aac7c3b095554ed4d1c7801c90a7c7c851
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3HLvHtniWksaMEF_A_coz-IQGH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015855/98bfde.jpg" group-title="BACKUP EVENT SPORTS", 15:20 WIB 19/04/26 Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi - Proliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 21/02/20 SASSUOLO vs COMO : Serie A 2025/26 (ALT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6786.drm?exp=1776561004&uip=103.247.8.70&sign=fe46ecaa13c32da08a1373b02ac31c4bb311b1e4e82a469b46fea9650363c164
-https://aspaltvpasti.top/11111/6786.mpd?exp=1776561004&uip=103.247.8.70&sign=a044bdd5f9212223eebab3875030b316e4630ebbcf32153c9b414b4178b27dc1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 21/02/20 SASSUOLO vs COMO : Serie A 2025/26 (INTI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6786.drm?dev_kaki_09&t=1776561004&uip=103.247.8.70&h=6325e74b5343a7d8b46589d3f0bfdb745577272ffbdbec4461e2376a573a3a17
-https://aspaltvpasti.top/11111/6786.mpd?dev_kaki_09&t=1776561004&uip=103.247.8.70&h=6325e74b5343a7d8b46589d3f0bfdb745577272ffbdbec4461e2376a573a3a17
 #EXTINF:-1 tvg-id="1010" group-title="BACKUP EVENT SPORTS" tvg-logo="https://www.visionplus.id/images/repository/598/723598-SNAPSHOT-m.jpg",⏳ [Upcoming] Bundesliga 2025/26 •  SC Freiburg vs FC Heidenheim 1846 (20:30 WIB • 19/04)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/1010.mancok?exp=1776561004&sign=4a8f6b774f431b4ac9a1d27ffe275066686c5ad3f4841dad8b30a6408b02bdd8
-https://vision.xxx3x.workers.dev/1010.mpd?exp=1776561004&sign=d8f501a8621391235e339f296e64feea35550a5a6a5ee89d481588c6a3fa7d41
+#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/1010.mancok?exp=1776580504&sign=f387f9b213990a08e88a46ac45ad5fdc43461f3ef7e52f9b639143b3f4d7d1eb
+https://vision.xxx3x.workers.dev/1010.mpd?exp=1776580504&sign=2620cdae21c90d2e66a04bb88bcbdbe45c36e524029009261aa9e3a708e8cfe6
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FDOiPI4.jpg", 00:00 WIB Angers SCO vs Le Havre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
