@@ -1,205 +1,156 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg" group-title="BACKUP EVENT SPORTS", 01:10 WIB 07/09/18 SASSUOLO vs COMO : Serie A 2025/26 (ALT)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6cpTxOAd9oaP5yOaKInfkE7mybc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg" group-title="BACKUP EVENT SPORTS", 01:52 WIB 07/09/18 HIGHLIGHT : DUTCH LEAGUE EREDIVISIE 2025/26 (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/6685.drm?exp=1776618003&uip=103.247.8.70&sign=5aab3e3350fdb714a88a42e7b03de8c88409e49cad19bc6def12f0ae0390015c
-https://ayo.maling.pl/video/id/6685.mpd?exp=1776618003&uip=103.247.8.70&sign=20784b6004a4acf985ac4db22dd6c13c7f6ba8c4f6aa37f30496e809f7fcd048
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg" group-title="BACKUP EVENT SPORTS", 01:10 WIB 07/09/18 SASSUOLO vs COMO : Serie A 2025/26 (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/6686.drm?exp=1776625803&uip=103.247.8.70&sign=563bfd203ff550d821533cdf3c6e35fcc857a408d90e92ad330d17c99d6d33f3
+https://ayo.maling.pl/video/id/6686.mpd?exp=1776625803&uip=103.247.8.70&sign=d804e4939184e204eac08b3ed6ae7e758b178ca6fa09e587d5563d4af4099226
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6cpTxOAd9oaP5yOaKInfkE7mybc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg" group-title="BACKUP EVENT SPORTS", 01:52 WIB 07/09/18 HIGHLIGHT : DUTCH LEAGUE EREDIVISIE 2025/26 (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/6685.drm?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=4d8eab855d7c667e56638708ea516846d58cf1f8ba4d66b8f505f84d99fff25d
-https://ayo.maling.pl/video/id/6685.mpd?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=4d8eab855d7c667e56638708ea516846d58cf1f8ba4d66b8f505f84d99fff25d
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 21/02/20 HELLAS VERONA vs MILAN : Serie A 2025/26 (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/6686.drm?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=63e1b572ed9b73ba0198a441f128e2cc1f8dcb6d56dbc0dc01f445617c46ee76
+https://ayo.maling.pl/video/id/6686.mpd?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=63e1b572ed9b73ba0198a441f128e2cc1f8dcb6d56dbc0dc01f445617c46ee76
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 21/02/20 PISA vs GENOA : Serie A 2025/26 (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/6786.drm?exp=1776618003&uip=103.247.8.70&sign=e64aedaa22548c5111fde0997ad7758406ce0d6a260931be4c4e5f623aa163b1
-https://ayo.maling.pl/video/id/6786.mpd?exp=1776618003&uip=103.247.8.70&sign=4e6d68b7a7d03e9f1975458192b67a9b2d5339b134ee3003e486191b7b69fe46
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 21/02/20 HELLAS VERONA vs MILAN : Serie A 2025/26 (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/6786.drm?exp=1776625803&uip=103.247.8.70&sign=954191ffe996892c5fec80206145f7d035425f49440f97144ea040c8b2f0f037
+https://ayo.maling.pl/video/id/6786.mpd?exp=1776625803&uip=103.247.8.70&sign=2b86b54a150b79a7333d00247375eae771b76801d3adbe37350fa452cd0775ef
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 21/02/20 PISA vs GENOA : Serie A 2025/26 (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/6786.drm?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=efe8ee40686b753509f3d350fc42d79de9dfabc063297807ba05923fd7bb968d
-https://ayo.maling.pl/video/id/6786.mpd?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=efe8ee40686b753509f3d350fc42d79de9dfabc063297807ba05923fd7bb968d
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/6786.drm?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=2237534a8f9f1f765d818f258e980536049b465d5306aa96af031a6779ff4615
+https://ayo.maling.pl/video/id/6786.mpd?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=2237534a8f9f1f765d818f258e980536049b465d5306aa96af031a6779ff4615
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/H3XxNvjGAymjg2Qyb-rvkzolS6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20216/champion-fight-c7c19e.jpg" group-title="BACKUP EVENT SPORTS", 12:00 WIB 21/01/26 Main Event : Moicano vs Duncan (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/20216.drm?exp=1776618003&uip=103.247.8.70&sign=6389ba3fa2b558f5d99d2513cbbe7af7e1f5e0a3cd2dff1939e52e22a0cf6167
-https://ayo.maling.pl/video/id/20216.mpd?exp=1776618003&uip=103.247.8.70&sign=58a7271ff717abc2a5ec4ce46c5a3cfe35cd2e6465491e1465f7cb2a420758d2
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/20216.drm?exp=1776625803&uip=103.247.8.70&sign=3d44c57675fea47553cb965c5c1e719d70f62d786a3e50029d3c0f7e6bea770e
+https://ayo.maling.pl/video/id/20216.mpd?exp=1776625803&uip=103.247.8.70&sign=e1cb0e94a08aff6741db3215e14073b8215d59814d2e23b879a93d31ed2c8725
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/H3XxNvjGAymjg2Qyb-rvkzolS6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20216/champion-fight-c7c19e.jpg" group-title="BACKUP EVENT SPORTS", 12:00 WIB 21/01/26 Main Event : Moicano vs Duncan (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/20216.drm?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=692ecb14148c51d4fc76edd0694e1b4d05b35cffc2c209523f084d2435db2bf1
-https://ayo.maling.pl/video/id/20216.mpd?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=692ecb14148c51d4fc76edd0694e1b4d05b35cffc2c209523f084d2435db2bf1
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vfKEKTAiJuFhGBqHUKQpls6whNo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015510/c4d001.jpg" group-title="BACKUP EVENT SPORTS", 19:30 WIB 19/04/26 Aston Villa vs Sunderland - Premier League (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/20216.drm?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=3cf5b440416db88ac61bb479c681dd164f6c26a5ee2ec5f1c186a0a155b9ad4d
+https://ayo.maling.pl/video/id/20216.mpd?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=3cf5b440416db88ac61bb479c681dd164f6c26a5ee2ec5f1c186a0a155b9ad4d
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ADrDxiviByz-bppEtvdwPjXeY8Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015511/6bbbf9.jpg" group-title="BACKUP EVENT SPORTS", 17:00 WIB 23/06/22 (Data Zone) Man City vs Arsenal - Premier League (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9183.drm?exp=1776618003&uip=103.247.8.70&sign=f467b8a50ce4d6985de6c10b2f2731413762c431633ed819cee718097e85a974
-https://ayo.maling.pl/video/id/9183.mpd?exp=1776618003&uip=103.247.8.70&sign=80d48b5b9e8351851d2473bdbb17cfd265964938ef155834e62b6872776b3fc5
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vfKEKTAiJuFhGBqHUKQpls6whNo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015510/c4d001.jpg" group-title="BACKUP EVENT SPORTS", 19:30 WIB 19/04/26 Aston Villa vs Sunderland - Premier League (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9183.drm?exp=1776625803&uip=103.247.8.70&sign=a63e3885460d0a6e72c07d44341738a5752ed17098af0cf3dccd7a9bf7f5ecba
+https://ayo.maling.pl/video/id/9183.mpd?exp=1776625803&uip=103.247.8.70&sign=d822c3e7569ce8067afb6a7d48b64d13d1cb4def89bac9a35cc245e7a307ee82
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ADrDxiviByz-bppEtvdwPjXeY8Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015511/6bbbf9.jpg" group-title="BACKUP EVENT SPORTS", 17:00 WIB 23/06/22 (Data Zone) Man City vs Arsenal - Premier League (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9183.drm?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=2f0726359070cb9d895191dc87f632a3c5ec4ea6a656f821d7ca489ebbded5e2
-https://ayo.maling.pl/video/id/9183.mpd?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=2f0726359070cb9d895191dc87f632a3c5ec4ea6a656f821d7ca489ebbded5e2
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vfKEKTAiJuFhGBqHUKQpls6whNo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015510/c4d001.jpg" group-title="BACKUP EVENT SPORTS", 19:30 WIB 19/04/26 Aston Villa vs Sunderland - Premier League [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9183.drm?dev_kaki_09&t=1776618003&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=8616852db5378478580c4c14a0400840ca2d1bc5fd21ee54f76b8b4eed5d03ec
-https://ayo.maling.pl/video/id/9183.mpd?dev_kaki_09&t=1776618003&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=8616852db5378478580c4c14a0400840ca2d1bc5fd21ee54f76b8b4eed5d03ec
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/X2UeGvfeBBOjw87FSNETZpfdqew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017180/86e292.jpg" group-title="BACKUP EVENT SPORTS", 19:30 WIB 19/04/26 Everton vs Liverpool - Premier League (ALT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9182.drm?exp=1776618003&uip=103.247.8.70&sign=fcf4351f24dd965f4b11db81095d0cf6281e452c23bba6d888b6fbc162a75728
-https://ayo.maling.pl/video/id/9182.mpd?exp=1776618003&uip=103.247.8.70&sign=09ab9cde1c44e18f1fe0d618623077813460e9d696d28f1f1ea41b888b8c7665
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/X2UeGvfeBBOjw87FSNETZpfdqew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017180/86e292.jpg" group-title="BACKUP EVENT SPORTS", 19:30 WIB 19/04/26 Everton vs Liverpool - Premier League (INTI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9182.drm?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=76a0ef1a64f6733e45b6077481bc0a9fd696fa06696f790a58b7f9750d9ac665
-https://ayo.maling.pl/video/id/9182.mpd?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=76a0ef1a64f6733e45b6077481bc0a9fd696fa06696f790a58b7f9750d9ac665
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/X2UeGvfeBBOjw87FSNETZpfdqew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017180/86e292.jpg" group-title="BACKUP EVENT SPORTS", 19:30 WIB 19/04/26 Everton vs Liverpool - Premier League [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9182.drm?dev_kaki_09&t=1776618003&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=ae88bae36e6dab001d7593c0df6bbd9d91a005baeb75a0e43aa10f4b96002f75
-https://ayo.maling.pl/video/id/9182.mpd?dev_kaki_09&t=1776618003&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=ae88bae36e6dab001d7593c0df6bbd9d91a005baeb75a0e43aa10f4b96002f75
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/7AnmdXAvlN0v5ahnexSD_UkTE6Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015573/478aa6.jpg" group-title="BACKUP EVENT SPORTS", 19:45 WIB 19/04/26 Verona vs Milan - Serie A (ALT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/19404.drm?exp=1776618003&uip=103.247.8.70&sign=1dd6631f0452d48fde03fdffdd3823cf055df56cd5541eec7e9ea75fd896274c
-https://ayo.maling.pl/video/id/19404.mpd?exp=1776618003&uip=103.247.8.70&sign=927db24acd2742709fff0ceb50029e2adf0fdf3f8ab20974d6117906e8fec4ed
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/7AnmdXAvlN0v5ahnexSD_UkTE6Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015573/478aa6.jpg" group-title="BACKUP EVENT SPORTS", 19:45 WIB 19/04/26 Verona vs Milan - Serie A (INTI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/19404.drm?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=d07565a4604d27eb2f8812595f3232de1df001b00691b560a5ba81a7d3426c82
-https://ayo.maling.pl/video/id/19404.mpd?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=d07565a4604d27eb2f8812595f3232de1df001b00691b560a5ba81a7d3426c82
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/7AnmdXAvlN0v5ahnexSD_UkTE6Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015573/478aa6.jpg" group-title="BACKUP EVENT SPORTS", 19:45 WIB 19/04/26 Verona vs Milan - Serie A [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/19404.drm?dev_kaki_09&t=1776618003&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=8fab4f6df77d3e3b626a3ed17240443e90b5ddf19dd37dab4a25da247592b18b
-https://ayo.maling.pl/video/id/19404.mpd?dev_kaki_09&t=1776618003&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=8fab4f6df77d3e3b626a3ed17240443e90b5ddf19dd37dab4a25da247592b18b
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Kn81XJq1k909GuJIE734BJrT6hY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015686/3da1aa.jpg" group-title="BACKUP EVENT SPORTS", 19:50 WIB 19/04/26 Nottingham Forest vs Burnley - Premier League (ALT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/18796.drm?exp=1776618003&uip=103.247.8.70&sign=74140e82b476647ed0b045fbbf8a13eab7c50f7d5a977c71c07515e0f557b2b3
-https://ayo.maling.pl/video/id/18796.mpd?exp=1776618003&uip=103.247.8.70&sign=1633d9f9ab848c610c0f31af68b818b642a5111f26b0a28f22f40f8a2187721b
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Kn81XJq1k909GuJIE734BJrT6hY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015686/3da1aa.jpg" group-title="BACKUP EVENT SPORTS", 19:50 WIB 19/04/26 Nottingham Forest vs Burnley - Premier League (INTI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/18796.drm?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=5929be78d6939a4738f573678ccfe9e962ce7a229caa143c26d777f3feb8f3ae
-https://ayo.maling.pl/video/id/18796.mpd?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=5929be78d6939a4738f573678ccfe9e962ce7a229caa143c26d777f3feb8f3ae
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Kn81XJq1k909GuJIE734BJrT6hY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015686/3da1aa.jpg" group-title="BACKUP EVENT SPORTS", 19:50 WIB 19/04/26 Nottingham Forest vs Burnley - Premier League [J1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/18796.drm?dev_kaki_09&t=1776618003&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=83b4b67823235becb552ea0e0ead8f0a5e63d13fb5848c03df9f030062af894f
-https://ayo.maling.pl/video/id/18796.mpd?dev_kaki_09&t=1776618003&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=83b4b67823235becb552ea0e0ead8f0a5e63d13fb5848c03df9f030062af894f
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9183.drm?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=fddbcfddffb91765a90af3e32754011e38a3f7b8a35e43ed06e1858eb8fd7305
+https://ayo.maling.pl/video/id/9183.mpd?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=fddbcfddffb91765a90af3e32754011e38a3f7b8a35e43ed06e1858eb8fd7305
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="BACKUP EVENT SPORTS", 20:00 WIB 28/07/22 Everton v Liverpool (Goal Rush) / Manchester City v Arsenal : Premier League Live (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9353.drm?exp=1776618003&uip=103.247.8.70&sign=b30088b2fe3545453ac2213b2ffbad531815a6d7436b0daeee1b6b5e3925604c
-https://ayo.maling.pl/video/id/9353.mpd?exp=1776618003&uip=103.247.8.70&sign=ce155944baef075fc1f9068de5239fd4384a1fb287fce96c7ae4dfaa3505b437
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9353.drm?exp=1776625803&uip=103.247.8.70&sign=cdf130c8539f67910c9d563e73d182157e3e89b478d2e127b97278031b01c0ae
+https://ayo.maling.pl/video/id/9353.mpd?exp=1776625803&uip=103.247.8.70&sign=1322e1d880916b87d9a5152a70f0b8767325fdb69f9466ea6c4666f1d6ca6bfa
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="BACKUP EVENT SPORTS", 20:00 WIB 28/07/22 Everton v Liverpool (Goal Rush) / Manchester City v Arsenal : Premier League Live (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9353.drm?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=d4aabf52d04d0f09ff13d4655cd39e715d111f3d22889e0476b7c436778a6b99
-https://ayo.maling.pl/video/id/9353.mpd?dev_kaki_09&t=1776618003&uip=103.247.8.70&h=d4aabf52d04d0f09ff13d4655cd39e715d111f3d22889e0476b7c436778a6b99
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ao5hbS_MiZ9qqk7p0sIZPjFOBmI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017497/f14345.jpg" group-title="BACKUP EVENT SPORTS", 23:00 WIB 19/04/26 Final - Game 5: Vakifbank vs Fenerbahce Medicana - Turkish Women's Volleyball League
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9353.drm?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=bec6ec9efb4be487b2122f7ce298d2f4e936999d73e7a6ff9b15104955241107
+https://ayo.maling.pl/video/id/9353.mpd?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=bec6ec9efb4be487b2122f7ce298d2f4e936999d73e7a6ff9b15104955241107
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/P6e-wD25mEnZRxo4ZsGD-IxQQvg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015503/ae907b.jpg" group-title="BACKUP EVENT SPORTS", 22:14 WIB 19/04/26 Man City vs Arsenal - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9182.drm?exp=1776625803&uip=103.247.8.70&sign=67fa187689c212999ffc1ca7cb9162d0cc13ab94ab39c993b36a82adaaa1a9b5
+https://ayo.maling.pl/video/id/9182.mpd?exp=1776625803&uip=103.247.8.70&sign=9aee57c12555fdacf0f766db8bb5a42f055db3bcfe996180072ff97187e29a5b
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/P6e-wD25mEnZRxo4ZsGD-IxQQvg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015503/ae907b.jpg" group-title="BACKUP EVENT SPORTS", 22:14 WIB 19/04/26 Man City vs Arsenal - Premier League (INTI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9182.drm?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=b9f6943ae35d81d95e61df3c40fa98c81280fd4bb2ae0f9869f832361f0cfee0
+https://ayo.maling.pl/video/id/9182.mpd?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=b9f6943ae35d81d95e61df3c40fa98c81280fd4bb2ae0f9869f832361f0cfee0
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/P6e-wD25mEnZRxo4ZsGD-IxQQvg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015503/ae907b.jpg" group-title="BACKUP EVENT SPORTS", 22:14 WIB 19/04/26 Man City vs Arsenal - Premier League [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/9182.drm?dev_kaki_09&t=1776625803&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=448e5945fb7f3fbf3718574632eae250b879cf220dbd287cc9239ff642820a7b
+https://ayo.maling.pl/video/id/9182.mpd?dev_kaki_09&t=1776625803&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=448e5945fb7f3fbf3718574632eae250b879cf220dbd287cc9239ff642820a7b
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0PlliM567Sla0nCmXhJsP97hEB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015574/0a5d0d.jpg" group-title="BACKUP EVENT SPORTS", 22:45 WIB 19/04/26 Pisa vs Genoa - Serie A (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/19404.drm?exp=1776625803&uip=103.247.8.70&sign=884610bddaa9011b43433ebe8c5f931c1dbf43467f167adc7106ba3ff22ad40a
+https://ayo.maling.pl/video/id/19404.mpd?exp=1776625803&uip=103.247.8.70&sign=c184eead7955bba4f937eb6acd64ea5882e259c475b8606cc6533ebb3b788aec
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0PlliM567Sla0nCmXhJsP97hEB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015574/0a5d0d.jpg" group-title="BACKUP EVENT SPORTS", 22:45 WIB 19/04/26 Pisa vs Genoa - Serie A (INTI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/19404.drm?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=d46dce554970b6733afbed9358bd04edc2c98e2665ce7096e04608e2ea16374f
+https://ayo.maling.pl/video/id/19404.mpd?dev_kaki_09&t=1776625803&uip=103.247.8.70&h=d46dce554970b6733afbed9358bd04edc2c98e2665ce7096e04608e2ea16374f
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0PlliM567Sla0nCmXhJsP97hEB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015574/0a5d0d.jpg" group-title="BACKUP EVENT SPORTS", 22:45 WIB 19/04/26 Pisa vs Genoa - Serie A [J1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/19404.drm?dev_kaki_09&t=1776625803&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=3a47973bed08a560e860f998d7b5f1c00def43e3007e8f9ba17074eb9b9fac41
+https://ayo.maling.pl/video/id/19404.mpd?dev_kaki_09&t=1776625803&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=3a47973bed08a560e860f998d7b5f1c00def43e3007e8f9ba17074eb9b9fac41
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wJlJXuDFo2oDC_DFHE3zwGpuQuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019477/c4330e.jpg" group-title="BACKUP EVENT SPORTS", 23:50 WIB 19/04/26 Sporting vs Benfica - Liga Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
-#EXTINF:-1 tvg-id="1011" group-title="BACKUP EVENT SPORTS" tvg-logo="https://www.visionplus.id/images/repository/667/722667-SNAPSHOT-m.jpg",⏳ [Upcoming] Bundesliga 2025/26 •  FC Bayern Munchen vs VFB Stuttgart (22:25 WIB • 19/04)
+#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F166674997937.png" group-title="BACKUP EVENT SPORTS", 🔴 [LIVE] Bayern Munich vs VfB Stuttgart • Jerman: Bundesliga (22:30 WIB • 19/04/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
+#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
+https://tvku.family/dante/tigoals/go.m3u8?match=2799669&stream=417860
+#EXTINF:-1 tvg-id="1011" group-title="BACKUP EVENT SPORTS" tvg-logo="https://www.visionplus.id/images/repository/667/722667-SNAPSHOT-m.jpg",🔴 [Live] Bundesliga 2025/26 •  FC Bayern Munchen vs VFB Stuttgart (22:25 WIB • 19/04)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/1011.mancok?exp=1776618004&sign=90d9f98d435f97f39f991c401e54909f89a554110ebe1aaf3ea5e560617043d7
-https://vision.xxx3x.workers.dev/1011.mpd?exp=1776618004&sign=1422c3cdccd97508e2f437559657e77096dd8f112c5daebb55f7398a7f07178f
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://tvku.family/dante/livenobar/logonobar.php?home=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2Fb989806732eaf15246ab56e07d0b8a2e.png&away=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2Fdfb637acd761b88a27e200393e29319f.png", ⏳ [Upcoming] Spartak Moscow vs Akhmat Grozny • RUS Premier League (21:00 WIB • 19/04/2026)
-http://anantv.my.id/comingsoons.mp4
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://tvku.family/dante/livenobar/logonobar.php?home=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F693af0d277fe3179594695614dce8666.png&away=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F8c03e57af9e8bec20a3ed2f5aaddf78b.png", 🔴 [Live] AS Monaco vs AJ Auxerre • FRA Ligue 1 (20:00 WIB • 19/04/2026)
-https://v.lfsxfj.com/live/100456.m3u8?txSecret=3a3776f9594334f81d6f6048ea3d5339&txTime=69E4E594&sign=084f665e80beb1f8
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://tvku.family/dante/livenobar/logonobar.php?home=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2Fa3c32d6a906083118cac2cb796edaab3.png&away=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F957bdc50c307e2a9b526b34b3792da1a.png", 🔴 [Live] Aston Villa vs Sunderland • ENG Premier League (20:00 WIB • 19/04/2026)
-https://hls.livelivelive.space/live/4343374.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Flivenobar.net%2F
-#EXTINF:-1 tvg-id="1010" group-title="BACKUP EVENT SPORTS" tvg-logo="https://www.visionplus.id/images/repository/598/723598-SNAPSHOT-m.jpg",🔴 [Live] Bundesliga 2025/26 •  SC Freiburg vs FC Heidenheim 1846 (20:30 WIB • 19/04)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/1010.mancok?exp=1776618004&sign=c83afe42c774f9a67c1bc62796ae788584e6ae8a669f6ff0c8a6fd163d63f907
-https://vision.xxx3x.workers.dev/1010.mpd?exp=1776618004&sign=73d92ca117a4787ee73911e8088caf65a95b2202a91f16eeb9086900ae0a88db
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://tvku.family/dante/livenobar/logonobar.php?home=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F9592d1e0be6375b9e6c5ef169b7aa864.png&away=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F1cb3d08adac0e2dc1c4f10429d055bfe.png", 🔴 [Live] Everton vs Liverpool • ENG Premier League (20:00 WIB • 19/04/2026)
-https://hls.livelivelive.space/live/4343384.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Flivenobar.net%2F
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F166674997937.png" group-title="BACKUP EVENT SPORTS", 🔴 [LIVE] Freiburg vs Heidenheim • Jerman: Bundesliga (20:30 WIB • 19/04/2026)
+#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/1011.mancok?exp=1776625804&sign=4fc1b78f801defd11531a69a15dc0f7290ac72179ac74c3e1a4382f9f7204a1d
+https://vision.xxx3x.workers.dev/1011.mpd?exp=1776625804&sign=cc1b40e213e7b85712f388c3fb6e20b0a51c9986739591ccc96f05a2cbcc4ef4
+#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1j5w0b66k318.png" group-title="BACKUP EVENT SPORTS", 🔴 [LIVE] Metz vs Paris FC • Perancis: Ligue 1 (22:15 WIB • 19/04/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://tvku.family/dante/tigoals/go.m3u8?match=2799672&stream=417828
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://tvku.family/dante/livenobar/logonobar.php?home=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2Fb8e39abb18bb1c69396c59ff73ecf124.png&away=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F643ef4101b017dc1495dbd9e9d5cce28.png", 🔴 [Live] Hellas Verona vs AC Milan • ITA Serie A (20:00 WIB • 19/04/2026)
-https://hls.livelivelive.space/live/4339759.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Flivenobar.net%2F
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1ka8jt39av1h.png" group-title="BACKUP EVENT SPORTS", 🔴 [LIVE] Internacional vs Mirassol • Brazil: Serie A (21:00 WIB • 19/04/2026)
+https://tvku.family/dante/tigoals/go.m3u8?match=2800284&stream=417851
+#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1j5w0b66k318.png" group-title="BACKUP EVENT SPORTS", 🔴 [LIVE] Nantes vs Brest • Perancis: Ligue 1 (22:15 WIB • 19/04/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://tvku.family/dante/tigoals/go.m3u8?match=2910742&stream=418217
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1j5w0b66k318.png" group-title="BACKUP EVENT SPORTS", 🔴 [LIVE] Monaco vs Auxerre • Perancis: Ligue 1 (20:00 WIB • 19/04/2026)
+https://tvku.family/dante/tigoals/go.m3u8?match=2800286&stream=417848
+#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F166674813339.png" group-title="BACKUP EVENT SPORTS", 🔴 [LIVE] Pisa vs Genoa • Italia: Serie A (23:00 WIB • 19/04/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://tvku.family/dante/tigoals/go.m3u8?match=2800285&stream=417821
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://tvku.family/dante/livenobar/logonobar.php?home=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F62572999d107f777efa4aeb907443527.png&away=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F1091af5aa9fc4a30411785954edb9159.png", 🔴 [Live] Nottingham Forest vs Burnley • ENG Premier League (20:00 WIB • 19/04/2026)
-https://hls.livelivelive.space/live/4343395.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Flivenobar.net%2F
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://tvku.family/dante/livenobar/logonobar.php?home=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F6508946c9a5fe22a8784b905b25e8c79.png&away=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F65ee743f20fa7db286fdeda4d33c6980.png", 🔴 [Live] SC Freiburg vs 1. FC Heidenheim 1846 • GER Bundesliga (20:30 WIB • 19/04/2026)
-https://hls.livelivelive.space/live/4347667.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Flivenobar.net%2F
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F166674813339.png" group-title="BACKUP EVENT SPORTS", 🔴 [LIVE] Verona vs AC Milan • Italia: Serie A (20:00 WIB • 19/04/2026)
+https://tvku.family/dante/tigoals/go.m3u8?match=2784808&stream=417867
+#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1j5w0b66k318.png" group-title="BACKUP EVENT SPORTS", 🔴 [LIVE] Strasbourg vs Rennes • Perancis: Ligue 1 (22:15 WIB • 19/04/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://tvku.family/dante/tigoals/go.m3u8?match=2784812&stream=417819
+https://tvku.family/dante/tigoals/go.m3u8?match=2800288&stream=417847
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FDOiPI4.jpg", 01:45 WIB PSG vs Olympique Lyonnais
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
@@ -216,10 +167,3 @@ https://live1.pro2cdnlive.com/live/channel12.m3u8?wsSecret=ebe030a4e29a30f949b66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel4.m3u8?wsSecret=0018c660891f53db465640349de017b6&wsABSTime=1776538550
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 23:00 WIB Pisa vs Genoa
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
