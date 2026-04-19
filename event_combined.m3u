@@ -4,29 +4,15 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/17278.drm?exp=1776580503&uip=103.247.8.70&sign=80e1e97369ff6d2980f2be606fe5496af1f27f294dfbaa28a1b32dd726c08a67
-https://aspaltvpasti.top/11111/17278.mpd?exp=1776580503&uip=103.247.8.70&sign=669f106caedb413baac7fa1063ecc1cfb37523613d303d8bca476aac35dc5fd3
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/17278.drm?exp=1776585605&uip=103.247.8.70&sign=4139a06b7a426e133abf3eeb71f6321b5587b72959c28b8c5783f872ce563493
+https://aspaltvpasti.top/11111/17278.mpd?exp=1776585605&uip=103.247.8.70&sign=35a73c66e480626c2714e4314c23c52360fd35ac2128ec5822832adca3c4aaec
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 02/05/24 Football - Ligue 1 McDonald's (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/17278.drm?dev_kaki_09&t=1776580503&uip=103.247.8.70&h=9888305bec7c206cf71965637f88e439f0763c77f7bef272bb3bd8f012200722
-https://aspaltvpasti.top/11111/17278.mpd?dev_kaki_09&t=1776580503&uip=103.247.8.70&h=9888305bec7c206cf71965637f88e439f0763c77f7bef272bb3bd8f012200722
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 21/02/20 Full Impact - Round 32 : Serie A 2025/26 - Highlight Show (ALT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6786.drm?exp=1776580503&uip=103.247.8.70&sign=722adb39eb451e1a003f5d98470178291c418c1028074242bf26c204f0925ed8
-https://aspaltvpasti.top/11111/6786.mpd?exp=1776580503&uip=103.247.8.70&sign=674c08b6c8de1c5926990dafe398d483ce0bcfd7bf00e1aa464b009a386ad16f
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="BACKUP EVENT SPORTS", 10:00 WIB 21/02/20 Full Impact - Round 32 : Serie A 2025/26 - Highlight Show (INTI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6786.drm?dev_kaki_09&t=1776580503&uip=103.247.8.70&h=f1d8e765eeb37ed95bcc348f172252aac7c3b095554ed4d1c7801c90a7c7c851
-https://aspaltvpasti.top/11111/6786.mpd?dev_kaki_09&t=1776580503&uip=103.247.8.70&h=f1d8e765eeb37ed95bcc348f172252aac7c3b095554ed4d1c7801c90a7c7c851
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/17278.drm?dev_kaki_09&t=1776585605&uip=103.247.8.70&h=7ef6d4ff5dc2a8fdbdffc5c0d9d2d73690c6c8476146075b22d9f65ebcc268f4
+https://aspaltvpasti.top/11111/17278.mpd?dev_kaki_09&t=1776585605&uip=103.247.8.70&h=7ef6d4ff5dc2a8fdbdffc5c0d9d2d73690c6c8476146075b22d9f65ebcc268f4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3HLvHtniWksaMEF_A_coz-IQGH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015855/98bfde.jpg" group-title="BACKUP EVENT SPORTS", 15:20 WIB 19/04/26 Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi - Proliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
@@ -36,12 +22,16 @@ https://aspaltvpasti.top/belumlive.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/1010.mancok?exp=1776580504&sign=f387f9b213990a08e88a46ac45ad5fdc43461f3ef7e52f9b639143b3f4d7d1eb
-https://vision.xxx3x.workers.dev/1010.mpd?exp=1776580504&sign=2620cdae21c90d2e66a04bb88bcbdbe45c36e524029009261aa9e3a708e8cfe6
+#KODIPROP:inputstream.adaptive.license_key=https://vision.xxx3x.workers.dev/1010.mancok?exp=1776585606&sign=163dece828a8bebee31a179549e69d22fba889d40f107c35df88dbe123fb287c
+https://vision.xxx3x.workers.dev/1010.mpd?exp=1776585606&sign=3b19cad9fa0db504ce2a3807372f6fe0b0debc9b6f032934f84bdd23b54aa1a5
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FDOiPI4.jpg", 00:00 WIB Angers SCO vs Le Havre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel18.m3u8?wsSecret=c02150b13b4029cc7749f5690c01fbd9&wsABSTime=1762364734
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/yT3dq", 02:00 WIB Atlético Madrid vs Real Sociedad
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FDOiPI4.jpg", 02:05 WIB Lille vs Nice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
@@ -50,6 +40,13 @@ https://live1.pro2cdnlive.com/live/channel12.m3u8?wsSecret=ebe030a4e29a30f949b66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel16.m3u8?wsSecret=51a39e92e5c7c38026b2e293bf4ae031&wsABSTime=1775843403
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 23:00 WIB Napoli vs Lazio
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 ##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
 #https://shorter.me/aJXUE
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FtSr5Mb.jpg", 23:30 WIB Tottenham Hotspur vs Brighton & Hove Albion
