@@ -3,10 +3,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
 
 === KATEGORI: BACKUP EVENT SPORTS ===
   [KASTA 99 - UMUM / LAIN-LAIN]
-    - 01:45 WIB PSG vs Olympique Lyonnais  [EPG: KOSONG]
-    - 22:15 WIB Metz vs Paris  [EPG: KOSONG]
-    - 22:15 WIB Nantes vs Brest  [EPG: KOSONG]
-    - 22:15 WIB Strasbourg vs Rennes  [EPG: KOSONG]
+    - 15:30 WIB Semen Padang vs Persijap  [EPG: KOSONG]
+    - 19:00 WIB Dewa United vs Persib  [EPG: KOSONG]
 
 === KATEGORI: INDONESIA ===
   [KASTA 1 - PRIORITAS UTAMA]
