@@ -2,6 +2,11 @@
 ##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
 #https://shorter.me/aJXUE
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Semen Padang vs Persijap
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://stream.titanlivescore.com/live/LXSCORE-4879995.m3u8
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Semen Padang vs Persijap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=032bfb6da9975ab4d3cc777e56263649&wsABSTime=1766943321
