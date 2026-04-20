@@ -1,15 +1,16 @@
 #EXTM3U
 ##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
 #https://shorter.me/aJXUE
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Semen Padang vs Persijap
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persib
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://stream.titanlivescore.com/live/LXSCORE-4879995.m3u8
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Semen Padang vs Persijap
+https://stream.titanlivescore.com/live/LXSCORE-4879996.m3u8
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persib
+#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop/
+#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=032bfb6da9975ab4d3cc777e56263649&wsABSTime=1766943321
+https://xyzna2-cf.didjhfyu8yg.sbs/auth%3D555e345556e040f43a0c0a898ed710b57e54c3fe8a2a35dd12cb2033d9ea2fa3e6621eb0c7382e155c22fbdae60f64f70b64a274b55afa7fdf2d9526a64f236d0aa20125e0291b6c73ddb6f5db981317ac3c553c9b370459cb2beacc5608621cf24817b67db048b1bf19ced8c48b318e73780b2cec41be3e1712cfe2b6257d9fa5e80225d68a16d9fdd5522a470c81b21e957cb2eb0964515cca5b6195f8376b%26cid%3DQtGIi1LtzIbu8EQWRQ-tY260418%26_v%3D2%26_r%3DCB3xIi%26_vis%3D2d102a53b8f0e8712e2efc88573d0fbf75d8e2a9c45169d4113a7539e3ad8db0%26_vvs%3Dc7e7590b5eb6824f82ec94389c514e846f62bd1711b82f47374aba1de57cc8f4%26_vas%3D766a7f250166b63c0c3db5fe61abac888f1afa438ae5e972a5743d269697ed35/app/c418421.m3u8
 #EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
