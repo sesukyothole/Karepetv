@@ -6,7 +6,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
     - 00:00 WIB PSG vs Nantes  [EPG: KOSONG]
     - 01:00 WIB Telstar vs Sparta Rotterdam  [EPG: KOSONG]
     - 02:00 WIB AFC Bournemouth vs Leeds United  [EPG: KOSONG]
-    - 19:00 WIB Bronze Final - Game 2: Jakarta Electric PLN Mobile vs Jakarta Popsivo Polwan  [EPG: KOSONG]
 
 === KATEGORI: INDONESIA ===
   [KASTA 1 - PRIORITAS UTAMA]
