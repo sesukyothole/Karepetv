@@ -7,6 +7,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
     - 02:00 WIB AFC Bournemouth vs Leeds United  [EPG: KOSONG]
     - 15:30 WIB PSIM Yogyakarta vs Persija  [EPG: KOSONG]
     - 15:30 WIB Persis Solo vs Bhayangkara  [EPG: KOSONG]
+    - 16:00 WIB Bronze Final - Game 2: Jakarta Garuda Jaya vs Surabaya Samator  [EPG: KOSONG]
 
 === KATEGORI: INDONESIA ===
   [KASTA 1 - PRIORITAS UTAMA]
