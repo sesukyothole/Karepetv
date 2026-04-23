@@ -3,9 +3,9 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG
 
 === KATEGORI: BACKUP EVENT SPORTS ===
   [KASTA 99 - UMUM / LAIN-LAIN]
-    - 00:00 WIB PSG vs Nantes  [EPG: KOSONG]
-    - 01:00 WIB Telstar vs Sparta Rotterdam  [EPG: KOSONG]
-    - 02:00 WIB AFC Bournemouth vs Leeds United  [EPG: KOSONG]
+    - 15:30 WIB PSM vs Persik Kediri  [EPG: KOSONG]
+    - 15:30 WIB Persita vs Bali United  [EPG: KOSONG]
+    - 19:00 WIB Malut United vs Persebaya Surabaya  [EPG: KOSONG]
 
 === KATEGORI: INDONESIA ===
   [KASTA 1 - PRIORITAS UTAMA]

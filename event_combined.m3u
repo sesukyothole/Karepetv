@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FDOiPI4.jpg", 00:00 WIB PSG vs Nantes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel11.m3u8?wsSecret=71c13ab6d69a095b8c94b64aeac78596&wsABSTime=1766260690
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/87PxH", 01:00 WIB Telstar vs Sparta Rotterdam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel23.m3u8?wsSecret=350084137f67a9c5153c2353d6f933a7&wsABSTime=1758671972
-#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB AFC Bournemouth vs Leeds United
+##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
+#https://shorter.me/aJXUE
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persita vs Bali United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=796baabf373552b168b54380f98ae384&wsABSTime=1773517215
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSM vs Persik Kediri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289120dbeb592&wsABSTime=1771959245
+#EXTINF:-1 group-title="BACKUP EVENT SPORTS" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Malut United vs Persebaya Surabaya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+https://live1.pro2cdnlive.com/live/channel5.m3u8?wsSecret=75b5e22af660acbb32efd9d1f31d5cee&wsABSTime=1776624143
