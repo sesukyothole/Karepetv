@@ -491,6 +491,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&userid=
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-DAAITV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ptUsMpw0/poster.jpg?width=720" group-title="INDONESIA",Aluron CMC Warta Zawiercie - BOGDANKA LUK Lublin | Play Off - Finals Round 1
+https://aspaltvpasti.top/Bosmp4.mp4
 #EXTINF:-1 tvg-id="ID.230" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" group-title="INDONESIA", Bioskop Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -498,8 +500,6 @@ http://103.58.160.157:8278/720-DAAITV/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb146383a484f0ba375fadd797d548d:da513424b31b49c2bb98fc839f70af25
 https://cdnjktbpid22.transvision.co.id/riutx01-f7ca1246e8344b1555401d2624b19de4b9490ad4cd8adfa11a9dc0c802f6653d/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ugPQsJKl/poster.jpg?width=720" group-title="INDONESIA",BKS BOSTIK ZGO Bielsko-Biala - UNI Opole | Play Off - 3rd place Round 4
-https://aspaltvpasti.top/Bosmp4.mp4
 #EXTINF:-1 tvg-id="ID.213" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ea2f3817-add8-44b7-b222-664cacd221ca.jpg" group-title="INDONESIA", CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -521,12 +521,6 @@ https://cdnjktbpid22.transvision.co.id/riutx01-f7ca1246e8344b1555401d2624b19de4b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb146383a484f0ba375fadd797d548d:da513424b31b49c2bb98fc839f70af25
 https://cdnjktbpid22.transvision.co.id/riutx01-f7ca1246e8344b1555401d2624b19de4b9490ad4cd8adfa11a9dc0c802f6653d/dash/TXVzaWsgSW5kb25lc2lh/manifest.mpd
-#EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/190/730190-SNAPSHOT-m.jpg" group-title="INDONESIA",⏳ [Upcoming] PRO Futsal League Indonesia 2025/26 • Kuda Laut Nusantara vs Unggul FC (16:25 WIB • 25/04/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS3TwbzcmFu7WonOAz8-abjxplh3PKlHVn_skjOFWcI3lPYCR3o7DDMk4tE1GzIwWVZs6vidYf6aLsATjPK48eVEZwuhqhH2lJlFawnSq5XtgGr-qSuHV3tWzNOzNMvHFzLyNZitZ0nRjqMmPnejzPu-q80jpOH3tJDO1IpuIalwxO70zWIEFsWMe5WDU/s720/teveMobile.png",AllPlay Ent
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA"" tvg-logo="https://1.bp.blogspot.com/-nAJwwj4oRdw/YJVWtPSvpmI/AAAAAAAAEZ8/HHJlyX9LW_Ybsq-yL48U4twTqfH_sar1ACLcBGAsYHQ/s720/antara-p.png",Antara
