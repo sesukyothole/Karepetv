@@ -270,13 +270,6 @@ https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/am
 http://119.59.118.168/live/ch57/irannahee/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Wild
 https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
-#EXTINF:-1 tvg-id="ID.234" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/43b255c4-1682-48af-abdf-5c7ff1399c8f.jpg" group-title="KNOWLEDGE", CGTN Documentary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb146383a484f0ba375fadd797d548d:da513424b31b49c2bb98fc839f70af25
-https://cdnjktbpid22.transvision.co.id/riutx01-f7ca1246e8344b1555401d2624b19de4b9490ad4cd8adfa11a9dc0c802f6653d/dash/Q0dUTiBDaGFubmVs/manifest.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/v6VsFEt.png",Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png",CGTN Documentary
@@ -298,13 +291,6 @@ http://103.58.160.157:8278/720-CGTNDOC/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="ID.205" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/c55e63da-1cf1-49b4-928d-9a25328eb6d0.jpg" group-title="KNOWLEDGE", Knowledge+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb146383a484f0ba375fadd797d548d:da513424b31b49c2bb98fc839f70af25
-https://cdnjktbpid22.transvision.co.id/riutx01-f7ca1246e8344b1555401d2624b19de4b9490ad4cd8adfa11a9dc0c802f6653d/dash/S25vd2xlZGdlKw/manifest.mpd
 ##############################################################################################################################
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/29/93/3a/29933a0e75897be347bc686aa1f121fd.jpg" group-title="KNOWLEDGE"
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://cbs12.com/resources/media/0c1ecad8-fb09-4bb2-beaa-fc561dfe624a-small21x9_LoomerStill.jpg?1603419052801",30A Loomered TV
