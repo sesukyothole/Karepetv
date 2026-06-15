@@ -48,20 +48,13 @@ https://flv.intechmedia.net/live/ch60.m3u8
 #EXTINF:-1 tvg-logo="https://test.annurs.com/uploads/tv_image/sunnah-tv.png" group-title="RELIGI",SUNNAH JALAN PASTI
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch17.m3u8
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="RELIGI",📺 Jalan Dakwah [J1] CK TEST
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="RELIGI",📺 Ngaji Blusukan [J1] CK TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-https://ayo.maling.pl/m3u/TOKEN/18280.mpd
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg" group-title="RELIGI",📺 Jalan Dakwah [J1] CK TEST (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
-https://ayo.maling.pl/m3u/TOKEN/6165.mpd
+https://ayo.maling.pl/m3u/TOKEN/9713.mpd
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rodja.png" group-title="RELIGI",Rodja Tv (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://rodjatv.com/rodjatv/live.m3u8
@@ -139,8 +132,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://nextgenz.my.id/event/pidio/play.mpd?id=7464&type=dash
-#EXTINF:-1 tvg-id="245" tvg-name="Al Quran" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="RELIGI",Al Quran
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -218,9 +209,6 @@ https://indihuy.streamized.net/atm/DASH/rodjatv/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/muhammadiyahtv/manifest.mpd
 #EXTINF:-1 x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sVYZyl5lM_MlhEEeXDmhtdJmuEXRbyyA1jAmlo1SsQ0ISBWduEPbv1h5lQy4a5K7O4zvxdqbEgaySBXs-ngmEstlxYN982GZh-14hYd0mYdC0ISS78JI0KYN97lkM_FNeCNhEaKL38bFMNkfiDatycvA2yOJQPEo-STGorNbmxMskPb0LZx6FyPCuSkx/s700/MTA.png" group-title="RELIGI" x-source="GEulis TV",MTA
 https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd
-#EXTINF:-1 tvg-uid="165099ce9a882c5f0c70737a3b66cb95" data-source="Vididi Combi Termux" tvg-id="9714-9714" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="RELIGI",Khazanah Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9714&ext=hls&x=1781510464&k=b3ef712f7ee0de331bef6a6f865aa36abe26e94867b8d04dae4d885a0aace7e3&sc=9714
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68588e2da5a01892e3755c046bf/8571902888a8404bb37eb0745768d960.jpg" x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSNLs_C50tz4C7M53p3Egn1T8QyirG_s02UWE55bCPI1GH6b7c7ZRVot1U6hiBuGZ1syPzbj28hfaQTqZ3MhgjmFMjo1qtOkloOhJ9rImbdRrkBdsZ7p4MYmn9pAOvTAVkWT5ZKZ-713US-3HerzwDOidgrtSC0v_lfLWSjXS25AP23sYfj3m_TWEGRDJ/s700/NABAWI%20TV.png" group-title="RELIGI" x-source="GEulis TV",NABAWI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

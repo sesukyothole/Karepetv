@@ -391,6 +391,13 @@ http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd
 #EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="MOVIES",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo__rottentomatoesrttv_ssai_cro&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=&ads._fw_vcid2=512116:&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Dcy629KAQAC23J6-X3lVslzpZd8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134860/615ee0.jpg" group-title="MOVIES",📺 Bioskop Keluarga Indonesia [J1] CK TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://allautock.maling.pl/
+https://ayo.maling.pl/m3u/TOKEN/8237.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1335,6 +1342,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="5tar Max" tvg-logo="" group-title="MOVIES",5tar Max
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/97.ts
+#EXTINF:-1 tvg-id="250" tvg-name="AKASH GO Sports 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1780554094519.png" group-title="MOVIES",976-Jurassic World Rebirth
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="MOVIES",976-Jurassic World Rebirth
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/qvpLC/NgY36zYQxW2LOeEvQ.jpeg" group-title="MOVIES",976-Jurassic World Rebirth
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2f153371-fbcf-43f9-b4d1-2621049230e6
@@ -3461,8 +3472,8 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8r7mwm
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9dez1e
 #EXTINF:-1 type="movie" group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/original/hMpdF4B15DHMj5eK6I6IuvlA87k.jpg",Sesuai Aplikasi (2024)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGLZRZ-5ho9wxG5FhUThyf9xPM7vUasYBWmZ-xApL6u57TSChkqsbhJR1DQbXmc_KOoBu4Ly-vEzyDU2t6iPaBJzwG4DUk_VbV_xKIf02HbI9WSCtmoGa3usDzlFPh3r4QxezqnFV73wYusxTivr5RWn6MiZ8YXqJX8Ax_UTHE8k7vzjPUkwxfF3l093Hw/s700/POP%20C.jpeg",SONY MAX (3)
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",SONY MAX (3)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGLZRZ-5ho9wxG5FhUThyf9xPM7vUasYBWmZ-xApL6u57TSChkqsbhJR1DQbXmc_KOoBu4Ly-vEzyDU2t6iPaBJzwG4DUk_VbV_xKIf02HbI9WSCtmoGa3usDzlFPh3r4QxezqnFV73wYusxTivr5RWn6MiZ8YXqJX8Ax_UTHE8k7vzjPUkwxfF3l093Hw/s700/POP%20C.jpeg",SONY MAX (2)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",SONY MAX (2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d

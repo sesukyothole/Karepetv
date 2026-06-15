@@ -191,7 +191,7 @@ http://opplextv.cyou:8080/nasir6160/nasir/350964
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdnbal1.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LDg7wQmlx1J5_2AkdOGtXtMEJmk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="KIDS",📺 Amazing Kids : Spongebob Squarepants [J1] CK TEST
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LDg7wQmlx1J5_2AkdOGtXtMEJmk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="KIDS",📺 Amazing Kids : Petualangan Seru Spongebob [J1] CK TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -696,8 +696,8 @@ https://ratu77.adptv.workers.dev/index.mpd?id=8237&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=drm&x=1781510464&k=6e359f19ae8d0f0370108ba6f9cda0f6b5cc3e80e9fc87d092f9b3d0129cec75
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=dash&x=1781510464&k=28341ad6e6be1218f6f87e13baa71b63c1e8fa734e7b2da31e3d0c986b6c07a6&sc=778
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=drm&x=1781531838&k=5371696640cda2d2ec0c7cd7bdb76abffd3d4c76eef776a2e7b54f08428f8895
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=dash&x=1781531838&k=021769cb07a2142ac53c22e61ac7882d4ee795bdc761a1e5095a8cd793a011d7&sc=778
 #EXTINF:-1 tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/livestreaming.jpg" group-title="KIDS" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png",PON TV (PONTIANAK)
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w247695662.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ARPazk3dre3aAjOOapxiF-oNX92rqjwGkVR_eyThkQ3cy1-idXgqmH2Lu3jTWLtFcMLbTPmpxgnN24-v9LZGxQKNeRq6of0UkKhcFlJEokJnKZDGwk-MDYNWrBP0qqRqOK-oYflphiqrMKHRu6XGFllWOyZG5wIhO9jyyJbguR07W1Sul-rmZ9bRzE7f/s700/DISNEY%20JUNIOR.png" group-title="KIDS",DISNEY JUNIOR (2)

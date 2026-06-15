@@ -683,17 +683,17 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - |IT| RAI SPORT+ ᵁᴴᴰ (Love4vn-Live)
 
 === SUMBER: https://bwifi.my.id/maling.m3u ===
-  [KASTA 22 - FOOTBALL CLUB TV]
-    - 🔴 European Super Cup 2002:? Real Madrid vs Feyenoord  CK TEST (Deccotech)
-    - 🔴 Lincolin City Vs Chelsea : Carabao Cup 2025/26  CK TEST (Deccotech)
+  [KASTA 21 - COMBAT & WRESTLING]
+    - 🔴 Fenerbahce vs Galatasaray : Super Lig 2025/26 - Road To Glory  CK TEST (Deccotech)
+    - 🔴 UFC Freedom 250   CK TEST (Deccotech)
   [KASTA 25 - SONY & STAR SPORTS]
-    - 🔴 2025/2026  : Review Of The Season  CK TEST (Deccotech)
-    - 🔴 Arsenal Vs West Ham : Premier League  CK TEST (Deccotech)
-    - 🔴 Day 1 Men's Singles Rd 1 Zverev v Bonzi : Best of RG 2026  CK TEST (Deccotech)
-    - 🔴 Eps 1 : PL Story 2025/26 - Subs  CK TEST (Deccotech)
-    - 🔴 Magazine - Inside Round 06 : Serie A 2025/26  CK TEST (Deccotech)
-    - 🔴 SPB Superpole/SBK FP2/SSP Superpole : 2026 WorldSBK: Rd 7 Pirelli Emilia-Romagna Round  CK TEST (Deccotech)
-    - 🔴 Tour of Hainan - Stage 2 : UCI World Tour 2026  CK TEST (Deccotech)
+    - 🔴 BLUE BAY LPGA  CK TEST (Deccotech)
+    - 🔴 Bournemouth Vs Fulham : Premier League  CK TEST (Deccotech)
+    - 🔴 Colombia Vs Tunisia : Tournoi Maurice Revello 2026  CK TEST (Deccotech)
+    - 🔴 FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026 : Formula 1 Main Race 2026  CK TEST (Deccotech)
+    - 🔴 Love Is A Story  CK TEST (Deccotech)
+    - 🔴 Premier League Scandinavian Stars : PL Best Of...  CK TEST (Deccotech)
+    - 🔴 SPB/SSP//SBK Race 1 : 2026 WorldSBK: Rd 7 Pirelli Emilia-Romagna Round  CK TEST (Deccotech)
     - 🔴 nex Road to Champion Vol. 4  CK TEST (Deccotech)
 
 === SUMBER: https://raw.githubusercontent.com/jrpahe-del/IPTV/refs/heads/main/RafaDervian.m3u ===
@@ -901,8 +901,8 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - TVRI SPORT (Love4vn-Mac)
     - TVRI SPORT (Love4vn-Mac)
   [KASTA 7 - DAZN / ELEVEN]
-    - DAZN_5 (Love4vn-Mac)
-    - DAZN_6 (Love4vn-Mac)
+    - Dazn 5 (Love4vn-Mac)
+    - Dazn 6 (Love4vn-Mac)
   [KASTA 8 - ZIGGO SPORT]
     - ZIGGO SPORT 1 (Love4vn-Mac)
     - ZIGGO SPORT 2 (Love4vn-Mac)
@@ -999,6 +999,9 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
   [KASTA 24 - SUPERSPORT AFRICA]
     - MTV LIVE (Love4vn-Mac)
     - SPORT5 LIVE 🇮🇱 (Love4vn-Mac)
+    - SUPERSPORT 1 (Love4vn-Mac)
+    - SUPERSPORT 2 (Love4vn-Mac)
+    - SUPERSPORT 3 (Love4vn-Mac)
     - Sport Live Plus (Love4vn-Mac)
     - V+ LIVE (Love4vn-Mac)
     - V+ LIVE 3 (Love4vn-Mac)
@@ -1007,7 +1010,6 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - WOWOW Live (Love4vn-Mac)
   [KASTA 25 - SONY & STAR SPORTS]
     - A Spor 🇹🇷 (Love4vn-Mac)
-    - AKASH GO Sports 1 (Love4vn-Mac)
     - ATV 🇹🇷 (Love4vn-Mac)
     - AUTO MOTOR AND SPORT 🇸🇰 (Love4vn-Mac)
     - Abudhabi Sports 1 (Love4vn-Mac)
@@ -1023,7 +1025,6 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - Euro Sport 2 HD (Love4vn-Mac)
     - Euro Sport HD (Love4vn-Mac)
     - Euro Sport HD (Love4vn-Mac)
-    - Euro Sports HD (Love4vn-Mac)
     - Exxen Spor 2 🇹🇷 (Love4vn-Mac)
     - FAST AND FUNBOX 🇸🇰 (Love4vn-Mac)
     - FIFA+ 1 (Love4vn-Mac)
@@ -1106,9 +1107,6 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - Smart Spor 2 🇹🇷 (Love4vn-Mac)
     - Smart Spor 🇹🇷 (Love4vn-Mac)
     - SolarSports (Love4vn-Mac)
-    - Sony Sports TEN 1 (Love4vn-Mac)
-    - Sony Sports TEN 2 (Love4vn-Mac)
-    - Sony Sports TEN 5 (Love4vn-Mac)
     - Sport Fishing TV (Love4vn-Mac)
     - Sports Range (Love4vn-Mac)
     - T Sports 7 (Love4vn-Mac)
