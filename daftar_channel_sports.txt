@@ -683,17 +683,26 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - |IT| RAI SPORT+ ᵁᴴᴰ (Love4vn-Live)
 
 === SUMBER: https://bwifi.my.id/maling.m3u ===
+  [KASTA 9 - ARENA SPORT]
+    - 📺 Layar Drama Indonesia - Semua Indah Karena Cinta   CK TEST (Deccotech)
   [KASTA 21 - COMBAT & WRESTLING]
-    - 🔴 Fenerbahce vs Galatasaray : Super Lig 2025/26 - Road To Glory  CK TEST (Deccotech)
-    - 🔴 UFC Freedom 250   CK TEST (Deccotech)
+    - 🔴 UFC - The Ultimate Fighter 18  CK TEST (Deccotech)
+  [KASTA 22 - FOOTBALL CLUB TV]
+    - 🔴 Classic Matches: Real Madrid vs Atletico de Madrid Liga 85/86  CK TEST (Deccotech)
   [KASTA 25 - SONY & STAR SPORTS]
-    - 🔴 BLUE BAY LPGA  CK TEST (Deccotech)
-    - 🔴 Bournemouth Vs Fulham : Premier League  CK TEST (Deccotech)
-    - 🔴 Colombia Vs Tunisia : Tournoi Maurice Revello 2026  CK TEST (Deccotech)
-    - 🔴 FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026 : Formula 1 Main Race 2026  CK TEST (Deccotech)
-    - 🔴 Love Is A Story  CK TEST (Deccotech)
-    - 🔴 Premier League Scandinavian Stars : PL Best Of...  CK TEST (Deccotech)
-    - 🔴 SPB/SSP//SBK Race 1 : 2026 WorldSBK: Rd 7 Pirelli Emilia-Romagna Round  CK TEST (Deccotech)
+    - 📺 Kompas Sport  CK TEST (Deccotech)
+    - 📺 Sport 8  CK TEST (Deccotech)
+    - 🔴 2025/2026  : Review Of The Season  CK TEST (Deccotech)
+    - 🔴 Atalanta Vs Juventus : Serie A 2025/26  CK TEST (Deccotech)
+    - 🔴 Day 1 Men's Singles Rd 1 Zverev v Bonzi : Best of RG 2026  CK TEST (Deccotech)
+    - 🔴 Day 3 Singles Matches : 2026 Curtis Cup  CK TEST (Deccotech)
+    - 🔴 Episode Number 45 : LFC Trending 2025/26  CK TEST (Deccotech)
+    - 🔴 Eps 37 : PL STORIES 2025/26 - SUBS  CK TEST (Deccotech)
+    - 🔴 Haikou Danzhou : Tour Of Hainan 2026  CK TEST (Deccotech)
+    - 🔴 LAZIO vs ROMA : Serie A 2025/26  CK TEST (Deccotech)
+    - 🔴 Matchweek 04 : PL Review 2025/26  CK TEST (Deccotech)
+    - 🔴 Morocco vs Zambia : Total Women's Africa Cup of Nations, Morocco 2024  CK TEST (Deccotech)
+    - 🔴 TOTO JAPAN CLASSIC PRE-SHOW  CK TEST (Deccotech)
     - 🔴 nex Road to Champion Vol. 4  CK TEST (Deccotech)
 
 === SUMBER: https://raw.githubusercontent.com/jrpahe-del/IPTV/refs/heads/main/RafaDervian.m3u ===
@@ -770,7 +779,6 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - Billiard TV (KitKat)
     - Bowling TV (KitKat)
     - CHRONO (KitKat)
-    - Celebes TV (KitKat)
     - Cirque du Soleil (KitKat)
     - Cornhole TV (KitKat)
     - DD Sports (KitKat)
