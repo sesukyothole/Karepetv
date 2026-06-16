@@ -288,22 +288,24 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - |IT| RAI SPORT+ ᵁᴴᴰ (Love4vn-Live)
 
 === SUMBER: https://bwifi.my.id/maling.m3u ===
+  [KASTA 6 - LOKAL SPORTS]
+    - 📺 Moji Sport  CK TEST (Deccotech)
   [KASTA 21 - COMBAT & WRESTLING]
+    - 🔴 Highlight - Full Impact Round 08 : Serie A 2025/26  CK TEST (Deccotech)
+    - 🔴 Mallorca vs Barcelona : LaLiga 2025/26 - Road To Glory  CK TEST (Deccotech)
     - 🔴 Song Yadong  vs Deiveson Figueiredo  : UFC Fight Night - 12  CK TEST (Deccotech)
   [KASTA 22 - FOOTBALL CLUB TV]
-    - 🔴 Classic Match: Real Madrid vs Deportivo Liga 01/02  CK TEST (Deccotech)
+    - 🔴 European Super Cup 2024: Real Madrid vs Atalanta  CK TEST (Deccotech)
   [KASTA 24 - SUPERSPORT AFRICA]
-    - 🔴 Liverpool vs Atletico Madrid - MD1 : UEFA Youth League 2025/26  CK TEST (Deccotech)
+    - 📺 Liputan 6 Pagi - Live  CK TEST (Deccotech)
   [KASTA 25 - SONY & STAR SPORTS]
-    - 🔴 Australian Stars : PL Goats  CK TEST (Deccotech)
-    - 🔴 Doncaster Rovers Vs Southampton : FA CUP 2025/26  CK TEST (Deccotech)
-    - 🔴 EPS 50 : FANZONE 2025/26  CK TEST (Deccotech)
-    - 🔴 FORTINIET FOUNDER'S CUP  CK TEST (Deccotech)
-    - 🔴 New Giza P2 Day 2 Match 4 : Premier Padel 2026  CK TEST (Deccotech)
+    - 🔴 2025/2026  : Review Of The Season  CK TEST (Deccotech)
+    - 🔴 Fenerbahce vs Gaziantep : Super Lig 2025/26  CK TEST (Deccotech)
+    - 🔴 Manchester City Vs Everton : Premier League  CK TEST (Deccotech)
+    - 🔴 Oracle Perth Sail Grand Prix : Sail Grand Prix 2026 - Highlight  CK TEST (Deccotech)
     - 🔴 PGA TOUR  CK TEST (Deccotech)
     - 🔴 Resmi Naibaho vs Yodenius Raran - Indostriking Flyweight Tournament  CK TEST (Deccotech)
-    - 🔴 The Break Upper  CK TEST (Deccotech)
-    - 🔴 Venezuela Vs Portugal : Tournoi Maurice Revello 2026  CK TEST (Deccotech)
+    - 🔴 Venezuela Vs Japan : Tournoi Maurice Revello 2026  CK TEST (Deccotech)
 
 === SUMBER: https://raw.githubusercontent.com/jrpahe-del/IPTV/refs/heads/main/RafaDervian.m3u ===
   [KASTA 0 - SPOTV ABSOLUTE (ALL PROVIDERS EX. KPL)]
