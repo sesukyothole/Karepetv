@@ -1117,7 +1117,6 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - SSC EXTRA 3 (Lokal-3)
   [KASTA 20 - US MAJOR LEAGUES & NETWORKS]
     - EPL 6 NBC (Lokal-3)
-    - FOX SPORT (Lokal-3)
     - FOX SPORTS 3 (Lokal-3)
     - FUBO SPORTS 1 (Lokal-3)
     - FUBO SPORTS 2 (Lokal-3)
@@ -1155,7 +1154,6 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - BOXING TV (Lokal-3)
     - CAZE TV 3 (Lokal-3)
     - CITRA PLUS (Lokal-3)
-    - DSPORTS BC (Lokal-3)
     - DSPORTS+ BC (Lokal-3)
     - EPL 11 PRIMERE (Lokal-3)
     - EPL 12 CMP 5 (Lokal-3)
