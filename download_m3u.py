@@ -20,7 +20,7 @@ MASTER_URLS = [
     "https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahsiahaan.m3u", 
     "https://gist.githubusercontent.com/zentral-qtrung/531720c17d089702dd7ac4b96db6e1ce/raw/a40d137328263e58d827dccee2974079eae092b5/sports.m3u",
     "https://bwifi.my.id/malingg.m3u",
-    "https://raw.githubusercontent.com/jrpahe-del/IPTV/refs/heads/main/RafaDervian.m3u", 
+    "https://raw.githubusercontent.com/jrpahe-del/IPTV/refs/heads/main/RafaDervian.m3u8", 
     "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KITKATJOSS", 
     "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
     "https://fireredst.github.io/Itz-Play/Play.m3u",
