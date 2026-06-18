@@ -24,7 +24,7 @@ MASTER_URLS = [
     "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KITKATJOSS", 
     "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
     "https://fireredst.github.io/Itz-Play/Play.m3u",
-    "https://bwifi.my.id/epg/epg/colong.m3u",
+    "https://bwifi.my.id/epg/epg/colonng.m3u",
     "",
     "https://bwtv.my.id/bonne.m3u",
     "http://sauridigital.my.id/kerbaunakal/2026TVGNS29.html",
