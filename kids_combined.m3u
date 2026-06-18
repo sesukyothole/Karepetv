@@ -537,6 +537,40 @@ https://tinyurl.com/TiviMe-ToonGoogles
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 http://wakhaji.biz.id/hls/hls-oxygen.php?id=vtv
+#EXTINF:-1 tvg-name="Vision" tvg-logo="https://i.imgur.com/jRB9Uxe.jpeg" tvg-id="Vision.id" group-title="KIDS",Nickelodeon Philippines
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
+#EXTINF:-1 tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/V2gS21w.jpeg" tvg-id="mentari tv.id" group-title="KIDS",Mentari TV (4)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
+#EXTINF:-1 tvg-name="Mentari TV (Vidio)" tvg-logo="https://i.imgur.com/hqGEKpD.jpeg" tvg-id="mentari tv.id" group-title="KIDS",Mentari TV (Vidio)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/8237.drm
+https://aspaltvpasti.top/11111/8237.mpd
+#EXTINF:-1 tvg-name="Malaysia" tvg-logo="https://i.imgur.com/1s2UE9M.jpeg" tvg-id="itzreisa.id" group-title="KIDS",Astro Ceria (2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+#KODIPROP:inputstream.adaptive.license_key=337ef92bfeeb4b599248841cc916ce24:a31f174c1abe17c2b08fb94dd521283c
+#https://get.perfecttv.net/dash2.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=ceria
+https://cf.perfecttv.net/rwt.m3u8?username=vip_0qqkjlcn&password=WzTwvgxl&channel=ceria
+#https://pidio.becek.workers.dev/6317.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6317&type=dash
+#https://pipit.barjagaul.workers.dev/play.mpd?id=6317&type=dash
+#EXTINF:-1 group-logo="https://i.imgur.com/9QnvhSJ.png" group-title="KIDS"
+#EXTINF:-1 tvg-name="Mr.Bean Animation" tvg-logo="https://i.imgur.com/XOTu7ZQ.jpeg" tvg-id="Mrbean.id" group-title="KIDS",Mr.Bean Animation
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ARPazk3dre3aAjOOapxiF-oNX92rqjwGkVR_eyThkQ3cy1-idXgqmH2Lu3jTWLtFcMLbTPmpxgnN24-v9LZGxQKNeRq6of0UkKhcFlJEokJnKZDGwk-MDYNWrBP0qqRqOK-oYflphiqrMKHRu6XGFllWOyZG5wIhO9jyyJbguR07W1Sul-rmZ9bRzE7f/s700/DISNEY%20JUNIOR.png" group-title="KIDS",DISNEY JUNIOR (2)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey

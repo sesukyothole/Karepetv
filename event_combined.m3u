@@ -1,8 +1,4 @@
 #EXTM3U
-##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
-#https://shorter.me/aJXUE
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10",00:00 WIB Portugal vs Republik Demokratik Kongo
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",09:00 WIB SANDS CHINA LTD Macau Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239068358450061_AiSD.m3u8?txSecret=b0bffdd47c31ea56bc50355ce7367940&txTime=6A333500
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",09:00 WIB SANDS CHINA LTD Macau Open 2026 (2)

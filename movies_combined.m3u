@@ -2883,6 +2883,44 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/main.mpd?
+#EXTINF:-1 tvg-name="hbo" tvg-logo="https://i.imgur.com/2DGBtco.jpeg" tvg-id="HBO.id" group-title="MOVIES",HBO (Max Stream TV)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1 tvg-name="hbo" tvg-logo="https://i.imgur.com/BQJ0AqG.jpeg" tvg-id="HBO.id" group-title="MOVIES",HBO Family (Max Stream TV)
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
+#EXTINF:-1 tvg-name="hbo" tvg-logo="https://i.imgur.com/gSZ1sxZ.jpeg" tvg-id="HBO.id" group-title="MOVIES",HBO Hits (Max Stream TV)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 tvg-name="hbo" tvg-logo="https://i.imgur.com/f5I1OHd.jpeg" tvg-id="HBO.id" group-title="MOVIES",HBO Signature (Max Stream TV)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:-1 group-logo="https://i.imgur.com/MuBprIX.png" group-title="MOVIES"
+#EXTINF:-1 tvg-name="Vision" tvg-logo="https://i.imgur.com/xtJVIqj.jpeg" tvg-id="Vision.id" group-title="MOVIES",Animax (VISION+)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd|Referer=https://www.visionplus.id
 #EXTINF:-1 tvg-id="6" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qCnQZ6qCThZlWHZS_G01oE3uCL4APKVA4Ch0Z2hItWvGtmZe0WM2PyIjOM1MZ-QVPXpjwWdvyMue-Ez3A3Nu9JllRnDlrur7RvV-IHpRJNwGN-KUAibOnaBLSolqdCA6cEBdpcYBnuAWIoQvX2H43uUYMLUD5pyZMrRKl_e75w6A6YtFOM_D0-OpPG0R/s700/WARNER%20TV.png" group-title="MOVIES",HBO (9)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2913,8 +2951,6 @@ https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d05592
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:-1 tvg-id="3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbcx1d55B4tPsl16xxXwGZ29O9DdNh1yzdyTBhi9zZl-oXFhz3j_1gvuo2vwJH5MHAE6VMqrW4RJqDa-BIJY2sDPyUISLbO4Y9u1B6pV2Alow0VNazhppLKfg7sbaG4_BqaO_NhGbJ-tkhWi2XhEPTsIXN4rG1E4RW7OIO3r1jv2j7KUMwgUZDTwUOIzYg/s700/HBO%20FAMILY.png" group-title="MOVIES",HBO FAMILY ID
-https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
 #EXTINF:-1 tvg-id="2" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbfolHm9YpbIjQSdPyBc61RhQ7rZRt-ffhIoMDgEZ5RzM2k3J3oR8ZRHqV4FAw17JSQbCCZNPCU_MEwEgBATVM9d70YIve1fnJu0qZ2sWnStRa4pOnXi2Uola5fhrl8OnD3qnLaS77kHrHRob0DQ72fXM1VrG1zFShx__UakYhJObrtpENVCywnCv-g4b/s700/HBO%20HITS.png" group-title="MOVIES",HBO HITS (6)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2931,10 +2967,6 @@ https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTINF:-1 tvg-id="2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbfolHm9YpbIjQSdPyBc61RhQ7rZRt-ffhIoMDgEZ5RzM2k3J3oR8ZRHqV4FAw17JSQbCCZNPCU_MEwEgBATVM9d70YIve1fnJu0qZ2sWnStRa4pOnXi2Uola5fhrl8OnD3qnLaS77kHrHRob0DQ72fXM1VrG1zFShx__UakYhJObrtpENVCywnCv-g4b/s700/HBO%20HITS.png" group-title="MOVIES",HBO HITS ID
-https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
-#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkI-QnpmtNsoMwaZ2zjOtNsiG7mXj9QOmeTGiUmffF0m_TTfXH_DTtm0ZwMmpqxK_beVkerFi6LtTo6_pGSOqe84M2kDol7YDGrVN-hmYygFHWCCA6ojHUvnkv0GyaLnDnZvizDJoWBj05T9J4Wc7d6CIgXdufYm6pjlP7l66hcIQqz4HCosx4-I0lzvOy/s700/HBO%20HD.png" group-title="MOVIES",HBO ID
-https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 tvg-id="4" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsKgNN_vixF2wx0mNB4-3tqm7f-Bt18i208C7ZfvczosBrAzKfMuzS2Ua6k64H7zUyEwHPhjgov-QnTVqipQmjMqZgkA7ZpgXaGk8YCJYgu-w4tTp683t_OK9lValfeU_T5bgHtS_Ay84b4fBcr7T3fg5QbxE7MxKWD901wEl4P3baIqU-_s0aAvnvvyqM/s700/HBO%20SIGNATURE.png" group-title="MOVIES",HBO SIGNATURE (6)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2951,8 +2983,6 @@ https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#EXTINF:-1 tvg-id="4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsKgNN_vixF2wx0mNB4-3tqm7f-Bt18i208C7ZfvczosBrAzKfMuzS2Ua6k64H7zUyEwHPhjgov-QnTVqipQmjMqZgkA7ZpgXaGk8YCJYgu-w4tTp683t_OK9lValfeU_T5bgHtS_Ay84b4fBcr7T3fg5QbxE7MxKWD901wEl4P3baIqU-_s0aAvnvvyqM/s700/HBO%20SIGNATURE.png" group-title="MOVIES",HBO SIGNATURE ID
-https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsKgNN_vixF2wx0mNB4-3tqm7f-Bt18i208C7ZfvczosBrAzKfMuzS2Ua6k64H7zUyEwHPhjgov-QnTVqipQmjMqZgkA7ZpgXaGk8YCJYgu-w4tTp683t_OK9lValfeU_T5bgHtS_Ay84b4fBcr7T3fg5QbxE7MxKWD901wEl4P3baIqU-_s0aAvnvvyqM/s700/HBO%20SIGNATURE.png" group-title="MOVIES",HBO SIGNATURE IP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/hb0_signature.m3u8

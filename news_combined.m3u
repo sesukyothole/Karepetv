@@ -733,6 +733,62 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 http://136.239.173.10:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrXm%2BLs%2BN7C0jX0KTEhSJl3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1235993277645&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=36FNJHET6H5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="NEWS",CCTV5+ (2)
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/jVO6H41.jpeg" tvg-id="CNN.br" group-title="NEWS",CNN Brasil
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/4U6wVe4.jpeg" tvg-id="CNN.ch" group-title="NEWS",CNN Chile
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://217.26.190.76:8888/play/a029/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/fyrDfex.jpeg" tvg-id="CNN.com" group-title="NEWS",CNN international (2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/Vo9SIBu.jpeg" tvg-id="CNN.in" group-title="NEWS",CNN News 18 India
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/9swbPN3.jpeg" tvg-id="CNN.po" group-title="NEWS",CNN Portugal
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?wowzasessionid=@iprtlk
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/0AtnFFO.jpeg" tvg-id="CNN.ch" group-title="NEWS",CNN Türkiye
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6926/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/zeVygos.jpeg" tvg-id="CNN.us" group-title="NEWS",CNN USA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 group-logo="https://i.imgur.com/rVcvrt7.png" group-title="NEWS"
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/1JT3JKg.jpeg" tvg-id="cnbc.com" group-title="NEWS",CNBC Arabian
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/QV994m7.jpeg" tvg-id="cnbc.com" group-title="NEWS",CNBC Awaaz India
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/sA3ThHi.jpeg" tvg-id="cnbc.com" group-title="NEWS",CNBC Bajar India
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/ahoOZvA.jpeg" tvg-id="cnbc.com" group-title="NEWS",CNBC TV18 India
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/l0aRNKk.jpeg" tvg-id="cnbc.com" group-title="NEWS",CNBC TV18 Prime India
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/wOL3Nzd.jpeg" tvg-id="cnbc.com" group-title="NEWS",CNBC-e Türkiye
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8?tv=1
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/e5yT9Ly.jpeg" tvg-id="CNN.es" group-title="NEWS",CNÑ en Español
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://45.228.234.30:16000/play/a00x/index.m3u8
+#EXTINF:-1 group-logo="https://i.imgur.com/vnKNEfX.png" group-title"="DW Channel" group-title="NEWS"
+#EXTINF:-1 tvg-name="dw" tvg-logo="https://i.imgur.com/9y0PAT0.jpeg" tvg-id="itzreisa.id" group-title="NEWS",DW Arabic
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-name="dw" tvg-logo="https://i.imgur.com/E4Ybmhs.jpeg" tvg-id="itzreisa.id" group-title="NEWS",DW en Español
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-name="dw" tvg-logo="https://i.imgur.com/KxtVPz9.jpeg" tvg-id="itzreisa.id" group-title="NEWS",DW English (4)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjuRqTJAB3t7aFg6uYGfaV07RqaZ6WdTlHuuXjaAcjpIfsQQQ5rntT6X38h6sPH9hQiw-d0W74O5NCwef99n3BcogE_t6cJqWVBTTikOkUe3TjEoTqABAA2YXuKUD-LbI7lA6TeM5WSl_oJUQBrH8l-chSuA_vIv5BM4CgXz6AOBpdMGTiTtOcALrOHfmh/s700/CNN%20INTERNATIONAL.png" group-title="NEWS",CNN INTERNATIONAL 1
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjuRqTJAB3t7aFg6uYGfaV07RqaZ6WdTlHuuXjaAcjpIfsQQQ5rntT6X38h6sPH9hQiw-d0W74O5NCwef99n3BcogE_t6cJqWVBTTikOkUe3TjEoTqABAA2YXuKUD-LbI7lA6TeM5WSl_oJUQBrH8l-chSuA_vIv5BM4CgXz6AOBpdMGTiTtOcALrOHfmh/s700/CNN%20INTERNATIONAL.png" group-title="NEWS",CNN INTERNATIONAL 2
