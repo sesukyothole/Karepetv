@@ -1,4 +1,288 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://ayo.maling.pl/Ente/combine_logo.php?home=https%3A%2F%2Fr2.goalsense.ai%2Fbagol%2Fteam%2F051be0a9b61dedb583315fb75eaa8308.webp&away=https%3A%2F%2Fr2.goalsense.ai%2Fbagol%2Fteam%2F20bd29045f9e765f9162647ec74b9d75.webp" group-title="EVENT LIVE SPORTS",⏳ [Upcoming] Liverpool Uru VS Cerro Largo • Uruguay Primera Division (05:00 WIB • 09/06/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://stream-sg.bagoltv.com/
+#EXTVLCOPT:http-origin=https://stream-sg.bagoltv.com
+https://ayo.maling.pl/Ente/play/.m3u8
+#EXTINF:-1 tvg-id="124" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/760/763760-SNAPSHOT-m.jpg",⏳ [Upcoming] ⚡ 24 Hours of Le Mans 2026 •  Practice 1 (18:45 WIB • 10/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=124&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8OGE4YzAxMWQ0MjgxMjc3ZDQ3Mjc3MzE3ZWIzMWIyN2M=
+https://ayo.maling.pl/Vision/index.mpd?id=124&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8OGE4YzAxMWQ0MjgxMjc3ZDQ3Mjc3MzE3ZWIzMWIyN2M=
+#EXTINF:-1 tvg-id="122" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/039/764039-SNAPSHOT-m.jpg",⏳ [Upcoming] ⚡ FIA Formula 3 Championship •  Barcelona, Spain - Practice (14:55 WIB • 12/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=122&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8MDAwMjhmMzFjOTI2MTM2ZWJhZTYyYTcxYzU5MWM3YzQ=
+https://ayo.maling.pl/Vision/index.mpd?id=122&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8MDAwMjhmMzFjOTI2MTM2ZWJhZTYyYTcxYzU5MWM3YzQ=
+#EXTINF:-1 tvg-id="113" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/185/764185-SNAPSHOT-m.jpg",⏳ [Upcoming] ⚡ Sportacular International Match •  Azerbaijan vs San Marino (00:45 WIB • 10/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=113&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8ODJjMDI4NmZlNzEzNDk2NTdiYWQ3MzJlMWNjNDI4ZTA=
+https://ayo.maling.pl/Vision/index.mpd?id=113&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8ODJjMDI4NmZlNzEzNDk2NTdiYWQ3MzJlMWNjNDI4ZTA=
+#EXTINF:-1 tvg-id="112" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/928/763928-SNAPSHOT-m.jpg",⏳ [Upcoming] ⚡ Sportacular International Match •  France vs Northern Ireland (02:00 WIB • 09/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=112&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8NDk4NmU4Zjg4NGQ0ZDY4OWUwZTM4YjQ0NjZlMmUwNWY=
+https://ayo.maling.pl/Vision/index.mpd?id=112&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8NDk4NmU4Zjg4NGQ0ZDY4OWUwZTM4YjQ0NjZlMmUwNWY=
+#EXTINF:-1 tvg-id="115" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/924/763924-SNAPSHOT-m.jpg",⏳ [Upcoming] ⚡ Sportacular International Match •  Netherland vs Uzbekistan (01:30 WIB • 09/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=115&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8M2MwNDBhOWQ2ZTRhZmQwMmRjYzE4YTUxZWFiNWY5ODU=
+https://ayo.maling.pl/Vision/index.mpd?id=115&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8M2MwNDBhOWQ2ZTRhZmQwMmRjYzE4YTUxZWFiNWY5ODU=
+#EXTINF:-1 tvg-id="Vision" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/760/763760-SNAPSHOT-m.jpg",⏳ [Upcoming] 🛡 24 Hours of Le Mans 2026 •  Practice 1 (18:45 WIB • 10/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=124.play?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8OGE4YzAxMWQ0MjgxMjc3ZDQ3Mjc3MzE3ZWIzMWIyN2M=
+https://ayo.maling.pl/V/vision/id=124.cok.mpd?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8OGE4YzAxMWQ0MjgxMjc3ZDQ3Mjc3MzE3ZWIzMWIyN2M=
+#EXTINF:-1 tvg-id="Vision" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/039/764039-SNAPSHOT-m.jpg",⏳ [Upcoming] 🛡 FIA Formula 3 Championship •  Barcelona, Spain - Practice (14:55 WIB • 12/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=122.play?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8MDAwMjhmMzFjOTI2MTM2ZWJhZTYyYTcxYzU5MWM3YzQ=
+https://ayo.maling.pl/V/vision/id=122.cok.mpd?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8MDAwMjhmMzFjOTI2MTM2ZWJhZTYyYTcxYzU5MWM3YzQ=
+#EXTINF:-1 tvg-id="Vision" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/185/764185-SNAPSHOT-m.jpg",⏳ [Upcoming] 🛡 Sportacular International Match •  Azerbaijan vs San Marino (00:45 WIB • 10/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8ODJjMDI4NmZlNzEzNDk2NTdiYWQ3MzJlMWNjNDI4ZTA=
+https://ayo.maling.pl/V/vision/id=113.cok.mpd?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8ODJjMDI4NmZlNzEzNDk2NTdiYWQ3MzJlMWNjNDI4ZTA=
+#EXTINF:-1 tvg-id="Vision" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/928/763928-SNAPSHOT-m.jpg",⏳ [Upcoming] 🛡 Sportacular International Match •  France vs Northern Ireland (02:00 WIB • 09/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=112.play?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8NDk4NmU4Zjg4NGQ0ZDY4OWUwZTM4YjQ0NjZlMmUwNWY=
+https://ayo.maling.pl/V/vision/id=112.cok.mpd?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8NDk4NmU4Zjg4NGQ0ZDY4OWUwZTM4YjQ0NjZlMmUwNWY=
+#EXTINF:-1 tvg-id="Vision" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/924/763924-SNAPSHOT-m.jpg",⏳ [Upcoming] 🛡 Sportacular International Match •  Netherland vs Uzbekistan (01:30 WIB • 09/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=115.play?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8M2MwNDBhOWQ2ZTRhZmQwMmRjYzE4YTUxZWFiNWY5ODU=
+https://ayo.maling.pl/V/vision/id=115.cok.mpd?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8M2MwNDBhOWQ2ZTRhZmQwMmRjYzE4YTUxZWFiNWY5ODU=
+#EXTINF:-1 tvg-logo="https://ayo.maling.pl/Ente/combine_logo.php?home=https%3A%2F%2Fr2.goalsense.ai%2Fbagol%2Fteam%2F56f28f58ca07a6c825a34611d4b45afb.webp&away=https%3A%2F%2Fr2.goalsense.ai%2Fbagol%2Fteam%2Fee062235078a3c1be621986dce817900.webp" group-title="EVENT LIVE SPORTS",🔴 [Live] Biik Shymkent Women VS Tomiris Turan Women • Kazakhstan Women's Super League (19:00 WIB • 08/06/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://stream-sg.bagoltv.com/
+#EXTVLCOPT:http-origin=https://stream-sg.bagoltv.com
+https://ayo.maling.pl/Ente/play/sd-6Mwe5jeuoMoQ1CfZsD.m3u8
+#EXTINF:-1 tvg-logo="https://ayo.maling.pl/Ente/combine_logo.php?home=https%3A%2F%2Fr2.goalsense.ai%2Fbagol%2Fteam%2F35ae5376376a0a746b5c0bc3e4ee60b6.webp&away=https%3A%2F%2Fr2.goalsense.ai%2Fbagol%2Fteam%2F9f40ba7f7ec8147df3636834675ce4ca.webp" group-title="EVENT LIVE SPORTS",🔴 [Live] Sri Lanka VS Bhutan • International Friendly (18:30 WIB • 08/06/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://stream-sg.bagoltv.com/
+#EXTVLCOPT:http-origin=https://stream-sg.bagoltv.com
+https://ayo.maling.pl/Ente/play/sd-6Mwe5jgPGd8Ykg4TGj.m3u8
+#EXTINF:-1 tvg-id="123" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/512/763512-SNAPSHOT-m.jpg",🔴 [Live] ⚡ Premier Padel 2026 •  Valencia P1 - Day 1 (14:00 WIB • 08/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=123&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8YWZjOWI3NjM1ZWE1MWVkZDdiZjQyYWIxOTBlNjA1Mzk=
+https://ayo.maling.pl/Vision/index.mpd?id=123&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8YWZjOWI3NjM1ZWE1MWVkZDdiZjQyYWIxOTBlNjA1Mzk=
+#EXTINF:-1 tvg-id="1011" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/988/762988-SNAPSHOT-m.jpg",🔴 [Live] ⚡ Women PRO Futsal League •  Netic Ladies vs F4ST Angel (18:55 WIB • 08/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1011&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8YTBkOGZmZGY3MjM0YzE2NjYyOTRmODg5ZTk4OWU1MDA=
+https://ayo.maling.pl/Vision/index.mpd?id=1011&he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8YTBkOGZmZGY3MjM0YzE2NjYyOTRmODg5ZTk4OWU1MDA=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTINF:-1 tvg-id="Vision" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/512/763512-SNAPSHOT-m.jpg",🔴 [Live] 🛡 Premier Padel 2026 •  Valencia P1 - Day 1 (14:00 WIB • 08/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=123.play?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8YWZjOWI3NjM1ZWE1MWVkZDdiZjQyYWIxOTBlNjA1Mzk=
+https://ayo.maling.pl/V/vision/id=123.cok.mpd?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8YWZjOWI3NjM1ZWE1MWVkZDdiZjQyYWIxOTBlNjA1Mzk=
+#EXTINF:-1 tvg-id="Vision" group-title="EVENT LIVE SPORTS" tvg-logo="https://www.visionplus.id/images/repository/988/762988-SNAPSHOT-m.jpg",🔴 [Live] 🛡 Women PRO Futsal League •  Netic Ladies vs F4ST Angel (18:55 WIB • 08/06)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=1011.play?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8YTBkOGZmZGY3MjM0YzE2NjYyOTRmODg5ZTk4OWU1MDA=
+https://ayo.maling.pl/V/vision/id=1011.cok.mpd?he_he_he_mau_ngapin_kamu_kalau_kamu_modal_comot_bongkar_gak_akan_maju_pemikiranmu=MTc4MDk0MTk2OHwxMDMuMjQ3LjguNzB8YTBkOGZmZGY3MjM0YzE2NjYyOTRmODg5ZTk4OWU1MDA=
+#EXTINF:-1 tvg-uid="3eb20218053530a1a5c401b6b6c5db20" data-source="Xoilacz" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh1yv3ql07/image/small" group-title="EVENT LIVE SPORTS",10:30 WIB - KICKSTART U20 VS LINDA ACADEMY U20 [IND]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=2860f21574039c9dd337d58c8735cc3b&wsABSTime=1781630849
+#EXTINF:-1 tvg-uid="3deddbbeb3582849bb7d8e30bbdb086e" data-source="Vididi Combi Termux" tvg-id="12784-12784" tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg" group-title="EVENT LIVE SPORTS",11:00 WIB (18/05) - News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambonetv.lutfimuhammad200917.workers.dev/play.m3u8?q=12784&ext=hls&x=1781598440&k=1b0b1433659568d3a033c96fd411ce791ea87c88b4f2cc547f38c7a22e61068e&sc=12784
+#EXTINF:-1 tvg-uid="4db5e336ed5802db8faecbebdacfd477" data-source="Vididi Combi Termux" tvg-id="8121-8121" tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" group-title="EVENT LIVE SPORTS",11:00 WIB (29/09) - 47 Ronin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stream.lutfimuhammad200917.workers.dev/index.mpd?q=8121&ext=drm&x=1781598440&k=89ad952601f2543144419ed35d402a24b58c066bce020716c87492edb8b9dacd
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=8121&ext=dash&x=1781598440&k=d39ce1348a96938dada8f27847cf867539cf18d3f767d3ff4b170397e0dd6e68&sc=8121
+#EXTINF:-1 tvg-uid="c980d6db30dd28da6e5cac9657b423ea" data-source="Xoilacz" tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/n54qllysn49vqvy/image/small" group-title="EVENT LIVE SPORTS",11:30 WIB - NG WENG CHI PUI CHI WA VS CHLOE HO STELLA PAN [MAC]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=31cf419c5b80b0f9989abc7c20a5170e&wsABSTime=1781630849
+#EXTINF:-1 tvg-uid="d90f4bff172c4e3886def8666ebe19fd" data-source="Xoilacz" tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/p5rzgzsjjy16q82/image/small" group-title="EVENT LIVE SPORTS",11:40 WIB - PASSA ORN PHANNACHET VS LEE YU HSUAN [MAC]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=fd72a074e40ee0ac53342a9c6b519dc2&wsABSTime=1781630849
+#EXTINF:-1 tvg-uid="1edff2d0e774db8f2157b80845753414" data-source="Xoilacz" tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/y0or5jzs8g04qwz/image/small" group-title="EVENT LIVE SPORTS",11:40 WIB - WANG Y LAM C W VS LU CHEN HUNG HSIN EN [MAC]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel64.flv?wsSecret=0d834cfc7f986a8c39a3c7077a82ddf8&wsABSTime=1781630849
+#EXTINF:-1 tvg-uid="0586cd5a9679bb7393f33b8744eba9ba" data-source="Vididi Combi Termux" tvg-id="7619-7619" tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="EVENT LIVE SPORTS",12:00 WIB (04/02) - MUSICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambonetv.lutfimuhammad200917.workers.dev/play.m3u8?q=7619&ext=hls&x=1781598440&k=da4b1f81e34fe53ad2f19f82a94a61c126f7ef60b8629ec8613ea073d718a168&sc=7619
+#EXTINF:-1 tvg-uid="0922700688aeffdce5dfbaf9b3e490e9" data-source="Vididi Combi Termux" tvg-id="7230-7230" tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="EVENT LIVE SPORTS",12:00 WIB (17/07) - Magna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambonetv.lutfimuhammad200917.workers.dev/play.m3u8?q=7230&ext=hls&x=1781598440&k=a20b8ca862192d42417cd9bbed03cd6a876b4ede1e501f7ee524b48acc5121ba&sc=7230
+#EXTINF:-1 tvg-uid="87e1907e6ef7341a4448363c368249c1" data-source="Vididi Combi Termux" tvg-id="6784-6784" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="EVENT LIVE SPORTS",12:00 WIB (22/02) - K-Culture Dive [L]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambonetv.lutfimuhammad200917.workers.dev/play.m3u8?q=6784&ext=hls&x=1781598440&k=941f6ac621d9b8183bf340c2fa3c06e42399d3a50f2b4cc00d495770efe82d31&sc=6784
+#EXTINF:-1 tvg-uid="cebf8dabe14f0c1cdc6c7b860c1b097c" data-source="Xoilacz" tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/dn1m1g9s5opdmoe/image/small" group-title="EVENT LIVE SPORTS",12:20 WIB - LIAO YUAN CHI VS KIM MIN SEON [MAC]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=733e7d05d78bd9c14549dbda62d660bb&wsABSTime=1781630849
+#EXTINF:-1 tvg-uid="81e463c7e48d985a92f6fd986ba87751" data-source="Xoilacz" tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/4jwq2g9s2p20m0v/image/small" group-title="EVENT LIVE SPORTS",12:30 WIB - CHIU SHAO HUA LIN BING WEI VS KEDREN KITTINUPONG LUCAS EKARAT WEDLER [MAC]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=0c86200da8a0b3562e4e410425dc8a5c&wsABSTime=1781630850
+#EXTINF:-1 tvg-uid="2e910c6d31342b45dfc62ffb462d732f" data-source="Vididi Combi Termux" tvg-id="21603-5134866" tvg-logo="https://thumbor.prod.vidiocdn.com/ozrHOpptgEX9OTbKeic00Y0nQbw=/640x360/filters:strip_icc:quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134866/5ada9a.jpg" group-title="EVENT LIVE SPORTS",JAM 10:45 WIB (17/06) - Women: Dominican Republic vs United States - Volleyball Nations League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stream.lutfimuhammad200917.workers.dev/index.mpd?q=21603&ext=drm&x=1781598440&k=c770e4baf0dc53ae82153e73e067b0a4cc04d3d9ee3dfa54e429f1e72950a46a
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=21603&ext=dash&x=1781598440&k=0a5057adb6a52de57291e01c55b79a95e91799c149d999a95ee2688c1ac56b8f&sc=5134866
+# ===== LIVE EVENT =====
+# ===== UPCOMING EVENT =====
+#EXTINF:-1 tvg-uid="948d74daa030bccc3b309da6fdc30305" data-source="Vididi Combi Termux" tvg-id="6786-5134863" tvg-logo="https://thumbor.prod.vidiocdn.com/7dFTtDqeujmBzyCY6VK74oQD62A=/640x360/filters:strip_icc:quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134863/c877b4.jpg" group-title="EVENT LIVE SPORTS",JAM [UPCOMING] 16:00 WIB (16/06) - Day 2 - WTA 500: VANDA Pharmaceuticals Berlin Tennis Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stream.lutfimuhammad200917.workers.dev/index.mpd?q=6786&ext=drm&x=1781598440&k=210f6b4336767848add2c16f38f0a0cf0bc0e3f3b18823fce5447a842f9a1553
+https://bwifi.my.id/5menit.mp4
+#EXTINF:-1 tvg-expire="1781589000" tvg-start="1781581200" tvg-uid="55c9302f13ff0b26a1f94ce45e07f44d" data-source="Shoot LiveEvent" tvg-logo="https://oss.yalla-shoot-admin.com/team/2021e7c5e1b6e99abd90e906698a3c273eb.png" group-title="EVENT LIVE SPORTS",[ 10:40 WIB] [Belarus League A] Olympic vs Ryder [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5473034_1.m3u8?auth_key=1781674013-0-0-4a182da1250703f95d58e2fd4b74654f
+#EXTINF:-1 tvg-expire="1781590200" tvg-start="1781582400" tvg-uid="be7ec7c79e4fcfbb7f44d0be16ff13e9" data-source="Shoot LiveEvent" tvg-logo="https://oss.yalla-shoot-admin.com/team/20201b9fc14ca70be8fc928885a0941418e.png" group-title="EVENT LIVE SPORTS",[ 11:00 WIB] [Belarus League A] Athletic FC vs CNSC Akademi FC [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5473076_1.m3u8?auth_key=1781674013-0-0-bda8e146db64113c0c198bffe17b0996
+#EXTINF:-1 tvg-expire="1781593800" tvg-start="1781586000" tvg-uid="6b4d60db9222d4567a94637aa0ddca68" data-source="Shoot LiveEvent" tvg-logo="https://oss.yalla-shoot-admin.com/team/20294e95156d27cfc5d6987ac5ebabf79d5.png" group-title="EVENT LIVE SPORTS",[ 12:00 WIB] [Angola Bantu League] Sporting Do Imbondeiro vs Herois Do Huambo [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5473110_1.m3u8?auth_key=1781674013-0-0-c6a056c823806829edf6d89f73c14e7e
+#EXTINF:-1 tvg-expire="1781593800" tvg-start="1781586000" tvg-uid="b0ee4e30320aa8549cb3a90159ea72ea" data-source="Shoot LiveEvent" tvg-logo="https://oss.yalla-shoot-admin.com/team/2011f4877b8c776190ac48c4ef3e298b56e.png" group-title="EVENT LIVE SPORTS",[ 12:00 WIB] [China National Basketball League U21] Sichuan Whale U21 vs Shenzhen Leopards U21 [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5472891_1.m3u8?auth_key=1781672773-0-0-8b508298dad643ecee60225088f9a838
+#EXTINF:-1 tvg-expire="1781593800" tvg-start="1781586000" tvg-uid="e949ba53b9eb5adcde85f310a029f19a" data-source="Shoot LiveEvent" tvg-logo="https://oss.yalla-shoot-admin.com/team/2018613aa8e7f4d808aee423f1cc92ca585.png" group-title="EVENT LIVE SPORTS",[ 12:00 WIB] [China National Basketball League U21] Zhejiang Chouzhou U21 vs Beijing Ducks U21 [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5472892_1.m3u8?auth_key=1781674013-0-0-98ffb8563e511aadd8f588df695a6d42
+#EXTINF:-1 tvg-uid="aedc319336a35baf2a5631b58d0ec938" data-source="pildunNobar" tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" group-title="EVENT LIVE SPORTS",[ 16 Jun, [SELESAI] 02:00 WIB] [FIFA World Cup] Belgium vs Egypt [Full HD]
+#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
+#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stream.streamoke.net/live/hd-en-6MvZ6BDhJLNFR1aPJm.m3u8
+#EXTINF:-1 tvg-uid="9e3635f158566638fad11b132adce100" data-source="pildunNobar" tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" group-title="EVENT LIVE SPORTS",[ 16 Jun, [SELESAI] 02:00 WIB] [FIFA World Cup] Belgium vs Egypt [HD]
+#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
+#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stream.streamoke.net/live/sd-6MvZ6BDhJLNFR1aPJm.m3u8
+#EXTINF:-1 tvg-uid="586c4caab60af82f0bcb2d7859f8f35d" data-source="pildunNobar" tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/344c0d0b85274807ba668a603ef5a05e.png" group-title="EVENT LIVE SPORTS",[ 16 Jun, [SELESAI] 05:00 WIB] [FIFA World Cup] Saudi Arabia vs Uruguay [Full HD]
+#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
+#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stream.streamoke.net/live/hd-en-6MvZ6BDg85spvxgt45.m3u8
+#EXTINF:-1 tvg-uid="72b27987f1ca26a9d322bb12f2ff34ac" data-source="pildunNobar" tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/344c0d0b85274807ba668a603ef5a05e.png" group-title="EVENT LIVE SPORTS",[ 16 Jun, [SELESAI] 05:00 WIB] [FIFA World Cup] Saudi Arabia vs Uruguay [HD]
+#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
+#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stream.streamoke.net/live/sd-6MvZ6BDg85spvxgt45.m3u8
+#EXTINF:-1 tvg-uid="128eedec6cccf5d7b1c993d8e6b26a69" data-source="pildunNobar" tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/8155ecd333d749a8a3df7be234d157c4.png" group-title="EVENT LIVE SPORTS",[ 16 Jun, [SELESAI] 08:00 WIB] [FIFA World Cup] IR Iran vs New Zealand [Full HD]
+#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
+#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stream.streamoke.net/live/hd-en-6MvZ6BDg8er2zA5dMX.m3u8
+#EXTINF:-1 tvg-uid="d4b7581b2dc8fe6be344f623ed213111" data-source="pildunNobar" tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/8155ecd333d749a8a3df7be234d157c4.png" group-title="EVENT LIVE SPORTS",[ 16 Jun, [SELESAI] 08:00 WIB] [FIFA World Cup] IR Iran vs New Zealand [HD]
+#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
+#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stream.streamoke.net/live/sd-6MvZ6BDg8er2zA5dMX.m3u8
+#EXTINF:-1 tvg-expire="1781665800" tvg-start="1781658000" tvg-uid="208beb4e638faece404a5b2b567cedee" data-source="gate" tvg-logo="https://images.seeklogo.com/logo-png/48/1/soccer-ball-logo-png_seeklogo-480250.png" tvg-id="SOCCER.Dummy.us" group-title="EVENT LIVE SPORTS",[ [[SELESAI] 08:00 WIB] [SOCCER] Iran vs New Zealand (Gate)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-origin=https://instream.click
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://instreams.pro/EU/HDWC1/index.m3u8
+#EXTINF:-1 tvg-uid="48b7d57b308cbbfbec5be30aae1c6a27" data-source="Piala Dunia 2026 Zhubo" group-title="EVENT LIVE SPORTS" tvg-logo="https://wsrv.nl/?url=mbg.full.diskon.cloud%2Fwc2026%2Fimg.php%3Fh%3Dhttps%253A%252F%252Foss.yalla-shoot-admin.com%252Fteam%252F2029ddb78ba9bb834ad7083efd54ead75a1.png%26a%3Dhttps%253A%252F%252Foss.yalla-shoot-admin.com%252Fteam%252F202b58e9351d4ea2c3557471c73b394b74b.png",[Grup J] Austria vs Yordania - JAM 11:00 WIB (17/06)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://bonetvbumper.ahmadadityaberdikari.workers.dev/bokep.m3u8
+#EXTINF:-1 tvg-uid="31fdd8cbff81b2556d0b51c956d738e2" data-source="Vididi Combi Termux" tvg-id="7052-7052" tvg-logo="https://thumbor.prod.vidiocdn.com/MO29LQSLBb-CrxAR-emGtTfpxs8=/640x360/filters:strip_icc:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-bd851f.jpg" group-title="EVENT LIVE SPORTS",[SELESAI] 02:00 WIB (23/04) - Masha and The Bear
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stream.lutfimuhammad200917.workers.dev/index.mpd?q=7052&ext=drm&x=1781598440&k=9dcd8c6a6ee9480afc12aae76cf4b80802cb5ae3e808477f554246820a454705
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=7052&ext=dash&x=1781598440&k=373ed256837114f4a12d73446835e35530ad381df428e57d108d2cb9a77ebb9e&sc=7052
+#EXTINF:-1 tvg-uid="1aa08f0afda97827574ede5ed3620ec7" data-source="Vididi Combi Termux" tvg-id="19046-19046" tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="EVENT LIVE SPORTS",[SELESAI] 09:00 WIB (08/07) - Keluarga Gunarso
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambonetv.lutfimuhammad200917.workers.dev/play.m3u8?q=19046&ext=hls&x=1781598440&k=498598f2712419b4099f48853e3f4c7c4db921c2d2e504486b8a26d97e4c7a0b&sc=19046
+#EXTINF:-1 tvg-uid="389207885222e4fc56cdc2e201d35d9a" data-source="Vididi Combi Termux" tvg-id="18249-18249" tvg-logo="https://thumbor.prod.vidiocdn.com/tEthl-YuBe73lMRyTNtBLeCEB5A=/640x360/filters:strip_icc:quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137689/02703a.jpg" group-title="EVENT LIVE SPORTS",[SELESAI] 09:00 WIB (16/06) - Ng Weng Chi/Pui Chi Wa (MAC) vs Chloe Ho/Stella Pan (USA) - Women's Doubles Qualification | SANDS CHINA LTD. Macau Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stream.lutfimuhammad200917.workers.dev/index.mpd?q=18249&ext=drm&x=1781598440&k=a92714aa60042a4bef13d3127e1ad635ecb0398e33721175e4bb8de1670d2710
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=18249&ext=dash&x=1781598440&k=b465fef0c83d4cb21dfc5c403a15ccf4230700cbbe13fb7b647718454e0eb320&sc=18249
+#EXTINF:-1 tvg-uid="6644b111939609f6b37ca468e38f6443" data-source="Vididi Combi Termux" tvg-id="18252-18252" tvg-logo="https://thumbor.prod.vidiocdn.com/90CuI_IQE9eHcNn5t6quKRXEl4o=/640x360/filters:strip_icc:quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137797/4ae817.jpg" group-title="EVENT LIVE SPORTS",[SELESAI] 09:00 WIB (16/06) - Shao Hua Chiu/Lin Bing-Wei (TPE) vs Kittinupong Kedren/Lucas Ekarat Wedler (THA) - Men's Doubles Qualification Quarter Finals | Macau Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stream.lutfimuhammad200917.workers.dev/index.mpd?q=18252&ext=drm&x=1781598440&k=3143098c3af889f35dacd75d435dc97c22c9db84f1120af6a97100e32cd65b8e
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=18252&ext=dash&x=1781598440&k=0c17eaaf0fb8630aba1548c9634ad1fb9f3c611ff8449e43de8864f8bb879a4c&sc=18252
+#EXTINF:-1 tvg-uid="548bcb0884ef23a3a5d9984d48513f59" data-source="Vididi Combi Termux" tvg-id="18250-18250" tvg-logo="https://thumbor.prod.vidiocdn.com/x55Z-oNxv5yREPPGb0yLZLjL6lU=/640x360/filters:strip_icc:quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137772/7fab72.jpg" group-title="EVENT LIVE SPORTS",[SELESAI] 09:00 WIB (16/06) - Yuan Chi Liao (TPE) vs Kim Min Sun (KOR) - Women's Singles Qualification | SANDS CHINA LTD. Macau Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stream.lutfimuhammad200917.workers.dev/index.mpd?q=18250&ext=drm&x=1781598440&k=edec05b2c8f5fa680ae669ad0c220ff02cfa6762e1a7fe391b489c661e5f55a0
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=18250&ext=dash&x=1781598440&k=30acf066dae898f8bc25cff0bb659f5c6de306724a2645037934e8a578c38fc3&sc=18250
+#EXTINF:-1 tvg-uid="8605fc6336ab258e4182eb0efb554912" data-source="Vididi Combi Termux" tvg-id="18253-18253" tvg-logo="https://thumbor.prod.vidiocdn.com/s_OO9xTDetXD0lyvvshLh3I9Q9I=/640x360/filters:strip_icc:quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137785/91c9c1.jpg" group-title="EVENT LIVE SPORTS",[SELESAI] 09:10 WIB (16/06) - Thanawin Madee/Pongsakorn Thongkham (THA) vs Bao Xin Da Gu La Wai/Chiang Chien-Wei (TPE) - Men's Doubles Qualification Quarter Finals | Macau Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stream.lutfimuhammad200917.workers.dev/index.mpd?q=18253&ext=drm&x=1781598440&k=43bb2ba2d9b470f12f45b828f9abb8f799578cdb3f62340b6c62ffc7f6a45d34
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=18253&ext=dash&x=1781598440&k=22197e552a4e5ec64c60f14b5a57fbd0c2d03ce2723a4c96834a9a08973ae19a&sc=18253
+#EXTINF:-1 tvg-uid="9e6a6bf5d692fedbb65b0ec9cce7b467" data-source="Vididi Combi Termux" tvg-id="17278-17278" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="EVENT LIVE SPORTS",[SELESAI] 10:00 WIB (02/05) - 6H Info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://stream.lutfimuhammad200917.workers.dev/index.mpd?q=17278&ext=drm&x=1781598440&k=55c5db5b56b68afacb6700f30647b2b73199c39912f06ca866233ad2ab609af0
+https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=17278&ext=dash&x=1781598440&k=6081ad3c594065fd2dd582d5c87f4baaec6ca03f21f11eb989fa497e65b1d69b&sc=17278
+#EXTINF:-1 tvg-expire="1781592600" tvg-start="1781574000" tvg-uid="1add837c03d13e852383d2c3dd82f603" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="EVENT LIVE SPORTS",[[SELESAI] 08:40 WIB] [MLB] Arizona Diamondbacks vs Los Angeles Angels (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.41/hls/AVVVAQQ.m3u8
+#EXTINF:-1 tvg-expire="1781592600" tvg-start="1781574000" tvg-uid="dfc1a39153abcd8b47f36e24c8a57f95" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="EVENT LIVE SPORTS",[[SELESAI] 08:40 WIB] [MLB] Athletics vs Pittsburgh Pirates (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.41/hls/AVVVAQQQ.m3u8
+#EXTINF:-1 tvg-expire="1781593800" tvg-start="1781575200" tvg-uid="597f2d0ff412010390ee5ea65be8067a" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="EVENT LIVE SPORTS",[[SELESAI] 09:00 WIB] [WNBA] Golden State Valkyries W vs Los Angeles Sparks W (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.41/hls/YDDDAAA.m3u8
+#EXTINF:-1 tvg-expire="1781594400" tvg-start="1781575800" tvg-uid="7617a8c0b5a1cd48c142a99a21d144b1" data-source="Fawa Event" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="EVENT LIVE SPORTS",[[SELESAI] 09:10 WIB] [MLB] Los Angeles Dodgers vs Tampa Bay Rays (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.41/hls/AVVVAQQQQ.m3u8
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",09:00 WIB SANDS CHINA LTD Macau Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239068358450061_AiSD.m3u8?txSecret=b0bffdd47c31ea56bc50355ce7367940&txTime=6A333500
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",09:00 WIB SANDS CHINA LTD Macau Open 2026 (2)
