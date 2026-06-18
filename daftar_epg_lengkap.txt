@@ -2674,6 +2674,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - CAZE TV 1 (KitKat)  [EPG: KOSONG]
       - CAZE TV 2 (KitKat)  [EPG: KOSONG]
       - CAZE TV 3 (KitKat)  [EPG: KOSONG]
+      - CBC Sports (KitKat)  [EPG: KOSONG]
       - CHRONO (KitKat)  [EPG: Redbull.Dummy.us]
       - Caze TV (KitKat)  [EPG: KOSONG]
       - Cirque du Soleil (KitKat)  [EPG: Cirque du Soleil]

@@ -412,6 +412,7 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - CAZE TV 1 (KitKat)
     - CAZE TV 2 (KitKat)
     - CAZE TV 3 (KitKat)
+    - CBC Sports (KitKat)
     - CHRONO (KitKat)
     - Caze TV (KitKat)
     - Cirque du Soleil (KitKat)

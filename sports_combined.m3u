@@ -1110,6 +1110,8 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/69288233bd359e8a5bd2fa50/69d66cb571df196b22e035a3_CBC.png" group-title="SPORTS",CBC Sports
+http://176.65.146.189:8701/play/a09h
 #EXTINF:-1 group-title="SPORTS" tvg-id="Redbull.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/imwzux.png",CHRONO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8
