@@ -23,7 +23,7 @@ MASTER_URLS = [
     "https://raw.githubusercontent.com/jrpahe-del/IPTV/refs/heads/main/RafaDervian.m3u", 
     "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KITKATJOSS", 
     "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
-    "https://fireredst.github.io/Itz-Play/Play.m3u8",
+    "https://fireredst.github.io/Itz-Play/Play.m3u",
     "https://bwifi.my.id/epg/epg/colongg.m3u",
     "https://semar25.short.gy",
     "https://bwtv.my.id/bonee.m3u",
