@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",09:00 WIB SANDS CHINA LTD Macau Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239069194040061_AiSD.m3u8?txSecret=974fcecc5b6c34021829d285644de9a7&txTime=6A348680
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",09:00 WIB SANDS CHINA LTD Macau Open 2026 (2)
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239069359744061_AiSD.m3u8?txSecret=d638343f662465bd6746808a0a251ee7&txTime=6A348680
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",09:00 WIB SANDS CHINA LTD Macau Open 2026 (3)
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239069524183061_AiSD.m3u8?txSecret=55f0930d60235dd1b517485be9a93e2e&txTime=6A348680
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",19:00 WIB Serbia v Italy | Week 2 | Women's VNL 2026
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",23:30 WIB Türkiye v France | Week 2 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=cdd1d6242ff63c3e037f7e8a9b0d1321&wsABSTime=1781799297
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",20:00 WIB Belgium v Brazil | Week 2 | Women's VNL 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=881a698ec58ded50556ee868c45662f4&wsABSTime=1781799720
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",20:30 WIB Thailand v Bulgaria | Week 2 | Women's VNL 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=69a3c35b90c464ca21ffa2192b0e4479&wsABSTime=1781800050

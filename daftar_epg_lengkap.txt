@@ -5,10 +5,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
 
   [SUMBER PENYEDIA: https://bit.ly/KPL203]
     [JADWAL EVENT]
-      - 09:00 WIB SANDS CHINA LTD Macau Open 2026 (Prov-16)  [EPG: KOSONG]
-      - 19:00 WIB Serbia v Italy | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
-      - 20:00 WIB Belgium v Brazil | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
-      - 20:30 WIB Thailand v Bulgaria | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
+      - 23:30 WIB Türkiye v France | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
 
 ================================================================================
 
@@ -2670,7 +2667,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - SPORTSNET (KitKat)  [EPG: Sportsnet (East).ca]
       - Sportsnet Pacific (KitKat)  [EPG: KOSONG]
     [KASTA 24 - SUPERSPORT AFRICA]
-      - Go Live Sports (KitKat)  [EPG: TVRISport.id]
+      - GO LIVE FIFA 2026 (KitKat)  [EPG: TVRISport.id]
       - India Daily Live (KitKat)  [EPG: IndiaDailyLive.in@SD]
       - KBS LIVECAM DOKDO (KitKat)  [EPG: KOSONG]
       - Pilipinas Live 1 (KitKat)  [EPG: KOSONG]
@@ -2761,8 +2758,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - Okey Sports (KitKat)  [EPG: Okey]
       - Omstars TV (KitKat)  [EPG: Omstars TV]
       - PREMIER SPORTS (KitKat)  [EPG: KOSONG]
+      - PSJ TV (KitKat)  [EPG: ]
       - Pac 12 Insider (KitKat)  [EPG: Pac 12 Insider]
-      - PersijaTV (KitKat)  [EPG: ]
       - Powersports World (KitKat)  [EPG: Powersports World]
       - Premier League Lacrosse (KitKat)  [EPG: Premier League Lacrosse (Int')]
       - Premier League Lacrosse US (KitKat)  [EPG: Premier League Lacrosse US]
