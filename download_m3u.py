@@ -26,7 +26,7 @@ MASTER_URLS = [
     "https://fireredst.github.io/Itz-Play/Play.m3u",
     "https://bwifi.my.id/epg/epg/colong.m3u",
     "https://getch.semar.my.id/",
-    "https://bwtv.my.id/bone.m3u",
+    "https://bwtv.my.id/bonne.m3u",
     "http://sauridigital.my.id/kerbaunakal/2026TVGNS29.html",
     "https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/refs/heads/main/Shareext@playlist",
     "",
