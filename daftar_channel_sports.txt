@@ -135,6 +135,8 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - Game+ (Qtrung)
     - TSN The Ocho (Qtrung)
   [KASTA 24 - SUPERSPORT AFRICA]
+    -  (Qtrung)
+    -  (Qtrung)
     - ATG Live (Qtrung)
     - LiveXLive (Qtrung)
     - Wanted: Dead or Alive (Qtrung)
@@ -1012,6 +1014,7 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - SolarSports (Love4vn-Mac)
     - Sport Fishing TV (Love4vn-Mac)
     - Sports Range (Love4vn-Mac)
+    - Sporza DUTCH (Love4vn-Mac)
     - T Sports 7 (Love4vn-Mac)
     - TENNIS (Love4vn-Mac)
     - THMANYAH 1 HD (Love4vn-Mac)

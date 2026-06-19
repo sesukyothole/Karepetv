@@ -285,7 +285,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 data-source="Manual" group-title="SPORTS" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" tvg-uid="9d5b7e47dc9d44d70733ec87cc3ca99a",TVRI SPORT
 https://digital.tsender57.workers.dev/bc82b623e5/play/a05u/index.m3u8
-############## live e
 #EXTINF:-1 group-logo="https://i.pinimg.com/1200x/ea/bd/4a/eabd4a377952f2a2cca629166be171a2.jpg" group-title="SPORTS"
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="SPORTS",TVRI Sport (720p)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -537,6 +536,59 @@ https://livestream.liveone.com/lc1/p1.m3u8
 https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/960px-YleX.svg.png",YleX Studio Live (720p)
 https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
+############## live event ###########################
+#EXTINF:-1 group-logo="https://i.pinimg.com/control1/1200x/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg" group-title="SPORTS"
+#EXTINF:-1 tvg-uid="b9fbeebbee20f03d2ca3652518462fcb" data-source="BINGSTREAM India" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781911898-Kv4cPTAAP5YTi-610953898ebe4bbeaf6f11b1a8b350a73e53a48e-8e43c13faf77596e7287b4752c040624|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-uid="39bd84c7e5bccddc1c6fcd41d9388f40" data-source="EloandeteaecoBING" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´] (10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b910e52d78ec6b90151d641f284beb194df96027&x-sign=71fa79b9584b0e059113e10a4061defd&x-time=1781824560
+#EXTINF:-1 tvg-uid="23b89bb077bdfb762ae672c2cc539c58" data-source="EloandeteaecoBING" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´] (11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=b910e52d78ec6b90151d641f284beb194df96027&x-sign=f8fb80f835f9bf83e5618a142217b1b6&x-time=1781824560
+#EXTINF:-1 tvg-uid="1aa2834893731112090bf2b54d126b3f" data-source="EloandeteaecoBING" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´] (12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=b910e52d78ec6b90151d641f284beb194df96027&x-sign=cdd1d7cdc8b3d8f32481cda98847007b&x-time=1781824560
+#EXTINF:-1 tvg-uid="7d75146249804bf37f4bed6e1108d5a3" data-source="EloandeteaecoBING" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´] (13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781910995-Kv4cPTAAP5YTi-b910e52d78ec6b90151d641f284beb194df96027-7847dfad0b6b003e82208e34640a22f5
+#EXTINF:-1 tvg-expire="1781827800" tvg-start="1781820000" tvg-uid="c176a0f0d3808c82f585737604334ad7" data-source="Shoot LiveEvent" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title"ð´ ð´ LIVE EVENT |" group-title="SPORTS",[LIVE ð´] (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5106689_2.m3u8?auth_key=1781912073-0-0-69e4d2984fb3170229d87e5e9860ccde
+#EXTINF:-1 tvg-expire="1781827800" tvg-start="1781820000" tvg-uid="140367e3830d365e80ea59b5a78b5309" data-source="Shoot LiveEvent" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´] (3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5106689_6.m3u8?auth_key=1781912073-0-0-7633d88c7998bf31acd85a667993a0fc
+#EXTINF:-1 tvg-expire="1781827800" tvg-start="1781820000" tvg-uid="51210de4299c70cfba23dbe7d289cfb9" data-source="Shoot LiveEvent" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´] (4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5106689_1.m3u8?auth_key=1781912073-0-0-40cc59467ad9401055c3c5bee3de2f0f
+#EXTINF:-1 tvg-expire="1781827800" tvg-start="1781820000" tvg-uid="5ce9e0314bfe4229600e8ea758c90aac" data-source="Shoot LiveEvent" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´] (5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5106689_5.m3u8?auth_key=1781912073-0-0-094025e2afd4be5b76be280e53edc2ea
+#EXTINF:-1 tvg-expire="1781827800" tvg-start="1781820000" tvg-uid="fba1a279b881335ca35700a135e322b2" data-source="Shoot LiveEvent" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´] (6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5106689_4.m3u8?auth_key=1781912073-0-0-199c6ffad204c7ebce5910539b32f9d8
+#EXTINF:-1 tvg-expire="1781827800" tvg-start="1781820000" tvg-uid="3ee76a2c66776f3d447b054a021ada8f" data-source="Shoot LiveEvent" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´] (7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5106689_3.m3u8?auth_key=1781912073-0-0-86cd30228220c9f188bda9864d0b2980
+#EXTINF:-1 tvg-expire="1781827800" tvg-start="1781820000" tvg-uid="86cebed7c2ca24aa816cadbf28858ada" data-source="gate" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-id="SOCCER.Dummy.us" group-title="SPORTS",[LIVE ð´] (8)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-origin=https://instream.click
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://instreams.pro/EU/HDWC1/index.m3u8
+#EXTINF:-1 tvg-uid="b9b2606b619ec40687ee1d61f7e7233e" data-source="EloandeteaecoBING" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="SPORTS",[LIVE ð´] (9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781910994-Kv4cPTAAP5YTi-b910e52d78ec6b90151d641f284beb194df96027-b647121ad44512b67f3940401cd90a87
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/RH6hTWG.png",ÐÑÐ·ÑÐºÐ° Live (576p)
 http://31.148.48.15/La-Minor_TV/index.m3u8
 ###################################### sport #############################################################
@@ -2114,16 +2166,24 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT (3)
+#https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+http://103.148.44.38:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT (4)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://119.82.250.109:8080/nl.m3u8?id=1167
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT (5)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"}
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 http://wakhaji.biz.id/hls/hls-oxygen.php?id=tvri
-#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="SPORTS",TVRI SPORT (4)
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="SPORTS",TVRI SPORT (6)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/1XmPWnXm/ezgif-473fe9d06ac562ff.png",TVRI SPORT (5)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/1XmPWnXm/ezgif-473fe9d06ac562ff.png",TVRI SPORT (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 2
@@ -2995,6 +3055,10 @@ http://103.58.160.157:8278/720-SPORTSTV/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
 https://live-pv-ta.amazon.fastly-edge.com/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="SPORTS",Sporza DUTCH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="SPORTS",T Sports 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
@@ -3252,9 +3316,6 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/272
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs
 http://202.169.224.202:8800/udp/239.1.2.3:1234
-#EXTINF:-1 tvg-name="TVRI Sport Digital (server 3)" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id="Digital.id" group-title="SPORTS",TVRI Sport Digital (server 3)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-name="TVRI Sport Digital (server 4)" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id="Digital.id" group-title="SPORTS",TVRI Sport Digital (server 4)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://opplextv.cyou:8080/nasir6160/nasir/351052

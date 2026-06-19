@@ -5,7 +5,11 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
 
   [SUMBER PENYEDIA: https://bit.ly/KPL203]
     [JADWAL EVENT]
-      - 23:30 WIB Türkiye v France | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
+      - 11:00 WIB SANDS CHINA LTD Macau Open 2026 (Prov-16)  [EPG: KOSONG]
+      - 15:00 WIB Dominican Republic v Serbia | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
+      - 17:00 WIB Ukraine v Netherlands | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
+      - 19:00 WIB Japan v Czechia | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
+      - 20:30 WIB Bulgaria v Canada | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
 
 ================================================================================
 
@@ -16,11 +20,9 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - 1. RCTI + (Qtrung)  [EPG: RCTI.id]
       - RCTI HD (Qtrung)  [EPG: RCTI.id]
     [KASTA 2 - PRIORITAS UTAMA]
-      - SCTV (Qtrung)  [EPG: 204]
       - SCTV (Qtrung)  [EPG: KOSONG]
       - SCTV (Qtrung)  [EPG: SCTV]
     [KASTA 3 - PRIORITAS UTAMA]
-      - INDOSIAR (Qtrung)  [EPG: 205]
       - Indosiar (Qtrung)  [EPG: Indosiar]
       - Indosiar (Qtrung)  [EPG: KOSONG]
     [KASTA 4 - PRIORITAS UTAMA]
@@ -2611,6 +2613,8 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - Game+ (Qtrung)  [EPG: KOSONG]
       - TSN The Ocho (Qtrung)  [EPG: KOSONG]
     [KASTA 24 - SUPERSPORT AFRICA]
+      -  (Qtrung)  [EPG: KOSONG]
+      -  (Qtrung)  [EPG: SOCCER.Dummy.us]
       - ATG Live (Qtrung)  [EPG: KOSONG]
       - LiveXLive (Qtrung)  [EPG: KOSONG]
       - Wanted: Dead or Alive (Qtrung)  [EPG: KOSONG]
@@ -3488,6 +3492,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - SolarSports (Love4vn-Mac)  [EPG: KOSONG]
       - Sport Fishing TV (Love4vn-Mac)  [EPG: 76]
       - Sports Range (Love4vn-Mac)  [EPG: 267]
+      - Sporza DUTCH (Love4vn-Mac)  [EPG: KOSONG]
       - T Sports 7 (Love4vn-Mac)  [EPG: KOSONG]
       - TENNIS (Love4vn-Mac)  [EPG: KOSONG]
       - THMANYAH 1 HD (Love4vn-Mac)  [EPG: ]
