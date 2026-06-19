@@ -1224,11 +1224,6 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - SKY SPORTS (Lokal-3)
     - SKY SPORTS 2 (Lokal-3)
     - SKY SPORTS LALIGA (Lokal-3)
-  [KASTA 11 - TNT SPORTS]
-    - TNT SPORTS 1 (Lokal-3)
-    - TNT SPORTS 2 (Lokal-3)
-    - TNT SPORTS 3 (Lokal-3)
-    - TNT SPORTS 4 (Lokal-3)
   [KASTA 14 - ASTRO]
     - ASTRO BADMINTON 2 (Lokal-3)
     - ASTRO CRICKET (Lokal-3)
