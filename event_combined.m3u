@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",11:00 WIB SANDS CHINA LTD Macau Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239070063031061_AiSD.m3u8?txSecret=5348e199b050f0aad3d94548a04e693d&txTime=6A35F420
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",11:00 WIB SANDS CHINA LTD Macau Open 2026 (2)
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239070262105061_AiSD.m3u8?txSecret=9e7fa88bece56a6ed9330216f9e9f662&txTime=6A35F420
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",17:00 WIB Ukraine v Netherlands | Week 2 | Women's VNL 2026
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",17:00 WIB SANDS CHINA LTD Macau Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4248215583387061_AiHD.m3u8?txSecret=0daebc5abada207d4fa40860d9cfb40b&txTime=6A361040
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",17:00 WIB SANDS CHINA LTD Macau Open 2026 (2)
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4248215721428061_AiHD.m3u8?txSecret=e2d099ee51d4edff5c9666c565e348d1&txTime=6A361040
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",19:00 WIB Japan v Czechia | Week 2 | Women's VNL 2026
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",20:00 WIB France v China | Week 2 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=67249cdb130e0a84b380496df8bb5b30&wsABSTime=1781889500
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",19:00 WIB Japan v Czechia | Week 2 | Women's VNL 2026
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",20:30 WIB Bulgaria v Canada | Week 2 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
