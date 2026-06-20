@@ -5,9 +5,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
 
   [SUMBER PENYEDIA: https://bit.ly/KPL203]
     [JADWAL EVENT]
-      - 19:00 WIB Japan v Dominican Republic | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
-      - 19:30 WIB South Korea vs Thailand (Prov-16)  [EPG: KOSONG]
-      - 20:30 WIB Thailand v Canada | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
       - 23:30 WIB Türkiye v Germany | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
 
 ================================================================================
