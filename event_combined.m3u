@@ -1,3 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s",11:00 WIB SANDS CHINA LTD Macau Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239071016481061_AiSD.m3u8?txSecret=12f426c7640c564f94659eea3797f3c9&txTime=6A3745A0
+##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
+#https://shorter.me/aJXUE
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s",13:30 WIB Qatar vs Oman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=4639d4f35899b1fa809e9a023030fccc&wsABSTime=1781980034
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",15:00 WIB USA v Italy | Week 2 | Women's VNL 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=31a8006097cf4ea14aaf3294d899bbd9&wsABSTime=1781980864
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s",16:30 WIB Bahrain vs Chinese Taipei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=097bff7d470d0ba8a253dd8884de082b&wsABSTime=1781981487
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",19:00 WIB Japan v Dominican Republic | Week 2 | Women's VNL 2026
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",20:30 WIB Thailand v Canada | Week 2 | Women's VNL 2026
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s",20:30 WIB Thailand v Canada | Week 2 | Women's VNL 2026
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
