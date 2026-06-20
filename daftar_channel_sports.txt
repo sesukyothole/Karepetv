@@ -606,7 +606,6 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - SPORTSNET (KitKat)
     - Sportsnet Pacific (KitKat)
   [KASTA 24 - SUPERSPORT AFRICA]
-    - GO LIVE FIFA 2026 (KitKat)
     - India Daily Live (KitKat)
     - KBS LIVECAM DOKDO (KitKat)
     - Pilipinas Live 1 (KitKat)
@@ -618,6 +617,7 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - Pilipinas Live 7 (KitKat)
     - Pilipinas Live 8 (KitKat)
     - Pilipinas Live 9 (KitKat)
+    - RTB Go Live FHD (KitKat)
     - ウェザーニュースLiVE (KitKat)
   [KASTA 25 - SONY & STAR SPORTS]
     - ACC Digital Network (KitKat)
