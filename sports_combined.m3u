@@ -3716,7 +3716,10 @@ https://tvratu.my.id/vid/index.mpd?id=19354&type=dash
 #EXTINF:-1 group-logo="https://i.imgur.com/u1ogu0J.png" group-title="SPORTS"
 #EXTINF:-1 tvg-name="Elta Sports" tvg-logo="https://i.imgur.com/cMeeaJe.jpeg" tvg-id="eltasports.tw" group-title="SPORTS",Elta Sports 1 (2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
+#https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
+#https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?0
+http://106.107.177.247:5678/live/stream-14760d6c-b244-42de-8ae4-88233185ada2/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+#https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
 #EXTINF:-1 tvg-name="Elta Sports" tvg-logo="https://i.imgur.com/oxOTDgI.jpeg" tvg-id="eltasports.tw" group-title="SPORTS",Elta Sports 2 (2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://106.107.177.247:5678/live/stream-75ae3a1c-49a7-4972-932b-73ae6b796569/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
@@ -4726,6 +4729,8 @@ http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/135462
 http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/135464
 #EXTINF:-1 tvg-id="" tvg-name="DE: SPORTDIGITAL1+" tvg-logo="https://docdog.top/logo/countries/germany/new/SPORTDIGITAL1_HD.png" group-title="SPORTS",DE: SPORTDIGITAL1+
 http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/135465
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 #EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="SPORTS",ES: (FHD) M+ LALIGA TV 2
 http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/255
 #EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="SPORTS",ES: (FHD) M+ LALIGA TV 3

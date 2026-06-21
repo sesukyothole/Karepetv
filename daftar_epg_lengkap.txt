@@ -5,9 +5,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
 
   [SUMBER PENYEDIA: https://bit.ly/KPL203]
     [JADWAL EVENT]
-      - 19:00 WIB Japan v Italy | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
-      - 19:30 WIB Indonesia vs South Korea (Prov-16)  [EPG: KOSONG]
-      - 20:30 WIB Thailand v Netherlands | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
       - 23:00 WIB Spanyol vs Arab Saudi (Prov-16)  [EPG: KOSONG]
       - 23:30 WIB Türkiye v China | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
 
@@ -3797,6 +3794,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - DE: SPORTDIGITAL FUSSBALL 2 (RaketTV)  [EPG: DE: SPORTDIGITAL FUSSBALL 2]
       - DE: SPORTDIGITAL SCOORE FAST (RaketTV)  [EPG: DE: SPORTDIGITAL SCOORE FAST]
       - DE: SPORTDIGITAL1+ (RaketTV)  [EPG: DE: SPORTDIGITAL1+]
+      - ELTA SPORT 1 (RaketTV)  [EPG: KOSONG]
       - ES:  M+ DEPORTES (RaketTV)  [EPG: IberaliaTV.es]
       - ES:  M+ LALIGA (RaketTV)  [EPG: mlaliga.es]
       - ES:  M+ LALIGA TV 2 (RaketTV)  [EPG: mlaliga2.es]
