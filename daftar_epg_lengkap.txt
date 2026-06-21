@@ -1683,11 +1683,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - w_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png" group-title="TOFFEE",Zee Action (Love4vn-Mac)  [EPG: zee_action]
 
   [SUMBER PENYEDIA: https://fireredst.github.io/Itz-Play/Play.m3u]
-    [KASTA 1 - MOVIES]
-      - HBO (Semar25)  [EPG: HBO.id]
-      - HBO Family (Semar25)  [EPG: HBO.id]
-      - HBO Hits (Semar25)  [EPG: HBO.id]
-      - HBO Signature (Semar25)  [EPG: HBO.id]
     [KASTA 99 - FILM UMUM]
       - Animax (Semar25)  [EPG: Vision.id]
 
