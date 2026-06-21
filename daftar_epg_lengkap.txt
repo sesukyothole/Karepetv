@@ -5,14 +5,11 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
 
   [SUMBER PENYEDIA: https://bit.ly/KPL203]
     [JADWAL EVENT]
-      - 11:00 WIB SANDS CHINA LTD Macau Open 2026 (Prov-16)  [EPG: KOSONG]
-      - 15:00 WIB Czechia v Dominican Republic | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
-      - 16:30 WIB Belgium v France | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
-      - 16:30 WIB Qatar vs Thailand (Prov-16)  [EPG: KOSONG]
-      - 17:00 WIB Canada v Poland | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
       - 19:00 WIB Japan v Italy | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
+      - 19:30 WIB Indonesia vs South Korea (Prov-16)  [EPG: KOSONG]
       - 20:30 WIB Thailand v Netherlands | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
       - 23:00 WIB Spanyol vs Arab Saudi (Prov-16)  [EPG: KOSONG]
+      - 23:30 WIB Türkiye v China | Week 2 | Women's VNL 2026 (Prov-16)  [EPG: KOSONG]
 
 ================================================================================
 
