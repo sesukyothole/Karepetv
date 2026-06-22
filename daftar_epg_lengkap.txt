@@ -2809,7 +2809,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - TSN 5 (Lalajo)  [EPG: TSN5 HD.ca]
     [KASTA 25 - SONY & STAR SPORTS]
       - JOJ SPORT (Lalajo)  [EPG: ]
-      - KazeTV (Lalajo)  [EPG: KOSONG]
       - MOTORVISION+ (Lalajo)  [EPG: Motorvision]
       - TNT-1 (Lalajo)  [EPG: KOSONG]
       - TNT-2 (Lalajo)  [EPG: KOSONG]
