@@ -280,8 +280,6 @@ http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ecc83e1cbb1f4c1bd3343845f55b361:560a022b2d0e0909420fd363101b2e3b
 https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junior_H.mpd
-#EXTINF:-1 group-title="KIDS",Disney Junior
-http://85.14.32.26:8800/udp/239.100.10.192:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Discovery Kids Tamil.png" group-title="KIDS",DISNEY XD
 ##http://185.150.190.199/DISCOVERYKIDS/index.m3u8
 #EXTINF:-1 tvg-id="toonzkids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/poster_20231121_195247.jpg" group-title="KIDS",DISNEY XD
@@ -342,8 +340,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/ind
 http://84.17.50.102/nickelodeon/index.m3u8
 #EXTINF:-1 group-title="KIDS",nickelodeon (4)
 http://198.58.104.90:8989/oxygen/index.m3u8
-#EXTINF:-1 group-title="KIDS",Nickelodeon (5)
-http://170.82.202.31/Nickelodeon/index.m3u8
 #EXTINF:0 group-title="KIDS" tvg-id="3646" tvg-logo="http://epg.one/img2/3646.png" tvg-rec="0",Nickelodeon CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6504/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="KIDS",NICKELODEON 🇹🇭
@@ -385,8 +381,6 @@ http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
-#EXTINF:-1 group-title="KIDS",Cartoon Network (9)
-http://85.14.32.26:8800/udp/239.100.10.33:5000
 #EXTINF:0 group-title="KIDS" tvg-id="3650" tvg-logo="http://epg.one/img2/3650.png" tvg-rec="0",Cartoon Network CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6508/index.m3u8
 #EXTINF:-1 tvg-id="cartoon_network_hd" tvg-name="Cartoon Network HD" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="KIDS",Cartoon Network HD
@@ -441,8 +435,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 group-title="KIDS",CARTOONITO (7)
 http://179.60.51.134:8888/CARTOONITO/index.m3u8
-#EXTINF:-1 group-title="KIDS",Cartoonito (8)
-http://85.14.32.26:8800/udp/239.100.10.27:5000
 #EXTINF:0 tvg-id="Cartoonito.co" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png",Cartoonito LA MPD
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -455,8 +447,6 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #EXTINF:-1 group-title="KIDS",cartoonnetwork
 http://84.17.50.102/cartoonnetwork/index.m3u8
-#EXTINF:-1 group-title="KIDS",CartoonNetwork (2)
-http://170.82.202.31/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="pop" tvg-name="POP" tvg-logo="https://images.pluto.tv/channels/664c94e80120f40008b860f0/colorLogoPNG.png" group-title="KIDS",CN US
 ##https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
 #EXTINF:-1 tvg-id="popup" tvg-name="POP UP" tvg-logo="https://images.pluto.tv/channels/664c953db18d700008fcc158/colorLogoPNG.png" group-title="KIDS",CN US
@@ -467,16 +457,12 @@ http://170.82.202.31/CartoonNetwork/index.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="KIDS",USA_BOOMERANG
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 group-title="KIDS",Baby TV
-http://85.14.32.26:8800/udp/239.100.10.149:5000
 #EXTINF:-1 group-title="KIDS",BABY-TV
 http://179.60.51.134:8888/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="KIDS",MENTARI TV (4)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 http://wakhaji.biz.id/hls/hls-oxygen.php?id=mentaritv
-#EXTINF:-1 group-title="KIDS",SkyDocumentaries
-http://185.246.209.113/SkyDocumentaries/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/638aac7d62c9d_H6H5-480x320.jpg",ASTRO CERIA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=ceria
@@ -508,8 +494,6 @@ https://sm-monirul.top/toffee/play/discovery_kids.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
 #EXTINF:-1 ch-number="204" tvg-id="DISCOVERY KIDS.mx" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="KIDS",Discovery Kids (México)
 https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
-#EXTINF:-1 group-title="KIDS",DiscoveryKids
-http://170.82.202.31/DiscoveryKids/index.m3u8
 #https://gooo.blog/opix/genx.m3u8?id=mentaritv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
@@ -527,8 +511,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 http://wakhaji.biz.id/hls/hls-oxygen.php?id=ebskids
-#EXTINF:-1 group-title="KIDS",EKids
-http://85.14.32.26:8800/udp/239.100.10.44:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",Japanim TV (1080p)
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="JimJamRSEE" tvg-name="JimJam RSEE" tvg-logo="" group-title="KIDS",JimJam RSEE
@@ -597,10 +579,6 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 http://wakhaji.biz.id/hls/hls-oxygen.php?id=spacetoon
-#EXTINF:-1 group-title="KIDS",Super Toons
-http://85.14.32.26:8800/udp/239.100.10.187:5000
-#EXTINF:-1 group-title="KIDS",Super Toons HD
-http://85.14.32.26:8800/udp/239.100.10.188:5000
 #EXTINF:0 group-title="KIDS" tvg-id="3598" tvg-logo="http://epg.one/img2/3598.png" tvg-rec="0",Teletoon HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6455/index.m3u8
 #EXTINF:-1 group-title="KIDS",Teletoon+ HD
