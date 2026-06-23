@@ -3746,7 +3746,7 @@ http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256630
 http://lordstreams.live:80/9857855271/8369553594/661361
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="raisport+.ch" tvg-name="|IT| RAI SPORT+ ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/RAISPORT.png" group-title="SPORTS",|IT| RAI SPORT+ ᵁᴴᴰ
 http://lordstreams.live:80/9857855271/8369553594/661360
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="SPORTS",BeiN AR Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="SPORTS",BeiN AR Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="SPORTS",BeiN AR Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar2.m3u8
@@ -3756,7 +3756,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax5.png" group-title="SPORTS",BeiN AR Sports 5
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="SPORTS",BeiN FR Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="SPORTS",BeiN FR Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="SPORTS",BeiN FR Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr2.m3u8
@@ -3768,7 +3768,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19064/ind
 https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8?channel_name=Bein%20Xtra&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 tvg-name="beIN Sports Xtra en Espanol" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/48dc586f-e4c2-49c4-9cee-f1ebc1773aae" group-title="SPORTS",beIN Sports Xtra en Espanol
 https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8?channel_name=Bein%20Xtra%20Espanol&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&language=es&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="SPORTS",BeiN TH Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="SPORTS",BeiN TH Sports
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinth1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZ0scL2nd3DaJPLxQ2bu9djUZvayLEZ58x5bWLzdGdtIDDx_oX46MGuRq&s=10" group-title="SPORTS",SCTV 22 - SSPORT 1 🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -3777,12 +3777,42 @@ https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9269" tvg-logo="http://epg.one/img/9269.png" tvg-rec="0",Arena Esport HD RS
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/31597/index.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9270" tvg-logo="http://epg.one/img/9270.png" tvg-rec="0",Arena Fight HD RS
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/31598/index.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9271" tvg-logo="http://epg.one/img/9271.png" tvg-rec="0",Arena Premium 1 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium1.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9272" tvg-logo="http://epg.one/img/9272.png" tvg-rec="0",Arena Premium 2 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium2.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9273" tvg-logo="http://epg.one/img/9273.png" tvg-rec="0",Arena Premium 3 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXhD0QFdXeK-wdOpU23RJEq3G7XHSHBEdvz4MwEHw9IfS8LH9Ryyl2TdP&s=10" group-title="SPORTS",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9274" tvg-logo="http://epg.one/img/9274.png" tvg-rec="0",Arena Sport 1 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport1.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9283" tvg-logo="http://epg.one/img/9283.png" tvg-rec="0",Arena Sport 10 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport10.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXhD0QFdXeK-wdOpU23RJEq3G7XHSHBEdvz4MwEHw9IfS8LH9Ryyl2TdP&s=10" group-title="SPORTS",Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
+#EXTINF:0 group-title="SPORTS" tvg-id="4564" tvg-logo="http://epg.one/img/4564.png" tvg-rec="0",Arena Sport 2 FHD HR (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport2.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9275" tvg-logo="http://epg.one/img/9275.png" tvg-rec="0",Arena Sport 3 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport3.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9277" tvg-logo="http://epg.one/img/9277.png" tvg-rec="0",Arena Sport 4 HD RS (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport4.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9278" tvg-logo="http://epg.one/img/9278.png" tvg-rec="0",Arena Sport 5 HD RS (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport5.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9279" tvg-logo="http://epg.one/img/9279.png" tvg-rec="0",Arena Sport 6 HD RS (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport6.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9280" tvg-logo="http://epg.one/img/9280.png" tvg-rec="0",Arena Sport 7 HD RS (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport7.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9281" tvg-logo="http://epg.one/img/9281.png" tvg-rec="0",Arena Sport 8 HD RS (2)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport8.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-id="9282" tvg-logo="http://epg.one/img/9282.png" tvg-rec="0",Arena Sport 9 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport9.m3u8
 #EXTINF:0 group-title="SPORTS" tvg-id="6556" tvg-logo="http://epg.one/img2/6556.png" tvg-rec="0",Sky Sport Arena HD IT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19128/index.m3u8
 #EXTINF:0 group-title="SPORTS" tvg-id="6555" tvg-logo="http://epg.one/img2/6555.png" tvg-rec="0",Sky Sport 24 HD IT

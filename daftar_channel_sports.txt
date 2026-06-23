@@ -1447,12 +1447,12 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
 
 === SUMBER: https://raw.githubusercontent.com/jrpahe-del/IPTV/refs/heads/main/RafaDervian.m3u ===
   [KASTA 1 - BEIN]
-    - BeiN AR Sports (KitKat)
+    - BeiN AR Sports 1 (KitKat)
     - BeiN AR Sports 2 (KitKat)
     - BeiN AR Sports 3 (KitKat)
     - BeiN AR Sports 4 (KitKat)
     - BeiN AR Sports 5 (KitKat)
-    - BeiN FR Sports (KitKat)
+    - BeiN FR Sports 1 (KitKat)
     - BeiN FR Sports 2 (KitKat)
     - BeiN FR Sports 3 (KitKat)
     - BeiN TH Sports (KitKat)
@@ -1463,8 +1463,23 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - SCTV 22 - SSPORT 1 🇻🇳 (KitKat)
     - TVRI Sport (KitKat)
   [KASTA 9 - ARENA SPORT]
+    - Arena Esport HD RS (KitKat)
+    - Arena Fight HD RS (KitKat)
+    - Arena Premium 1 HD RS (KitKat)
+    - Arena Premium 2 HD RS (KitKat)
+    - Arena Premium 3 HD RS (KitKat)
     - Arena Sport 1 (KitKat)
+    - Arena Sport 1 HD RS (KitKat)
+    - Arena Sport 10 HD RS (KitKat)
     - Arena Sport 2 (KitKat)
+    - Arena Sport 2 FHD HR (KitKat)
+    - Arena Sport 3 HD RS (KitKat)
+    - Arena Sport 4 HD RS (KitKat)
+    - Arena Sport 5 HD RS (KitKat)
+    - Arena Sport 6 HD RS (KitKat)
+    - Arena Sport 7 HD RS (KitKat)
+    - Arena Sport 8 HD RS (KitKat)
+    - Arena Sport 9 HD RS (KitKat)
     - Sky Sport Arena HD IT (KitKat)
   [KASTA 10 - SKY SPORTS]
     - Sky Sport 24 HD IT (KitKat)
