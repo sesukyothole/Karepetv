@@ -28,7 +28,7 @@ MASTER_URLS = [
     "",
     "https://bwtv.my.id/bonne.m3u",
     "http://sauridigital.my.id/kerbaunakal/2026TVGNS29.html",
-    "https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/refs/heads/main/Shareext@playlist",
+    "https://raw.githubusercontent.com/shareext-rebornt/Shareext-UpdateFilesSports.m3u/refs/heads/main/Shareext@playlist",
     "",
     "https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/refs/heads/main/rakettv.m3u8",
     "https://bit.ly/KPL203"
