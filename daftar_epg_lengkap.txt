@@ -6,8 +6,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
   [SUMBER PENYEDIA: https://bit.ly/KPL203]
     [JADWAL EVENT]
       - 00:00 WIB Portugal vs Uzbekistan (Prov-16)  [EPG: KOSONG]
-      - 13:30 WIB New Zealand vs Australia (Prov-16)  [EPG: KOSONG]
-      - 16:30 WIB Chinese Taipei vs Kazakhstan (Prov-16)  [EPG: KOSONG]
+      - 22:30 WIB India vs Bahrain (Prov-16)  [EPG: KOSONG]
 
 ================================================================================
 
@@ -64,6 +63,7 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - RTV (Qtrung)  [EPG: KOSONG]
       - RTV (Qtrung)  [EPG: Rajawali TV]
       - RTV Vida (Qtrung)  [EPG: KOSONG]
+      - RTVS (Qtrung)  [EPG: KOSONG]
     [KASTA 13 - PRIORITAS UTAMA]
       - NET TV/MDTV (Qtrung)  [EPG: KOSONG]
     [KASTA 14 - PRIORITAS UTAMA]
@@ -2167,7 +2167,6 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - Soccer Channel V+ (Qtrung)  [EPG: KOSONG]
     [KASTA 6 - LOKAL SPORTS]
       - LOCAL-TVRI-SPORT (Qtrung)  [EPG: KOSONG]
-      - RTVS SPORT ð¸ð° (Qtrung)  [EPG: ]
       - SCTV 22 SPORT 1 (Qtrung)  [EPG: KOSONG]
       - SPORTV 1 (Qtrung)  [EPG: KOSONG]
       - SPORTV 2 (Qtrung)  [EPG: KOSONG]

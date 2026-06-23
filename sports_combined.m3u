@@ -573,14 +573,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",LOCAL-TVRI-SPORT(play)
 http://103.148.44.38:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/rtvssport.jpg" group-title="SPORTS",RTVS SPORT ð¸ð°
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sgwvsyWv/ezgif-635a03455d2a6ae5.png",SCTV 22 SPORT 1
 https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="SPORTS",SPORTV 1 (BR)

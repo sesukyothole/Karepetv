@@ -154,6 +154,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://tvratu.my.id/vid/index.m3u8?id=1561&type=hls
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/EqUfEAh.png",RTV Vida (1080p)
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 data-source="Manual" group-title="INDONESIA" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="0062a26aaaf9a36db2b03eb2ad05d29f",RTVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-l-WAocXJyRn7Qb8r4y60xKn9X3U_zVht9q2GfzC9cZEMHD8fNtrqgJseoN6ytMf8Xx-qRGUajO2BLFM01F3_dJ8QH3g-5WjResINheSZsPC4t0HY1m0jo43DPclS6hObz33u9ZgerwzUbkfv8SQYXOZcVrAh-pYaebWeLrMWBzUaVFRUPQtHALGma3M/s720/teveMobile.png" group-title="INDONESIA" ,NET TV/MDTV
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
