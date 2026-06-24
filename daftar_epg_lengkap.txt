@@ -5,12 +5,9 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
 
   [SUMBER PENYEDIA: https://bit.ly/KPL203]
     [JADWAL EVENT]
-      - 01:00 WIB Poland v Belgium | Week 2 | Men's VNL 2026 (Prov-16)  [EPG: KOSONG]
-      - 01:30 WIB France v Iran | Week 2 | Men's VNL 2026 (Prov-16)  [EPG: KOSONG]
-      - 01:30 WIB Slovenia v Canada | Week 2 | Men's VNL 2026 (Prov-16)  [EPG: KOSONG]
-      - 02:00 WIB Bosnia Herzegovina vs Qatar (Prov-16)  [EPG: KOSONG]
-      - 02:00 WIB Swiss vs Kanada (Prov-16)  [EPG: KOSONG]
       - 05:00 WIB Maroko vs Haiti (Prov-16)  [EPG: KOSONG]
+      - 05:00 WIB Skotlandia vs Brasil (Prov-16)  [EPG: KOSONG]
+      - 08:00 WIB Afrika Selatan vs Republik Korea (Prov-16)  [EPG: KOSONG]
 
 ================================================================================
 
