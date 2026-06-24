@@ -2187,6 +2187,9 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - LIVE BADMINTON - Bone TV (Prov-15)
 
 === SUMBER: https://bit.ly/KPL203 ===
+  [KASTA 1 - BEIN]
+    - BeIN Sports AU 1 (Prov-16)
+    - BeIN Sports AU 2 (Prov-16)
   [KASTA 5 - SOCCER CHANNEL]
     - Soccer Channel 1 (Prov-16)
   [KASTA 16 - PRIMA]

@@ -5,8 +5,12 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
 
   [SUMBER PENYEDIA: https://bit.ly/KPL203]
     [JADWAL EVENT]
-      - 00:00 WIB Portugal vs Uzbekistan (Prov-16)  [EPG: KOSONG]
-      - 22:30 WIB India vs Bahrain (Prov-16)  [EPG: KOSONG]
+      - 02:00 WIB Swiss vs Kanada (Prov-16)  [EPG: KOSONG]
+      - 18:00 WIB Bulgaria v Italy | Week 2 | Men's VNL 2026 (Prov-16)  [EPG: KOSONG]
+      - 18:00 WIB China v Türkiye | Week 2 | Men's VNL 2026 (Prov-16)  [EPG: KOSONG]
+      - 18:30 WIB Serbia v Japan | Week 2 | Men's VNL 2026 (Prov-16)  [EPG: KOSONG]
+      - 21:30 WIB Argentina v Germany | Week 2 | Men's VNL 2026 (Prov-16)  [EPG: KOSONG]
+      - 21:30 WIB Ukraine v Brazil | Week 2 | Men's VNL 2026 (Prov-16)  [EPG: KOSONG]
 
 ================================================================================
 
@@ -4232,6 +4236,9 @@ DAFTAR LENGKAP CHANNEL SEMUA KATEGORI BESERTA ID EPG (DIURUTKAN PER PENYEDIA)
       - LIVE BADMINTON - Bone TV (Prov-15)  [EPG: Badminton.Live]
 
   [SUMBER PENYEDIA: https://bit.ly/KPL203]
+    [KASTA 1 - BEIN]
+      - BeIN Sports AU 1 (Prov-16)  [EPG: bein1uk]
+      - BeIN Sports AU 2 (Prov-16)  [EPG: bein2uk]
     [KASTA 5 - SOCCER CHANNEL]
       - Soccer Channel 1 (Prov-16)  [EPG: KOSONG]
     [KASTA 16 - PRIMA]
