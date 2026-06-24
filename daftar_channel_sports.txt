@@ -1528,9 +1528,9 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - SPORTSNET (KitKat)
     - Sportsnet Pacific (KitKat)
   [KASTA 24 - SUPERSPORT AFRICA]
+    - GO LIVE FIFA 2026 (KitKat)
     - India Daily Live (KitKat)
     - KBS LIVECAM DOKDO (KitKat)
-    - RTB Go Live FHD (KitKat)
     - ウェザーニュースLiVE (KitKat)
   [KASTA 25 - SONY & STAR SPORTS]
     - ACC Digital Network (KitKat)
@@ -1610,7 +1610,6 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - TRACE Sport Stars (KitKat)
     - TRT Sports (KitKat)
     - TVP Sport (KitKat)
-    - TVP Sport HD PL (KitKat)
     - TYC Sports (KitKat)
     - Tennis TV (KitKat)
     - The Boat Show (KitKat)
