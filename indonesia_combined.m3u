@@ -697,6 +697,12 @@ http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/CMGv5BCF/trans-tv-id.png",TRANS TV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA",TRANS7 (3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://119.82.250.109:8080/nl.m3u8?id=1002
+#EXTINF:-1 group-title="INDONESIA",TRANSTV (2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://119.82.250.109:8080/nl.m3u8?id=1145
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
@@ -735,6 +741,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/WbQ67s7p/metro-tv-id.png",METRO TV (5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-METROTV/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA",METRO TV (6)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://119.82.250.109:8080/nl.m3u8?id=1048
 #EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png" group-title="INDONESIA",Fuji TV One
 http://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/gjys36Lh/ezgif-7ae685bdab8a1811.png",TV ONE
@@ -761,6 +770,12 @@ http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg" group-title="INDONESIA",INEWS (3)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+#EXTINF:-1 group-title="INDONESIA",BRTV (2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://119.82.250.109:8080/nl.m3u8?id=1033
+#EXTINF:-1 group-title="INDONESIA",BRTV (3)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://119.82.250.109:8080/nl.m3u8?id=1121
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/rtv.jpg" group-title="INDONESIA",RTV (6)
@@ -768,6 +783,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/MKdJcr01/rajawali-tv-id.png",RTV (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-RAJAWALITV/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA",RTV (8)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://119.82.250.109:8080/nl.m3u8?id=1148
 #EXTINF:-1 tvg-id="SEA.Today.id" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="INDONESIA",BTV (4)
 #https://mimipipi22.github.io/logo/offline.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -784,6 +802,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/Fs1ScsDZ/ezgif-1-78f6f17e1e.png",BTV (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-BERITASATU/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA",BTV (8)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://119.82.250.109:8080/nl.m3u8?id=1161
+#EXTINF:-1 group-title="INDONESIA",BTV NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://119.82.250.109:8080/nl.m3u8?id=1171
 #EXTINF:-1 tvg-id="JakTV.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="INDONESIA",Jak TV (3)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -1122,7 +1146,7 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=5409&type=dash
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=4
 https://ayo.maling.pl/Vision/index.mpd?id=4
-#EXTINF:-1 tvg-name="RTV " tvg-logo="https://i.imgur.com/z0R0eFH.jpeg" tvg-id="RTV Nasional.id" group-title="INDONESIA",RTV (8)
+#EXTINF:-1 tvg-name="RTV " tvg-logo="https://i.imgur.com/z0R0eFH.jpeg" tvg-id="RTV Nasional.id" group-title="INDONESIA",RTV (9)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mP5cPyn.jpeg" group-title="INDONESIA",RTV (Vidio)
@@ -1131,7 +1155,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.imgur.com/i3RscQh.jpeg" tvg-id="BTV Nasional.id" group-title="INDONESIA",BTV (8)
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.imgur.com/i3RscQh.jpeg" tvg-id="BTV Nasional.id" group-title="INDONESIA",BTV (9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://i.imgur.com/4qyrsun.jpeg" tvg-id=" antv.id" group-title="INDONESIA",ANTV (5)
@@ -1226,7 +1250,7 @@ http://tvratu.my.id/oxygen/index.m3u8?id=vtv
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png",Metro TV (6)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png",Metro TV (7)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
@@ -1276,7 +1300,7 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 https://flv.intechmedia.net/live/ch52.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&s" group-title="INDONESIA",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/01YAHgw.png" group-title="INDONESIA",MAGNA TV (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01YAHgw.png" group-title="INDONESIA",MAGNA TV (3)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
