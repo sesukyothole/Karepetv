@@ -1630,12 +1630,6 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
 === SUMBER: https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KITKATJOSS ===
   [KASTA 6 - LOKAL SPORTS]
     - TVRI Sports (Lalajo)
-  [KASTA 23 - TSN CANADA & SPORTSNET]
-    - TSN 1 (Lalajo)
-    - TSN 2 (Lalajo)
-    - TSN 3 (Lalajo)
-    - TSN 4 (Lalajo)
-    - TSN 5 (Lalajo)
   [KASTA 25 - SONY & STAR SPORTS]
     - MOTORVISION+ (Lalajo)
     - TNT-1 (Lalajo)
@@ -1843,6 +1837,11 @@ DAFTAR NAMA CHANNEL KHUSUS KATEGORI SPORTS
     - Sportsnet Ontario HD CA (Love4vn-Mac)
     - Sportsnet Pacific HD CA (Love4vn-Mac)
     - Sportsnet West HD CA (Love4vn-Mac)
+    - TSN 1 🇨🇦 (Love4vn-Mac)
+    - TSN 2 🇨🇦 (Love4vn-Mac)
+    - TSN 3 🇨🇦 (Love4vn-Mac)
+    - TSN 4 🇨🇦 (Love4vn-Mac)
+    - TSN 5 🇨🇦 (Love4vn-Mac)
   [KASTA 24 - SUPERSPORT AFRICA]
     - CANAL+ LIVE 1 ʰᵈ (Love4vn-Mac)
     - CANAL+ LIVE 10 ᶠʰᵈ (Love4vn-Mac)
